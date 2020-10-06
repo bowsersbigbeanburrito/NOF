@@ -1,0 +1,21 @@
+{
+    "testmap1.sou,v": {
+        "modified": "2003-10-10 22:55:24",
+        "size": "43.79KB",
+        "md5": "0f73afb7b999ec2e4a57b71462ab588d",
+        "sha256": "3099364c28caa9042f7af3834a16ccecf7580654e5d8d030da48cf15c6e31aec"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'testmap1.sou,v'"
+    }
+}

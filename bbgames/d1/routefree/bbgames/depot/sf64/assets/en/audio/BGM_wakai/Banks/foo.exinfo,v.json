@@ -1,0 +1,20 @@
+{
+    "foo.exinfo,v": {
+        "modified": "2003-11-13 14:58:09",
+        "size": "2.34KB",
+        "md5": "0f7d75c45e5da045286c63a4fa368a6f",
+        "sha256": "82a5053b8f01b173781f667820117524c177fdb5a6225f6a753f8a555e0f3de6"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'foo.exinfo,v'"
+    }
+}

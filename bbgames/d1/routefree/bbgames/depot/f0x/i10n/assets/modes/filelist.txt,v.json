@@ -1,0 +1,21 @@
+{
+    "filelist.txt,v": {
+        "modified": "2003-03-17 17:13:42",
+        "size": "1.2KB",
+        "md5": "be158342e300bc89e5d01bbb0bcbbe5b",
+        "sha256": "d372dee7163d232578ec1ae42ea2f075210167f59192874498a9724546d78411"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'filelist.txt,v'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "test.flk,v": {
+        "modified": "2003-10-10 22:55:15",
+        "size": "16.87KB",
+        "md5": "6370cbef39ddc8c533017cd7662b57fe",
+        "sha256": "1278e49ed29f493db35ed2fabfa78b7b8344d8d64d42ff3bbd71f1e90ecfa309"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'test.flk,v'"
+    }
+}

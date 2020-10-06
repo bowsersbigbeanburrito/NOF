@@ -1,0 +1,21 @@
+{
+    "dummy.flk,v": {
+        "modified": "2003-10-10 22:55:25",
+        "size": "16.65KB",
+        "md5": "c9e49d6c7c58dbe1871a8ff081d697aa",
+        "sha256": "dcc66cef695015ffe8c19524b76f8198c9098173e068009383920eddc4571326"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'dummy.flk,v'"
+    }
+}

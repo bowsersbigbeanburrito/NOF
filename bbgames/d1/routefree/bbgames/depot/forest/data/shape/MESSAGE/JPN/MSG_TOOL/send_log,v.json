@@ -1,0 +1,21 @@
+{
+    "send_log,v": {
+        "modified": "2003-03-18 23:40:42",
+        "size": "53.01KB",
+        "md5": "1dc6283ede3c762d02f914b3310eb495",
+        "sha256": "b5044070050d2ff8641c6acb7ac643419dae84ca313d94669e7d50ac0ab1e404"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "tab",
+        "resourceName": "b'send_log,v'"
+    }
+}
