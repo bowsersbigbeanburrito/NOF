@@ -1,0 +1,160 @@
+{
+    "m0.lzp": {
+        "modified": "2005-08-26 01:47:49",
+        "size": "6763.91KB",
+        "md5": "af9f0d5e41cbdefd291a6af2266f8ed2",
+        "sha256": "0bbceb6c71d8641cafbb08a5a29b6547f0d3015b5b257abb16fa4207270721b4"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-sharedlib",
+            "application/octet-stream",
+            "application/x-sharedlib",
+            "application/octet-stream",
+            "text/plain; charset=ISO-8859-1",
+            "application/x-sharedlib"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "8",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'm0.lzp'",
+            "vmc_arm926ejsr0p5/vmc_arm926ejsr0p501000/solaris/modelobj.so",
+            "vmc_arm926ejsr0p5/vmc_arm926ejsr0p501000/hp700/modelobj.sl",
+            "vmc_arm926ejsr0p5/vmc_arm926ejsr0p501000/x86_linux/modelobj.so",
+            "vmc_arm926ejsr0p5/vmc_arm926ejsr0p501000.mmt",
+            "vmc_arm926ejsr0p5/x86_linux/vmc_arm926ejsr0p501000.mdl",
+            "vmc_arm926ejsr0p5/x86_linux/vmc_arm926ejsr0p501000.so"
+        ],
+        "Content-Length": [
+            "6546228",
+            "9531392",
+            "4998964",
+            "424",
+            "986",
+            "82544"
+        ],
+        "Last-Modified": [
+            "2003-10-16T16:58:42Z",
+            "2003-10-16T17:15:08Z",
+            "2003-10-16T17:17:22Z",
+            "2003-10-16T17:15:40Z",
+            "2003-10-16T17:15:40Z",
+            "2003-10-16T17:17:22Z"
+        ],
+        "Last-Save-Date": [
+            "2003-10-16T16:58:42Z",
+            "2003-10-16T17:15:08Z",
+            "2003-10-16T17:17:22Z",
+            "2003-10-16T17:15:40Z",
+            "2003-10-16T17:15:40Z",
+            "2003-10-16T17:17:22Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/modelobj.so",
+            "/modelobj.sl",
+            "/modelobj.so",
+            "/vmc_arm926ejsr0p501000.mmt",
+            "/vmc_arm926ejsr0p501000.mdl",
+            "/vmc_arm926ejsr0p501000.so"
+        ],
+        "date": [
+            "2003-10-16T16:58:42Z",
+            "2003-10-16T17:15:08Z",
+            "2003-10-16T17:17:22Z",
+            "2003-10-16T17:15:40Z",
+            "2003-10-16T17:15:40Z",
+            "2003-10-16T17:17:22Z"
+        ],
+        "dcterms:modified": [
+            "2003-10-16T16:58:42Z",
+            "2003-10-16T17:15:08Z",
+            "2003-10-16T17:17:22Z",
+            "2003-10-16T17:15:40Z",
+            "2003-10-16T17:15:40Z",
+            "2003-10-16T17:17:22Z"
+        ],
+        "embeddedRelationshipId": [
+            "vmc_arm926ejsr0p5/vmc_arm926ejsr0p501000/solaris/modelobj.so",
+            "vmc_arm926ejsr0p5/vmc_arm926ejsr0p501000/hp700/modelobj.sl",
+            "vmc_arm926ejsr0p5/vmc_arm926ejsr0p501000/x86_linux/modelobj.so",
+            "vmc_arm926ejsr0p5/vmc_arm926ejsr0p501000.mmt",
+            "vmc_arm926ejsr0p5/x86_linux/vmc_arm926ejsr0p501000.mdl",
+            "vmc_arm926ejsr0p5/x86_linux/vmc_arm926ejsr0p501000.so"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "SPARC",
+            "x86-32",
+            "x86-32"
+        ],
+        "meta:save-date": [
+            "2003-10-16T16:58:42Z",
+            "2003-10-16T17:15:08Z",
+            "2003-10-16T17:17:22Z",
+            "2003-10-16T17:15:40Z",
+            "2003-10-16T17:15:40Z",
+            "2003-10-16T17:17:22Z"
+        ],
+        "modified": [
+            "2003-10-16T16:58:42Z",
+            "2003-10-16T17:15:08Z",
+            "2003-10-16T17:17:22Z",
+            "2003-10-16T17:15:40Z",
+            "2003-10-16T17:15:40Z",
+            "2003-10-16T17:17:22Z"
+        ],
+        "Content-Encoding": "ISO-8859-1"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "iodi_stats.log.gz": {
+        "modified": "2005-07-19 23:50:46",
+        "size": "0.14KB",
+        "md5": "20f7c28906d889b818bbc0f681c450aa",
+        "sha256": "7c25be4c52d8384d405c485975501da6779a3883e1b6257e87b9008a21f1d69b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'iodi_stats.log.gz'",
+            "b'iodi_stats.log.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'iodi_stats.log.gz'"
+    }
+}

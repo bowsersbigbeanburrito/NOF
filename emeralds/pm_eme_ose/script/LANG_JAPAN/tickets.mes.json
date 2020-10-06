@@ -1,0 +1,21 @@
+{
+    "tickets.mes": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "7.12KB",
+        "md5": "f12b26f8d19cdbf1a248d902f711e4ca",
+        "sha256": "80f8c475c7d0f492c64fe183f752d30f9a9e86367487cbade29fa62b1539ff59"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tickets.mes'"
+    }
+}

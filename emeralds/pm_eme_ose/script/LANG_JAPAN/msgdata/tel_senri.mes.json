@@ -1,0 +1,21 @@
+{
+    "tel_senri.mes": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "5.56KB",
+        "md5": "64bb1dba4706e9e5bcca5e3a6344c63c",
+        "sha256": "3f94faa5a2da74eb1798ac8b77f613f9edfbcfb2d3a48b2bae4e086de380e3c8"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "4",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tel_senri.mes'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op_kiog.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "15.15KB",
+        "md5": "12ca368312a19d260e2e3b2cdedd9f47",
+        "sha256": "de725bc39a47b38f2ce695ffc3a810d896cb50a7264d9b22f1674888154ab366"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_kiog.ach'"
+    }
+}

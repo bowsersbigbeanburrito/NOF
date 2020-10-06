@@ -1,0 +1,21 @@
+{
+    "op_deo.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "7.65KB",
+        "md5": "e8232fe0f8cb9bce89be2325b6835df0",
+        "sha256": "8af80740dedac1406222167f7f6653123287a15c843934b21b322dbf4122cbbf"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_deo.ach'"
+    }
+}

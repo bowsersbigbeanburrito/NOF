@@ -1,0 +1,21 @@
+{
+    "rfu_wv.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "21.53KB",
+        "md5": "674bc8ee07226775a2d2bd3c389a3667",
+        "sha256": "61cbdad2f98ac3aad2404eeb3677fa01885b51059ca260c48eb93506d56780e8"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'rfu_wv.dat'"
+    }
+}

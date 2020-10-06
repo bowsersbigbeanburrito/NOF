@@ -1,0 +1,21 @@
+{
+    "german_disuse.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "13.28KB",
+        "md5": "fc4c42b194d3a68f65d97a852ae3ebaf",
+        "sha256": "2045ceef4d7bd655bc051dde1033f3456186a7332f591c410596c9e8d1e1f22d"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'german_disuse.txt'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "skip_cur.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "7.59KB",
+        "md5": "5252bd6acb0539a32a2990f08d40b08c",
+        "sha256": "56bc98ea2d305e9d8b9411cc4c8db7b1ec4835dec64beafba97c8361e3365208"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'skip_cur.dat'"
+    }
+}

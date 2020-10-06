@@ -1,0 +1,21 @@
+{
+    "tel_normal_01.mes": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "10.59KB",
+        "md5": "b5fa0caec390839c9bd3633341cc1dd4",
+        "sha256": "5c2ea8e71ed1f8ea8665f20da35fe1129646f2aae3d112875a6ff10ead368595"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tel_normal_01.mes'"
+    }
+}

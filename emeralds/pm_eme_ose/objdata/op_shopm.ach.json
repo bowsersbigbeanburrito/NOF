@@ -1,0 +1,21 @@
+{
+    "op_shopm.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "16.96KB",
+        "md5": "c1feee0615e7bbdc7735b58640099554",
+        "sha256": "d196121b8d2ffb24bfc6ea29f92fcbfa2c110c6721a2b9baf6d0f41948d61caf"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_shopm.ach'"
+    }
+}

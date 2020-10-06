@@ -1,0 +1,24 @@
+{
+    "pv195.aif": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "13.0KB",
+        "md5": "0206b3ba0b8a971898fea02f309227a7",
+        "sha256": "f149a853ae7aa567968a5b2383abb6c7ab4204c28968eb06a58ec69c78c42b07"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'pv195.aif'",
+        "samplerate": "10512.0",
+        "xmpDM:audioSampleRate": "10512",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

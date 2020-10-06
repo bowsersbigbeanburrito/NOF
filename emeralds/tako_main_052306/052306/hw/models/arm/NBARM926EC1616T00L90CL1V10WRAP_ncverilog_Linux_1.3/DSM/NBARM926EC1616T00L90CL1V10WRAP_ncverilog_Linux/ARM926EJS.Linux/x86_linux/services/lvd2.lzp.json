@@ -1,0 +1,362 @@
+{
+    "lvd2.lzp": {
+        "modified": "2005-08-26 01:48:05",
+        "size": "218.98KB",
+        "md5": "db6ffd00cbb1554b2b3ccacb493d28c7",
+        "sha256": "617b54c7f8bbfe9b7c2b356748048b4d9a73321288f69c4432bf0c0dda42c946"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/x-perl; charset=ISO-8859-1",
+            "text/x-perl; charset=ISO-8859-1",
+            "text/x-perl; charset=ISO-8859-1",
+            "text/x-perl; charset=ISO-8859-1",
+            "text/x-perl; charset=ISO-8859-1",
+            "text/x-perl; charset=ISO-8859-1",
+            "text/x-perl; charset=ISO-8859-1",
+            "text/x-perl; charset=ISO-8859-1",
+            "text/x-perl; charset=ISO-8859-1",
+            "text/x-perl; charset=ISO-8859-1",
+            "text/x-perl; charset=ISO-8859-1",
+            "application/x-sharedlib",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "10",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'lvd2.lzp'",
+            "bin/../lib/bin/toolwrap.csh",
+            "data/x86_linuxswift01052.lvd",
+            "lib/bin/compile_timing01010.pl",
+            "lib/bin/crcmdl01016.pl",
+            "lib/bin/findlmc01008.pl",
+            "lib/bin/findmdl01008.pl",
+            "lib/bin/grepmdl01009.pl",
+            "lib/bin/libmdl01003.pl",
+            "lib/bin/listver01009.pl",
+            "lib/bin/modeldiff01009.pl",
+            "lib/bin/ptm_make01012.pl",
+            "lib/bin/sl_copy01006.pl",
+            "lib/bin/swiftcheck01008.pl",
+            "lib/x86_linux.lib/libswift03051.so",
+            "lib/x86_linux.lib/ptm_make10017",
+            "lib/x86_linux.lib/swiftcheck10027"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "7316",
+            "2601",
+            "11879",
+            "32573",
+            "1212",
+            "2075",
+            "3003",
+            "29827",
+            "1510",
+            "10165",
+            "3792",
+            "5979",
+            "3503",
+            "515802",
+            "25437",
+            "40775"
+        ],
+        "Last-Modified": [
+            "2002-08-01T17:48:34Z",
+            "2003-03-13T18:28:38Z",
+            "2002-05-29T17:47:52Z",
+            "2003-03-13T18:25:52Z",
+            "2001-11-19T19:53:16Z",
+            "2002-01-16T17:19:36Z",
+            "2001-11-19T19:56:18Z",
+            "2002-08-01T17:46:20Z",
+            "2001-11-19T19:54:18Z",
+            "2002-01-19T02:14:40Z",
+            "2002-04-17T14:36:16Z",
+            "2001-11-19T19:58:18Z",
+            "2002-04-17T14:36:16Z",
+            "2002-10-21T15:19:20Z",
+            "2002-04-16T22:10:48Z",
+            "2002-04-14T13:17:50Z"
+        ],
+        "Last-Save-Date": [
+            "2002-08-01T17:48:34Z",
+            "2003-03-13T18:28:38Z",
+            "2002-05-29T17:47:52Z",
+            "2003-03-13T18:25:52Z",
+            "2001-11-19T19:53:16Z",
+            "2002-01-16T17:19:36Z",
+            "2001-11-19T19:56:18Z",
+            "2002-08-01T17:46:20Z",
+            "2001-11-19T19:54:18Z",
+            "2002-01-19T02:14:40Z",
+            "2002-04-17T14:36:16Z",
+            "2001-11-19T19:58:18Z",
+            "2002-04-17T14:36:16Z",
+            "2002-10-21T15:19:20Z",
+            "2002-04-16T22:10:48Z",
+            "2002-04-14T13:17:50Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/toolwrap.csh",
+            "/x86_linuxswift01052.lvd",
+            "/compile_timing01010.pl",
+            "/crcmdl01016.pl",
+            "/findlmc01008.pl",
+            "/findmdl01008.pl",
+            "/grepmdl01009.pl",
+            "/libmdl01003.pl",
+            "/listver01009.pl",
+            "/modeldiff01009.pl",
+            "/ptm_make01012.pl",
+            "/sl_copy01006.pl",
+            "/swiftcheck01008.pl",
+            "/libswift03051.so",
+            "/ptm_make10017",
+            "/swiftcheck10027"
+        ],
+        "date": [
+            "2002-08-01T17:48:34Z",
+            "2003-03-13T18:28:38Z",
+            "2002-05-29T17:47:52Z",
+            "2003-03-13T18:25:52Z",
+            "2001-11-19T19:53:16Z",
+            "2002-01-16T17:19:36Z",
+            "2001-11-19T19:56:18Z",
+            "2002-08-01T17:46:20Z",
+            "2001-11-19T19:54:18Z",
+            "2002-01-19T02:14:40Z",
+            "2002-04-17T14:36:16Z",
+            "2001-11-19T19:58:18Z",
+            "2002-04-17T14:36:16Z",
+            "2002-10-21T15:19:20Z",
+            "2002-04-16T22:10:48Z",
+            "2002-04-14T13:17:50Z"
+        ],
+        "dcterms:modified": [
+            "2002-08-01T17:48:34Z",
+            "2003-03-13T18:28:38Z",
+            "2002-05-29T17:47:52Z",
+            "2003-03-13T18:25:52Z",
+            "2001-11-19T19:53:16Z",
+            "2002-01-16T17:19:36Z",
+            "2001-11-19T19:56:18Z",
+            "2002-08-01T17:46:20Z",
+            "2001-11-19T19:54:18Z",
+            "2002-01-19T02:14:40Z",
+            "2002-04-17T14:36:16Z",
+            "2001-11-19T19:58:18Z",
+            "2002-04-17T14:36:16Z",
+            "2002-10-21T15:19:20Z",
+            "2002-04-16T22:10:48Z",
+            "2002-04-14T13:17:50Z"
+        ],
+        "embeddedRelationshipId": [
+            "bin/../lib/bin/toolwrap.csh",
+            "data/x86_linuxswift01052.lvd",
+            "lib/bin/compile_timing01010.pl",
+            "lib/bin/crcmdl01016.pl",
+            "lib/bin/findlmc01008.pl",
+            "lib/bin/findmdl01008.pl",
+            "lib/bin/grepmdl01009.pl",
+            "lib/bin/libmdl01003.pl",
+            "lib/bin/listver01009.pl",
+            "lib/bin/modeldiff01009.pl",
+            "lib/bin/ptm_make01012.pl",
+            "lib/bin/sl_copy01006.pl",
+            "lib/bin/swiftcheck01008.pl",
+            "lib/x86_linux.lib/libswift03051.so",
+            "lib/x86_linux.lib/ptm_make10017",
+            "lib/x86_linux.lib/swiftcheck10027"
+        ],
+        "meta:save-date": [
+            "2002-08-01T17:48:34Z",
+            "2003-03-13T18:28:38Z",
+            "2002-05-29T17:47:52Z",
+            "2003-03-13T18:25:52Z",
+            "2001-11-19T19:53:16Z",
+            "2002-01-16T17:19:36Z",
+            "2001-11-19T19:56:18Z",
+            "2002-08-01T17:46:20Z",
+            "2001-11-19T19:54:18Z",
+            "2002-01-19T02:14:40Z",
+            "2002-04-17T14:36:16Z",
+            "2001-11-19T19:58:18Z",
+            "2002-04-17T14:36:16Z",
+            "2002-10-21T15:19:20Z",
+            "2002-04-16T22:10:48Z",
+            "2002-04-14T13:17:50Z"
+        ],
+        "modified": [
+            "2002-08-01T17:48:34Z",
+            "2003-03-13T18:28:38Z",
+            "2002-05-29T17:47:52Z",
+            "2003-03-13T18:25:52Z",
+            "2001-11-19T19:53:16Z",
+            "2002-01-16T17:19:36Z",
+            "2001-11-19T19:56:18Z",
+            "2002-08-01T17:46:20Z",
+            "2001-11-19T19:54:18Z",
+            "2002-01-19T02:14:40Z",
+            "2002-04-17T14:36:16Z",
+            "2001-11-19T19:58:18Z",
+            "2002-04-17T14:36:16Z",
+            "2002-10-21T15:19:20Z",
+            "2002-04-16T22:10:48Z",
+            "2002-04-14T13:17:50Z"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

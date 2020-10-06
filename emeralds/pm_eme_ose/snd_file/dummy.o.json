@@ -1,0 +1,22 @@
+{
+    "dummy.o": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "9.0KB",
+        "md5": "0eaa97755a86f5fec89f0867d772f556",
+        "sha256": "f2c2f98705e07a666a4bb2b39afa596101ff76ac88e6a70c2d582f3418e45e07"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'dummy.o'"
+    }
+}

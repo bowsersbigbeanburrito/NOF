@@ -1,0 +1,21 @@
+{
+    "op_demo.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "95.28KB",
+        "md5": "e50790fe05bee23d23a20fabb1eeda09",
+        "sha256": "ff831def58a9ad6866bc5d65704387d68d1eaff4c0b3ef1c4e532e7218ff768f"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "6",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_demo.dat'"
+    }
+}

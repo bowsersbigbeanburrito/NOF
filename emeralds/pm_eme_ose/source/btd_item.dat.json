@@ -1,0 +1,21 @@
+{
+    "btd_item.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "1.2KB",
+        "md5": "94bf424c0b947d294c16fbcfd97a4789",
+        "sha256": "4db3e7b17360b7b0e12c902a5673a3394b4514ffc0ead1000353891857944a1f"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'btd_item.dat'"
+    }
+}

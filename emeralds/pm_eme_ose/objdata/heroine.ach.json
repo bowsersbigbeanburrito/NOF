@@ -1,0 +1,21 @@
+{
+    "heroine.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "33.95KB",
+        "md5": "a9a4df60e0f125517fbf2492d9207254",
+        "sha256": "bfd0ee83bb202823becf56373a511210f4fa1d1664fe67300d4d5f28742febd1"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'heroine.ach'"
+    }
+}

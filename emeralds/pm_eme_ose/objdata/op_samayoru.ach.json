@@ -1,0 +1,21 @@
+{
+    "op_samayoru.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "17.04KB",
+        "md5": "0bae8e47105366a3513c0bc794f03a1e",
+        "sha256": "ab9011628294e2be66b8919e7f92b3b9dc4a9da89282eddb9cf99c1f0b7bedc2"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_samayoru.ach'"
+    }
+}

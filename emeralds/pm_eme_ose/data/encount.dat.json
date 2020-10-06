@@ -1,0 +1,21 @@
+{
+    "encount.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "128.73KB",
+        "md5": "cb2d6766336fd0f82413747758e8477d",
+        "sha256": "cdd8733d8df7c52265f2da2d94b702175d41e581991787812a738b7a4937ab8a"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "24",
+        "csv:delimiter": "tab",
+        "resourceName": "b'encount.dat'"
+    }
+}

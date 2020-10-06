@@ -1,0 +1,40 @@
+{
+    "ai.tr.gz": {
+        "modified": "2005-07-19 23:50:46",
+        "size": "0.85KB",
+        "md5": "316bedfc58bd773a6c693307eab6608a",
+        "sha256": "55b6f3b732624cbd619eacb1ff1d5400e1765093b6215df00f7f8bdc05e54693"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ai.tr.gz'",
+            "b'ai.tr.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'ai.tr.gz'"
+    }
+}

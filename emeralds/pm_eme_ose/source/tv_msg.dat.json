@@ -1,0 +1,21 @@
+{
+    "tv_msg.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "31.14KB",
+        "md5": "7f24a41d86e15541933fa2861a13f290",
+        "sha256": "d4bc98046cc1e0a64c4b9b51ab3edfcd0ed763fd302505036aab61dfd4b722ae"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tv_msg.dat'"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "r1_bp.tr.gz": {
+        "modified": "2005-10-06 18:14:01",
+        "size": "727.26KB",
+        "md5": "2b21b02b1cdd23911933993d519e7587",
+        "sha256": "a083a352e580abb28a33bf23645e1eb30ea4fa2d90bc21c701c821d65bcdbc74"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "18",
+            "14"
+        ],
+        "resourceName": [
+            "b'r1_bp.tr.gz'",
+            "b'r1_bp.tr.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'r1_bp.tr.gz'"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "tv_pe.tr.gz": {
+        "modified": "2005-10-06 18:14:23",
+        "size": "709.28KB",
+        "md5": "36e404aae34204b91e16025848ade7aa",
+        "sha256": "823b7516766be691e864e6fd068af24bed9a5f67d9f74dd2d381197423f089af"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "20",
+            "16"
+        ],
+        "resourceName": [
+            "b'tv_pe.tr.gz'",
+            "b'tv_pe.tr.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'tv_pe.tr.gz'"
+    }
+}

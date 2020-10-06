@@ -1,0 +1,21 @@
+{
+    "stbl.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "61.62KB",
+        "md5": "a1821d62873ed88f0d8f666279f72fcc",
+        "sha256": "20e331345866a2a4291a6bccfd6b43886ea9326d88b47ebacb53ac441c982647"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "5",
+        "csv:delimiter": "comma",
+        "resourceName": "b'stbl.dat'"
+    }
+}

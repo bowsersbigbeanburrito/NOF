@@ -1,0 +1,21 @@
+{
+    "tr_tbl.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "3.33KB",
+        "md5": "ae9b6e4b64a14a22f18600d4ebf8669b",
+        "sha256": "1ada34f337a3366cef25072afbedcb848d65513c2437ed668b05c0b9a5f086a3"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tr_tbl.dat'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "tube_talk.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "0.74KB",
+        "md5": "6968a9640a018577bf894f6721452b99",
+        "sha256": "50160487a67867457b6a903e05042ec524e917a1afc1a883b8dac3f7b4cbfb0d"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'tube_talk.dat'"
+    }
+}

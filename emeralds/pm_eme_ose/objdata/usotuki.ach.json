@@ -1,0 +1,21 @@
+{
+    "usotuki.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "5.78KB",
+        "md5": "3ce835c45c03a3f42f1880dae9c1e44a",
+        "sha256": "c4ec9c7b59fe706efdbc1555763cf4f6ad54ed8e2f2eb8ce38f347c798ad5bf4"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'usotuki.ach'"
+    }
+}

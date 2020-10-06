@@ -1,0 +1,21 @@
+{
+    "opening.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "8.74KB",
+        "md5": "dd9fad3aae67e3d560762271c1190759",
+        "sha256": "b8e7d713acbf6c6c233007c0a4000b48b1aac95de1472496898644b683a0c8e7"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'opening.dat'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op_nurse.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "7.66KB",
+        "md5": "b4f0bdcc7d8fbb4daf8a25df5b50cca7",
+        "sha256": "6d0bf2b4d19e7c2e7caf54fc8fa73f7c03751279c3947e268406b78fab615084"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_nurse.ach'"
+    }
+}

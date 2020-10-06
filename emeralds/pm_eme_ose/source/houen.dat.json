@@ -1,0 +1,21 @@
+{
+    "houen.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "3.15KB",
+        "md5": "0c1f60eb31574291dfa3131d1c7c41ed",
+        "sha256": "df784204dd5859d1bbf806df8862a1abcb6b898a324f4219c432d1abc0f92b13"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'houen.dat'"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "abc": {
+        "modified": "2005-05-18 12:15:25",
+        "size": "0.01KB",
+        "md5": "ee6e0206861e2bdc202e15cbf3f38b1d",
+        "sha256": "4b65c9cc059710adb4685eb88893a3ad8364cce7a2f6be1ed17fa9962da487da"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/plain; charset=windows-1252",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'abc'"
+    }
+}

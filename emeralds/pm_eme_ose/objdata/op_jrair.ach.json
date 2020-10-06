@@ -1,0 +1,21 @@
+{
+    "op_jrair.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "5.78KB",
+        "md5": "21f8243cd2c04c1d71e224f02b4d2b7c",
+        "sha256": "4e928cc9828091d0fd8aa7fad519cd20145e829d9e3a145ced7c64586a6db8ed"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_jrair.ach'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "rfuerr.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "7.25KB",
+        "md5": "46572a0e43b214a17d0216b58134428f",
+        "sha256": "933b8f0c6defd7c419fb2290379131334d1943a9edcead83bf65fe48f9921008"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'rfuerr.dat'"
+    }
+}

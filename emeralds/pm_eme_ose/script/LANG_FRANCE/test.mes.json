@@ -1,0 +1,20 @@
+{
+    "test.mes": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "0.32KB",
+        "md5": "f39ee07d9cc1759b6c873b73fe022777",
+        "sha256": "073e40d8ce00afe7657d2f4e79ee89adf305b775909f2f705054d90d145c8fce"
+    },
+    "Metadata": {
+        "Content-Encoding": "IBM500",
+        "Content-Type": "text/plain; charset=IBM500",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'test.mes'"
+    }
+}

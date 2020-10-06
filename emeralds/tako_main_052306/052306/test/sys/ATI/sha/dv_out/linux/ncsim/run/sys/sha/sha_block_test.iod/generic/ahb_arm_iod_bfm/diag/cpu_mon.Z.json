@@ -1,0 +1,40 @@
+{
+    "cpu_mon.Z": {
+        "modified": "2005-07-19 23:50:46",
+        "size": "2623.74KB",
+        "md5": "fde03e6f959d8d406314bf03972fb006",
+        "sha256": "d6ad528d55caba91a6e891cc7549dab5454ce4915840f21fb3aad4c8cfee256f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "344",
+            "304"
+        ],
+        "resourceName": [
+            "b'cpu_mon.Z'",
+            "b'cpu_mon.Z'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'cpu_mon.Z'"
+    }
+}

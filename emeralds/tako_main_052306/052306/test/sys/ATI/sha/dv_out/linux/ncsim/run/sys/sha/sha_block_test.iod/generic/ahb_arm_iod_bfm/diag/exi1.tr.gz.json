@@ -1,0 +1,40 @@
+{
+    "exi1.tr.gz": {
+        "modified": "2005-07-19 23:50:46",
+        "size": "0.05KB",
+        "md5": "d0a7db34998d4aca6103fa5b5bc279df",
+        "sha256": "7bfe51c0c4384937cd63d5ba956399a953992475da87aff1dea4b1da3cf06b04"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'exi1.tr.gz'",
+            "b'exi1.tr.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'exi1.tr.gz'"
+    }
+}

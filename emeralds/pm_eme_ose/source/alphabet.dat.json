@@ -1,0 +1,21 @@
+{
+    "alphabet.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "30.17KB",
+        "md5": "1c9c6f9dba443e5552d0b2e1616c2302",
+        "sha256": "2ab33a98be334410604de785bb7697e1030fe45d1667780e1eb69b1b85363aeb"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'alphabet.dat'"
+    }
+}

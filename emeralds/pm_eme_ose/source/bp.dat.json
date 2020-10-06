@@ -1,0 +1,21 @@
+{
+    "bp.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "3.12KB",
+        "md5": "39e17382c3d4196471b22bcdd5b08b52",
+        "sha256": "d9b2b79dee085752f584663114aff6d7010f52dbb8f1b385756591ba0edcec42"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'bp.dat'"
+    }
+}

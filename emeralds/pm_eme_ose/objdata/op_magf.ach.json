@@ -1,0 +1,21 @@
+{
+    "op_magf.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "17.03KB",
+        "md5": "490aa93cd6f4d4f8e29b5c92b1bfcb0f",
+        "sha256": "9285910895bd5049f4f231b624fb4a0967cb6a6f19b65d8a9787d99f3665c57f"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_magf.ach'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "seed09.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "11.33KB",
+        "md5": "e58ad84d252684fb01e641dfd9284fbe",
+        "sha256": "e8c2978f7ae98ac40f619a8dd22e838967de8313ea253a1359b1bd2c6a127e37"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'seed09.ach'"
+    }
+}

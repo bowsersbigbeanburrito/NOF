@@ -1,0 +1,21 @@
+{
+    "ecblack.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "3.89KB",
+        "md5": "09be9692b811e2ea4397e5c17e33d31e",
+        "sha256": "8f06af38432a2dc724d052c8c9ad4833e56475286393c2a58ebea661b854ac54"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'ecblack.ach'"
+    }
+}

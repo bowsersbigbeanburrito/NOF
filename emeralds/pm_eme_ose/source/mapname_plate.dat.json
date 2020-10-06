@@ -1,0 +1,21 @@
+{
+    "mapname_plate.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "5.18KB",
+        "md5": "0c3ccaf88e481d25791b4c72c97202b9",
+        "sha256": "c8b43c2d5abe8417e46184fe928d50ec59d938e0695de30cfd1f8581c511e741"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "comma",
+        "resourceName": "b'mapname_plate.dat'"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "dummy.txt": {
+        "modified": "2006-01-06 00:36:03",
+        "size": "0.08KB",
+        "md5": "ff6d214862d52dea07e530c56ab3b6c5",
+        "sha256": "245c63b737a93cac278e2de8e38eef4dc192ba552dc490d7786c68c10b8785ef"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/plain; charset=windows-1252",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'dummy.txt'"
+    }
+}

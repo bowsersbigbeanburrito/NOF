@@ -1,0 +1,21 @@
+{
+    "op_artist.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "16.97KB",
+        "md5": "816ed8f96e536ba71e61262be9148d56",
+        "sha256": "09130960f9889462fdb6cb10598c4e6666d7f44d675859f0926cb4964282c377"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_artist.ach'"
+    }
+}

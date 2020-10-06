@@ -1,0 +1,40 @@
+{
+    "iod_bfmtran.log.gz": {
+        "modified": "2005-07-19 23:50:46",
+        "size": "1438.68KB",
+        "md5": "064db5c985772fedfd70031d12b4faf6",
+        "sha256": "0d5b2217976e1d5a4ccb61026dffa86f70f8474c34ec9df44747e5e47eeb7447"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "48",
+            "40"
+        ],
+        "resourceName": [
+            "b'iod_bfmtran.log.gz'",
+            "b'iod_bfmtran.log.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'iod_bfmtran.log.gz'"
+    }
+}

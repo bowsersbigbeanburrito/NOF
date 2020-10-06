@@ -1,0 +1,21 @@
+{
+    "op_grdn.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "15.15KB",
+        "md5": "c7bb332cac2d3ec2aa7d9c05d611585c",
+        "sha256": "feeea59388acd193b1d7fb2f9c951790de402d5c2403c47a415212b9d0067eba"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_grdn.ach'"
+    }
+}

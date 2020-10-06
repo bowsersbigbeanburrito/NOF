@@ -1,0 +1,22 @@
+{
+    "dummy.mid": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "0.06KB",
+        "md5": "60c6520ed43ea85c6e763bdf120d19ec",
+        "sha256": "debad18bc3cf93270357e0ff1bb817f9c672f0295b14ef0ae2cd36f6bbb6afe6"
+    },
+    "Metadata": {
+        "Content-Type": "audio/midi",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.MidiParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "divisionType": "PPQ",
+        "patches": "0",
+        "resourceName": "b'dummy.mid'",
+        "tracks": "1"
+    }
+}

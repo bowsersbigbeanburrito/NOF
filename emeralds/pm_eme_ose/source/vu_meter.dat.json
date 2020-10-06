@@ -1,0 +1,21 @@
+{
+    "vu_meter.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "43.05KB",
+        "md5": "78cf52820f06aa7044b6f99d5f452038",
+        "sha256": "c44ff0dc22e02e3e00e270757cafbaa8ac62e7803ecc2a15d9a7ea8cc71a1728"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "comma",
+        "resourceName": "b'vu_meter.dat'"
+    }
+}

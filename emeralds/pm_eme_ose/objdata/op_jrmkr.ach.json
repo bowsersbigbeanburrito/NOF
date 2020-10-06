@@ -1,0 +1,21 @@
+{
+    "op_jrmkr.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "17.04KB",
+        "md5": "c06731602d1ec795b703a98da59df2de",
+        "sha256": "c30e1aa2c6dc59fd1f90cc87d319ee83c6b285036c281849727c3949bd7bb5f3"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_jrmkr.ach'"
+    }
+}

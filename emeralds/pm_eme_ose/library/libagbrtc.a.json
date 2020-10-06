@@ -1,0 +1,107 @@
+{
+    "libagbrtc.a": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "35.0KB",
+        "md5": "430345a5619e177d914d9e33b57967f0",
+        "sha256": "1debc2b2006f8d2ba4db0502219dbc61b4d0e965d6b18e0aeae533b5e535ccfb"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libagbrtc.a'",
+            "gpiorom.o",
+            "agbrtc.o"
+        ],
+        "Content-Length": [
+            "318",
+            "13856",
+            "21480"
+        ],
+        "Last-Modified": [
+            "2002-05-16T00:04:52Z",
+            "2002-05-16T00:04:50Z",
+            "2002-05-16T00:04:52Z"
+        ],
+        "Last-Save-Date": [
+            "2002-05-16T00:04:52Z",
+            "2002-05-16T00:04:50Z",
+            "2002-05-16T00:04:52Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/gpiorom.o",
+            "/agbrtc.o"
+        ],
+        "date": [
+            "2002-05-16T00:04:52Z",
+            "2002-05-16T00:04:50Z",
+            "2002-05-16T00:04:52Z"
+        ],
+        "dcterms:modified": [
+            "2002-05-16T00:04:52Z",
+            "2002-05-16T00:04:50Z",
+            "2002-05-16T00:04:52Z"
+        ],
+        "meta:save-date": [
+            "2002-05-16T00:04:52Z",
+            "2002-05-16T00:04:50Z",
+            "2002-05-16T00:04:52Z"
+        ],
+        "modified": [
+            "2002-05-16T00:04:52Z",
+            "2002-05-16T00:04:50Z",
+            "2002-05-16T00:04:52Z"
+        ],
+        "embeddedRelationshipId": [
+            "gpiorom.o",
+            "agbrtc.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

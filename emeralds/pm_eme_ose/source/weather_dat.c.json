@@ -1,0 +1,21 @@
+{
+    "weather_dat.c": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "110.41KB",
+        "md5": "3a577a044bbfb6b7b32fab47bdded117",
+        "sha256": "1cbe3864c30681abd4cf73687aa40455613d0594abe466a6d10e859eaea207a4"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "7",
+        "csv:delimiter": "comma",
+        "resourceName": "b'weather_dat.c'"
+    }
+}

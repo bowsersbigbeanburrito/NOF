@@ -1,0 +1,22 @@
+{
+    "boot0_rom1.o": {
+        "modified": "2005-11-29 15:03:34",
+        "size": "1.46KB",
+        "md5": "27a30d13d7079c71f292490eaf82bffe",
+        "sha256": "a4a96b15433c3821e6b29122092af6142b43b769a086130c8e604160e6d33954"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'boot0_rom1.o'"
+    }
+}

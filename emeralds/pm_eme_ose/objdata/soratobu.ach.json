@@ -1,0 +1,21 @@
+{
+    "soratobu.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "3.91KB",
+        "md5": "1cd232e3c3b8c68437d90bfda034dcd7",
+        "sha256": "038393b3ed40ad287c63ff45b12c47c80d20762d6ac74140203140bda3d43a94"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'soratobu.ach'"
+    }
+}

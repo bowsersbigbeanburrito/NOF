@@ -1,0 +1,24 @@
+{
+    "pv288.aif": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "11.1KB",
+        "md5": "bdbc991885653bb966b0a50fcde026a8",
+        "sha256": "2230d3b864e2219282b0357fc9dcde9216d79b5d026a50c82edcecc151c65ea0"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'pv288.aif'",
+        "samplerate": "10512.0",
+        "xmpDM:audioSampleRate": "10512",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

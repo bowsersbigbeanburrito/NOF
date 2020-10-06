@@ -1,0 +1,48 @@
+{
+    "NEC-ATI-DM-052-0.01.tar": {
+        "modified": "2005-08-10 18:16:22",
+        "size": "70.0KB",
+        "md5": "26b68bf6245ae74291fcaac54963c113",
+        "sha256": "cce9fdd81d39c712f797ca4bd1628086fb07871488f475923cf5b8fb67193e95"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-gtar",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'NEC-ATI-DM-052-0.01.tar'",
+            "drc_io_op_33v_option.00.01.cal.ux6"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": "69330",
+        "Last-Modified": "2005-07-25T09:14:34Z",
+        "Last-Save-Date": "2005-07-25T09:14:34Z",
+        "X-TIKA:embedded_resource_path": "/drc_io_op_33v_option.00.01.cal.ux6",
+        "date": "2005-07-25T09:14:34Z",
+        "dcterms:modified": "2005-07-25T09:14:34Z",
+        "embeddedRelationshipId": "drc_io_op_33v_option.00.01.cal.ux6",
+        "meta:save-date": "2005-07-25T09:14:34Z",
+        "modified": "2005-07-25T09:14:34Z"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "hana.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "3.38KB",
+        "md5": "010650a14ba99e44a34a2ffd33559b36",
+        "sha256": "266d66e9daf9ae1c9d6e824629078f55c8de12fdca6171bc6560bc5f0daa2f98"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'hana.ach'"
+    }
+}

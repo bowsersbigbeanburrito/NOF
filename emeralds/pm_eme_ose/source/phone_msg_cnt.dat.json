@@ -1,0 +1,21 @@
+{
+    "phone_msg_cnt.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "11.48KB",
+        "md5": "dfa4a057346c7cbeb6619b4ec29c3cad",
+        "sha256": "6c29e06d2f88bf5a69def2d716e29248a7f134aa83f55cc63a257ebdc9a16915"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'phone_msg_cnt.dat'"
+    }
+}

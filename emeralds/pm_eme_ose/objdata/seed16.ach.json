@@ -1,0 +1,21 @@
+{
+    "seed16.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "11.33KB",
+        "md5": "a7b5d679e9c997e315eca6744a412bab",
+        "sha256": "bdd8aa01eef13c742ab97fd6beeac0a08369b3ee6d5f7dc231cd88bcb4f70222"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'seed16.ach'"
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "libagbrfu.a": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "85.61KB",
+        "md5": "02597193120f04de83758b118022ad95",
+        "sha256": "5339cd660b7dd6e69b30f333601415f3b8f9b82ae291dc36a84d75a526b1c530"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libagbrfu.a'",
+            "AgbRFU_STWI.o",
+            "AgbRFU_Sio32ID.o",
+            "AgbRFU_sio32intr.o",
+            "AgbRFU_LL.o"
+        ],
+        "Content-Length": [
+            "3112",
+            "5864",
+            "1776",
+            "4088",
+            "72420"
+        ],
+        "Last-Modified": [
+            "2004-06-14T06:29:25Z",
+            "2004-05-18T07:32:34Z",
+            "2004-05-18T07:32:34Z",
+            "2004-05-18T07:32:34Z",
+            "2004-06-14T06:29:25Z"
+        ],
+        "Last-Save-Date": [
+            "2004-06-14T06:29:25Z",
+            "2004-05-18T07:32:34Z",
+            "2004-05-18T07:32:34Z",
+            "2004-05-18T07:32:34Z",
+            "2004-06-14T06:29:25Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/AgbRFU_STWI.o",
+            "/AgbRFU_Sio32ID.o",
+            "/AgbRFU_sio32intr.o",
+            "/AgbRFU_LL.o"
+        ],
+        "date": [
+            "2004-06-14T06:29:25Z",
+            "2004-05-18T07:32:34Z",
+            "2004-05-18T07:32:34Z",
+            "2004-05-18T07:32:34Z",
+            "2004-06-14T06:29:25Z"
+        ],
+        "dcterms:modified": [
+            "2004-06-14T06:29:25Z",
+            "2004-05-18T07:32:34Z",
+            "2004-05-18T07:32:34Z",
+            "2004-05-18T07:32:34Z",
+            "2004-06-14T06:29:25Z"
+        ],
+        "meta:save-date": [
+            "2004-06-14T06:29:25Z",
+            "2004-05-18T07:32:34Z",
+            "2004-05-18T07:32:34Z",
+            "2004-05-18T07:32:34Z",
+            "2004-06-14T06:29:25Z"
+        ],
+        "modified": [
+            "2004-06-14T06:29:25Z",
+            "2004-05-18T07:32:34Z",
+            "2004-05-18T07:32:34Z",
+            "2004-05-18T07:32:34Z",
+            "2004-06-14T06:29:25Z"
+        ],
+        "embeddedRelationshipId": [
+            "AgbRFU_STWI.o",
+            "AgbRFU_Sio32ID.o",
+            "AgbRFU_sio32intr.o",
+            "AgbRFU_LL.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "taki.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "6.1KB",
+        "md5": "0554100543e7658d797b6cd832ffb273",
+        "sha256": "5c85f5144f80e750f0f6c4325f035b1f223714eb9dd61f8771fe0ca0b9eb06c3"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'taki.ach'"
+    }
+}

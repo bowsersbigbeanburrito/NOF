@@ -1,0 +1,21 @@
+{
+    "TMAPBG.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "4.38KB",
+        "md5": "47b02ae6477a6718105cf3f70bb3bdc5",
+        "sha256": "761eee156c759d3fd102916b64cd354390ec1a9f4fa9e5a56665038ad8ae6fae"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'TMAPBG.ach'"
+    }
+}

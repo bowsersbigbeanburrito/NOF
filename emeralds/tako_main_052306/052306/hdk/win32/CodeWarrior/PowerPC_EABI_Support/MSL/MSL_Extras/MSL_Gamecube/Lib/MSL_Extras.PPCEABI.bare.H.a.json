@@ -1,0 +1,123 @@
+{
+    "MSL_Extras.PPCEABI.bare.H.a": {
+        "modified": "2006-05-23 13:12:02",
+        "size": "6.8KB",
+        "md5": "4064ac86ad3a4df4f0b3878d17632b50",
+        "sha256": "39c8420556d4e3c4daed5fa79e16aed6c7c4a52618464bca704a9d3953c4f974"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'MSL_Extras.PPCEABI.bare.H.a'",
+            "D:/Profiles/freehill/Desktop/GCN_3.0/layout/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/extras.o",
+            "D:/Profiles/freehill/Desktop/GCN_3.0/layout/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stat.o",
+            "D:/Profiles/freehill/Desktop/GCN_3.0/layout/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stdio_posix.o"
+        ],
+        "Content-Length": [
+            "416",
+            "4560",
+            "696",
+            "680"
+        ],
+        "Last-Modified": [
+            "2005-12-13T21:35:04Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z"
+        ],
+        "Last-Save-Date": [
+            "2005-12-13T21:35:04Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/extras.o",
+            "/stat.o",
+            "/stdio_posix.o"
+        ],
+        "date": [
+            "2005-12-13T21:35:04Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z"
+        ],
+        "dcterms:modified": [
+            "2005-12-13T21:35:04Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z"
+        ],
+        "meta:save-date": [
+            "2005-12-13T21:35:04Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z"
+        ],
+        "modified": [
+            "2005-12-13T21:35:04Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z",
+            "2005-12-06T17:37:44Z"
+        ],
+        "embeddedRelationshipId": [
+            "D:/Profiles/freehill/Desktop/GCN_3.0/layout/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/extras.o",
+            "D:/Profiles/freehill/Desktop/GCN_3.0/layout/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stat.o",
+            "D:/Profiles/freehill/Desktop/GCN_3.0/layout/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/Src/stdio_posix.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

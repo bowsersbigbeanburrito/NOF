@@ -1,0 +1,40 @@
+{
+    "tc0.tr.gz": {
+        "modified": "2005-10-06 18:14:15",
+        "size": "662.93KB",
+        "md5": "0c32139ffb75b4fee76ace3024e13a7e",
+        "sha256": "ac960231f8b676a0cc4709380bb8f575e31073194ad1568b95b9b39c701845ef"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "15",
+            "13"
+        ],
+        "resourceName": [
+            "b'tc0.tr.gz'",
+            "b'tc0.tr.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'tc0.tr.gz'"
+    }
+}

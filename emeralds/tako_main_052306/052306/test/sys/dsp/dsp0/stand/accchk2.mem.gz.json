@@ -1,0 +1,40 @@
+{
+    "accchk2.mem.gz": {
+        "modified": "2006-03-30 01:51:27",
+        "size": "4.06KB",
+        "md5": "ca42c394cb5274e90adedf7a8ce236de",
+        "sha256": "d04ccfc397b6422093a75bf4db3ac0e41f4601a28e33bacedb038307424dda59"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'accchk2.mem.gz'",
+            "b'accchk2.mem.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'accchk2.mem.gz'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "boot0.ld": {
+        "modified": "2005-11-28 20:52:44",
+        "size": "0.25KB",
+        "md5": "cea16c143fe9effeafad1a742f9389e3",
+        "sha256": "6a1ac3d6b2791880cf3755d723a894e2e7c70c201183b1e173db73c6fe3e41e7"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'boot0.ld'"
+    }
+}

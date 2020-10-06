@@ -1,0 +1,21 @@
+{
+    "btd_pm1.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "8.46KB",
+        "md5": "47135f4d8beee25f0cb2a72bded5785a",
+        "sha256": "4d3ce339fc01621bc0042da06d57fb266b19ca8adfca0276171474743fe306a5"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'btd_pm1.dat'"
+    }
+}

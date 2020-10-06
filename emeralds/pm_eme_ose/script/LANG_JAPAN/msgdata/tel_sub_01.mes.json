@@ -1,0 +1,21 @@
+{
+    "tel_sub_01.mes": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "60.95KB",
+        "md5": "b47981afd044d71807697a6f1131645d",
+        "sha256": "e45ccf0172abceeafc6b920dcdfc13d24e442087681e09c46b51a67bd22b8df6"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "10",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tel_sub_01.mes'"
+    }
+}

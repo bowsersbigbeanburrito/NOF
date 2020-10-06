@@ -1,0 +1,21 @@
+{
+    "ballani.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "12.12KB",
+        "md5": "df3f5c092de31930731c856c8b6e433e",
+        "sha256": "226717ea84e5ee119365896c72e769997e5268761641f779a88ddc08218c0110"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'ballani.ach'"
+    }
+}

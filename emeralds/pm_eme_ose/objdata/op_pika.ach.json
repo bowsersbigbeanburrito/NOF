@@ -1,0 +1,21 @@
+{
+    "op_pika.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "2.97KB",
+        "md5": "90269df8fbc2fa3e68219e4e874a220b",
+        "sha256": "bedf2d83adc44f787fac31d001d1a99273fdd42cc8b649340a57148b279c7957"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_pika.ach'"
+    }
+}

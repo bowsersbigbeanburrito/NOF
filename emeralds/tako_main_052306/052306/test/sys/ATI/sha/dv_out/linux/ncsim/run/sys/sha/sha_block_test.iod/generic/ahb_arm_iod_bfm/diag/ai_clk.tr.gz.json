@@ -1,0 +1,41 @@
+{
+    "ai_clk.tr.gz": {
+        "modified": "2005-07-19 23:50:46",
+        "size": "40.69KB",
+        "md5": "f54f46cbe5d60305a59995abc79a921b",
+        "sha256": "3f2f1f0a05d8a04b46a844c4ee39cfd5d5a082a98ea4070b7693dd3f37038b8f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/csv; charset=ISO-8859-1; delimiter=comma"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "15",
+            "14"
+        ],
+        "resourceName": [
+            "b'ai_clk.tr.gz'",
+            "b'ai_clk.tr.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'ai_clk.tr.gz'",
+        "csv:delimiter": "comma"
+    }
+}

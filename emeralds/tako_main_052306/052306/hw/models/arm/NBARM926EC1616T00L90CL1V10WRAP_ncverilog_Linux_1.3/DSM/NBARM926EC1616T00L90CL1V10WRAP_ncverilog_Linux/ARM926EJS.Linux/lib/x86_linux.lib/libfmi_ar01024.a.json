@@ -1,0 +1,123 @@
+{
+    "libfmi_ar01024.a": {
+        "modified": "2005-08-26 01:46:42",
+        "size": "53.96KB",
+        "md5": "0469fa365ce4d9bbef2d31901492a6a0",
+        "sha256": "cf018e304186b56e6225cb0a23c9e3133e071ebdc8164891c35459b9a49663f2"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libfmi_ar01024.a'",
+            "cpipe_hdl_leapfrog.o",
+            "cpipe_leapfrog.o",
+            "lsm_swift_option2.o"
+        ],
+        "Content-Length": [
+            "218",
+            "37600",
+            "9768",
+            "7300"
+        ],
+        "Last-Modified": [
+            "2001-10-16T23:10:18Z",
+            "2001-10-16T23:10:14Z",
+            "2001-10-16T23:10:18Z",
+            "2001-10-16T23:09:06Z"
+        ],
+        "Last-Save-Date": [
+            "2001-10-16T23:10:18Z",
+            "2001-10-16T23:10:14Z",
+            "2001-10-16T23:10:18Z",
+            "2001-10-16T23:09:06Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/cpipe_hdl_leapfrog.o",
+            "/cpipe_leapfrog.o",
+            "/lsm_swift_option2.o"
+        ],
+        "date": [
+            "2001-10-16T23:10:18Z",
+            "2001-10-16T23:10:14Z",
+            "2001-10-16T23:10:18Z",
+            "2001-10-16T23:09:06Z"
+        ],
+        "dcterms:modified": [
+            "2001-10-16T23:10:18Z",
+            "2001-10-16T23:10:14Z",
+            "2001-10-16T23:10:18Z",
+            "2001-10-16T23:09:06Z"
+        ],
+        "meta:save-date": [
+            "2001-10-16T23:10:18Z",
+            "2001-10-16T23:10:14Z",
+            "2001-10-16T23:10:18Z",
+            "2001-10-16T23:09:06Z"
+        ],
+        "modified": [
+            "2001-10-16T23:10:18Z",
+            "2001-10-16T23:10:14Z",
+            "2001-10-16T23:10:18Z",
+            "2001-10-16T23:09:06Z"
+        ],
+        "embeddedRelationshipId": [
+            "cpipe_hdl_leapfrog.o",
+            "cpipe_leapfrog.o",
+            "lsm_swift_option2.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

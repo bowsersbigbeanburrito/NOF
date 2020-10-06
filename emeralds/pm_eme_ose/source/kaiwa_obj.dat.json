@@ -1,0 +1,21 @@
+{
+    "kaiwa_obj.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "22.98KB",
+        "md5": "88f0cdcf6209ffaa10bc02df1a70367b",
+        "sha256": "c586c8137f2d8c09c0c0df9de2bc91dc248811280792189b35f4452cf2a991db"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'kaiwa_obj.dat'"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "bomb.o": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "8.44KB",
+        "md5": "248e0b34004607c91800fb8fcc873542",
+        "sha256": "d1543050c5cf9e0e64196fae024cdbcc3fef7ce3e66273eabaaf93de1c49fc59"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'bomb.o'"
+    }
+}

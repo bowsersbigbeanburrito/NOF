@@ -1,0 +1,21 @@
+{
+    "op_champ.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "16.96KB",
+        "md5": "ee5c8fd8df29a0d1595a72854b19260d",
+        "sha256": "ab00a1d801d24c15f72c1cbaf422ba56fdc17d190ced21483b7ace9e1f2a8585"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_champ.ach'"
+    }
+}

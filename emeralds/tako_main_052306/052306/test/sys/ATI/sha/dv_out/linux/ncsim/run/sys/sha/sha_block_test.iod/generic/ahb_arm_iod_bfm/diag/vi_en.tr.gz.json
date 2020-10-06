@@ -1,0 +1,40 @@
+{
+    "vi_en.tr.gz": {
+        "modified": "2005-07-19 23:50:46",
+        "size": "0.71KB",
+        "md5": "99ad8acf71896c844b99aa540b46d055",
+        "sha256": "a9067600a94f9b3085afcda3809306de82c2a6d53482d271b7f5daeaac4d3546"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "2"
+        ],
+        "resourceName": [
+            "b'vi_en.tr.gz'",
+            "b'vi_en.tr.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'vi_en.tr.gz'"
+    }
+}

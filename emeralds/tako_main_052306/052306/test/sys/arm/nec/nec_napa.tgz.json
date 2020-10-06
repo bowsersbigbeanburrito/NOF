@@ -1,0 +1,415 @@
+{
+    "nec_napa.tgz": {
+        "modified": "2006-02-01 23:07:45",
+        "size": "587.38KB",
+        "md5": "437b9f9e2738307e01395a34d6d30423",
+        "sha256": "435799d60e48685108a1fe63513d2d0759e0dbbee29420241a4a6817235d8c33"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1",
+            "application/x-object",
+            "application/x-object",
+            "text/x-d; charset=ISO-8859-1",
+            "application/x-executable",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/x-log; charset=ISO-8859-1",
+            "text/x-log; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/x-log; charset=ISO-8859-1",
+            "text/x-log; charset=ISO-8859-1",
+            "text/x-log; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/x-assembly; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "application/x-gtar"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.pkg.PackageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "27",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "2",
+            "2",
+            "2",
+            "2",
+            "1",
+            "0",
+            "4",
+            "1",
+            "2",
+            "7",
+            "0",
+            "1",
+            "0",
+            "27"
+        ],
+        "resourceName": [
+            "b'nec_napa.tgz'",
+            "nec/Makefile",
+            "nec/ARMSIMdbg/chk_napa.o",
+            "nec/ARMSIMdbg/nec_chk_napa.o",
+            "nec/ARMSIMdbg/nec_chk_napa.d",
+            "nec/ARMSIMdbg/nec_chk_napaB.arm",
+            "nec/ARMSIMdbg/nec_chk_napaB.list",
+            "nec/ARMSIMdbg/nec_chk_napaB.hex",
+            "nec/ARMSIMdbg/hex2bin.log",
+            "nec/ARMSIMdbg/small2big.1.log",
+            "nec/ARMSIMdbg/nec_chk_napaB.hex.sha",
+            "nec/ARMSIMdbg/nec_chk_napaB.hex.efuse",
+            "nec/ARMSIMdbg/small2big.2.log",
+            "nec/ARMSIMdbg/nec_chk_napaB.hex.flash.log",
+            "nec/ARMSIMdbg/bin2hex.log",
+            "nec/ARMSIMdbg/nec_chk_napaB.hex.flashified",
+            "nec/chk_napa.s",
+            "nec/nec_chk_napa.c",
+            "nec/README",
+            "b'nec_napa.tgz'"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "1009",
+            "2220",
+            "4784",
+            "243",
+            "66910",
+            "305486",
+            "216576",
+            "216642",
+            "433242",
+            "279",
+            "1023",
+            "433244",
+            "7006",
+            "223421",
+            "297792",
+            "3652",
+            "3210",
+            "150"
+        ],
+        "Last-Modified": [
+            "2006-02-02T00:45:46Z",
+            "2006-02-02T02:03:58Z",
+            "2006-02-02T02:03:59Z",
+            "2006-02-02T02:03:58Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T00:49:13Z",
+            "2006-02-02T02:03:53Z",
+            "2006-02-02T02:08:28Z"
+        ],
+        "Last-Save-Date": [
+            "2006-02-02T00:45:46Z",
+            "2006-02-02T02:03:58Z",
+            "2006-02-02T02:03:59Z",
+            "2006-02-02T02:03:58Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T00:49:13Z",
+            "2006-02-02T02:03:53Z",
+            "2006-02-02T02:08:28Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/b'nec_napa.tgz'/Makefile",
+            "/b'nec_napa.tgz'/chk_napa.o",
+            "/b'nec_napa.tgz'/nec_chk_napa.o",
+            "/b'nec_napa.tgz'/nec_chk_napa.d",
+            "/b'nec_napa.tgz'/nec_chk_napaB.arm",
+            "/b'nec_napa.tgz'/nec_chk_napaB.list",
+            "/b'nec_napa.tgz'/nec_chk_napaB.hex",
+            "/b'nec_napa.tgz'/hex2bin.log",
+            "/b'nec_napa.tgz'/small2big.1.log",
+            "/b'nec_napa.tgz'/nec_chk_napaB.hex.sha",
+            "/b'nec_napa.tgz'/nec_chk_napaB.hex.efuse",
+            "/b'nec_napa.tgz'/small2big.2.log",
+            "/b'nec_napa.tgz'/nec_chk_napaB.hex.flash.log",
+            "/b'nec_napa.tgz'/bin2hex.log",
+            "/b'nec_napa.tgz'/nec_chk_napaB.hex.flashified",
+            "/b'nec_napa.tgz'/chk_napa.s",
+            "/b'nec_napa.tgz'/nec_chk_napa.c",
+            "/b'nec_napa.tgz'/README",
+            "/b'nec_napa.tgz'"
+        ],
+        "date": [
+            "2006-02-02T00:45:46Z",
+            "2006-02-02T02:03:58Z",
+            "2006-02-02T02:03:59Z",
+            "2006-02-02T02:03:58Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T00:49:13Z",
+            "2006-02-02T02:03:53Z",
+            "2006-02-02T02:08:28Z"
+        ],
+        "dcterms:modified": [
+            "2006-02-02T00:45:46Z",
+            "2006-02-02T02:03:58Z",
+            "2006-02-02T02:03:59Z",
+            "2006-02-02T02:03:58Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T00:49:13Z",
+            "2006-02-02T02:03:53Z",
+            "2006-02-02T02:08:28Z"
+        ],
+        "embeddedRelationshipId": [
+            "nec/Makefile",
+            "nec/ARMSIMdbg/chk_napa.o",
+            "nec/ARMSIMdbg/nec_chk_napa.o",
+            "nec/ARMSIMdbg/nec_chk_napa.d",
+            "nec/ARMSIMdbg/nec_chk_napaB.arm",
+            "nec/ARMSIMdbg/nec_chk_napaB.list",
+            "nec/ARMSIMdbg/nec_chk_napaB.hex",
+            "nec/ARMSIMdbg/hex2bin.log",
+            "nec/ARMSIMdbg/small2big.1.log",
+            "nec/ARMSIMdbg/nec_chk_napaB.hex.sha",
+            "nec/ARMSIMdbg/nec_chk_napaB.hex.efuse",
+            "nec/ARMSIMdbg/small2big.2.log",
+            "nec/ARMSIMdbg/nec_chk_napaB.hex.flash.log",
+            "nec/ARMSIMdbg/bin2hex.log",
+            "nec/ARMSIMdbg/nec_chk_napaB.hex.flashified",
+            "nec/chk_napa.s",
+            "nec/nec_chk_napa.c",
+            "nec/README"
+        ],
+        "meta:save-date": [
+            "2006-02-02T00:45:46Z",
+            "2006-02-02T02:03:58Z",
+            "2006-02-02T02:03:59Z",
+            "2006-02-02T02:03:58Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T00:49:13Z",
+            "2006-02-02T02:03:53Z",
+            "2006-02-02T02:08:28Z"
+        ],
+        "modified": [
+            "2006-02-02T00:45:46Z",
+            "2006-02-02T02:03:58Z",
+            "2006-02-02T02:03:59Z",
+            "2006-02-02T02:03:58Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:00Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T02:04:01Z",
+            "2006-02-02T00:49:13Z",
+            "2006-02-02T02:03:53Z",
+            "2006-02-02T02:08:28Z"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

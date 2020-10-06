@@ -1,0 +1,22 @@
+{
+    "arm-elf-hello": {
+        "modified": "2006-05-23 13:11:09",
+        "size": "234.31KB",
+        "md5": "7d458683f00910e86c186145773503ba",
+        "sha256": "fdf5282dc4870f17459ea01d46975fcdd28207dde0925f87d0709a14d53afd6d"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'arm-elf-hello'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "pv314.aif": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "20.48KB",
+        "md5": "76e644c69a79bcac613abc1eb589af00",
+        "sha256": "99773eca93d4e9dafe690def2c8860e16a7a0af2d8a9d92c19e382d9f8e90573"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'pv314.aif'",
+        "samplerate": "10512.0",
+        "xmpDM:audioSampleRate": "10512",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

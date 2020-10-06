@@ -1,0 +1,21 @@
+{
+    "art.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "222.42KB",
+        "md5": "95649d062860097a3b73db0e940bf27d",
+        "sha256": "8ef93084a68312b3cf981f83fd6e43f4abcc21159425851806be8cf070e0ad8f"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "11",
+        "csv:delimiter": "comma",
+        "resourceName": "b'art.ach'"
+    }
+}

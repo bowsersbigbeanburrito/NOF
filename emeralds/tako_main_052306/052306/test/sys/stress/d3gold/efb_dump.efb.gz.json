@@ -1,0 +1,40 @@
+{
+    "efb_dump.efb.gz": {
+        "modified": "2005-10-06 18:13:53",
+        "size": "160.66KB",
+        "md5": "cf2b0119b075b5dbe0b5fe6b01deb8f3",
+        "sha256": "94eda18bbc80dadc0ad98ca9aaf9ffdde7c9024d3659b0c3c3e754263716e53a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "14",
+            "11"
+        ],
+        "resourceName": [
+            "b'efb_dump.efb.gz'",
+            "b'efb_dump.efb.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'efb_dump.efb.gz'"
+    }
+}

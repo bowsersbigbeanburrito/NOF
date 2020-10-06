@@ -1,0 +1,24 @@
+{
+    "pv091.aif": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "20.16KB",
+        "md5": "93b358cc822e5e308e91c889b7dabcfc",
+        "sha256": "32db78c26774bbe4834f9daa2ba4b0510563270fb8341db30a327c4acc446c40"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'pv091.aif'",
+        "samplerate": "10512.0",
+        "xmpDM:audioSampleRate": "10512",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

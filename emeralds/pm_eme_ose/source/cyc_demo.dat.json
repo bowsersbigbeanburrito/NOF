@@ -1,0 +1,21 @@
+{
+    "cyc_demo.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "93.74KB",
+        "md5": "da105d10c6cc4d911da6d09f13ddd19d",
+        "sha256": "74d0c15e4227a714bac18eb9d855bc187cf73373888fcc1accd685aea6f7aa79"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "7",
+        "csv:delimiter": "comma",
+        "resourceName": "b'cyc_demo.dat'"
+    }
+}

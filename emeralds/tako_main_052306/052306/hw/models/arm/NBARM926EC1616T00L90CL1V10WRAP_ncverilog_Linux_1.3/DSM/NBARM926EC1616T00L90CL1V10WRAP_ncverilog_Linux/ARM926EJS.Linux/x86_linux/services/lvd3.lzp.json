@@ -1,0 +1,126 @@
+{
+    "lvd3.lzp": {
+        "modified": "2005-08-26 01:48:05",
+        "size": "119.93KB",
+        "md5": "e803098309375f0c74922dc1a3d3a861",
+        "sha256": "6a6e810430e5ced4e719af0d5298765029c87b15cdba5b90896992d61b238f3f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/x-perl; charset=ISO-8859-1",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'lvd3.lzp'",
+            "bin/../lib/bin/toolwrap.csh",
+            "data/x86_linuxfm01003.lvd",
+            "lib/bin/backanno01005.pl",
+            "lib/x86_linux.lib/backanno01007"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "7316",
+            "588",
+            "6164",
+            "324699"
+        ],
+        "Last-Modified": [
+            "2002-08-01T17:48:34Z",
+            "2002-04-05T16:51:28Z",
+            "2002-05-09T18:23:24Z",
+            "2002-04-03T08:00:22Z"
+        ],
+        "Last-Save-Date": [
+            "2002-08-01T17:48:34Z",
+            "2002-04-05T16:51:28Z",
+            "2002-05-09T18:23:24Z",
+            "2002-04-03T08:00:22Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/toolwrap.csh",
+            "/x86_linuxfm01003.lvd",
+            "/backanno01005.pl",
+            "/backanno01007"
+        ],
+        "date": [
+            "2002-08-01T17:48:34Z",
+            "2002-04-05T16:51:28Z",
+            "2002-05-09T18:23:24Z",
+            "2002-04-03T08:00:22Z"
+        ],
+        "dcterms:modified": [
+            "2002-08-01T17:48:34Z",
+            "2002-04-05T16:51:28Z",
+            "2002-05-09T18:23:24Z",
+            "2002-04-03T08:00:22Z"
+        ],
+        "embeddedRelationshipId": [
+            "bin/../lib/bin/toolwrap.csh",
+            "data/x86_linuxfm01003.lvd",
+            "lib/bin/backanno01005.pl",
+            "lib/x86_linux.lib/backanno01007"
+        ],
+        "meta:save-date": [
+            "2002-08-01T17:48:34Z",
+            "2002-04-05T16:51:28Z",
+            "2002-05-09T18:23:24Z",
+            "2002-04-03T08:00:22Z"
+        ],
+        "modified": [
+            "2002-08-01T17:48:34Z",
+            "2002-04-05T16:51:28Z",
+            "2002-05-09T18:23:24Z",
+            "2002-04-03T08:00:22Z"
+        ],
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32"
+    }
+}

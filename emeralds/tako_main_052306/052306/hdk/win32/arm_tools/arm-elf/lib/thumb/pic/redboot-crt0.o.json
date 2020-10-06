@@ -1,0 +1,22 @@
+{
+    "redboot-crt0.o": {
+        "modified": "2006-05-23 13:10:00",
+        "size": "2.06KB",
+        "md5": "3ca8c338cae356b3e355e9c15191756e",
+        "sha256": "45f36da8f404f9781a9be6314d58da49f98bf9dcff0d95545656f4b14bf5b559"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'redboot-crt0.o'"
+    }
+}

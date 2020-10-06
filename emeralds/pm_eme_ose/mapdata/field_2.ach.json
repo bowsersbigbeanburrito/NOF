@@ -1,0 +1,21 @@
+{
+    "field_2.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "258.88KB",
+        "md5": "d09d78d87ef0b0ff2d9fb1da12398bd9",
+        "sha256": "1c491b541a8f969d1f22a54901d6294ab0fa659d1b8c7331fb1f3785a8112707"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "12",
+        "csv:delimiter": "comma",
+        "resourceName": "b'field_2.ach'"
+    }
+}

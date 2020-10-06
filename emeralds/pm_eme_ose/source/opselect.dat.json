@@ -1,0 +1,21 @@
+{
+    "opselect.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "26.33KB",
+        "md5": "bbebe42211858a10c90721aa6094106e",
+        "sha256": "7146b86f8ac9424ef1941e96989b11d066bc7ca7ea5fdbc74b61a212e18ca9fb"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "comma",
+        "resourceName": "b'opselect.dat'"
+    }
+}

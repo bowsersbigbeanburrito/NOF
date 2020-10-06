@@ -1,0 +1,201 @@
+{
+    "boot0_110905.zip": {
+        "modified": "2005-11-10 01:28:54",
+        "size": "74.49KB",
+        "md5": "ea3a68789adffee9c654857aeac6bf6f",
+        "sha256": "8109a68b2f14c4f4d021a36be70e162c31420f94386566af7e7e04d042389c02"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/plain; charset=windows-1252",
+            "text/x-assembly; charset=windows-1252",
+            "text/x-csrc; charset=windows-1252",
+            "text/plain; charset=windows-1252",
+            "text/x-chdr; charset=windows-1252",
+            "text/x-chdr; charset=windows-1252",
+            "text/x-chdr; charset=windows-1252",
+            "text/x-chdr; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "9",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "4"
+        ],
+        "resourceName": [
+            "b'boot0_110905.zip'",
+            "README",
+            "boot0_rom1.s",
+            "bootc.c",
+            "Makefile",
+            "iostypes.h",
+            "iop.h",
+            "ioserrno.h",
+            "ahb_fdl_defs.h"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "windows-1252",
+            "windows-1252",
+            "windows-1252",
+            "windows-1252",
+            "windows-1252",
+            "windows-1252",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "2450",
+            "3788",
+            "12294",
+            "875",
+            "1990",
+            "5652",
+            "1052",
+            "601738"
+        ],
+        "Last-Modified": [
+            "2005-09-28T16:30:10Z",
+            "2005-11-03T01:38:04Z",
+            "2005-11-10T05:18:42Z",
+            "2005-11-10T05:18:42Z",
+            "2005-09-28T16:30:10Z",
+            "2005-11-10T05:18:42Z",
+            "2005-09-28T16:30:10Z",
+            "2005-11-10T08:27:50Z"
+        ],
+        "Last-Save-Date": [
+            "2005-09-28T16:30:10Z",
+            "2005-11-03T01:38:04Z",
+            "2005-11-10T05:18:42Z",
+            "2005-11-10T05:18:42Z",
+            "2005-09-28T16:30:10Z",
+            "2005-11-10T05:18:42Z",
+            "2005-09-28T16:30:10Z",
+            "2005-11-10T08:27:50Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/README",
+            "/boot0_rom1.s",
+            "/bootc.c",
+            "/Makefile",
+            "/iostypes.h",
+            "/iop.h",
+            "/ioserrno.h",
+            "/ahb_fdl_defs.h"
+        ],
+        "date": [
+            "2005-09-28T16:30:10Z",
+            "2005-11-03T01:38:04Z",
+            "2005-11-10T05:18:42Z",
+            "2005-11-10T05:18:42Z",
+            "2005-09-28T16:30:10Z",
+            "2005-11-10T05:18:42Z",
+            "2005-09-28T16:30:10Z",
+            "2005-11-10T08:27:50Z"
+        ],
+        "dcterms:modified": [
+            "2005-09-28T16:30:10Z",
+            "2005-11-03T01:38:04Z",
+            "2005-11-10T05:18:42Z",
+            "2005-11-10T05:18:42Z",
+            "2005-09-28T16:30:10Z",
+            "2005-11-10T05:18:42Z",
+            "2005-09-28T16:30:10Z",
+            "2005-11-10T08:27:50Z"
+        ],
+        "embeddedRelationshipId": [
+            "README",
+            "boot0_rom1.s",
+            "bootc.c",
+            "Makefile",
+            "iostypes.h",
+            "iop.h",
+            "ioserrno.h",
+            "ahb_fdl_defs.h"
+        ],
+        "meta:save-date": [
+            "2005-09-28T16:30:10Z",
+            "2005-11-03T01:38:04Z",
+            "2005-11-10T05:18:42Z",
+            "2005-11-10T05:18:42Z",
+            "2005-09-28T16:30:10Z",
+            "2005-11-10T05:18:42Z",
+            "2005-09-28T16:30:10Z",
+            "2005-11-10T08:27:50Z"
+        ],
+        "modified": [
+            "2005-09-28T16:30:10Z",
+            "2005-11-03T01:38:04Z",
+            "2005-11-10T05:18:42Z",
+            "2005-11-10T05:18:42Z",
+            "2005-09-28T16:30:10Z",
+            "2005-11-10T05:18:42Z",
+            "2005-09-28T16:30:10Z",
+            "2005-11-10T08:27:50Z"
+        ]
+    }
+}

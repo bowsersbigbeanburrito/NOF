@@ -1,0 +1,21 @@
+{
+    "ice.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "258.62KB",
+        "md5": "616e299511b5fa37e76397baf4f54cd6",
+        "sha256": "0e611b98cd7e32acc35ff1e8ceebad2b5b8ddd5b512dc74914acf8ff1ace71c2"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "13",
+        "csv:delimiter": "comma",
+        "resourceName": "b'ice.ach'"
+    }
+}

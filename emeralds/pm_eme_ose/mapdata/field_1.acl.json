@@ -1,0 +1,21 @@
+{
+    "field_1.acl": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "1.93KB",
+        "md5": "166533a8ec47224b017b2c548cc7dad9",
+        "sha256": "63352ab399fad611ffea73a1fe0d2c128538c3c49341411e9a32fdc4e97e3f2e"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'field_1.acl'"
+    }
+}

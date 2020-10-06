@@ -1,0 +1,22 @@
+{
+    "tom1.o": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "8.73KB",
+        "md5": "6c5529a198710c991ce21727586e59c7",
+        "sha256": "dddb42d8390fd16b69fdeb2ddb622d5307a7c7ebeefce6cadbb5d53017a0a284"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'tom1.o'"
+    }
+}

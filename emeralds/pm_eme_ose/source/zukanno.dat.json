@@ -1,0 +1,21 @@
+{
+    "zukanno.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "3.14KB",
+        "md5": "2074155694af7176ead464ba7574f341",
+        "sha256": "d913fd5383eab5432f89c7e24ead15e5be5122bd9d12414138a7c0c6b0ee619d"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'zukanno.dat'"
+    }
+}

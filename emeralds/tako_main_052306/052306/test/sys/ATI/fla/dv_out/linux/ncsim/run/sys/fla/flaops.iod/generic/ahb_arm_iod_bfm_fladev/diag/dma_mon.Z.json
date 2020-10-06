@@ -1,0 +1,40 @@
+{
+    "dma_mon.Z": {
+        "modified": "2005-07-14 19:21:38",
+        "size": "14.6KB",
+        "md5": "7ba58e3c5f4596e185d551f6a8a2e253",
+        "sha256": "05d99f5f6d4e18f13d4d9408e13972f5edcc7ad61247f2c104fd6273d1552d37"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "3"
+        ],
+        "resourceName": [
+            "b'dma_mon.Z'",
+            "b'dma_mon.Z'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'dma_mon.Z'"
+    }
+}

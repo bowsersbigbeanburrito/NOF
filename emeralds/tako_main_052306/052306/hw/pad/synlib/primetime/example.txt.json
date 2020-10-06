@@ -1,0 +1,20 @@
+{
+    "example.txt": {
+        "modified": "2005-10-14 22:56:01",
+        "size": "0.21KB",
+        "md5": "6d4aa2dcdd2698ed62274c6f0832f887",
+        "sha256": "eba8f4ccce86cabd7546439106c37fb6d0c4bc0828984da50aa82e475032e796"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/plain; charset=windows-1252",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'example.txt'"
+    }
+}

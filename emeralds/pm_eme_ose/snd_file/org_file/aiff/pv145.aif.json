@@ -1,0 +1,24 @@
+{
+    "pv145.aif": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "15.03KB",
+        "md5": "4e69be9a18af3e2efc193c1b2c2e2af4",
+        "sha256": "f85c5803b6dc79067dfbf880d83a03009c3bf8bb25f810849860be37cfb4c750"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'pv145.aif'",
+        "samplerate": "10512.0",
+        "xmpDM:audioSampleRate": "10512",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

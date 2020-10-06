@@ -1,0 +1,21 @@
+{
+    "team.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "17.58KB",
+        "md5": "4fa208714328776d1a6c0f213eee7837",
+        "sha256": "99ad0dc5ba7c56a1deaba67139bceddd457d9c94e71a3b6034caec7730894577"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'team.dat'"
+    }
+}

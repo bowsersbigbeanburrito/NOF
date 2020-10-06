@@ -1,0 +1,21 @@
+{
+    "default.lst": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "21.07KB",
+        "md5": "c997a6c688c4bc40f18e30b4f745e7aa",
+        "sha256": "9dfda4e85de46ae6c589f2e06e84fbaf4f054ce64e5942849df331aef24b6316"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "tab",
+        "resourceName": "b'default.lst'"
+    }
+}

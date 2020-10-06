@@ -1,0 +1,21 @@
+{
+    "i_msg.ndw": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "0.48KB",
+        "md5": "5466c677a2041ee31672f1c1414f63d1",
+        "sha256": "913c603c46805fb3776da4c3a8a54aa7341c413db83359cd959269f0949fb3d1"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'i_msg.ndw'"
+    }
+}

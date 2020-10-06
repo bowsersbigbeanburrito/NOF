@@ -1,0 +1,21 @@
+{
+    "pokeanm.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "4.4KB",
+        "md5": "b8d38f50ae1fc56b0f226e8d29cd11c0",
+        "sha256": "b3d9c30096e1825b800b9f2508de2d6c8342872e86802ed427e0882d82e0328d"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'pokeanm.dat'"
+    }
+}

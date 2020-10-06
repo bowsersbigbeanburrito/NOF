@@ -1,0 +1,21 @@
+{
+    "joroactm.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "22.66KB",
+        "md5": "688f09412e6f78f35667c0574597c624",
+        "sha256": "3f146377028091ebb29c79bbf79225e31348d514869205c2a35bd68df1b020b2"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'joroactm.ach'"
+    }
+}

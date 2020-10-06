@@ -1,0 +1,21 @@
+{
+    "tane_tbl2.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "2.0KB",
+        "md5": "e4c4c046cfd6042915ccb1580ce22da5",
+        "sha256": "3bf87deaa0eff0b9f90c0fbd0e4340e9932b4b848f67a62e0bc3514efe666995"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tane_tbl2.dat'"
+    }
+}

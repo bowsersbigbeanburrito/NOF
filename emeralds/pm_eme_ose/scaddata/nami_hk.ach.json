@@ -1,0 +1,21 @@
+{
+    "nami_hk.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "8.39KB",
+        "md5": "83bc968fa8a75175caa8a796c6a18ea1",
+        "sha256": "c48efcad95ff1a0d7a9f309a8c8a8656c4c7f3ccac51f1be0c66bd14b615167f"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'nami_hk.ach'"
+    }
+}

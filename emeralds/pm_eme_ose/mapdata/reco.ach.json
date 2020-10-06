@@ -1,0 +1,21 @@
+{
+    "reco.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "88.62KB",
+        "md5": "8aabd4547fe0c4bb7f5cb43c98dfdfa3",
+        "sha256": "b167fb5061764879d47a3c22f0e0676c41da3be76d01037ba60b536fdf741198"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "5",
+        "csv:delimiter": "comma",
+        "resourceName": "b'reco.ach'"
+    }
+}

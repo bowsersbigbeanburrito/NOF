@@ -1,0 +1,21 @@
+{
+    "debug_only_messages.txt": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "201.99KB",
+        "md5": "b78944fb2d20958226248d729d9084c1",
+        "sha256": "c139c4b92b27c010396c64914c6c7eb2f91c2d049d7a7021af15045b63c35307"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "6",
+        "csv:delimiter": "tab",
+        "resourceName": "b'debug_only_messages.txt'"
+    }
+}

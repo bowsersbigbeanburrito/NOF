@@ -1,0 +1,21 @@
+{
+    "tonnel.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "43.57KB",
+        "md5": "7aec857fa7a63a1e8be03de5024097f8",
+        "sha256": "54639b6a01048b906aa132a03c753e50fb3043ebd41df06d037747d3d4f69410"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "4",
+        "csv:delimiter": "comma",
+        "resourceName": "b'tonnel.dat'"
+    }
+}

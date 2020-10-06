@@ -1,0 +1,21 @@
+{
+    "op_aquam.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "17.04KB",
+        "md5": "02c1224978dc95cac535fe61cd440cda",
+        "sha256": "40a54f2e927d0b3fe7f4caff6fcf478a3c4880709434f48497f7a6e2b4348580"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_aquam.ach'"
+    }
+}

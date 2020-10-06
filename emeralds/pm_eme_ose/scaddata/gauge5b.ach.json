@@ -1,0 +1,21 @@
+{
+    "gauge5b.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "16.62KB",
+        "md5": "558d6270397c48d2b568eeff923b787b",
+        "sha256": "3c114d8e91a9677d25a5e92d1122bdf623ce103afbf56152dadd6cc45b6df00d"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'gauge5b.ach'"
+    }
+}

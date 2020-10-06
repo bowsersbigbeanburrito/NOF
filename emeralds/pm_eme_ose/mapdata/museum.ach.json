@@ -1,0 +1,21 @@
+{
+    "museum.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "80.54KB",
+        "md5": "de7d2a3f3c1b8e1cf06b10de8c0e06d6",
+        "sha256": "0dd47f2bbe8aa6995525d388f6b24089ce157ede853c86e77e75fd14812e82c3"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "5",
+        "csv:delimiter": "comma",
+        "resourceName": "b'museum.ach'"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "usb2hcore_ati_dig.XTALK.min.Universal.sdf.gz": {
+        "modified": "2006-03-21 16:52:59",
+        "size": "162.24KB",
+        "md5": "b85242da7a6feec791bb5942f7288c33",
+        "sha256": "8d98b8b0da91cffc079f9a95ce9cde670aee6a0b83106ca1e91691c711760454"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "8",
+            "6"
+        ],
+        "resourceName": [
+            "b'usb2hcore_ati_dig.XTALK.min.Universal.sdf.gz'",
+            "b'usb2hcore_ati_dig.XTALK.min.Universal.sdf.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'usb2hcore_ati_dig.XTALK.min.Universal.sdf.gz'"
+    }
+}

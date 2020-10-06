@@ -1,0 +1,21 @@
+{
+    "rlt_ev00.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "13.88KB",
+        "md5": "fa1ceab972f533ca64b8607a2bb663c0",
+        "sha256": "19885b1fd59f4fad01dad297c6b78cd88446f5fb84354c71da9ea3ac0b81fced"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "comma",
+        "resourceName": "b'rlt_ev00.ach'"
+    }
+}

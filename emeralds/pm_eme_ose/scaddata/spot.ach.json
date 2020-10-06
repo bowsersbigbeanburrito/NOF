@@ -1,0 +1,21 @@
+{
+    "spot.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "21.24KB",
+        "md5": "8bb1f8f8c003e21117624736c4332fd9",
+        "sha256": "5bbebef5f174a467e7bd12c9c38e06b2949f5dcb5624928884d32c84ec8e0715"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'spot.ach'"
+    }
+}

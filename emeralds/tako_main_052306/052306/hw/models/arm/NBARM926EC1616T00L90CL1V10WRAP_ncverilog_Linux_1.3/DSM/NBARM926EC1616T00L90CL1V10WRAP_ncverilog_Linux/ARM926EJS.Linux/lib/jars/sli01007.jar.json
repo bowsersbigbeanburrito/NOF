@@ -1,0 +1,124 @@
+{
+    "sli01007.jar": {
+        "modified": "2005-08-26 01:46:29",
+        "size": "6.45KB",
+        "md5": "2a3d2b1ef4f92b8e41ea4fc48799dcb8",
+        "sha256": "b8b82eeb9cf251065d3104e2a7db7947b98073484abd84b5e962fc680c2af36d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/java-archive",
+            "text/plain; charset=windows-1252",
+            "application/java-vm",
+            "application/octet-stream",
+            "application/java-vm"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ],
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.asm.ClassParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "9",
+            "1",
+            "6",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'sli01007.jar'",
+            "META-INF/MANIFEST.MF",
+            "SLI.class",
+            "sli/sli.dependency",
+            "SLI.class"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": [
+            "-1",
+            "-1",
+            "-1",
+            "-1"
+        ],
+        "Last-Modified": [
+            "1999-09-03T21:32:40Z",
+            "1999-09-02T22:06:30Z",
+            "1999-09-02T22:06:30Z",
+            "1999-09-03T21:32:16Z"
+        ],
+        "Last-Save-Date": [
+            "1999-09-03T21:32:40Z",
+            "1999-09-02T22:06:30Z",
+            "1999-09-02T22:06:30Z",
+            "1999-09-03T21:32:16Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MANIFEST.MF",
+            "/SLI.class",
+            "/sli.dependency",
+            "/SLI.class"
+        ],
+        "date": [
+            "1999-09-03T21:32:40Z",
+            "1999-09-02T22:06:30Z",
+            "1999-09-02T22:06:30Z",
+            "1999-09-03T21:32:16Z"
+        ],
+        "dcterms:modified": [
+            "1999-09-03T21:32:40Z",
+            "1999-09-02T22:06:30Z",
+            "1999-09-02T22:06:30Z",
+            "1999-09-03T21:32:16Z"
+        ],
+        "embeddedRelationshipId": [
+            "META-INF/MANIFEST.MF",
+            "sli/SLI.class",
+            "sli/sli.dependency",
+            "licensing/SLI.class"
+        ],
+        "meta:save-date": [
+            "1999-09-03T21:32:40Z",
+            "1999-09-02T22:06:30Z",
+            "1999-09-02T22:06:30Z",
+            "1999-09-03T21:32:16Z"
+        ],
+        "modified": [
+            "1999-09-03T21:32:40Z",
+            "1999-09-02T22:06:30Z",
+            "1999-09-02T22:06:30Z",
+            "1999-09-03T21:32:16Z"
+        ],
+        "dc:title": [
+            "SLI",
+            "SLI"
+        ],
+        "title": [
+            "SLI",
+            "SLI"
+        ]
+    }
+}

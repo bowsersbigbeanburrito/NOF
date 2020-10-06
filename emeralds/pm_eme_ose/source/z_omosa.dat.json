@@ -1,0 +1,21 @@
+{
+    "z_omosa.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "8.21KB",
+        "md5": "b7b219ea7f88dc3f7d2c0b583244206e",
+        "sha256": "a85705a6d2b2ed617b411c88026de6ba8e3450beb99b6d28ac1efde56f8dd904"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'z_omosa.dat'"
+    }
+}

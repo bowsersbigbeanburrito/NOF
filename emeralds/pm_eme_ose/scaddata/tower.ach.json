@@ -1,0 +1,21 @@
+{
+    "tower.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "9.13KB",
+        "md5": "e0e987c4da1e7b61eed93f1bfd6a26e5",
+        "sha256": "56df3d281b0081898fc5b7696ce083b149b777fad7494144ac85ba14694fa94b"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'tower.ach'"
+    }
+}

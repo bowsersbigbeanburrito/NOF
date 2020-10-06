@@ -1,0 +1,21 @@
+{
+    "nidai.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "15.87KB",
+        "md5": "5fafd4a3d36f022414a9ac0aeb21ee56",
+        "sha256": "1afa38a76c6ff2f803adb3aa3f862a346fe3d9a512e4b355fbbaf33e07bbf907"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "comma",
+        "resourceName": "b'nidai.ach'"
+    }
+}

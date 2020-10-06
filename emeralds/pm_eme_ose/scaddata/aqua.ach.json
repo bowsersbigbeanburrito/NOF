@@ -1,0 +1,21 @@
+{
+    "aqua.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "64.4KB",
+        "md5": "b0a1749d3f07915fc13683b6f042b987",
+        "sha256": "a1107e92ab24df2b3a8f7f8e275c30ba7b1a7bd7c649e6daad365ae44ffc24f4"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "4",
+        "csv:delimiter": "comma",
+        "resourceName": "b'aqua.ach'"
+    }
+}

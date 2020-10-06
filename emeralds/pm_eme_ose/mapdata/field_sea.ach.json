@@ -1,0 +1,21 @@
+{
+    "field_sea.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "218.39KB",
+        "md5": "fc3d779a9ad08d79d75ef6b530933d9e",
+        "sha256": "b97a5103cacdc1182922312c9a351e8f41e5dbb39dbb7c7f1b860bedda493f6f"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "10",
+        "csv:delimiter": "comma",
+        "resourceName": "b'field_sea.ach'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "light.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "3.4KB",
+        "md5": "fdaf94d5f1c9d48d9fa30f386611a79c",
+        "sha256": "2d97ee7562855bd02d346e92cbb68ee26de9bc12aeca64306b5a58c3a7fd920f"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'light.ach'"
+    }
+}

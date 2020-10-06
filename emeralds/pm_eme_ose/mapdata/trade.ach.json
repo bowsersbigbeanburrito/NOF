@@ -1,0 +1,21 @@
+{
+    "trade.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "159.45KB",
+        "md5": "e2dae72f50065beb806ab88917f665c7",
+        "sha256": "c839d64ba223c7746f07d27309651ae9dab56de975d3eeceaaa5d2a33aa95619"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "8",
+        "csv:delimiter": "comma",
+        "resourceName": "b'trade.ach'"
+    }
+}

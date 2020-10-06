@@ -1,0 +1,21 @@
+{
+    "flag1.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "6.12KB",
+        "md5": "ae97a4150d535138b75207f1c86c2f18",
+        "sha256": "960cb81289979da9193eab504c6bc9b025b25cfe7753cd783fbed0f91e3a15db"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'flag1.ach'"
+    }
+}

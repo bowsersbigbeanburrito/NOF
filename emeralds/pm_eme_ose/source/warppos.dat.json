@@ -1,0 +1,21 @@
+{
+    "warppos.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "1.59KB",
+        "md5": "6474f9d51abcd9c341d4f367c1e55f5d",
+        "sha256": "d51e0b69237b08375bbf13ce4064a3c32819c8e7284e409edfa4bc3640642a7f"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'warppos.dat'"
+    }
+}

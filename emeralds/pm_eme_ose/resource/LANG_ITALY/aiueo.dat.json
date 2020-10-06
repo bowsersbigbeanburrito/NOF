@@ -1,0 +1,21 @@
+{
+    "aiueo.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "7.11KB",
+        "md5": "2ab6cb98eba766670f6e580fad98b249",
+        "sha256": "3ed4bb8a6e77bcfbe1d17804afbee3041da015f21aa8b7625ce4dab4a1b206dd"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'aiueo.dat'"
+    }
+}

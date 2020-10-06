@@ -1,0 +1,75 @@
+{
+    "sfpe.PPCEABI.a": {
+        "modified": "2006-05-23 13:12:06",
+        "size": "12.89KB",
+        "md5": "13685e9491b3bf4d7d39e267daec292b",
+        "sha256": "440bc334dc89136955633859dc07fc2f34eb4e459468d2e26615ea7754f6d85e"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'sfpe.PPCEABI.a'",
+            "ppcsfpe.o"
+        ],
+        "Content-Length": [
+            "662",
+            "12408"
+        ],
+        "Last-Modified": [
+            "2003-06-28T19:03:57Z",
+            "2003-05-20T12:20:56Z"
+        ],
+        "Last-Save-Date": [
+            "2003-06-28T19:03:57Z",
+            "2003-05-20T12:20:56Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ppcsfpe.o"
+        ],
+        "date": [
+            "2003-06-28T19:03:57Z",
+            "2003-05-20T12:20:56Z"
+        ],
+        "dcterms:modified": [
+            "2003-06-28T19:03:57Z",
+            "2003-05-20T12:20:56Z"
+        ],
+        "meta:save-date": [
+            "2003-06-28T19:03:57Z",
+            "2003-05-20T12:20:56Z"
+        ],
+        "modified": [
+            "2003-06-28T19:03:57Z",
+            "2003-05-20T12:20:56Z"
+        ],
+        "embeddedRelationshipId": "ppcsfpe.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

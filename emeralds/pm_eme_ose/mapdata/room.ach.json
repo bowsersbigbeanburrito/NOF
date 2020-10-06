@@ -1,0 +1,21 @@
+{
+    "room.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "126.82KB",
+        "md5": "d8ea8f12d6d46b15bb4d2dc7598f62e5",
+        "sha256": "c688d21fca5d75ba7a8d487683a0f8d2fd4d43fb15ca9711839fb1b42be19100"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "7",
+        "csv:delimiter": "comma",
+        "resourceName": "b'room.ach'"
+    }
+}

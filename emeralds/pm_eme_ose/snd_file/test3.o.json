@@ -1,0 +1,22 @@
+{
+    "test3.o": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "12.42KB",
+        "md5": "e3d380252ae90e8e896afbb755bf33ed",
+        "sha256": "fd0be872b44cae0d38573ce749a3fc06c099fcf64f37715699d48e71be8ebd43"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'test3.o'"
+    }
+}

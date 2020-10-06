@@ -1,0 +1,21 @@
+{
+    "iteminfo.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "82.87KB",
+        "md5": "e9dc0ef0201cb93f8a6c35861bb310e8",
+        "sha256": "95635d8d99e82e07e786e9834444dd00e08a3644ffa8ac56d67d11ab942330d7"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "tab",
+        "resourceName": "b'iteminfo.dat'"
+    }
+}

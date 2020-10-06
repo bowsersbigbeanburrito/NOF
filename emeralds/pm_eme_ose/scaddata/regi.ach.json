@@ -1,0 +1,21 @@
+{
+    "regi.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "13.37KB",
+        "md5": "86d184ddfc253ff0b2bcf05f951b40a6",
+        "sha256": "67c9775293c7fb3accef05d3effcb1d1acbd7b69d864fbe6f27551835e60a22d"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'regi.ach'"
+    }
+}

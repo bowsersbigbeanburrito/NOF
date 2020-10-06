@@ -1,0 +1,182 @@
+{
+    "boot0.zip": {
+        "modified": "2005-09-27 20:15:38",
+        "size": "71.19KB",
+        "md5": "db42ecc7765d8053ba3ba413b55426a6",
+        "sha256": "70d2660a6d4967cfe5f4edde50f8a1e37182773114558ed84ece65278d8d5a87"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/x-assembly; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "7",
+            "3",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'boot0.zip'",
+            "boot0/ahb_fdl_defs.h",
+            "boot0/boot0_sram1.s",
+            "boot0/bootc.c",
+            "boot0/iop.h",
+            "boot0/ioserrno.h",
+            "boot0/iostypes.h",
+            "boot0/README.txt"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "578804",
+            "3517",
+            "10954",
+            "4795",
+            "1026",
+            "1904",
+            "2392"
+        ],
+        "Last-Modified": [
+            "2005-09-28T02:50:42Z",
+            "2005-09-28T03:11:06Z",
+            "2005-09-28T02:58:56Z",
+            "2005-09-28T03:11:14Z",
+            "2005-08-08T16:22:56Z",
+            "2005-09-28T02:59:58Z",
+            "2005-09-28T03:14:34Z"
+        ],
+        "Last-Save-Date": [
+            "2005-09-28T02:50:42Z",
+            "2005-09-28T03:11:06Z",
+            "2005-09-28T02:58:56Z",
+            "2005-09-28T03:11:14Z",
+            "2005-08-08T16:22:56Z",
+            "2005-09-28T02:59:58Z",
+            "2005-09-28T03:14:34Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/ahb_fdl_defs.h",
+            "/boot0_sram1.s",
+            "/bootc.c",
+            "/iop.h",
+            "/ioserrno.h",
+            "/iostypes.h",
+            "/README.txt"
+        ],
+        "date": [
+            "2005-09-28T02:50:42Z",
+            "2005-09-28T03:11:06Z",
+            "2005-09-28T02:58:56Z",
+            "2005-09-28T03:11:14Z",
+            "2005-08-08T16:22:56Z",
+            "2005-09-28T02:59:58Z",
+            "2005-09-28T03:14:34Z"
+        ],
+        "dcterms:modified": [
+            "2005-09-28T02:50:42Z",
+            "2005-09-28T03:11:06Z",
+            "2005-09-28T02:58:56Z",
+            "2005-09-28T03:11:14Z",
+            "2005-08-08T16:22:56Z",
+            "2005-09-28T02:59:58Z",
+            "2005-09-28T03:14:34Z"
+        ],
+        "embeddedRelationshipId": [
+            "boot0/ahb_fdl_defs.h",
+            "boot0/boot0_sram1.s",
+            "boot0/bootc.c",
+            "boot0/iop.h",
+            "boot0/ioserrno.h",
+            "boot0/iostypes.h",
+            "boot0/README.txt"
+        ],
+        "meta:save-date": [
+            "2005-09-28T02:50:42Z",
+            "2005-09-28T03:11:06Z",
+            "2005-09-28T02:58:56Z",
+            "2005-09-28T03:11:14Z",
+            "2005-08-08T16:22:56Z",
+            "2005-09-28T02:59:58Z",
+            "2005-09-28T03:14:34Z"
+        ],
+        "modified": [
+            "2005-09-28T02:50:42Z",
+            "2005-09-28T03:11:06Z",
+            "2005-09-28T02:58:56Z",
+            "2005-09-28T03:11:14Z",
+            "2005-08-08T16:22:56Z",
+            "2005-09-28T02:59:58Z",
+            "2005-09-28T03:14:34Z"
+        ]
+    }
+}

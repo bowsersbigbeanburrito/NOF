@@ -1,0 +1,382 @@
+{
+    "fla_tests.tgz": {
+        "modified": "2005-07-13 18:44:26",
+        "size": "35.0KB",
+        "md5": "53a0f1ff4a3cc92a89d2dcf88044d187",
+        "sha256": "1627b550485061287bc43486c61a1ea8364bfb73f07cb316328b330ece38c4f7"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "application/x-sh; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "application/x-gtar"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.pkg.PackageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "2",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "10",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "10"
+        ],
+        "resourceName": [
+            "b'fla_tests.tgz'",
+            "fl/CVS/Entries",
+            "fl/CVS/Repository",
+            "fl/CVS/Root",
+            "fl/flash",
+            "fl/fl_access_test.c",
+            "fl/fl_bitwalk_test.c",
+            "fl/fl_ecc_test.c",
+            "fl/fl_misc_test.c",
+            "fl/fl_ops.c",
+            "fl/fl_ops.h",
+            "fl/fl_ops_test.c",
+            "fl/fl_performance_test.c",
+            "fl/fl_stress_test.c",
+            "fl/fl_utils.c",
+            "fl/fl_utils.h",
+            "fl/Makefile",
+            "fl/README",
+            "b'fla_tests.tgz'"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "638",
+            "21",
+            "60",
+            "901",
+            "32301",
+            "22658",
+            "26947",
+            "36086",
+            "65877",
+            "3922",
+            "25126",
+            "38224",
+            "11191",
+            "3922",
+            "1764",
+            "500",
+            "2383"
+        ],
+        "Last-Modified": [
+            "2005-07-14T01:41:29Z",
+            "2005-03-22T22:21:27Z",
+            "2005-06-08T06:27:43Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-14T01:41:29Z",
+            "2005-07-14T01:41:29Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-12T01:34:24Z",
+            "2005-05-18T20:56:22Z",
+            "2005-04-24T05:53:22Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-14T01:41:29Z",
+            "2005-03-22T22:21:27Z",
+            "2005-06-08T06:27:43Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-14T01:41:29Z",
+            "2005-07-14T01:41:29Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-12T01:34:24Z",
+            "2005-05-18T20:56:22Z",
+            "2005-04-24T05:53:22Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/b'fla_tests.tgz'/Entries",
+            "/b'fla_tests.tgz'/Repository",
+            "/b'fla_tests.tgz'/Root",
+            "/b'fla_tests.tgz'/flash",
+            "/b'fla_tests.tgz'/fl_access_test.c",
+            "/b'fla_tests.tgz'/fl_bitwalk_test.c",
+            "/b'fla_tests.tgz'/fl_ecc_test.c",
+            "/b'fla_tests.tgz'/fl_misc_test.c",
+            "/b'fla_tests.tgz'/fl_ops.c",
+            "/b'fla_tests.tgz'/fl_ops.h",
+            "/b'fla_tests.tgz'/fl_ops_test.c",
+            "/b'fla_tests.tgz'/fl_performance_test.c",
+            "/b'fla_tests.tgz'/fl_stress_test.c",
+            "/b'fla_tests.tgz'/fl_utils.c",
+            "/b'fla_tests.tgz'/fl_utils.h",
+            "/b'fla_tests.tgz'/Makefile",
+            "/b'fla_tests.tgz'/README",
+            "/b'fla_tests.tgz'"
+        ],
+        "date": [
+            "2005-07-14T01:41:29Z",
+            "2005-03-22T22:21:27Z",
+            "2005-06-08T06:27:43Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-14T01:41:29Z",
+            "2005-07-14T01:41:29Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-12T01:34:24Z",
+            "2005-05-18T20:56:22Z",
+            "2005-04-24T05:53:22Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-14T01:41:29Z",
+            "2005-03-22T22:21:27Z",
+            "2005-06-08T06:27:43Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-14T01:41:29Z",
+            "2005-07-14T01:41:29Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-12T01:34:24Z",
+            "2005-05-18T20:56:22Z",
+            "2005-04-24T05:53:22Z"
+        ],
+        "embeddedRelationshipId": [
+            "fl/CVS/Entries",
+            "fl/CVS/Repository",
+            "fl/CVS/Root",
+            "fl/flash",
+            "fl/fl_access_test.c",
+            "fl/fl_bitwalk_test.c",
+            "fl/fl_ecc_test.c",
+            "fl/fl_misc_test.c",
+            "fl/fl_ops.c",
+            "fl/fl_ops.h",
+            "fl/fl_ops_test.c",
+            "fl/fl_performance_test.c",
+            "fl/fl_stress_test.c",
+            "fl/fl_utils.c",
+            "fl/fl_utils.h",
+            "fl/Makefile",
+            "fl/README"
+        ],
+        "meta:save-date": [
+            "2005-07-14T01:41:29Z",
+            "2005-03-22T22:21:27Z",
+            "2005-06-08T06:27:43Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-14T01:41:29Z",
+            "2005-07-14T01:41:29Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-12T01:34:24Z",
+            "2005-05-18T20:56:22Z",
+            "2005-04-24T05:53:22Z"
+        ],
+        "modified": [
+            "2005-07-14T01:41:29Z",
+            "2005-03-22T22:21:27Z",
+            "2005-06-08T06:27:43Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-14T01:41:29Z",
+            "2005-07-14T01:41:29Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-07T20:19:15Z",
+            "2005-07-12T01:34:24Z",
+            "2005-07-12T01:34:24Z",
+            "2005-05-18T20:56:22Z",
+            "2005-04-24T05:53:22Z"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "mapimg.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "45.95KB",
+        "md5": "0bb26d1dbb388ebd2fc4b7af8db499c4",
+        "sha256": "bc027d6ba54959ca992a31ee6d62f7b404c483c3ee80d9ec2c89adb126328bf4"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "4",
+        "csv:delimiter": "comma",
+        "resourceName": "b'mapimg.dat'"
+    }
+}

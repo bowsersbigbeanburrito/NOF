@@ -1,0 +1,21 @@
+{
+    "tenji_tbl.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "5.33KB",
+        "md5": "99b54860969c24101e07eeacdb778fdf",
+        "sha256": "70b36a272a8f1e7eb6ce7bda90410b3513bc1be8be928370c65d263df2d5bf48"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'tenji_tbl.dat'"
+    }
+}

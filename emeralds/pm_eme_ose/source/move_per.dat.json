@@ -1,0 +1,21 @@
+{
+    "move_per.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "0.71KB",
+        "md5": "4eff7edb3b4e7dfa98c650870dfa3480",
+        "sha256": "ca15ccb4ce1a30bd0c14431d82e0604292e2c10a55a829fd0eb79db81d07c555"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'move_per.dat'"
+    }
+}

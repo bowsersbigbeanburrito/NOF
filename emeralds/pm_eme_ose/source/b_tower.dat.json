@@ -1,0 +1,21 @@
+{
+    "b_tower.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "40.23KB",
+        "md5": "a3c6bb067a704574a495fe77efb86a47",
+        "sha256": "f18af8c276568e7e31452dd1fd8e58eff9ccfbe6f2f5da6308bab300237797ad"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "tab",
+        "resourceName": "b'b_tower.dat'"
+    }
+}

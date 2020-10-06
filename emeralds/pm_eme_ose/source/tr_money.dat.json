@@ -1,0 +1,21 @@
+{
+    "tr_money.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "1.88KB",
+        "md5": "a2f94000e9123d7556c2abe38f7f7843",
+        "sha256": "5a75eea4fbad6fd767ec68889224121cbf2a00950e956b4dec238d4093b7d2f5"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'tr_money.dat'"
+    }
+}

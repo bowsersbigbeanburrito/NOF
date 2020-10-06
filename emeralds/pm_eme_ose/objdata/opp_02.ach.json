@@ -1,0 +1,21 @@
+{
+    "opp_02.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "16.96KB",
+        "md5": "e4413cc6d6ad1bf8b4432d64ab907f80",
+        "sha256": "ee049d7f65e3f082cf56a06d139c964a90f7a3c2add1bceff12e576909c28e36"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "comma",
+        "resourceName": "b'opp_02.ach'"
+    }
+}

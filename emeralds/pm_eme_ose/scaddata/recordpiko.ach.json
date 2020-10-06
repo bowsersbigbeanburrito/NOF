@@ -1,0 +1,21 @@
+{
+    "recordpiko.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "3.15KB",
+        "md5": "0151f8992c02d6e2fd308c31b9abec62",
+        "sha256": "55d476db1916746a4adaf1dd95b175f732dec7202bb1b1cd9dca44e7b369618b"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'recordpiko.ach'"
+    }
+}

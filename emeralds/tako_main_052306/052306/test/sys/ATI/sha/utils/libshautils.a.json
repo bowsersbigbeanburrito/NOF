@@ -1,0 +1,123 @@
+{
+    "libshautils.a": {
+        "modified": "2005-07-29 15:40:24",
+        "size": "59.12KB",
+        "md5": "933bb667ef51aca76b15b4d3e9f0ecc4",
+        "sha256": "a784f241282e6e72401b46b8b73c7ea11cd82c08d2e18fc3267d2dfdec888db9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libshautils.a'",
+            "sha1.o",
+            "sha_hal.o",
+            "sha_test.o"
+        ],
+        "Content-Length": [
+            "238",
+            "5580",
+            "25928",
+            "28548"
+        ],
+        "Last-Modified": [
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z"
+        ],
+        "Last-Save-Date": [
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/sha1.o",
+            "/sha_hal.o",
+            "/sha_test.o"
+        ],
+        "date": [
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z"
+        ],
+        "dcterms:modified": [
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z"
+        ],
+        "meta:save-date": [
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z"
+        ],
+        "modified": [
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z",
+            "2005-07-29T22:40:24Z"
+        ],
+        "embeddedRelationshipId": [
+            "sha1.o",
+            "sha_hal.o",
+            "sha_test.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "ship.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "143.51KB",
+        "md5": "29d046f6025896c014e723e69ce6fd75",
+        "sha256": "f196d87cc6588fc4b77f571abd276bbf64fc13401a1a0fabd86152e460c8d024"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "8",
+        "csv:delimiter": "comma",
+        "resourceName": "b'ship.ach'"
+    }
+}

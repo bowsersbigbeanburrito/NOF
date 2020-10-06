@@ -1,0 +1,21 @@
+{
+    "op_jrsnr.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "16.96KB",
+        "md5": "d5e09c989dc196798dcbe429d4fa3a15",
+        "sha256": "732fab9a227253901fc83c009cb7a01d6d847ffc49c54aa895347e3aa84db9db"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_jrsnr.ach'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "pv_tbl.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "1.02KB",
+        "md5": "b93f50ae38844de19fe4952ebd72bbb2",
+        "sha256": "e622aeb256258e7a97f37802a42fe53b15d255a81c0d9d8d2028434e4cfb0996"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'pv_tbl.dat'"
+    }
+}

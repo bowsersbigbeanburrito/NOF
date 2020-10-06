@@ -1,0 +1,21 @@
+{
+    "singeroyaji.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "171.6KB",
+        "md5": "900a55e2e5c1445f40063d1a8bef653c",
+        "sha256": "9a2a2a559d1a8acfe0566e5cea5f68999b50f12b7d7f2a76077834d889a928d9"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "13",
+        "csv:delimiter": "comma",
+        "resourceName": "b'singeroyaji.dat'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "op_lati.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "11.4KB",
+        "md5": "312daa9bfc79d0e853b9b86f20a0f7b8",
+        "sha256": "b7941ed53228890c4ca9f705c67527f3e8534e8f68fdc292a49aa1354f973cde"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'op_lati.ach'"
+    }
+}

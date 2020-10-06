@@ -1,0 +1,21 @@
+{
+    "ropeway.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "15.09KB",
+        "md5": "87da14c7bb41afe05a4dbbe397c9cb12",
+        "sha256": "17ad55161324243cf9fb0a342d166e74244964f3c2f5fe003382552e58fa8923"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'ropeway.ach'"
+    }
+}

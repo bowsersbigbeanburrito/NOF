@@ -1,0 +1,21 @@
+{
+    "union.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "187.78KB",
+        "md5": "99d3e810519eea9c299f1fb293791f12",
+        "sha256": "2d4f27245ac5b7e6c7371bc5e13425d99cb249f872a1a82f3fbf943cfe91f7a2"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "9",
+        "csv:delimiter": "comma",
+        "resourceName": "b'union.ach'"
+    }
+}

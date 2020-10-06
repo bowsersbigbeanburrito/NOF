@@ -1,0 +1,21 @@
+{
+    "zenkoku.dat": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "3.14KB",
+        "md5": "fb9b0dd24c453a46d8040fc432b4754a",
+        "sha256": "f637dab7b905f01424bb1f4fa0e86c806f412c58c003941d20687d333322752d"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'zenkoku.dat'"
+    }
+}

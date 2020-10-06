@@ -1,0 +1,40 @@
+{
+    "aisink.tr.gz": {
+        "modified": "2005-07-19 23:50:46",
+        "size": "0.43KB",
+        "md5": "77e24b7cf7aeaaad17f3c9a808e97883",
+        "sha256": "0e784b7adb0ad44f4fc9fdacc93aa7890fc7606711824d2efe4aa1bf094e6ce9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'aisink.tr.gz'",
+            "b'aisink.tr.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'aisink.tr.gz'"
+    }
+}

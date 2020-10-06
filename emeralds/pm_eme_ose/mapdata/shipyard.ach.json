@@ -1,0 +1,21 @@
+{
+    "shipyard.ach": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "228.25KB",
+        "md5": "a29c06dd750ebca3e56144ddae0fbfa3",
+        "sha256": "ed3a2d75bbc3de388a9474928bd7e8a3ef3d7d8a83ccd36630dffc3aea8fb2fa"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "11",
+        "csv:delimiter": "comma",
+        "resourceName": "b'shipyard.ach'"
+    }
+}

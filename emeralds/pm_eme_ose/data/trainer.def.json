@@ -1,0 +1,21 @@
+{
+    "trainer.def": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "19.77KB",
+        "md5": "7e60ab26ecfc12495d8c1cd989e2534e",
+        "sha256": "d6544cef8cb119b6229d8f42ae20959d9fef960acd6c05c605359a471271155c"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "tab",
+        "resourceName": "b'trainer.def'"
+    }
+}

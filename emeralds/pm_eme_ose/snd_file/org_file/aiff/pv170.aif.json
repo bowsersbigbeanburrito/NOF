@@ -1,0 +1,24 @@
+{
+    "pv170.aif": {
+        "modified": "1980-01-01 16:00:00",
+        "size": "12.34KB",
+        "md5": "85dc45bd1e2cb34c1e52488718002852",
+        "sha256": "dc23ac714d4b43a92652ee09dbddcda4582a87ef7118d1366b90b861abd289e7"
+    },
+    "Metadata": {
+        "Content-Type": "audio/x-aiff",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'pv170.aif'",
+        "samplerate": "10512.0",
+        "xmpDM:audioSampleRate": "10512",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}
