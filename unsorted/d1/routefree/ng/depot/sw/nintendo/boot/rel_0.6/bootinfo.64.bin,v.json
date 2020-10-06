@@ -1,0 +1,21 @@
+{
+    "bootinfo.64.bin,v": {
+        "modified": "2014-04-02 15:17:54",
+        "size": "16.28KB",
+        "md5": "918c8605e9cf3cc0ba7063206ecb196d",
+        "sha256": "8fcd39d5d7c784610f4c4dd73181ee0a301c9fd19e8865e9c6e388f390b89818"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "tab",
+        "resourceName": "b'bootinfo.64.bin,v'"
+    }
+}

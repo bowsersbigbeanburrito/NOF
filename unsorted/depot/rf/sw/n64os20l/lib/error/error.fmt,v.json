@@ -1,0 +1,21 @@
+{
+    "error.fmt,v": {
+        "modified": "2002-10-29 01:08:54",
+        "size": "7.56KB",
+        "md5": "1c0b330b4e6538bee5b95fe656b7a919",
+        "sha256": "aa2153c2f6eaeb142ae9e909eba978cd4e703a9550b849dadcece91362a8da5e"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'error.fmt,v'"
+    }
+}

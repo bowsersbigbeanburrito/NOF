@@ -1,0 +1,21 @@
+{
+    "testsuite,v": {
+        "modified": "2002-10-29 01:09:48",
+        "size": "32.62KB",
+        "md5": "5765f9cd7b0c0e5667de708a656a029d",
+        "sha256": "5b8aeda1d7b5f80d85818a87ce85ca969be4495d400eaf984d9bc6a1cd9814fd"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'testsuite,v'"
+    }
+}

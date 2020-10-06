@@ -1,0 +1,21 @@
+{
+    "MD5SUM,v": {
+        "modified": "2014-04-02 15:17:56",
+        "size": "17.98KB",
+        "md5": "10723a846814b56c4906f0f3181f44f7",
+        "sha256": "f3e41d70173436794d1206011257f8838f5c7c577d782264875f310e068f0d60"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'MD5SUM,v'"
+    }
+}

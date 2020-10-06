@@ -1,0 +1,21 @@
+{
+    "bptest1.s,v": {
+        "modified": "2005-07-12 14:11:43",
+        "size": "54.4KB",
+        "md5": "ff9ef37cbba61d40704d1531461381bc",
+        "sha256": "b9d8d48d78051cc6e9a1688b0158011f117b4bc9534b42791db8d5c7ef4459dd"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "tab",
+        "resourceName": "b'bptest1.s,v'"
+    }
+}

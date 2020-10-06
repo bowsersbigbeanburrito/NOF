@@ -1,0 +1,21 @@
+{
+    "iltest1.s,v": {
+        "modified": "2002-10-29 01:09:46",
+        "size": "43.02KB",
+        "md5": "7771a465c727fa73edf33b2e3c0fa8a8",
+        "sha256": "5bc812be5215b5d9e32bd052890de8113b75da3dc2edb07ef9cfa0ced9e6cfe2"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "tab",
+        "resourceName": "b'iltest1.s,v'"
+    }
+}

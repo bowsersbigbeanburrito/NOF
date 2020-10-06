@@ -1,0 +1,21 @@
+{
+    "syscalls,v": {
+        "modified": "2014-04-02 15:18:09",
+        "size": "22.12KB",
+        "md5": "cc75ab4cc1183bc303d3c7b012b095ec",
+        "sha256": "058c776e8bf510ef650cb04e9773692ef633b26f224289a9608ee7803d82efd8"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'syscalls,v'"
+    }
+}

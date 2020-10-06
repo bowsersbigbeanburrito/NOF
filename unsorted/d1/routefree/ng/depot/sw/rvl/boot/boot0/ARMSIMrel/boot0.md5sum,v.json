@@ -1,0 +1,21 @@
+{
+    "boot0.md5sum,v": {
+        "modified": "2014-04-02 15:17:56",
+        "size": "16.7KB",
+        "md5": "df6bef91ac64cb2f72fad51614c0bb1f",
+        "sha256": "5f3a119d5a03a0cb9d0adcf9f9a5bee2e8a304236a5cdffc47d4149714dbf54e"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'boot0.md5sum,v'"
+    }
+}

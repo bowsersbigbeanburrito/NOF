@@ -1,0 +1,21 @@
+{
+    "sched_log.fmt,v": {
+        "modified": "2002-10-29 01:09:00",
+        "size": "1.23KB",
+        "md5": "27a530f74587622c659ddd5d038328c6",
+        "sha256": "7c877660df196000de96da65ad31b8e43738a5dca96d70367ef949becdeb3dd7"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'sched_log.fmt,v'"
+    }
+}
