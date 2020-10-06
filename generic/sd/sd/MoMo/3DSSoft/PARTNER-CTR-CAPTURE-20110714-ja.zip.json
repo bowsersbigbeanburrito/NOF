@@ -1,0 +1,226 @@
+{
+    "PARTNER-CTR-CAPTURE-20110714-ja.zip": {
+        "modified": "2011-09-19 17:44:12",
+        "size": "17481.54KB",
+        "md5": "f9331799c94e698ae434250b5ecff9e7",
+        "sha256": "692e5f61619c22871dce63b76fa4d60d5149c5ca914d556542dabbadd6cb9cfe"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/pdf",
+            "application/x-msdownload",
+            "text/plain; charset=Shift_JIS"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.pdf.PDFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "552",
+            "535",
+            "1",
+            "5"
+        ],
+        "resourceName": [
+            "b'PARTNER-CTR-CAPTURE-20110714-ja.zip'",
+            "PARTNER-CTR-CAPTURE-20110714-ja/ctrsetup_ja.pdf",
+            "PARTNER-CTR-CAPTURE-20110714-ja/PARTNER-CTR-CAPTURE-1_06_2000-20110714-jp.exe",
+            "PARTNER-CTR-CAPTURE-20110714-ja/readme_ja.txt"
+        ],
+        "Author": "sato",
+        "Content-Length": [
+            "2444274",
+            "16699602",
+            "7194"
+        ],
+        "Creation-Date": [
+            "2010-11-22T02:56:18Z",
+            "2009-06-10T17:24:16Z"
+        ],
+        "Last-Modified": [
+            "2010-11-22T02:56:18Z",
+            "2011-07-14T21:32:04Z",
+            "2011-07-14T21:35:00Z"
+        ],
+        "Last-Save-Date": [
+            "2010-11-22T02:56:18Z",
+            "2011-07-14T21:32:04Z",
+            "2011-07-14T21:35:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/ctrsetup_ja.pdf",
+            "/PARTNER-CTR-CAPTURE-1_06_2000-20110714-jp.exe",
+            "/readme_ja.txt"
+        ],
+        "access_permission:assemble_document": "true",
+        "access_permission:can_modify": "true",
+        "access_permission:can_print": "true",
+        "access_permission:can_print_degraded": "true",
+        "access_permission:extract_content": "true",
+        "access_permission:extract_for_accessibility": "true",
+        "access_permission:fill_in_form": "true",
+        "access_permission:modify_annotations": "true",
+        "created": "2010-11-22T02:56:18Z",
+        "creator": "sato",
+        "date": [
+            "2010-11-22T02:56:18Z",
+            "2011-07-14T21:32:04Z",
+            "2011-07-14T21:35:00Z"
+        ],
+        "dc:creator": "sato",
+        "dc:format": "application/pdf; version=1.5",
+        "dc:language": "ja-JP",
+        "dcterms:created": "2010-11-22T02:56:18Z",
+        "dcterms:modified": [
+            "2010-11-22T02:56:18Z",
+            "2011-07-14T21:32:04Z",
+            "2011-07-14T21:35:00Z"
+        ],
+        "embeddedRelationshipId": [
+            "PARTNER-CTR-CAPTURE-20110714-ja/ctrsetup_ja.pdf",
+            "PARTNER-CTR-CAPTURE-20110714-ja/PARTNER-CTR-CAPTURE-1_06_2000-20110714-jp.exe",
+            "PARTNER-CTR-CAPTURE-20110714-ja/readme_ja.txt"
+        ],
+        "language": "ja-JP",
+        "meta:author": "sato",
+        "meta:creation-date": "2010-11-22T02:56:18Z",
+        "meta:save-date": [
+            "2010-11-22T02:56:18Z",
+            "2011-07-14T21:32:04Z",
+            "2011-07-14T21:35:00Z"
+        ],
+        "modified": [
+            "2010-11-22T02:56:18Z",
+            "2011-07-14T21:32:04Z",
+            "2011-07-14T21:35:00Z"
+        ],
+        "pdf:PDFVersion": "1.5",
+        "pdf:charsPerPage": [
+            "374",
+            "1193",
+            "4282",
+            "13",
+            "472",
+            "490",
+            "137",
+            "662",
+            "234",
+            "641",
+            "407",
+            "494",
+            "203",
+            "332",
+            "130",
+            "139",
+            "204",
+            "95",
+            "608",
+            "337",
+            "659",
+            "188",
+            "351",
+            "616",
+            "83",
+            "349",
+            "84",
+            "287",
+            "122",
+            "134",
+            "100",
+            "491",
+            "383",
+            "88",
+            "424",
+            "205",
+            "837",
+            "1201",
+            "327",
+            "659",
+            "88"
+        ],
+        "pdf:docinfo:created": "2010-11-22T02:56:18Z",
+        "pdf:docinfo:creator": "sato",
+        "pdf:docinfo:creator_tool": "Microsoft® Word 2010",
+        "pdf:docinfo:modified": "2010-11-22T02:56:18Z",
+        "pdf:docinfo:producer": "Microsoft® Word 2010",
+        "pdf:encrypted": "false",
+        "pdf:hasMarkedContent": "true",
+        "pdf:hasXFA": "false",
+        "pdf:hasXMP": "false",
+        "pdf:unmappedUnicodeCharsPerPage": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "producer": "Microsoft® Word 2010",
+        "xmp:CreatorTool": "Microsoft® Word 2010",
+        "xmpTPg:NPages": "41",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32",
+        "machine:platform": "Windows",
+        "Content-Encoding": "Shift_JIS"
+    }
+}
