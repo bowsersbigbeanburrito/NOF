@@ -1,0 +1,109 @@
+{
+    "EC.zip": {
+        "modified": "2018-03-13 11:28:05",
+        "size": "375.44KB",
+        "md5": "cb82c77e92291013d6ca3929299815a7",
+        "sha256": "4ff6e12027daddfe8f43333ae27a89bd4faeb1464083dc1072f2d37bf2dd5825"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-rar-compressed; version=4",
+            "text/plain; charset=ISO-8859-1",
+            "application/x-msdownload",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.RarParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "18",
+            "1",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'EC.zip'",
+            "root.pem",
+            "sktp.exe",
+            "VERSION"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "2390",
+            "958464",
+            "15"
+        ],
+        "Last-Modified": [
+            "2007-10-12T17:15:14Z",
+            "2007-08-01T09:14:10Z",
+            "2007-10-29T17:23:00Z"
+        ],
+        "Last-Save-Date": [
+            "2007-10-12T17:15:14Z",
+            "2007-08-01T09:14:10Z",
+            "2007-10-29T17:23:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/root.pem",
+            "/sktp.exe",
+            "/VERSION"
+        ],
+        "date": [
+            "2007-10-12T17:15:14Z",
+            "2007-08-01T09:14:10Z",
+            "2007-10-29T17:23:00Z"
+        ],
+        "dcterms:modified": [
+            "2007-10-12T17:15:14Z",
+            "2007-08-01T09:14:10Z",
+            "2007-10-29T17:23:00Z"
+        ],
+        "embeddedRelationshipId": [
+            "root.pem",
+            "sktp.exe",
+            "VERSION"
+        ],
+        "meta:save-date": [
+            "2007-10-12T17:15:14Z",
+            "2007-08-01T09:14:10Z",
+            "2007-10-29T17:23:00Z"
+        ],
+        "modified": [
+            "2007-10-12T17:15:14Z",
+            "2007-08-01T09:14:10Z",
+            "2007-10-29T17:23:00Z"
+        ],
+        "Creation-Date": "2007-07-31T18:14:09Z",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32",
+        "machine:platform": "Windows"
+    }
+}

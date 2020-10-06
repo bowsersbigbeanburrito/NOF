@@ -1,0 +1,21 @@
+{
+    "CA-cert.pem,v": {
+        "modified": "2009-03-24 18:25:03",
+        "size": "9.37KB",
+        "md5": "7d5e4375346d3f82657422fea134cdce",
+        "sha256": "744721b641e2775336fc0f1c6bf05e3bfeb752ee796d929f814653610dcef840"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'CA-cert.pem,v'"
+    }
+}

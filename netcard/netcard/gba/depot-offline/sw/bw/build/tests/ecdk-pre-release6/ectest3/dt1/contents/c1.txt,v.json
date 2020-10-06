@@ -1,0 +1,21 @@
+{
+    "c1.txt,v": {
+        "modified": "2009-03-24 18:24:34",
+        "size": "2.25KB",
+        "md5": "eef48bb4337d258aca15302ac19eda2a",
+        "sha256": "67f262eaeffd70589664ba809e6efa0bb9e91ed7b9ffba0069183f56e743326b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'c1.txt,v'"
+    }
+}

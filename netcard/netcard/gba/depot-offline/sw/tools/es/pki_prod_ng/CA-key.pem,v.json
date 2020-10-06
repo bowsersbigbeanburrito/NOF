@@ -1,0 +1,21 @@
+{
+    "CA-key.pem,v": {
+        "modified": "2009-03-24 18:25:03",
+        "size": "8.43KB",
+        "md5": "eb10d4f10faacd32350c5bbe6de406f9",
+        "sha256": "60280c9a9bf99f36283463d3e366882fde75c4c8e1886f267a20451417fb28df"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'CA-key.pem,v'"
+    }
+}

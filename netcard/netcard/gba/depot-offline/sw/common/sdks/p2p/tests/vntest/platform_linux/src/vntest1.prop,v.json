@@ -1,0 +1,21 @@
+{
+    "vntest1.prop,v": {
+        "modified": "2009-03-24 18:24:47",
+        "size": "5.51KB",
+        "md5": "2ac9d495d1f29c8ed95d14863e2a848d",
+        "sha256": "28d834f741c413883a2fe5fd6fbe7ad9506b71f9f613d8ec73d227134d449e22"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'vntest1.prop,v'"
+    }
+}

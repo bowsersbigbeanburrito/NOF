@@ -1,0 +1,109 @@
+{
+    "19fd75dfec1b803344c7e0b374986b682921f3e0.svn-base": {
+        "modified": "2018-03-13 11:28:56",
+        "size": "271.0KB",
+        "md5": "4a0a6e6d3826374e3903f1109e133bc5",
+        "sha256": "9970ded91cb94fcceeac2bd40d98693ca520012bd70ac79c839281bf450d23a5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-msdownload",
+            "text/plain; charset=windows-1252",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "17",
+            "1",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'19fd75dfec1b803344c7e0b374986b682921f3e0.svn-base'",
+            "ecp.exe",
+            "ecp.cfg",
+            "VERSION"
+        ],
+        "Content-Length": [
+            "712704",
+            "134",
+            "15"
+        ],
+        "Creation-Date": "2006-09-29T12:30:56Z",
+        "Last-Modified": [
+            "2006-09-30T09:38:18Z",
+            "2006-10-18T16:31:38Z",
+            "2007-03-28T22:05:42Z"
+        ],
+        "Last-Save-Date": [
+            "2006-09-30T09:38:18Z",
+            "2006-10-18T16:31:38Z",
+            "2007-03-28T22:05:42Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/ecp.exe",
+            "/ecp.cfg",
+            "/VERSION"
+        ],
+        "date": [
+            "2006-09-30T09:38:18Z",
+            "2006-10-18T16:31:38Z",
+            "2007-03-28T22:05:42Z"
+        ],
+        "dcterms:modified": [
+            "2006-09-30T09:38:18Z",
+            "2006-10-18T16:31:38Z",
+            "2007-03-28T22:05:42Z"
+        ],
+        "embeddedRelationshipId": [
+            "ecp.exe",
+            "ecp.cfg",
+            "VERSION"
+        ],
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32",
+        "machine:platform": "Windows",
+        "meta:save-date": [
+            "2006-09-30T09:38:18Z",
+            "2006-10-18T16:31:38Z",
+            "2007-03-28T22:05:42Z"
+        ],
+        "modified": [
+            "2006-09-30T09:38:18Z",
+            "2006-10-18T16:31:38Z",
+            "2007-03-28T22:05:42Z"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "ISO-8859-1"
+        ]
+    }
+}

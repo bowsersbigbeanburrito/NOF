@@ -1,0 +1,21 @@
+{
+    "common.cfg,v": {
+        "modified": "2009-03-24 18:24:53",
+        "size": "6.3KB",
+        "md5": "5bccd225467d421c02db4ae694f06d3c",
+        "sha256": "5d9f9cd3a52612d528d62c19292dfffaf57c6a4ed61e12872203d74b1cfa2d08"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'common.cfg,v'"
+    }
+}

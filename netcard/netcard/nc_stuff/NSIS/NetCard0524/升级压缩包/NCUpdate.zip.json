@@ -1,0 +1,120 @@
+{
+    "NCUpdate.zip": {
+        "modified": "2018-03-13 11:29:03",
+        "size": "201.39KB",
+        "md5": "1d42a52b09ff119050479ec64586b3e1",
+        "sha256": "e8f080dd2693605fabdfce24d1eda8f433be8f68fc72978d238163be7c576704"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-rar-compressed; version=4",
+            "application/x-msdownload",
+            "application/x-msdownload",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.RarParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "9",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'NCUpdate.zip'",
+            "BeginUpdate.exe",
+            "update.exe",
+            "VERSION"
+        ],
+        "Content-Length": [
+            "258048",
+            "165035",
+            "15"
+        ],
+        "Creation-Date": [
+            "2006-08-17T09:10:01Z",
+            "2004-02-07T17:26:11Z"
+        ],
+        "Last-Modified": [
+            "2007-04-02T22:41:14Z",
+            "2007-10-29T17:06:40Z",
+            "2007-10-29T17:23:00Z"
+        ],
+        "Last-Save-Date": [
+            "2007-04-02T22:41:14Z",
+            "2007-10-29T17:06:40Z",
+            "2007-10-29T17:23:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/BeginUpdate.exe",
+            "/update.exe",
+            "/VERSION"
+        ],
+        "date": [
+            "2007-04-02T22:41:14Z",
+            "2007-10-29T17:06:40Z",
+            "2007-10-29T17:23:00Z"
+        ],
+        "dcterms:modified": [
+            "2007-04-02T22:41:14Z",
+            "2007-10-29T17:06:40Z",
+            "2007-10-29T17:23:00Z"
+        ],
+        "embeddedRelationshipId": [
+            "BeginUpdate.exe",
+            "update.exe",
+            "VERSION"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32"
+        ],
+        "machine:platform": [
+            "Windows",
+            "Windows"
+        ],
+        "meta:save-date": [
+            "2007-04-02T22:41:14Z",
+            "2007-10-29T17:06:40Z",
+            "2007-10-29T17:23:00Z"
+        ],
+        "modified": [
+            "2007-04-02T22:41:14Z",
+            "2007-10-29T17:06:40Z",
+            "2007-10-29T17:23:00Z"
+        ],
+        "Content-Encoding": "ISO-8859-1"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "ectest.txt,v": {
+        "modified": "2009-03-24 18:24:34",
+        "size": "2.53KB",
+        "md5": "50ec57990f89789f914dc5dac405f0f1",
+        "sha256": "513bda6802fef547f082f8a6996d731ba3da657a089d5c71e598dce6b3bde018"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'ectest.txt,v'"
+    }
+}

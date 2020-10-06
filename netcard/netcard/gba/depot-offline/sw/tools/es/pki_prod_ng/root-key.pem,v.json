@@ -1,0 +1,21 @@
+{
+    "root-key.pem,v": {
+        "modified": "2009-03-24 18:25:03",
+        "size": "9.1KB",
+        "md5": "b8e06716f826406c4003ae7f94a13f7e",
+        "sha256": "b135e4d9f7d980df64bf5e32bc0462b06e4714449075fc04e8b7b580016f12d3"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'root-key.pem,v'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "devel-root-cert.pem,v": {
+        "modified": "2009-03-24 18:25:03",
+        "size": "9.85KB",
+        "md5": "ce21d6805fd64847b57c789247c3496a",
+        "sha256": "efdf8bca9e2a2bdfca188b95059222a9bcb26927fad7eba923d2f76726d0dc5c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'devel-root-cert.pem,v'"
+    }
+}

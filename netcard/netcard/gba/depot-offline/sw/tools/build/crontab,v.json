@@ -1,0 +1,21 @@
+{
+    "crontab,v": {
+        "modified": "2009-03-24 18:24:59",
+        "size": "7.9KB",
+        "md5": "164558fcd85955d9b830ab4b17d6c612",
+        "sha256": "5bd0bba59b62b7e309337a369124046c5868ba229c35822b29470049cb878a32"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'crontab,v'"
+    }
+}
