@@ -1,0 +1,24 @@
+{
+    "sin440.pcm16.32k.1.wav": {
+        "modified": "2014-10-06 18:41:00",
+        "size": "1.68KB",
+        "md5": "87c0a6f082a109fc7fbab605b586a628",
+        "sha256": "7e025b2872942c0dbfb3f2fcec65e0ec57cfab6491842f6ad2fae30195ca78f6"
+    },
+    "Metadata": {
+        "Content-Type": "audio/vnd.wave",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'sin440.pcm16.32k.1.wav'",
+        "samplerate": "32000.0",
+        "xmpDM:audioSampleRate": "32000",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

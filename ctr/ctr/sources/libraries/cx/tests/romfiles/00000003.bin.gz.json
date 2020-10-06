@@ -1,0 +1,33 @@
+{
+    "00000003.bin.gz": {
+        "modified": "2014-10-06 18:47:17",
+        "size": "0.26KB",
+        "md5": "27ec720fa3469584740869a02d730e9b",
+        "sha256": "e13c52fb173136c79db164f28d7b82ceaa0355cf9692064c737dd4bf96f12b4d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'00000003.bin.gz'",
+            "b'00000003.bin.gz'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'00000003.bin.gz'"
+    }
+}

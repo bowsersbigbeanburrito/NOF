@@ -1,0 +1,21 @@
+{
+    "fatal_message.txt": {
+        "modified": "2014-10-06 18:43:43",
+        "size": "17.91KB",
+        "md5": "cf50a37986aec99a0115d783273c3a65",
+        "sha256": "a7a00bf03155168f3c85e6c6c5c4c1183e48cdb0a6c2ef731e7b177af65faea3"
+    },
+    "Metadata": {
+        "Content-Encoding": "UTF-16LE",
+        "Content-Type": "text/tsv; charset=UTF-16LE; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'fatal_message.txt'"
+    }
+}

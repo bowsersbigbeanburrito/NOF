@@ -1,0 +1,21 @@
+{
+    "write_read.txt": {
+        "modified": "2014-10-06 18:45:05",
+        "size": "6.06KB",
+        "md5": "ccf32ead43888f2c1d51de19ed5b7e64",
+        "sha256": "0c99153ab8427905aeccc53b8d0b986c3c3a20cbd5b6c091eea389c941d77fad"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'write_read.txt'"
+    }
+}

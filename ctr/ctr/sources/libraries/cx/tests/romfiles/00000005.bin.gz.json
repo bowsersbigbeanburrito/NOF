@@ -1,0 +1,40 @@
+{
+    "00000005.bin.gz": {
+        "modified": "2014-10-06 18:47:17",
+        "size": "221.35KB",
+        "md5": "2336fd1f95bac50fa797c0265623bd9f",
+        "sha256": "45abcb28c7b73790447704cb3ecba6239c7c5853895d8f2c310b62a4daa231ba"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=UTF-8"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "9",
+            "8"
+        ],
+        "resourceName": [
+            "b'00000005.bin.gz'",
+            "b'00000005.bin.gz'"
+        ],
+        "Content-Encoding": "UTF-8",
+        "X-TIKA:embedded_resource_path": "/b'00000005.bin.gz'"
+    }
+}

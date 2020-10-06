@@ -1,0 +1,21 @@
+{
+    "test.smft": {
+        "modified": "2014-10-06 18:40:57",
+        "size": "0.9KB",
+        "md5": "906c706f35b38286508941252b001950",
+        "sha256": "1dc3aca604d0caa0e885e439793b3c782eddea4075db5165cbdfc92a793276b7"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'test.smft'"
+    }
+}

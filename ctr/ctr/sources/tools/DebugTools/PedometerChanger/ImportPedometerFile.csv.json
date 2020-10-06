@@ -1,0 +1,21 @@
+{
+    "ImportPedometerFile.csv": {
+        "modified": "2014-10-06 18:37:46",
+        "size": "1.83KB",
+        "md5": "30e3b02b67dea69717a1488a85c714fe",
+        "sha256": "71d52c4e0cf1762330afff3b5b06609ae52bfc2ecb5dcdf84fde8abbd6d2a8e3"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'ImportPedometerFile.csv'"
+    }
+}

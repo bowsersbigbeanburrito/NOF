@@ -1,0 +1,21 @@
+{
+    "output_raw.txt": {
+        "modified": "2014-10-06 18:39:41",
+        "size": "24.82KB",
+        "md5": "e5fb9aa965f4457d36a225467c25dff5",
+        "sha256": "c5775824cb655361f068003ac316c9fba5c844bf314047c1a144f257468f1942"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'output_raw.txt'"
+    }
+}

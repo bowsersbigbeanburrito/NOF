@@ -1,0 +1,21 @@
+{
+    "TaskConfiguration_sample.csv": {
+        "modified": "2014-10-06 18:39:16",
+        "size": "3.96KB",
+        "md5": "b906635407d9e0c06b0497f6946c20d0",
+        "sha256": "3fd2c5de446e7f4526b43bffc25efd1974f715840911f5ec11ff170262b9b7a2"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'TaskConfiguration_sample.csv'"
+    }
+}

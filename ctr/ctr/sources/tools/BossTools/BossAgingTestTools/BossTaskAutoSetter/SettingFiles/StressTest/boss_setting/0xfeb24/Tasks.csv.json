@@ -1,0 +1,21 @@
+{
+    "Tasks.csv": {
+        "modified": "2014-10-06 18:38:25",
+        "size": "4.09KB",
+        "md5": "0d7775f3a66e97b2d56fbd9dfbdb76dc",
+        "sha256": "88068e0a0635f958400c83f4180ab0caedaee7ef71ed5887fcbee72ccfdf698f"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'Tasks.csv'"
+    }
+}

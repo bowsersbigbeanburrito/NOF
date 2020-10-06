@@ -1,0 +1,21 @@
+{
+    "page100.csv": {
+        "modified": "2014-10-06 18:44:35",
+        "size": "12.34KB",
+        "md5": "7d84508b9299346a20864b72a5287498",
+        "sha256": "763aea028a2e71aa839672e2f4480c6d946cbae1f931fe864eb0d64df868406e"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'page100.csv'"
+    }
+}
