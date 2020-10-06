@@ -1,0 +1,71 @@
+{
+    "message_tap.xls": {
+        "modified": "2006-08-31 20:03:12",
+        "size": "113.0KB",
+        "md5": "4ae4e82f2078f138493133f351bf21df",
+        "sha256": "773424fa4c4601bb0b4ac816901a502f9657fa28188418bb4bdd993e2b8f8031"
+    },
+    "Metadata": {
+        "Application-Name": "Microsoft Excel",
+        "Author": "c_katsurashima",
+        "Company": "株式会社クリーチャーズ",
+        "Content-Type": [
+            "application/vnd.ms-excel",
+            "image/png"
+        ],
+        "Creation-Date": "2005-08-18T13:29:40Z",
+        "Last-Author": "kimiko",
+        "Last-Modified": "2006-08-31T11:03:11Z",
+        "Last-Save-Date": "2006-08-31T11:03:11Z",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "9",
+            "1"
+        ],
+        "creator": "c_katsurashima",
+        "date": "2006-08-31T11:03:11Z",
+        "dc:creator": "c_katsurashima",
+        "dcterms:created": "2005-08-18T13:29:40Z",
+        "dcterms:modified": "2006-08-31T11:03:11Z",
+        "extended-properties:Application": "Microsoft Excel",
+        "extended-properties:Company": "株式会社クリーチャーズ",
+        "meta:author": "c_katsurashima",
+        "meta:creation-date": "2005-08-18T13:29:40Z",
+        "meta:last-author": "kimiko",
+        "meta:save-date": "2006-08-31T11:03:11Z",
+        "modified": "2006-08-31T11:03:11Z",
+        "resourceName": "b'message_tap.xls'",
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "3",
+        "Compression CompressionTypeName": "deflate",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Data BitsPerSample": "8 8 8",
+        "Data PlanarConfiguration": "PixelInterleaved",
+        "Data SampleFormat": "UnsignedIntegral",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension PixelAspectRatio": "1.0",
+        "IHDR": "width=256, height=384, bitDepth=8, colorType=RGB, compressionMethod=deflate, filterMethod=adaptive, interlaceMethod=none",
+        "Transparency Alpha": "none",
+        "X-TIKA:embedded_resource_path": "/embedded-1",
+        "height": "384",
+        "sRGB": "Perceptual",
+        "tiff:BitsPerSample": "8 8 8",
+        "tiff:ImageLength": "384",
+        "tiff:ImageWidth": "256",
+        "width": "256"
+    }
+}

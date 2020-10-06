@@ -1,0 +1,107 @@
+{
+    "@WinCvsSetting.rtf": {
+        "modified": "2004-01-19 02:38:14",
+        "size": "4615.45KB",
+        "md5": "f89fce3c91d5523eef9e9ba10d6f5ced",
+        "sha256": "885f18e2e0390c5cfdcba66fadbbb8ab20fcba68a74a15c078605a5874aa4c89"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/rtf",
+            "image/wmf",
+            "image/wmf",
+            "image/wmf",
+            "image/bmp",
+            "image/wmf"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.rtf.RTFParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.WMFParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "185",
+            "31",
+            "1",
+            "1",
+            "29",
+            "1"
+        ],
+        "resourceName": [
+            "b'@WinCvsSetting.rtf'",
+            "file_0.wmf",
+            "file_1.wmf",
+            "file_2.wmf",
+            "file_3.bmp",
+            "thumbnail_0.wmf"
+        ],
+        "Content-Length": [
+            "460304",
+            "460304",
+            "460304",
+            "460256",
+            "460304"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/file_0.wmf",
+            "/file_1.wmf",
+            "/file_2.wmf",
+            "/file_3.bmp",
+            "/thumbnail_0.wmf"
+        ],
+        "rtf_meta:thumbnail": [
+            "false",
+            "false",
+            "false",
+            "true"
+        ],
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "3",
+        "Compression CompressionTypeName": "BI_RGB",
+        "Compression Lossless": "true",
+        "Data BitsPerSample": "8 8 8",
+        "Data SampleFormat": "UnsignedIntegral",
+        "Dimension HorizontalPhysicalPixelSpacing": "0.26455027",
+        "Dimension HorizontalPixelSize": "0.26455027",
+        "Dimension PixelAspectRatio": "1.0",
+        "Dimension VerticalPhysicalPixelSpacing": "0.26455027",
+        "Dimension VerticalPixelSize": "0.26455027",
+        "Document FormatVersion": "BMP v. 3.x",
+        "Transparency Alpha": "none",
+        "height": "292",
+        "rtf_meta:emb_app_version": "1281",
+        "rtf_meta:emb_class": "PBrush",
+        "tiff:BitsPerSample": "8 8 8",
+        "tiff:ImageLength": "292",
+        "tiff:ImageWidth": "525",
+        "width": "525"
+    }
+}

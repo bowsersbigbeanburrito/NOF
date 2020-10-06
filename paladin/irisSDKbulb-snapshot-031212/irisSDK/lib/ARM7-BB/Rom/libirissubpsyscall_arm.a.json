@@ -1,0 +1,103 @@
+{
+    "libirissubpsyscall_arm.a": {
+        "modified": "2003-12-10 16:21:04",
+        "size": "3.25KB",
+        "md5": "1fc112ac74c5aef5c6afbf82009131a5",
+        "sha256": "490ea1c844c33bf6f6dbabf56f97a86d1ad3f402e1f6b8f09008005468aac76d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libirissubpsyscall_arm.a'",
+            "_SubpSVC_Arm.o",
+            "SubpSVC.o"
+        ],
+        "Content-Length": [
+            "484",
+            "1516",
+            "1136"
+        ],
+        "Last-Modified": [
+            "2003-11-23T12:21:11Z",
+            "2003-11-23T12:20:38Z",
+            "2003-11-23T12:21:12Z"
+        ],
+        "Last-Save-Date": [
+            "2003-11-23T12:21:11Z",
+            "2003-11-23T12:20:38Z",
+            "2003-11-23T12:21:12Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/_SubpSVC_Arm.o",
+            "/SubpSVC.o"
+        ],
+        "date": [
+            "2003-11-23T12:21:11Z",
+            "2003-11-23T12:20:38Z",
+            "2003-11-23T12:21:12Z"
+        ],
+        "dcterms:modified": [
+            "2003-11-23T12:21:11Z",
+            "2003-11-23T12:20:38Z",
+            "2003-11-23T12:21:12Z"
+        ],
+        "meta:save-date": [
+            "2003-11-23T12:21:11Z",
+            "2003-11-23T12:20:38Z",
+            "2003-11-23T12:21:12Z"
+        ],
+        "modified": [
+            "2003-11-23T12:21:11Z",
+            "2003-11-23T12:20:38Z",
+            "2003-11-23T12:21:12Z"
+        ],
+        "embeddedRelationshipId": [
+            "_SubpSVC_Arm.o",
+            "SubpSVC.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

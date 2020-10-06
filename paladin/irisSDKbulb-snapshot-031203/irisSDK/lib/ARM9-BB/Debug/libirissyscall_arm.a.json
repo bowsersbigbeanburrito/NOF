@@ -1,0 +1,75 @@
+{
+    "libirissyscall_arm.a": {
+        "modified": "2003-11-11 20:15:20",
+        "size": "2.79KB",
+        "md5": "6a5d0f076716520f795fad09e249403b",
+        "sha256": "c8fce7248f68df418d3517d69103cd491fae424f1b6d1884efb1496e59790c0a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libirissyscall_arm.a'",
+            "IrisSVC_Arm.o"
+        ],
+        "Content-Length": [
+            "484",
+            "2250"
+        ],
+        "Last-Modified": [
+            "2003-09-25T10:32:56Z",
+            "2003-09-25T10:32:58Z"
+        ],
+        "Last-Save-Date": [
+            "2003-09-25T10:32:56Z",
+            "2003-09-25T10:32:58Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/IrisSVC_Arm.o"
+        ],
+        "date": [
+            "2003-09-25T10:32:56Z",
+            "2003-09-25T10:32:58Z"
+        ],
+        "dcterms:modified": [
+            "2003-09-25T10:32:56Z",
+            "2003-09-25T10:32:58Z"
+        ],
+        "meta:save-date": [
+            "2003-09-25T10:32:56Z",
+            "2003-09-25T10:32:58Z"
+        ],
+        "modified": [
+            "2003-09-25T10:32:56Z",
+            "2003-09-25T10:32:58Z"
+        ],
+        "embeddedRelationshipId": "IrisSVC_Arm.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM"
+    }
+}
