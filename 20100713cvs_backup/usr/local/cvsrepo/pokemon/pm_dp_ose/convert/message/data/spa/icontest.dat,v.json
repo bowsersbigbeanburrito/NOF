@@ -1,0 +1,21 @@
+{
+    "icontest.dat,v": {
+        "modified": "2008-09-04 05:29:23",
+        "size": "3.32KB",
+        "md5": "fe52fbba22c36787934ae8ea370c8533",
+        "sha256": "b2b241f915843b94aec9602d2c8d2e9d0be1e17fb545f2b20bb9ae00f4162803"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-15",
+        "Content-Type": "text/tsv; charset=ISO-8859-15; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'icontest.dat,v'"
+    }
+}

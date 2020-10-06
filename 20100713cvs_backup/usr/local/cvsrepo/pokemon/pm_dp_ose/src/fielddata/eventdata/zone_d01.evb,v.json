@@ -1,0 +1,21 @@
+{
+    "zone_d01.evb,v": {
+        "modified": "2008-09-04 05:30:50",
+        "size": "8.41KB",
+        "md5": "5b949cd625da2d90838e99740ead8bd9",
+        "sha256": "2f9b21993b926357ab99606924f64f923a76d81b93b38c2e76efba8c7ac4d1c8"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'zone_d01.evb,v'"
+    }
+}

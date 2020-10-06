@@ -1,0 +1,21 @@
+{
+    "test.bat,v": {
+        "modified": "2006-04-16 18:02:12",
+        "size": "11.83KB",
+        "md5": "a6470bd1f78e38a37447750e0bc8a6fe",
+        "sha256": "6114e4e6c533515e09bacb4b40e4dbf2d39405b062a355c4e375ca9b06635ebd"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'test.bat,v'"
+    }
+}

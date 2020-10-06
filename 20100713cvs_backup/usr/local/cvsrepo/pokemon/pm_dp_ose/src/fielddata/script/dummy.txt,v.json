@@ -1,0 +1,21 @@
+{
+    "dummy.txt,v": {
+        "modified": "2008-09-04 05:30:53",
+        "size": "10.05KB",
+        "md5": "1817fe4470ae5705fd5c63b25b8e079a",
+        "sha256": "088e9a7ea8a3220c70fb6e740c633b3c65a9f34a8d627cf6c213dbb22b7a5035"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'dummy.txt,v'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "seed_data.dat,v": {
+        "modified": "2008-09-04 05:30:47",
+        "size": "9.8KB",
+        "md5": "a84ad3a68c11621b3889148e355024a2",
+        "sha256": "f0a4a5b65e4c1ec2410a8af6056b0a2c776590cb0024c113976c9d4f033aba63"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'seed_data.dat,v'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "mv_dummy,v": {
+        "modified": "2008-09-04 05:30:53",
+        "size": "4.25KB",
+        "md5": "4f95a523b16fa8cb6c69629d5886025d",
+        "sha256": "144a9f1ee2104f765d1818aee936f30a0eed22c9c8c77ca30d488056f87da14e"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'mv_dummy,v'"
+    }
+}

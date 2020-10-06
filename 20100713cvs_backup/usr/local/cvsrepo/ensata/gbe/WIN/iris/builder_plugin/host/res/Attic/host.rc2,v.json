@@ -1,0 +1,21 @@
+{
+    "host.rc2,v": {
+        "modified": "2008-03-24 21:43:07",
+        "size": "2.86KB",
+        "md5": "2d246ebf27fd7bdd0ff7ce56fc738b9d",
+        "sha256": "24b05f147885f788f024e26acc43b0047ec0cbdc6e2968f5cb4d9d50523fa31f"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'host.rc2,v'"
+    }
+}
