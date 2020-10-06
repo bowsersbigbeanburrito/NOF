@@ -1,0 +1,21 @@
+{
+    "ghttp_sample.rsf": {
+        "modified": "2008-08-20 09:23:42",
+        "size": "0.53KB",
+        "md5": "f06cf9e43dc6d76118c8a95e5b925512",
+        "sha256": "533d9fb53b2e09ce252990e70a9a74ee9c6ff68169e19b9b01cf2ce46bc057ee"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'ghttp_sample.rsf'"
+    }
+}

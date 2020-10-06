@@ -1,0 +1,26 @@
+{
+    "image1.bin": {
+        "modified": "2008-08-20 09:25:22",
+        "size": "96.0KB",
+        "md5": "ecc3151b014a2b5501d1b14ba3fd74c0",
+        "sha256": "7e38cbd1fdaf1456fe3fbe5fc351c8dacf9717b8bfab4758aff3657ad170ad9d"
+    },
+    "Metadata": {
+        "Content-Type": "audio/mpeg",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mp3.Mp3Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "channels": "1",
+        "resourceName": "b'image1.bin'",
+        "samplerate": "32000",
+        "version": "MPEG 3 Layer I Version 1",
+        "xmpDM:audioChannelType": "Mono",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "32000",
+        "xmpDM:duration": "1049.68701171875"
+    }
+}

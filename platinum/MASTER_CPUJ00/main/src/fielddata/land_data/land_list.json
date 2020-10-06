@@ -1,0 +1,21 @@
+{
+    "land_list": {
+        "modified": "2008-08-20 09:20:40",
+        "size": "16.06KB",
+        "md5": "e84ffe5b806f07617104d5a5fa816daf",
+        "sha256": "e7c239644b70f7cff1faf9e8d2a1a3d96418c977bad9e387e52278425d2610bb"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'land_list'"
+    }
+}

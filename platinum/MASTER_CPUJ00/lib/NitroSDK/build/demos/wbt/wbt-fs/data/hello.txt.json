@@ -1,0 +1,20 @@
+{
+    "hello.txt": {
+        "modified": "2008-08-20 09:25:16",
+        "size": "0.01KB",
+        "md5": "78016cea74c298162366b9f86bfc3b16",
+        "sha256": "66b01763ad80316783341083c02317e7fdda4391e58cbf02f26f2a92257c5b92"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/plain; charset=windows-1252",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'hello.txt'"
+    }
+}

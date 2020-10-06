@@ -1,0 +1,54 @@
+{
+    "main_cn41v2_2009-0508-1945.zip": {
+        "modified": "2009-05-11 05:03:00",
+        "size": "98883.67KB",
+        "md5": "f7111d0a4427f65181b0f24a5a374631",
+        "sha256": "1e1732ec46d2900975ca1e854195d6c4adbd6f23266126ab567bfae3f210f31a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "audio/mpeg"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mp3.Mp3Parser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1080",
+            "1039"
+        ],
+        "resourceName": [
+            "b'main_cn41v2_2009-0508-1945.zip'",
+            "main_cn41v2_2009-0508-1945/main_cn41v2_2009-0508-1945.gcm"
+        ],
+        "Content-Length": "101711872",
+        "Last-Modified": "2009-05-09T02:50:20Z",
+        "Last-Save-Date": "2009-05-09T02:50:20Z",
+        "X-TIKA:embedded_resource_path": "/main_cn41v2_2009-0508-1945.gcm",
+        "channels": "1",
+        "date": "2009-05-09T02:50:20Z",
+        "dcterms:modified": "2009-05-09T02:50:20Z",
+        "embeddedRelationshipId": "main_cn41v2_2009-0508-1945/main_cn41v2_2009-0508-1945.gcm",
+        "meta:save-date": "2009-05-09T02:50:20Z",
+        "modified": "2009-05-09T02:50:20Z",
+        "samplerate": "44100",
+        "version": "MPEG 3 Layer II Version 1",
+        "xmpDM:audioChannelType": "Mono",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "44100",
+        "xmpDM:duration": "858092.3125"
+    }
+}

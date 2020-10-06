@@ -1,0 +1,21 @@
+{
+    "weather_sys.naix": {
+        "modified": "2008-08-20 09:15:02",
+        "size": "2.81KB",
+        "md5": "be1bf932b6b498737e643a5417291d67",
+        "sha256": "7b06d9626d1c44b2e1fcf564d8d5c6da9a313e7250447dc9703446776f0624eb"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'weather_sys.naix'"
+    }
+}

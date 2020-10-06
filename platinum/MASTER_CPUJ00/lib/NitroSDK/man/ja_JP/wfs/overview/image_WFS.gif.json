@@ -1,0 +1,35 @@
+{
+    "image_WFS.gif": {
+        "modified": "2008-08-20 09:27:28",
+        "size": "5.33KB",
+        "md5": "63094dec81bf1c7db2255b61ce30693c",
+        "sha256": "20c798e7d5eeb5e8bc1ee40d9128340ea69baad96dfc9d6367005cf205d2bd6a"
+    },
+    "Metadata": {
+        "Chroma BlackIsZero": "true",
+        "Chroma ColorSpaceType": "RGB",
+        "Chroma NumChannels": "4",
+        "Compression CompressionTypeName": "lzw",
+        "Compression Lossless": "true",
+        "Compression NumProgressiveScans": "1",
+        "Content-Type": "image/gif",
+        "Data SampleFormat": "Index",
+        "Dimension HorizontalPixelOffset": "0",
+        "Dimension ImageOrientation": "Normal",
+        "Dimension VerticalPixelOffset": "0",
+        "GraphicControlExtension": "disposalMethod=none, userInputFlag=false, transparentColorFlag=true, delayTime=0, transparentColorIndex=120",
+        "ImageDescriptor": "imageLeftPosition=0, imageTopPosition=0, imageWidth=388, imageHeight=99, interlaceFlag=false",
+        "Transparency TransparentIndex": "120",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.image.ImageParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "height": "99",
+        "resourceName": "b'image_WFS.gif'",
+        "tiff:ImageLength": "99",
+        "tiff:ImageWidth": "388",
+        "width": "388"
+    }
+}

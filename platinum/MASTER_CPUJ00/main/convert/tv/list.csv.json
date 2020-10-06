@@ -1,0 +1,21 @@
+{
+    "list.csv": {
+        "modified": "2008-08-20 09:14:40",
+        "size": "2.46KB",
+        "md5": "6751bd7343480b3cc1d2ec63cdbbd53c",
+        "sha256": "6fea39a7db2f478b55459238e0dfd1a2770a2b15e7b1a02f978e6e5636db34f3"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'list.csv'"
+    }
+}

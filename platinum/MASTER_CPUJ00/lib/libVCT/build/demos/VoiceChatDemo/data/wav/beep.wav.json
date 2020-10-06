@@ -1,0 +1,24 @@
+{
+    "beep.wav": {
+        "modified": "2008-08-20 09:23:36",
+        "size": "3.17KB",
+        "md5": "2416d5c765e864c7796906eb9cfa0dea",
+        "sha256": "216dc98cf20a064baebf32f19b5023b6c86a2f4accd018f9f6af31c772cf70b1"
+    },
+    "Metadata": {
+        "Content-Type": "audio/vnd.wave",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.audio.AudioParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "9",
+        "bits": "16",
+        "channels": "1",
+        "encoding": "PCM_SIGNED",
+        "resourceName": "b'beep.wav'",
+        "samplerate": "16000.0",
+        "xmpDM:audioSampleRate": "16000",
+        "xmpDM:audioSampleType": "16Int"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "io_register_list.csv": {
+        "modified": "2008-08-20 09:24:44",
+        "size": "12.6KB",
+        "md5": "a254dfc6030183e2b5c8603619213ddb",
+        "sha256": "b10990495b40a701ec4f31500bdfc398389ce7777938ee51ee58a00377d9877a"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "5",
+        "csv:delimiter": "comma",
+        "resourceName": "b'io_register_list.csv'"
+    }
+}

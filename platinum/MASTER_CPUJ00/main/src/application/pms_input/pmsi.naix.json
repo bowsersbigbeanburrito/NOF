@@ -1,0 +1,21 @@
+{
+    "pmsi.naix": {
+        "modified": "2008-08-20 09:16:58",
+        "size": "1.26KB",
+        "md5": "0dfb025a4d29262db22468496e346a86",
+        "sha256": "868fe973f7077f17404d033b8ef2ec5be5f64f4db37897a14acf1deb4ff51f13"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'pmsi.naix'"
+    }
+}

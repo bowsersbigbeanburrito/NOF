@@ -1,0 +1,21 @@
+{
+    "zone_c01.evp": {
+        "modified": "2008-08-20 09:21:42",
+        "size": "0.94KB",
+        "md5": "ba05ae379c2c50a0f4c7ec248c8c31d4",
+        "sha256": "1ece2c06af0fe476255cfc8ab8be0438f40beeccad59b49ab79507ccff2d1d8e"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'zone_c01.evp'"
+    }
+}

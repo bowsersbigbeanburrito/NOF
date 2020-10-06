@@ -1,0 +1,20 @@
+{
+    "test1.txt": {
+        "modified": "2008-08-20 09:25:24",
+        "size": "0.03KB",
+        "md5": "1af03595362bc8f345557540a288396e",
+        "sha256": "db66c060f92ec01618fa4f42520414156cd5b6d49d5bf7fb43974fcc334f9e65"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/plain; charset=windows-1252",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'test1.txt'"
+    }
+}

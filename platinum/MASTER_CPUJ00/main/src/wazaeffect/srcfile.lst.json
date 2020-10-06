@@ -1,0 +1,21 @@
+{
+    "srcfile.lst": {
+        "modified": "2008-08-20 09:15:32",
+        "size": "6.37KB",
+        "md5": "d0b4ef362c53ed16d7e9b750361b57b3",
+        "sha256": "9a21b573c9066c488fe6faf72ada943ad8821f8a0955a18a13312cedb5597416"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'srcfile.lst'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "dwc_nd_sample.rsf": {
+        "modified": "2008-08-20 09:23:42",
+        "size": "0.6KB",
+        "md5": "024441b67c518725e2a078228a387933",
+        "sha256": "0ac4d04cfc64437d84f158b31230028bff17dd39919f47dde778fa7533030590"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'dwc_nd_sample.rsf'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "footprint_foot.dat": {
+        "modified": "2008-08-20 09:16:38",
+        "size": "15.15KB",
+        "md5": "bd71ef703935c1ddd450b3d363ab86ad",
+        "sha256": "9335b94362e553ba16ad78843ce3ab03eff146705634844949694308d13dd166"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/csv; charset=Shift_JIS; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "comma",
+        "resourceName": "b'footprint_foot.dat'"
+    }
+}
