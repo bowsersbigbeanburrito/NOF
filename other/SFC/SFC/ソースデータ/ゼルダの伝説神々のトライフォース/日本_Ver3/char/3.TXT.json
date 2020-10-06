@@ -1,0 +1,21 @@
+{
+    "3.TXT": {
+        "modified": "2016-05-12 21:36:32",
+        "size": "70.0KB",
+        "md5": "0658829453d64ecdec66b4f649510cec",
+        "sha256": "d92190396d05a3f8f3bb4b6b02ff9243ede4857e1813dbe503ac584df0309469"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "5",
+        "csv:delimiter": "comma",
+        "resourceName": "b'3.TXT'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "pos.dat0": {
+        "modified": "2016-05-12 21:52:55",
+        "size": "0.24KB",
+        "md5": "ab48ae76b090571625b207184a7e8689",
+        "sha256": "7183fb4dd6cceb79a23d8412f9b4a0f508794e65d2cbf9fb3e42e218ff22d85f"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'pos.dat0'"
+    }
+}

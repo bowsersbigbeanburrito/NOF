@@ -1,0 +1,21 @@
+{
+    "KUSA.DAT": {
+        "modified": "2016-05-12 21:36:32",
+        "size": "0.51KB",
+        "md5": "033da5578e7ec07ee8498ca7b5bd46df",
+        "sha256": "c8879466094ed5e91f9cad02f06d81b699444be726f0ed98bf014e2f89cc52df"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'KUSA.DAT'"
+    }
+}

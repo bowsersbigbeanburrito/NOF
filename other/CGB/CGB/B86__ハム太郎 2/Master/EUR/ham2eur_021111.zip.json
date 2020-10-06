@@ -1,0 +1,111 @@
+{
+    "ham2eur_021111.zip": {
+        "modified": "2002-11-10 21:30:00",
+        "size": "2930.21KB",
+        "md5": "c183a41fc87bd9c5a8e4b0721448eb32",
+        "sha256": "7a881fa78a970fa244a87e74245732d64ff9b1f1a49f7a68b544d920d8c64d50"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "audio/mpeg",
+            "audio/mpeg"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mp3.Mp3Parser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mp3.Mp3Parser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "191",
+            "84",
+            "91"
+        ],
+        "resourceName": [
+            "b'ham2eur_021111.zip'",
+            "ham2eur.bin",
+            "ham2eur_d.bin"
+        ],
+        "Content-Length": [
+            "4194304",
+            "4194304"
+        ],
+        "Last-Modified": [
+            "2002-11-11T04:32:14Z",
+            "2002-11-11T04:21:48Z"
+        ],
+        "Last-Save-Date": [
+            "2002-11-11T04:32:14Z",
+            "2002-11-11T04:21:48Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/ham2eur.bin",
+            "/ham2eur_d.bin"
+        ],
+        "channels": [
+            "1",
+            "1"
+        ],
+        "date": [
+            "2002-11-11T04:32:14Z",
+            "2002-11-11T04:21:48Z"
+        ],
+        "dcterms:modified": [
+            "2002-11-11T04:32:14Z",
+            "2002-11-11T04:21:48Z"
+        ],
+        "embeddedRelationshipId": [
+            "ham2eur.bin",
+            "ham2eur_d.bin"
+        ],
+        "meta:save-date": [
+            "2002-11-11T04:32:14Z",
+            "2002-11-11T04:21:48Z"
+        ],
+        "modified": [
+            "2002-11-11T04:32:14Z",
+            "2002-11-11T04:21:48Z"
+        ],
+        "samplerate": [
+            "44100",
+            "44100"
+        ],
+        "version": [
+            "MPEG 3 Layer I Version 1",
+            "MPEG 3 Layer I Version 1"
+        ],
+        "xmpDM:audioChannelType": [
+            "Mono",
+            "Mono"
+        ],
+        "xmpDM:audioCompressor": [
+            "MP3",
+            "MP3"
+        ],
+        "xmpDM:audioSampleRate": [
+            "44100",
+            "44100"
+        ],
+        "xmpDM:duration": [
+            "19815.93359375",
+            "19879.228515625"
+        ]
+    }
+}

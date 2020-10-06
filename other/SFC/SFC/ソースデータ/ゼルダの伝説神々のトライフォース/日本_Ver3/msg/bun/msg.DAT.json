@@ -1,0 +1,21 @@
+{
+    "msg.DAT": {
+        "modified": "2016-05-12 21:36:32",
+        "size": "179.82KB",
+        "md5": "41c2bf8a7679a5f67b5d4874d39af9f5",
+        "sha256": "cd04ec57b4d3886ef23ef7a09eef25a138bc4f9dd7007eab052596e10cdd47a3"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "6",
+        "csv:delimiter": "tab",
+        "resourceName": "b'msg.DAT'"
+    }
+}

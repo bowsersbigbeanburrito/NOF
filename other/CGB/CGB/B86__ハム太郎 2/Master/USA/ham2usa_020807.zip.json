@@ -1,0 +1,111 @@
+{
+    "ham2usa_020807.zip": {
+        "modified": "2002-08-07 02:30:00",
+        "size": "1895.76KB",
+        "md5": "7ad3668bac7edca7ac44f86938980500",
+        "sha256": "2be9954d6c72ea92ef102333adda28f00cca9f0e34ed4f3702ed723db7cb146f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "audio/mpeg",
+            "audio/mpeg"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mp3.Mp3Parser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.mp3.Mp3Parser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "81",
+            "36",
+            "41"
+        ],
+        "resourceName": [
+            "b'ham2usa_020807.zip'",
+            "ham2usa_d.bin",
+            "ham2usa.bin"
+        ],
+        "Content-Length": [
+            "2097152",
+            "2097152"
+        ],
+        "Last-Modified": [
+            "2002-08-07T06:38:18Z",
+            "2002-08-07T06:11:32Z"
+        ],
+        "Last-Save-Date": [
+            "2002-08-07T06:38:18Z",
+            "2002-08-07T06:11:32Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/ham2usa_d.bin",
+            "/ham2usa.bin"
+        ],
+        "channels": [
+            "2",
+            "2"
+        ],
+        "date": [
+            "2002-08-07T06:38:18Z",
+            "2002-08-07T06:11:32Z"
+        ],
+        "dcterms:modified": [
+            "2002-08-07T06:38:18Z",
+            "2002-08-07T06:11:32Z"
+        ],
+        "embeddedRelationshipId": [
+            "ham2usa_d.bin",
+            "ham2usa.bin"
+        ],
+        "meta:save-date": [
+            "2002-08-07T06:38:18Z",
+            "2002-08-07T06:11:32Z"
+        ],
+        "modified": [
+            "2002-08-07T06:38:18Z",
+            "2002-08-07T06:11:32Z"
+        ],
+        "samplerate": [
+            "44100",
+            "44100"
+        ],
+        "version": [
+            "MPEG 3 Layer I Version 1",
+            "MPEG 3 Layer I Version 1"
+        ],
+        "xmpDM:audioChannelType": [
+            "Stereo",
+            "Stereo"
+        ],
+        "xmpDM:audioCompressor": [
+            "MP3",
+            "MP3"
+        ],
+        "xmpDM:audioSampleRate": [
+            "44100",
+            "44100"
+        ],
+        "xmpDM:duration": [
+            "13548.96484375",
+            "13548.96484375"
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "MHELP.ZIP": {
+        "modified": "1993-04-14 01:46:34",
+        "size": "10.7KB",
+        "md5": "10b1658b7696db070c1fc3b78b110735",
+        "sha256": "2b96931202e0661b4847d7baeaf6514ca4e49dd64f4ebaa96a79f5d1cb98187a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/plain; charset=windows-1252",
+            "text/plain; charset=windows-1252"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "6",
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'MHELP.ZIP'",
+            "MARIO.HLP",
+            "MHELP.CB"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "windows-1252"
+        ],
+        "Content-Length": [
+            "36785",
+            "6422"
+        ],
+        "Last-Modified": [
+            "1993-04-13T18:52:08Z",
+            "1993-04-13T21:54:48Z"
+        ],
+        "Last-Save-Date": [
+            "1993-04-13T18:52:08Z",
+            "1993-04-13T21:54:48Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MARIO.HLP",
+            "/MHELP.CB"
+        ],
+        "date": [
+            "1993-04-13T18:52:08Z",
+            "1993-04-13T21:54:48Z"
+        ],
+        "dcterms:modified": [
+            "1993-04-13T18:52:08Z",
+            "1993-04-13T21:54:48Z"
+        ],
+        "embeddedRelationshipId": [
+            "MARIO.HLP",
+            "MHELP.CB"
+        ],
+        "meta:save-date": [
+            "1993-04-13T18:52:08Z",
+            "1993-04-13T21:54:48Z"
+        ],
+        "modified": [
+            "1993-04-13T18:52:08Z",
+            "1993-04-13T21:54:48Z"
+        ]
+    }
+}

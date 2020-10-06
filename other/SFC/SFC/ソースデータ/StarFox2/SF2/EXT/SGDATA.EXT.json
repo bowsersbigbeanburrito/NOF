@@ -1,0 +1,21 @@
+{
+    "SGDATA.EXT": {
+        "modified": "1995-09-08 00:44:00",
+        "size": "0.85KB",
+        "md5": "344abffc35e1cc454a21f0d1e06e2b8b",
+        "sha256": "dd6ce4282f0a4a29221588f152e474fc8fd0924ae9600d319b5ec3d287110c5c"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'SGDATA.EXT'"
+    }
+}

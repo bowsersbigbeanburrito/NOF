@@ -1,0 +1,21 @@
+{
+    "NETRC": {
+        "modified": "1994-05-19 20:31:04",
+        "size": "0.99KB",
+        "md5": "ad4335a0f3e9a7fad71f6c35e5c80074",
+        "sha256": "3ac46619a54674759baadb5c0cc0cd727fa6e2577b26c097834c7d8bd582bc9c"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'NETRC'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "select_l.CDT": {
+        "modified": "1998-08-03 00:30:00",
+        "size": "0.63KB",
+        "md5": "a138898c1ceeb904dda08354d37c4663",
+        "sha256": "dbf8cf16f2e41365d0820ef6a1369eaef0f4a9dd06037d4d56f6027a0ba4fd6e"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "comma",
+        "resourceName": "b'select_l.CDT'"
+    }
+}

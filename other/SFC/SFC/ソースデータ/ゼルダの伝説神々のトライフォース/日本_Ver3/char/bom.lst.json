@@ -1,0 +1,21 @@
+{
+    "bom.lst": {
+        "modified": "2016-05-12 21:36:32",
+        "size": "1.08KB",
+        "md5": "47edb169e5ca3e81a971475a05687bde",
+        "sha256": "ddd81840ad0189fa6fc57e2016cec86346c121ce4e273894f7e5c1e29e2cfb2f"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'bom.lst'"
+    }
+}

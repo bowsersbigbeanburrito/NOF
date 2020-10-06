@@ -1,0 +1,20 @@
+{
+    "HELLO": {
+        "modified": "1994-02-08 22:25:32",
+        "size": "0.01KB",
+        "md5": "6300c09da0564f578ab75f8c89ce0382",
+        "sha256": "eb76e2f18b33d929fe80894df47c17f6e24c43355aa2f528344d3b93fecdbd76"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/plain; charset=windows-1252",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'HELLO'"
+    }
+}

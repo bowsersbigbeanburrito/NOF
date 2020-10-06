@@ -1,0 +1,21 @@
+{
+    "ASIN.DAT": {
+        "modified": "1994-07-17 22:07:12",
+        "size": "0.49KB",
+        "md5": "727c459e02dea271e07e2c1681e0bf5c",
+        "sha256": "47c25e425e11c2f1f8231d694232f21510bdbc74d693d67c5e2fd228d4485c02"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'ASIN.DAT'"
+    }
+}

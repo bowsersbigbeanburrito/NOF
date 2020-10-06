@@ -1,0 +1,21 @@
+{
+    "MAP1.DAT": {
+        "modified": "2016-05-12 21:25:37",
+        "size": "184.66KB",
+        "md5": "1cf538567d4dd305de3067c0ca3748c5",
+        "sha256": "a9e61b88a9448ab507eb412b0a9885c1fd81fa4af07fa37cb4959ca53b65cae2"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "6",
+        "csv:delimiter": "tab",
+        "resourceName": "b'MAP1.DAT'"
+    }
+}

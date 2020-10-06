@@ -1,0 +1,26 @@
+{
+    "44.DAT": {
+        "modified": "1993-07-06 18:00:38",
+        "size": "16.0KB",
+        "md5": "f444aeff4557fbc5d9201278aa9452ac",
+        "sha256": "321a601725736c627a2f4dfc268b4fd5098724552b97c5a0c60492c4e4588d79"
+    },
+    "Metadata": {
+        "Content-Type": "audio/mpeg",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mp3.Mp3Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "channels": "2",
+        "resourceName": "b'44.DAT'",
+        "samplerate": "48000",
+        "version": "MPEG 3 Layer I Version 1",
+        "xmpDM:audioChannelType": "Stereo",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "48000",
+        "xmpDM:duration": "211.0748291015625"
+    }
+}

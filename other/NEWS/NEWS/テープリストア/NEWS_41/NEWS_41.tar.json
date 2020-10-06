@@ -1,0 +1,48 @@
+{
+    "NEWS_41.tar": {
+        "modified": "2013-07-25 01:26:22",
+        "size": "4.0KB",
+        "md5": "f03d23e612e1728846244159c3866ff4",
+        "sha256": "8837731774097400d0f6339465c4b9729d2c36038b78421c3070030ea7a0d63f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-tar",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'NEWS_41.tar'",
+            "./Backup.info"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Length": "220",
+        "Last-Modified": "1993-06-14T00:55:30Z",
+        "Last-Save-Date": "1993-06-14T00:55:30Z",
+        "X-TIKA:embedded_resource_path": "/Backup.info",
+        "date": "1993-06-14T00:55:30Z",
+        "dcterms:modified": "1993-06-14T00:55:30Z",
+        "embeddedRelationshipId": "./Backup.info",
+        "meta:save-date": "1993-06-14T00:55:30Z",
+        "modified": "1993-06-14T00:55:30Z"
+    }
+}

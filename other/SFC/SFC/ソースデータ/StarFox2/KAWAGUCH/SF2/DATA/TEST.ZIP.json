@@ -1,0 +1,41 @@
+{
+    "TEST.ZIP": {
+        "modified": "1994-07-13 23:44:06",
+        "size": "10.77KB",
+        "md5": "6f82835818b7249647683504f95f408d",
+        "sha256": "b89238ce71d898ac6ef7423d5e214e2603a2e4d69a0d847859475e3ed328d9de"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "9",
+            "0"
+        ],
+        "resourceName": [
+            "b'TEST.ZIP'",
+            "TEST.CHR"
+        ],
+        "Content-Length": "32256",
+        "Last-Modified": "1994-07-14T22:36:32Z",
+        "Last-Save-Date": "1994-07-14T22:36:32Z",
+        "X-TIKA:embedded_resource_path": "/TEST.CHR",
+        "date": "1994-07-14T22:36:32Z",
+        "dcterms:modified": "1994-07-14T22:36:32Z",
+        "embeddedRelationshipId": "TEST.CHR",
+        "meta:save-date": "1994-07-14T22:36:32Z",
+        "modified": "1994-07-14T22:36:32Z"
+    }
+}

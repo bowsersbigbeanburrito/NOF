@@ -1,0 +1,21 @@
+{
+    "FOX.DAT": {
+        "modified": "1994-07-15 01:39:56",
+        "size": "19.4KB",
+        "md5": "88106909d690f9b7e410b59ee0a71e4f",
+        "sha256": "6da723dbb6415af57503eddb7a627e72cdee2b8e3944b7e0cba0f56ef4fc2f08"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "csv:delimiter": "comma",
+        "resourceName": "b'FOX.DAT'"
+    }
+}

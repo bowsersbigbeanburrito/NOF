@@ -1,0 +1,21 @@
+{
+    "kumi_s7.dat": {
+        "modified": "1998-10-24 00:12:00",
+        "size": "6.45KB",
+        "md5": "d3d3c8a894921d9e73ef9994308ab1ea",
+        "sha256": "e29fcc9c817b0814a6047ccae5727eba83e4bc85796eaa66ccb2d98c882259ca"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'kumi_s7.dat'"
+    }
+}

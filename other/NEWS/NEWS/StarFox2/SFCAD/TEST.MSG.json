@@ -1,0 +1,20 @@
+{
+    "TEST.MSG": {
+        "modified": "1994-06-02 02:19:16",
+        "size": "0.15KB",
+        "md5": "162b250b7a3406eae7f630c902eb1f1d",
+        "sha256": "7e81763650d5a14e642b14cc40c579986b85b551ab06a7e17cecd939190e493a"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/plain; charset=windows-1252",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'TEST.MSG'"
+    }
+}

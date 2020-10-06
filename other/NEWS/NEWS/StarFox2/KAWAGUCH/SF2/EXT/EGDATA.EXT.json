@@ -1,0 +1,21 @@
+{
+    "EGDATA.EXT": {
+        "modified": "1995-08-16 17:13:50",
+        "size": "1.4KB",
+        "md5": "340e8ba53aba74c5c0f99001ace3d115",
+        "sha256": "555344144d0cadf5afd05c9ca8040d95d714302de7c5f63b5258e434264643a3"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'EGDATA.EXT'"
+    }
+}

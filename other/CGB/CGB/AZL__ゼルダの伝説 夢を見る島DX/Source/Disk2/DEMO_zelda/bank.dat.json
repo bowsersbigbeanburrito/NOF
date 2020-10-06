@@ -1,0 +1,21 @@
+{
+    "bank.dat": {
+        "modified": "1998-09-18 22:37:36",
+        "size": "2.42KB",
+        "md5": "d9a56ada881b0a5492aeff4a018ac471",
+        "sha256": "42246725c0916390062e0609e7a09bc10204edac20c9f207e1e1557c2f3042e8"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'bank.dat'"
+    }
+}

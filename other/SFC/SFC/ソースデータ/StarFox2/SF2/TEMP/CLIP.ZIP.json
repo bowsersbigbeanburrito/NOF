@@ -1,0 +1,87 @@
+{
+    "CLIP.ZIP": {
+        "modified": "1995-05-30 20:04:48",
+        "size": "12.88KB",
+        "md5": "c067611dda8ecf266caea9774338fc31",
+        "sha256": "0dd5513ca68e36b298b52bc720d0ed914e1f75186aeda6346197b5ef23c81150"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/plain; charset=windows-1252",
+            "text/plain; charset=windows-1252"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "2",
+            "1"
+        ],
+        "resourceName": [
+            "b'CLIP.ZIP'",
+            "MCLIP.MC",
+            "MDRAWP.MC"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "windows-1252"
+        ],
+        "Content-Length": [
+            "30364",
+            "43283"
+        ],
+        "Last-Modified": [
+            "1995-05-25T18:55:42Z",
+            "1995-05-26T00:09:44Z"
+        ],
+        "Last-Save-Date": [
+            "1995-05-25T18:55:42Z",
+            "1995-05-26T00:09:44Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MCLIP.MC",
+            "/MDRAWP.MC"
+        ],
+        "date": [
+            "1995-05-25T18:55:42Z",
+            "1995-05-26T00:09:44Z"
+        ],
+        "dcterms:modified": [
+            "1995-05-25T18:55:42Z",
+            "1995-05-26T00:09:44Z"
+        ],
+        "embeddedRelationshipId": [
+            "MCLIP.MC",
+            "MDRAWP.MC"
+        ],
+        "meta:save-date": [
+            "1995-05-25T18:55:42Z",
+            "1995-05-26T00:09:44Z"
+        ],
+        "modified": [
+            "1995-05-25T18:55:42Z",
+            "1995-05-26T00:09:44Z"
+        ]
+    }
+}

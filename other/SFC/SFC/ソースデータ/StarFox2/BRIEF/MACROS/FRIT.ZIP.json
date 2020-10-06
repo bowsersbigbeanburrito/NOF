@@ -1,0 +1,48 @@
+{
+    "FRIT.ZIP": {
+        "modified": "1993-05-23 23:38:00",
+        "size": "10.28KB",
+        "md5": "ebedb87e64191ad62f0ab72f669b160d",
+        "sha256": "fe00dcd21bfb8ebb446c2885863b6d942620a5d71365c767ff008cfc9b490633"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/x-uuencode; charset=windows-1252"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1"
+        ],
+        "resourceName": [
+            "b'FRIT.ZIP'",
+            "MYCOMP.UU"
+        ],
+        "Content-Encoding": "windows-1252",
+        "Content-Length": "13857",
+        "Last-Modified": "1993-05-24T22:37:20Z",
+        "Last-Save-Date": "1993-05-24T22:37:20Z",
+        "X-TIKA:embedded_resource_path": "/MYCOMP.UU",
+        "date": "1993-05-24T22:37:20Z",
+        "dcterms:modified": "1993-05-24T22:37:20Z",
+        "embeddedRelationshipId": "MYCOMP.UU",
+        "meta:save-date": "1993-05-24T22:37:20Z",
+        "modified": "1993-05-24T22:37:20Z"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "SELECT.DMG": {
+        "modified": "1998-06-09 05:50:12",
+        "size": "4.24KB",
+        "md5": "e4c7276b8226c49fa36551b81a832950",
+        "sha256": "16976d661a60ae111322ecd45fa4adf3d036c8f8c9143f7e8acdee78f370a0b0"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/tsv; charset=Shift_JIS; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'SELECT.DMG'"
+    }
+}

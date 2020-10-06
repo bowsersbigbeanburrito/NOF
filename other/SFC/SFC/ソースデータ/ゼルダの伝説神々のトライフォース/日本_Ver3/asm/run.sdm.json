@@ -1,0 +1,21 @@
+{
+    "run.sdm": {
+        "modified": "2016-05-12 21:36:32",
+        "size": "0.76KB",
+        "md5": "0d675bf58024bf3620c44cec5572f004",
+        "sha256": "cd795669fe7d00473c5c3982ca234949792c90acea289a2797117d7288c39685"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'run.sdm'"
+    }
+}
