@@ -1,0 +1,33 @@
+{
+    "TEST000.PS.GZ": {
+        "modified": "1997-04-27 15:55:02",
+        "size": "298.05KB",
+        "md5": "87d2a42e37a8e0acde8772510a5be9fd",
+        "sha256": "d08c5c64dfeae8d3638e9883f84fce85de8d5b3a12026a45c8128ee12c1623dd"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "application/postscript"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'TEST000.PS.GZ'",
+            "b'TEST000.PS.GZ'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'TEST000.PS.GZ'"
+    }
+}

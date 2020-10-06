@@ -1,0 +1,41 @@
+{
+    "GOLDEN.SPANDATA.Z": {
+        "modified": "1997-04-27 16:34:24",
+        "size": "62.2KB",
+        "md5": "5f3959ff555b145369b2cd030e51bdde",
+        "sha256": "ed50e96d1c959549b49936e49c8f65a37eca33fadf1bafd49626a66befa195ec"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "text/csv; charset=ISO-8859-1; delimiter=comma"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "49",
+            "46"
+        ],
+        "resourceName": [
+            "b'GOLDEN.SPANDATA.Z'",
+            "b'GOLDEN.SPANDATA.Z'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'GOLDEN.SPANDATA.Z'",
+        "csv:delimiter": "comma"
+    }
+}

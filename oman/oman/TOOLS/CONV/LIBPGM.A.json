@@ -1,0 +1,75 @@
+{
+    "LIBPGM.A": {
+        "modified": "1997-04-27 16:34:48",
+        "size": "15.24KB",
+        "md5": "bba329a49056a62f05c722b9936d00a9",
+        "sha256": "6bc2e288aafcc4e4c4e5d3f96b7fa5b65240509709e752b2564730467c60b2eb"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'LIBPGM.A'",
+            "libpgm1.o"
+        ],
+        "Content-Length": [
+            "116",
+            "15364"
+        ],
+        "Last-Modified": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:12Z"
+        ],
+        "Last-Save-Date": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:12Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/libpgm1.o"
+        ],
+        "date": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:12Z"
+        ],
+        "dcterms:modified": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:12Z"
+        ],
+        "meta:save-date": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:12Z"
+        ],
+        "modified": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:12Z"
+        ],
+        "embeddedRelationshipId": "libpgm1.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "MIPS"
+    }
+}

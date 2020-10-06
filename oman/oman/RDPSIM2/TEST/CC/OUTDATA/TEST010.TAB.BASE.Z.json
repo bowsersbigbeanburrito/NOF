@@ -1,0 +1,40 @@
+{
+    "TEST010.TAB.BASE.Z": {
+        "modified": "1997-04-27 15:58:54",
+        "size": "18.8KB",
+        "md5": "c5c6a4956321f1ee8d39ea151a85f299",
+        "sha256": "466483ad3c62dcdc6b07530f14243fda14937fff2cb82b77ba3002a9caba8f70"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "2"
+        ],
+        "resourceName": [
+            "b'TEST010.TAB.BASE.Z'",
+            "b'TEST010.TAB.BASE.Z'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'TEST010.TAB.BASE.Z'"
+    }
+}

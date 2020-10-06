@@ -1,0 +1,20 @@
+{
+    "TEST.TBL,V.DELETED": {
+        "modified": "1997-04-27 15:56:02",
+        "size": "0.34KB",
+        "md5": "1b34ee1f5d898ce97f5880b29dc0421d",
+        "sha256": "232ec84afbcfc87bc8eee9dfda8d850ad41be5b290590ef759d0cdf2d29478d2"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'TEST.TBL,V.DELETED'"
+    }
+}

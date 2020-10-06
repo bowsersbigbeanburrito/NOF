@@ -1,0 +1,40 @@
+{
+    "TC_DIV016.TAB.BASE.Z": {
+        "modified": "1997-04-27 16:06:38",
+        "size": "117.41KB",
+        "md5": "9530d50545203687a14a85e05fc28006",
+        "sha256": "d052fd6605735d6a36254c5de8d6ea84f5026788d13d6e322af1ef1a2028f9c4"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "12",
+            "10"
+        ],
+        "resourceName": [
+            "b'TC_DIV016.TAB.BASE.Z'",
+            "b'TC_DIV016.TAB.BASE.Z'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'TC_DIV016.TAB.BASE.Z'"
+    }
+}

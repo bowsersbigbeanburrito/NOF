@@ -1,0 +1,21 @@
+{
+    "PIN_LIST": {
+        "modified": "1997-04-27 15:23:42",
+        "size": "1.9KB",
+        "md5": "9124c0605e1ded60fe707bb81bd0acc5",
+        "sha256": "5948bf0f40d2933bcae6cbb85adee3fc87e3232a7973d0dd7a32702428b1f455"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "7",
+        "csv:delimiter": "tab",
+        "resourceName": "b'PIN_LIST'"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "TM_MUX023.TAB.BASE.Z": {
+        "modified": "1997-04-27 16:08:04",
+        "size": "419.78KB",
+        "md5": "430f7e1a8d61ec24fe3f93af1ab96aa9",
+        "sha256": "c332a220fc6cd53ee4a146758ee9524a7652ffcc54ef95b33ccb4052b611d0d9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "25",
+            "22"
+        ],
+        "resourceName": [
+            "b'TM_MUX023.TAB.BASE.Z'",
+            "b'TM_MUX023.TAB.BASE.Z'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'TM_MUX023.TAB.BASE.Z'"
+    }
+}

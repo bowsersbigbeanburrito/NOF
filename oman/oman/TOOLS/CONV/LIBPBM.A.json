@@ -1,0 +1,123 @@
+{
+    "LIBPBM.A": {
+        "modified": "1997-04-27 16:34:46",
+        "size": "58.57KB",
+        "md5": "d1ba9cb3a52098f6f169abdb328bc200",
+        "sha256": "0d08381d9b71859b454ab5cfc81f32c2e7cb348ff46363fd69451ea8fb1d616e"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "7",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'LIBPBM.A'",
+            "libpbm1.o",
+            "libpbm2.o",
+            "libpbm4.o"
+        ],
+        "Content-Length": [
+            "592",
+            "31544",
+            "14908",
+            "12688"
+        ],
+        "Last-Modified": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:10Z",
+            "1995-05-23T23:21:11Z",
+            "1995-05-23T23:21:11Z"
+        ],
+        "Last-Save-Date": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:10Z",
+            "1995-05-23T23:21:11Z",
+            "1995-05-23T23:21:11Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/libpbm1.o",
+            "/libpbm2.o",
+            "/libpbm4.o"
+        ],
+        "date": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:10Z",
+            "1995-05-23T23:21:11Z",
+            "1995-05-23T23:21:11Z"
+        ],
+        "dcterms:modified": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:10Z",
+            "1995-05-23T23:21:11Z",
+            "1995-05-23T23:21:11Z"
+        ],
+        "meta:save-date": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:10Z",
+            "1995-05-23T23:21:11Z",
+            "1995-05-23T23:21:11Z"
+        ],
+        "modified": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:10Z",
+            "1995-05-23T23:21:11Z",
+            "1995-05-23T23:21:11Z"
+        ],
+        "embeddedRelationshipId": [
+            "libpbm1.o",
+            "libpbm2.o",
+            "libpbm4.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

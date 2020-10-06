@@ -1,0 +1,40 @@
+{
+    "TM_LOAD022.TAB.BASE.Z": {
+        "modified": "1997-04-27 16:07:48",
+        "size": "31.57KB",
+        "md5": "86904e1b53c973f2a5a5a50e6ded8417",
+        "sha256": "7168a9b086220e1e30e260014491b1569c624fce57813e46184effbeb1e4503b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "3"
+        ],
+        "resourceName": [
+            "b'TM_LOAD022.TAB.BASE.Z'",
+            "b'TM_LOAD022.TAB.BASE.Z'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'TM_LOAD022.TAB.BASE.Z'"
+    }
+}

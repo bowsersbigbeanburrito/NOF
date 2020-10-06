@@ -1,0 +1,40 @@
+{
+    "TC_SORT021.TAB.BASE.Z": {
+        "modified": "1997-04-27 16:07:02",
+        "size": "36.32KB",
+        "md5": "4741f7c0d747265c60c1aad2cea5de2a",
+        "sha256": "dcdd6ddd387b0a45bd55dcd672964a234f3587a27355aaed733ab1bb732819fb"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "3"
+        ],
+        "resourceName": [
+            "b'TC_SORT021.TAB.BASE.Z'",
+            "b'TC_SORT021.TAB.BASE.Z'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'TC_SORT021.TAB.BASE.Z'"
+    }
+}

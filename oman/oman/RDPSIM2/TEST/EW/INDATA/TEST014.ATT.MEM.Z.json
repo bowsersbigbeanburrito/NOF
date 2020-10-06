@@ -1,0 +1,33 @@
+{
+    "TEST014.ATT.MEM.Z": {
+        "modified": "1997-04-27 16:00:06",
+        "size": "42.33KB",
+        "md5": "d5fe842da660242f8b8771cc16854156",
+        "sha256": "f2a567b98f5ecced3eccfe4d2b5f55617c8437ee5c3d4b8b466e6926e68ab4f1"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'TEST014.ATT.MEM.Z'",
+            "b'TEST014.ATT.MEM.Z'"
+        ],
+        "X-TIKA:embedded_resource_path": "/b'TEST014.ATT.MEM.Z'"
+    }
+}

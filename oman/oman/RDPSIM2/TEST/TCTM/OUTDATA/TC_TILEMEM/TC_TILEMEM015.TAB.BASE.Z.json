@@ -1,0 +1,40 @@
+{
+    "TC_TILEMEM015.TAB.BASE.Z": {
+        "modified": "1997-04-27 16:07:16",
+        "size": "12.69KB",
+        "md5": "99f669f907ec30ab28ef441a8759e8a0",
+        "sha256": "aeddd57ad6afaeadcc3e038d15a528f440bb693fd9ac1f88cce308b9a93ddb60"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "2"
+        ],
+        "resourceName": [
+            "b'TC_TILEMEM015.TAB.BASE.Z'",
+            "b'TC_TILEMEM015.TAB.BASE.Z'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'TC_TILEMEM015.TAB.BASE.Z'"
+    }
+}

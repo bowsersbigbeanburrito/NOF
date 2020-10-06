@@ -1,0 +1,40 @@
+{
+    "TC_LOD014.TAB.BASE.Z": {
+        "modified": "1997-04-27 16:06:50",
+        "size": "11.18KB",
+        "md5": "ee4b0d7f7d00c9ede1a824dbad4dab90",
+        "sha256": "24c24f37895c74f2e1ee1ad10ad184d4329fcc45fa64c84cf9858d36abac499d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "2"
+        ],
+        "resourceName": [
+            "b'TC_LOD014.TAB.BASE.Z'",
+            "b'TC_LOD014.TAB.BASE.Z'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'TC_LOD014.TAB.BASE.Z'"
+    }
+}

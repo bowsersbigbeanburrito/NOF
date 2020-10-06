@@ -1,0 +1,20 @@
+{
+    "FOO,V.DELETED": {
+        "modified": "1997-04-27 16:12:10",
+        "size": "0.01KB",
+        "md5": "e7947c277cf4e4b36a62d030442d87c7",
+        "sha256": "fdb20356f7d58ce63f572e99fc7b537a3f986f9bcfb5495c93e21466d2185696"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'FOO,V.DELETED'"
+    }
+}

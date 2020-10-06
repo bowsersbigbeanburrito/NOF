@@ -1,0 +1,123 @@
+{
+    "LIBPPM.A": {
+        "modified": "1997-04-27 16:34:50",
+        "size": "53.85KB",
+        "md5": "d771a729ec35d049205fdc0ef23ad119",
+        "sha256": "2d6b999f931248d822c4d0fdceedf08f3d9b7c3df93a1f93dde9b85cf884c892"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'LIBPPM.A'",
+            "libppm1.o",
+            "libppm2.o",
+            "libppm3.o"
+        ],
+        "Content-Length": [
+            "416",
+            "17100",
+            "17060",
+            "20316"
+        ],
+        "Last-Modified": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:12Z",
+            "1995-05-23T23:21:13Z",
+            "1995-05-23T23:21:13Z"
+        ],
+        "Last-Save-Date": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:12Z",
+            "1995-05-23T23:21:13Z",
+            "1995-05-23T23:21:13Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/libppm1.o",
+            "/libppm2.o",
+            "/libppm3.o"
+        ],
+        "date": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:12Z",
+            "1995-05-23T23:21:13Z",
+            "1995-05-23T23:21:13Z"
+        ],
+        "dcterms:modified": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:12Z",
+            "1995-05-23T23:21:13Z",
+            "1995-05-23T23:21:13Z"
+        ],
+        "meta:save-date": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:12Z",
+            "1995-05-23T23:21:13Z",
+            "1995-05-23T23:21:13Z"
+        ],
+        "modified": [
+            "1995-05-23T23:21:15Z",
+            "1995-05-23T23:21:12Z",
+            "1995-05-23T23:21:13Z",
+            "1995-05-23T23:21:13Z"
+        ],
+        "embeddedRelationshipId": [
+            "libppm1.o",
+            "libppm2.o",
+            "libppm3.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "MIPS",
+            "MIPS",
+            "MIPS"
+        ]
+    }
+}

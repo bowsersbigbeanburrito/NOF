@@ -1,0 +1,41 @@
+{
+    "TEST010.OUT.BASE.GZ": {
+        "modified": "1997-04-27 16:11:46",
+        "size": "97.5KB",
+        "md5": "716155729cef113134364170cd3e9003",
+        "sha256": "08568da9b331f8e10f4c1551b068f21633af002fb721de558d62e6943121e09a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/tsv; charset=ISO-8859-1; delimiter=tab"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "69",
+            "63"
+        ],
+        "resourceName": [
+            "b'TEST010.OUT.BASE.GZ'",
+            "b'TEST010.OUT.BASE.GZ'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'TEST010.OUT.BASE.GZ'",
+        "csv:delimiter": "tab"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "ST_ALL000.TAB.BASE.GZ": {
+        "modified": "1997-04-27 16:04:38",
+        "size": "2.57KB",
+        "md5": "8d87111f0be853c1a5d30ec7b0d574f8",
+        "sha256": "d0b0f09c4e17fb78ffac252832db56fbbe866f240bd6337cd8e76ea9718afa11"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "2"
+        ],
+        "resourceName": [
+            "b'ST_ALL000.TAB.BASE.GZ'",
+            "b'ST_ALL000.TAB.BASE.GZ'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'ST_ALL000.TAB.BASE.GZ'"
+    }
+}

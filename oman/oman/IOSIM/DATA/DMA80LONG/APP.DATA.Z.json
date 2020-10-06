@@ -1,0 +1,40 @@
+{
+    "APP.DATA.Z": {
+        "modified": "1997-04-27 16:33:40",
+        "size": "246.1KB",
+        "md5": "b9d3bac1a4d491e37b32609ca7781a2b",
+        "sha256": "7134f1fd1586accc18e6d76156936ad109fd28c752c081052edbd0d03e48e826"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-compress",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "22",
+            "19"
+        ],
+        "resourceName": [
+            "b'APP.DATA.Z'",
+            "b'APP.DATA.Z'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'APP.DATA.Z'"
+    }
+}

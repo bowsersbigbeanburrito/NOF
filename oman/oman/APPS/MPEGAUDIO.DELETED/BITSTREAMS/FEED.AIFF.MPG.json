@@ -1,0 +1,26 @@
+{
+    "FEED.AIFF.MPG": {
+        "modified": "1997-04-27 16:21:36",
+        "size": "7008.77KB",
+        "md5": "b5c4181fa34c4ed5abd031a411b9c6f3",
+        "sha256": "9a855498867af0c0b6744aa480806eef66c8069e0a66ebae1a000e662d0e50c0"
+    },
+    "Metadata": {
+        "Content-Type": "audio/mpeg",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mp3.Mp3Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "18",
+        "channels": "2",
+        "resourceName": "b'FEED.AIFF.MPG'",
+        "samplerate": "44100",
+        "version": "MPEG 3 Layer I Version 1",
+        "xmpDM:audioChannelType": "Stereo",
+        "xmpDM:audioCompressor": "MP3",
+        "xmpDM:audioSampleRate": "44100",
+        "xmpDM:duration": "299046.1875"
+    }
+}
