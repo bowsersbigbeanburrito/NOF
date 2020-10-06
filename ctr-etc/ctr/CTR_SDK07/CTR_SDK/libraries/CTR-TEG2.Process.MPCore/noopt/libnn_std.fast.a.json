@@ -1,0 +1,75 @@
+{
+    "libnn_std.fast.a": {
+        "modified": "2009-12-24 11:19:24",
+        "size": "34.36KB",
+        "md5": "fc559a91fa23f3085daee2a6ec7dd475",
+        "sha256": "763b654c2dc69e19b2053a770ac5f4035afed2bceaa178e51827d5577ac0ed67"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_std.fast.a'",
+            "nstd_Printf.o"
+        ],
+        "Content-Length": [
+            "117",
+            "34940"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:11:53Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:11:53Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/nstd_Printf.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:11:53Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:11:53Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:11:53Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:11:53Z"
+        ],
+        "embeddedRelationshipId": "nstd_Printf.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM"
+    }
+}

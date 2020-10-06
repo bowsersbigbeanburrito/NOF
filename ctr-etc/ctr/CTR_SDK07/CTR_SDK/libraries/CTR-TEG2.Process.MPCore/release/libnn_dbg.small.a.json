@@ -1,0 +1,163 @@
+{
+    "libnn_dbg.small.a": {
+        "modified": "2009-12-24 11:16:38",
+        "size": "473.55KB",
+        "md5": "a78d8512f06d6fd6db2eda786e1b7d30",
+        "sha256": "ec788517189a18f2b54b92d97f2ece658a502cbb7d95ce06f347991d610c6879"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_dbg.small.a'",
+            "dbg_Break.o",
+            "dbg_DebugString.o",
+            "dbg_Logger.o",
+            "dbg_PrintResult.o",
+            "dbg_PrintResultImpl.o"
+        ],
+        "Content-Length": [
+            "3256",
+            "73672",
+            "93276",
+            "213036",
+            "75844",
+            "25344"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:34Z",
+            "2009-12-24T02:01:46Z",
+            "2009-12-24T02:03:30Z",
+            "2009-12-24T02:09:45Z",
+            "2009-12-24T02:16:37Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:34Z",
+            "2009-12-24T02:01:46Z",
+            "2009-12-24T02:03:30Z",
+            "2009-12-24T02:09:45Z",
+            "2009-12-24T02:16:37Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/dbg_Break.o",
+            "/dbg_DebugString.o",
+            "/dbg_Logger.o",
+            "/dbg_PrintResult.o",
+            "/dbg_PrintResultImpl.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:34Z",
+            "2009-12-24T02:01:46Z",
+            "2009-12-24T02:03:30Z",
+            "2009-12-24T02:09:45Z",
+            "2009-12-24T02:16:37Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:34Z",
+            "2009-12-24T02:01:46Z",
+            "2009-12-24T02:03:30Z",
+            "2009-12-24T02:09:45Z",
+            "2009-12-24T02:16:37Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:34Z",
+            "2009-12-24T02:01:46Z",
+            "2009-12-24T02:03:30Z",
+            "2009-12-24T02:09:45Z",
+            "2009-12-24T02:16:37Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:34Z",
+            "2009-12-24T02:01:46Z",
+            "2009-12-24T02:03:30Z",
+            "2009-12-24T02:09:45Z",
+            "2009-12-24T02:16:37Z"
+        ],
+        "embeddedRelationshipId": [
+            "dbg_Break.o",
+            "dbg_DebugString.o",
+            "dbg_Logger.o",
+            "dbg_PrintResult.o",
+            "dbg_PrintResultImpl.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

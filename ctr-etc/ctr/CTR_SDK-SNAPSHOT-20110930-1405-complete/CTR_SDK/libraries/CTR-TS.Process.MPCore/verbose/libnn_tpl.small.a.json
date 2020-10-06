@@ -1,0 +1,103 @@
+{
+    "libnn_tpl.small.a": {
+        "modified": "2011-09-30 14:26:12",
+        "size": "46.05KB",
+        "md5": "8903ba38dd6498f3ea5724a1b441b043",
+        "sha256": "a93628f13cf2f6fd6d75a41a90924ecc5774ee95a8a391cf675b1ea75633fe9a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_tpl.small.a'",
+            "tpl_ReadTexturePackage.o",
+            "tpl_crc32.o"
+        ],
+        "Content-Length": [
+            "259",
+            "23704",
+            "22916"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:09Z",
+            "2011-09-30T05:26:08Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:09Z",
+            "2011-09-30T05:26:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/tpl_ReadTexturePackage.o",
+            "/tpl_crc32.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:09Z",
+            "2011-09-30T05:26:08Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:09Z",
+            "2011-09-30T05:26:08Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:09Z",
+            "2011-09-30T05:26:08Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:09Z",
+            "2011-09-30T05:26:08Z"
+        ],
+        "embeddedRelationshipId": [
+            "tpl_ReadTexturePackage.o",
+            "tpl_crc32.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "libnn_phtsel.fast.a": {
+        "modified": "2011-09-30 14:26:58",
+        "size": "210.4KB",
+        "md5": "fc3fc297cbdebd572db578e64534a3b9",
+        "sha256": "c1392eb109b7c8477cf6c77b68b243921b3942058fd054c7edb5aace41063ef5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_phtsel.fast.a'",
+            "phtsel_Api.o",
+            "phtsel_input.o",
+            "phtsel_output.o"
+        ],
+        "Content-Length": [
+            "5190",
+            "96224",
+            "84804",
+            "28980"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:57Z",
+            "2011-09-30T05:26:57Z",
+            "2011-09-30T05:26:55Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:57Z",
+            "2011-09-30T05:26:57Z",
+            "2011-09-30T05:26:55Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/phtsel_Api.o",
+            "/phtsel_input.o",
+            "/phtsel_output.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:57Z",
+            "2011-09-30T05:26:57Z",
+            "2011-09-30T05:26:55Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:57Z",
+            "2011-09-30T05:26:57Z",
+            "2011-09-30T05:26:55Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:57Z",
+            "2011-09-30T05:26:57Z",
+            "2011-09-30T05:26:55Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:57Z",
+            "2011-09-30T05:26:57Z",
+            "2011-09-30T05:26:55Z"
+        ],
+        "embeddedRelationshipId": [
+            "phtsel_Api.o",
+            "phtsel_input.o",
+            "phtsel_output.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

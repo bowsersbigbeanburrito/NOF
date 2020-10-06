@@ -1,0 +1,75 @@
+{
+    "libnn_swkbd.small.a": {
+        "modified": "2011-09-30 14:26:00",
+        "size": "84.47KB",
+        "md5": "68903ba998d1cab119ba1b7d801c955b",
+        "sha256": "65083299886e7c4dd4330aba1e728bc26077d3c8ce85839adf152d43c9b860f8"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_swkbd.small.a'",
+            "swkbd_Api.o"
+        ],
+        "Content-Length": [
+            "629",
+            "85740"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:59Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:59Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/swkbd_Api.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:59Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:59Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:59Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:59Z"
+        ],
+        "embeddedRelationshipId": "swkbd_Api.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM"
+    }
+}

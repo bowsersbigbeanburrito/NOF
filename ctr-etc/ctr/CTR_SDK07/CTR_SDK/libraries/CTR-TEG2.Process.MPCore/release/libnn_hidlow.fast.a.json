@@ -1,0 +1,75 @@
+{
+    "libnn_hidlow.fast.a": {
+        "modified": "2009-12-24 11:03:58",
+        "size": "180.04KB",
+        "md5": "aa0b37338ee6f617a95b6f7826438dcb",
+        "sha256": "75dcee3df2cbbe7ac2e7e4b16f69b567f428045c66391a1b382825561eee97a7"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_hidlow.fast.a'",
+            "hidlow_AnalogStickUtil.o"
+        ],
+        "Content-Length": [
+            "121",
+            "184024"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:56Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:56Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/hidlow_AnalogStickUtil.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:56Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:56Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:56Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:56Z"
+        ],
+        "embeddedRelationshipId": "hidlow_AnalogStickUtil.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM"
+    }
+}

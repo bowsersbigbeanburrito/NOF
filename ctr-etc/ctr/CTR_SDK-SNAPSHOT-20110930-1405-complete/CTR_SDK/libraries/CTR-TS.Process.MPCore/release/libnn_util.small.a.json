@@ -1,0 +1,143 @@
+{
+    "libnn_util.small.a": {
+        "modified": "2011-09-30 14:26:00",
+        "size": "100.65KB",
+        "md5": "fcec15d778d72a8a0190bd7936698336",
+        "sha256": "e53872d32b141312902a83425e5aa025acbdedb354aba31db561005b4f0ab19a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_util.small.a'",
+            "util_Symbol.o",
+            "util_Base64.o",
+            "util_Crc.o",
+            "util_PrintResultImpl.o"
+        ],
+        "Content-Length": [
+            "1451",
+            "8348",
+            "26100",
+            "57972",
+            "8804"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:58Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:58Z",
+            "2011-09-30T05:25:57Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:58Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:58Z",
+            "2011-09-30T05:25:57Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/util_Symbol.o",
+            "/util_Base64.o",
+            "/util_Crc.o",
+            "/util_PrintResultImpl.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:58Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:58Z",
+            "2011-09-30T05:25:57Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:58Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:58Z",
+            "2011-09-30T05:25:57Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:58Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:58Z",
+            "2011-09-30T05:25:57Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:58Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:58Z",
+            "2011-09-30T05:25:57Z"
+        ],
+        "embeddedRelationshipId": [
+            "util_Symbol.o",
+            "util_Base64.o",
+            "util_Crc.o",
+            "util_PrintResultImpl.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

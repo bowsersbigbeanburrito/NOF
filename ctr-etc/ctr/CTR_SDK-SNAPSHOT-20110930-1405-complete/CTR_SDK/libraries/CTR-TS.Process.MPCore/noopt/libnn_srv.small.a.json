@@ -1,0 +1,143 @@
+{
+    "libnn_srv.small.a": {
+        "modified": "2011-09-30 14:26:38",
+        "size": "466.55KB",
+        "md5": "07e33f02d7066d5e145ffeb40f4de954",
+        "sha256": "91b37c1a80c432a90b0fa70992d1c4f1aec41e88e4e0af03261b7e900881a6e3"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libnn_srv.small.a'",
+            "srv_Api.o",
+            "srv_Manager.o",
+            "srv_PrintResultImpl.o",
+            "srv_Service.o"
+        ],
+        "Content-Length": [
+            "12518",
+            "252124",
+            "107012",
+            "14132",
+            "91568"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/srv_Api.o",
+            "/srv_Manager.o",
+            "/srv_PrintResultImpl.o",
+            "/srv_Service.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z",
+            "2011-09-30T05:26:35Z"
+        ],
+        "embeddedRelationshipId": [
+            "srv_Api.o",
+            "srv_Manager.o",
+            "srv_PrintResultImpl.o",
+            "srv_Service.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

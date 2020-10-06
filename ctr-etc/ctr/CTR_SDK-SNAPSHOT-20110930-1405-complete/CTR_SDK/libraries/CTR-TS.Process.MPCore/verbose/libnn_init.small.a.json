@@ -1,0 +1,123 @@
+{
+    "libnn_init.small.a": {
+        "modified": "2011-09-30 14:26:08",
+        "size": "192.9KB",
+        "md5": "1067d03a59d546418921a6a7420c61e6",
+        "sha256": "f0e27540b2b9c2df4b90102f379c142dc1d43fc7a556d2b30726bb5b5dbe1882"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_init.small.a'",
+            "init_Alloc.o",
+            "init_Default.o",
+            "init_StartUp.o"
+        ],
+        "Content-Length": [
+            "3492",
+            "126212",
+            "36484",
+            "31096"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:06Z",
+            "2011-09-30T05:26:06Z",
+            "2011-09-30T05:26:06Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:06Z",
+            "2011-09-30T05:26:06Z",
+            "2011-09-30T05:26:06Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/init_Alloc.o",
+            "/init_Default.o",
+            "/init_StartUp.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:06Z",
+            "2011-09-30T05:26:06Z",
+            "2011-09-30T05:26:06Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:06Z",
+            "2011-09-30T05:26:06Z",
+            "2011-09-30T05:26:06Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:06Z",
+            "2011-09-30T05:26:06Z",
+            "2011-09-30T05:26:06Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:26:06Z",
+            "2011-09-30T05:26:06Z",
+            "2011-09-30T05:26:06Z"
+        ],
+        "embeddedRelationshipId": [
+            "init_Alloc.o",
+            "init_Default.o",
+            "init_StartUp.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

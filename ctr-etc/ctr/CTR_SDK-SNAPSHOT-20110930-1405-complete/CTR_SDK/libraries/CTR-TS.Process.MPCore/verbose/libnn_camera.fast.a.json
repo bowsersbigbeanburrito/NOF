@@ -1,0 +1,123 @@
+{
+    "libnn_camera.fast.a": {
+        "modified": "2011-09-30 14:25:00",
+        "size": "564.09KB",
+        "md5": "71dbed61ce5097a8d9ccc601bd50cb46",
+        "sha256": "80afd6ce011a39153cce822992e329e92d8ada10a76d1c2feb82719268271a07"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_camera.fast.a'",
+            "camera_Api.o",
+            "camera_CalibrationEx.o",
+            "camera_Camera.o"
+        ],
+        "Content-Length": [
+            "10775",
+            "278928",
+            "48856",
+            "238740"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:17:43Z",
+            "2011-09-30T05:24:59Z",
+            "2011-09-30T05:17:00Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:17:43Z",
+            "2011-09-30T05:24:59Z",
+            "2011-09-30T05:17:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/camera_Api.o",
+            "/camera_CalibrationEx.o",
+            "/camera_Camera.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:17:43Z",
+            "2011-09-30T05:24:59Z",
+            "2011-09-30T05:17:00Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:17:43Z",
+            "2011-09-30T05:24:59Z",
+            "2011-09-30T05:17:00Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:17:43Z",
+            "2011-09-30T05:24:59Z",
+            "2011-09-30T05:17:00Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:17:43Z",
+            "2011-09-30T05:24:59Z",
+            "2011-09-30T05:17:00Z"
+        ],
+        "embeddedRelationshipId": [
+            "camera_Api.o",
+            "camera_CalibrationEx.o",
+            "camera_Camera.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

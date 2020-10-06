@@ -1,0 +1,103 @@
+{
+    "libnn_nstd.fast.a": {
+        "modified": "2011-09-30 14:25:44",
+        "size": "70.46KB",
+        "md5": "c5bd8ee3b02e0bfbc4586204d58fc0ac",
+        "sha256": "40db0395de236c3a40bbfae8600f792c2dda7023654b8710fa2adc1fef84762b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_nstd.fast.a'",
+            "nstd_String.o",
+            "nstd_Printf.o"
+        ],
+        "Content-Length": [
+            "388",
+            "10168",
+            "61408"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:42Z",
+            "2011-09-30T05:17:59Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:42Z",
+            "2011-09-30T05:17:59Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/nstd_String.o",
+            "/nstd_Printf.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:42Z",
+            "2011-09-30T05:17:59Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:42Z",
+            "2011-09-30T05:17:59Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:42Z",
+            "2011-09-30T05:17:59Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:42Z",
+            "2011-09-30T05:17:59Z"
+        ],
+        "embeddedRelationshipId": [
+            "nstd_String.o",
+            "nstd_Printf.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

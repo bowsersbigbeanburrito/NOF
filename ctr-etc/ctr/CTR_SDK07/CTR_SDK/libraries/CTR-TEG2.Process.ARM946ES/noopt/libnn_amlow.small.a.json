@@ -1,0 +1,103 @@
+{
+    "libnn_amlow.small.a": {
+        "modified": "2009-12-24 11:14:02",
+        "size": "1111.85KB",
+        "md5": "56d064a23b8dd50aec39e5a487bec51b",
+        "sha256": "54b3dcba346723a55e6b76ca8b3eddd4080a7040c502f477724ba11536b36b8a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libnn_amlow.small.a'",
+            "amlow_ApplicationManager9Impl.o",
+            "amlow_ApplicationManager9Server.o"
+        ],
+        "Content-Length": [
+            "7321",
+            "605748",
+            "525144"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:04:06Z",
+            "2009-12-24T02:13:59Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:04:06Z",
+            "2009-12-24T02:13:59Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/amlow_ApplicationManager9Impl.o",
+            "/amlow_ApplicationManager9Server.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:04:06Z",
+            "2009-12-24T02:13:59Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:04:06Z",
+            "2009-12-24T02:13:59Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:04:06Z",
+            "2009-12-24T02:13:59Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:04:06Z",
+            "2009-12-24T02:13:59Z"
+        ],
+        "embeddedRelationshipId": [
+            "amlow_ApplicationManager9Impl.o",
+            "amlow_ApplicationManager9Server.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

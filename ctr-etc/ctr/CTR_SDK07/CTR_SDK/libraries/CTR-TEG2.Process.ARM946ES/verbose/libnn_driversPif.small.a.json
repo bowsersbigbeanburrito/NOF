@@ -1,0 +1,123 @@
+{
+    "libnn_driversPif.small.a": {
+        "modified": "2009-12-24 11:11:18",
+        "size": "1003.1KB",
+        "md5": "a2b5074301cac54ace92f25f1434af88",
+        "sha256": "cfea653dfe22bb94ae5c2bd36cd05a3c961d33bbe243728b65572703247662c0"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libnn_driversPif.small.a'",
+            "pif_Api.o",
+            "pif_RingBuffer.o",
+            "pif_WorkThread.o"
+        ],
+        "Content-Length": [
+            "14738",
+            "466520",
+            "139980",
+            "405596"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:09:08Z",
+            "2009-12-24T02:01:50Z",
+            "2009-12-24T02:11:16Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:09:08Z",
+            "2009-12-24T02:01:50Z",
+            "2009-12-24T02:11:16Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/pif_Api.o",
+            "/pif_RingBuffer.o",
+            "/pif_WorkThread.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:09:08Z",
+            "2009-12-24T02:01:50Z",
+            "2009-12-24T02:11:16Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:09:08Z",
+            "2009-12-24T02:01:50Z",
+            "2009-12-24T02:11:16Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:09:08Z",
+            "2009-12-24T02:01:50Z",
+            "2009-12-24T02:11:16Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:09:08Z",
+            "2009-12-24T02:01:50Z",
+            "2009-12-24T02:11:16Z"
+        ],
+        "embeddedRelationshipId": [
+            "pif_Api.o",
+            "pif_RingBuffer.o",
+            "pif_WorkThread.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "libnn_am.small.a": {
+        "modified": "2010-04-14 12:33:38",
+        "size": "110.62KB",
+        "md5": "2c28bdcb7cdef05df02a88d94b0fced7",
+        "sha256": "c6f9812547198e779801089e2c2b634a766a1dcfbea5ff2e38fc5ad6c516dba0"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_am.small.a'",
+            "am_Api.o",
+            "am_UpdaterInterface.o"
+        ],
+        "Content-Length": [
+            "1078",
+            "52192",
+            "59736"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2010-04-14T03:33:34Z",
+            "2010-04-14T01:50:22Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2010-04-14T03:33:34Z",
+            "2010-04-14T01:50:22Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/am_Api.o",
+            "/am_UpdaterInterface.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2010-04-14T03:33:34Z",
+            "2010-04-14T01:50:22Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2010-04-14T03:33:34Z",
+            "2010-04-14T01:50:22Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2010-04-14T03:33:34Z",
+            "2010-04-14T01:50:22Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2010-04-14T03:33:34Z",
+            "2010-04-14T01:50:22Z"
+        ],
+        "embeddedRelationshipId": [
+            "am_Api.o",
+            "am_UpdaterInterface.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "libnn_mic.fast.a": {
+        "modified": "2011-09-30 14:23:08",
+        "size": "162.74KB",
+        "md5": "b5e21bbe99d6021ab1cc7d3580c4cd76",
+        "sha256": "ab9311a30bcea01c6d9c985ccdc5726c0e43f47df28486b2993eee14651e4531"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libnn_mic.fast.a'",
+            "mic_Api.o",
+            "mic_IpcClient.o"
+        ],
+        "Content-Length": [
+            "1761",
+            "98020",
+            "66680"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:23:05Z",
+            "2011-09-30T05:22:50Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:23:05Z",
+            "2011-09-30T05:22:50Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/mic_Api.o",
+            "/mic_IpcClient.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:23:05Z",
+            "2011-09-30T05:22:50Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:23:05Z",
+            "2011-09-30T05:22:50Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:23:05Z",
+            "2011-09-30T05:22:50Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:23:05Z",
+            "2011-09-30T05:22:50Z"
+        ],
+        "embeddedRelationshipId": [
+            "mic_Api.o",
+            "mic_IpcClient.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

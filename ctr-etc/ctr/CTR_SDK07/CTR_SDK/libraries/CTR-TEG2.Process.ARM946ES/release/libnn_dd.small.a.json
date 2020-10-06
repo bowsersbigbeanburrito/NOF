@@ -1,0 +1,143 @@
+{
+    "libnn_dd.small.a": {
+        "modified": "2009-12-24 11:15:52",
+        "size": "640.53KB",
+        "md5": "c62d02997498a51eb37b2b0652503058",
+        "sha256": "3007566321eb0ed41faaaba8893a4b7aebee6a78ac387a3ace65535c2a5a2f6f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libnn_dd.small.a'",
+            "dd_DMA.o",
+            "dd_Cache.o",
+            "dd_Interrupt.o",
+            "dd_PrintResultImpl.o"
+        ],
+        "Content-Length": [
+            "1952",
+            "244760",
+            "187396",
+            "197236",
+            "24172"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:14:24Z",
+            "2009-12-24T02:15:50Z",
+            "2009-12-24T02:13:40Z",
+            "2009-12-24T02:09:57Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:14:24Z",
+            "2009-12-24T02:15:50Z",
+            "2009-12-24T02:13:40Z",
+            "2009-12-24T02:09:57Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/dd_DMA.o",
+            "/dd_Cache.o",
+            "/dd_Interrupt.o",
+            "/dd_PrintResultImpl.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:14:24Z",
+            "2009-12-24T02:15:50Z",
+            "2009-12-24T02:13:40Z",
+            "2009-12-24T02:09:57Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:14:24Z",
+            "2009-12-24T02:15:50Z",
+            "2009-12-24T02:13:40Z",
+            "2009-12-24T02:09:57Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:14:24Z",
+            "2009-12-24T02:15:50Z",
+            "2009-12-24T02:13:40Z",
+            "2009-12-24T02:09:57Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:14:24Z",
+            "2009-12-24T02:15:50Z",
+            "2009-12-24T02:13:40Z",
+            "2009-12-24T02:09:57Z"
+        ],
+        "embeddedRelationshipId": [
+            "dd_DMA.o",
+            "dd_Cache.o",
+            "dd_Interrupt.o",
+            "dd_PrintResultImpl.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "libnn_driversDi.fast.a": {
+        "modified": "2009-12-24 11:12:50",
+        "size": "1067.76KB",
+        "md5": "7d2eac8777a137e87f7d5436d1b1dc16",
+        "sha256": "b552cafd6c531e03d02a80632eae8c66f740cf178b1ea418418a075b25a189f0"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_driversDi.fast.a'",
+            "di.o",
+            "di_Ramdisk.o",
+            "di_SdmcBase.o"
+        ],
+        "Content-Length": [
+            "8578",
+            "402400",
+            "436452",
+            "245708"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:31Z",
+            "2009-12-24T02:12:47Z",
+            "2009-12-24T02:06:45Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:31Z",
+            "2009-12-24T02:12:47Z",
+            "2009-12-24T02:06:45Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/di.o",
+            "/di_Ramdisk.o",
+            "/di_SdmcBase.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:31Z",
+            "2009-12-24T02:12:47Z",
+            "2009-12-24T02:06:45Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:31Z",
+            "2009-12-24T02:12:47Z",
+            "2009-12-24T02:06:45Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:31Z",
+            "2009-12-24T02:12:47Z",
+            "2009-12-24T02:06:45Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:31Z",
+            "2009-12-24T02:12:47Z",
+            "2009-12-24T02:06:45Z"
+        ],
+        "embeddedRelationshipId": [
+            "di.o",
+            "di_Ramdisk.o",
+            "di_SdmcBase.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "libnn_dev.small.a": {
+        "modified": "2011-09-30 14:35:44",
+        "size": "145.79KB",
+        "md5": "defd2c217611b1ee15591072a3b1ae87",
+        "sha256": "ff4bad78852fe2b2bacfc84b8e800e77474790959b6707473529123578c25c8e"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_dev.small.a'",
+            "dev_Api.o",
+            "dev_Dev.o"
+        ],
+        "Content-Length": [
+            "2105",
+            "57828",
+            "89168"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:35:42Z",
+            "2011-09-30T05:35:42Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:35:42Z",
+            "2011-09-30T05:35:42Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/dev_Api.o",
+            "/dev_Dev.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:35:42Z",
+            "2011-09-30T05:35:42Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:35:42Z",
+            "2011-09-30T05:35:42Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:35:42Z",
+            "2011-09-30T05:35:42Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:35:42Z",
+            "2011-09-30T05:35:42Z"
+        ],
+        "embeddedRelationshipId": [
+            "dev_Api.o",
+            "dev_Dev.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "libnn_util.fast.a": {
+        "modified": "2009-12-24 11:19:32",
+        "size": "132.87KB",
+        "md5": "44a82dfcaccf269177274d548334e49a",
+        "sha256": "9f7a5de2b9b3df9ace84d28d2b0c4b2fc203e1e4412c271344a8e9ecdbd98eef"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_util.fast.a'",
+            "util_LockFreeQueueImpl.o",
+            "util_PrintResultImpl.o"
+        ],
+        "Content-Length": [
+            "215",
+            "65768",
+            "69780"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:07Z",
+            "2009-12-24T02:15:55Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:07Z",
+            "2009-12-24T02:15:55Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/util_LockFreeQueueImpl.o",
+            "/util_PrintResultImpl.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:07Z",
+            "2009-12-24T02:15:55Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:07Z",
+            "2009-12-24T02:15:55Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:07Z",
+            "2009-12-24T02:15:55Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:07Z",
+            "2009-12-24T02:15:55Z"
+        ],
+        "embeddedRelationshipId": [
+            "util_LockFreeQueueImpl.o",
+            "util_PrintResultImpl.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

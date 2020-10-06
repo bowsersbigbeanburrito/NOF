@@ -1,0 +1,123 @@
+{
+    "libnn_enc.fast.a": {
+        "modified": "2011-09-30 14:55:16",
+        "size": "82.22KB",
+        "md5": "3b1ee35d5826d8699d5bc89f32b6ff53",
+        "sha256": "741e9bea7e91d8b75d830d10e782a4e7a6ee711d5b396b7d2920584d0f3595f2"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_enc.fast.a'",
+            "enc_PrintResultImpl.o",
+            "enc_Unicode.o",
+            "enc_Utility.o"
+        ],
+        "Content-Length": [
+            "2073",
+            "13896",
+            "40380",
+            "27508"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:55:13Z",
+            "2011-09-30T05:55:13Z",
+            "2011-09-30T05:55:13Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:55:13Z",
+            "2011-09-30T05:55:13Z",
+            "2011-09-30T05:55:13Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/enc_PrintResultImpl.o",
+            "/enc_Unicode.o",
+            "/enc_Utility.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:55:13Z",
+            "2011-09-30T05:55:13Z",
+            "2011-09-30T05:55:13Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:55:13Z",
+            "2011-09-30T05:55:13Z",
+            "2011-09-30T05:55:13Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:55:13Z",
+            "2011-09-30T05:55:13Z",
+            "2011-09-30T05:55:13Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:55:13Z",
+            "2011-09-30T05:55:13Z",
+            "2011-09-30T05:55:13Z"
+        ],
+        "embeddedRelationshipId": [
+            "enc_PrintResultImpl.o",
+            "enc_Unicode.o",
+            "enc_Utility.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

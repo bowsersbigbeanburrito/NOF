@@ -1,0 +1,103 @@
+{
+    "libnn_dsp.small.a": {
+        "modified": "2009-12-24 11:21:20",
+        "size": "851.72KB",
+        "md5": "565cf6e645a1b23046664f926bb02f94",
+        "sha256": "36ddeee6428c14afed4537236ebe9bba4627d2b6abf771ff47bec179adcb9f74"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_dsp.small.a'",
+            "dsp_API.o",
+            "dsp_Init.o"
+        ],
+        "Content-Length": [
+            "15460",
+            "250880",
+            "605636"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:21:15Z",
+            "2009-12-24T02:21:18Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:21:15Z",
+            "2009-12-24T02:21:18Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/dsp_API.o",
+            "/dsp_Init.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:21:15Z",
+            "2009-12-24T02:21:18Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:21:15Z",
+            "2009-12-24T02:21:18Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:21:15Z",
+            "2009-12-24T02:21:18Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:21:15Z",
+            "2009-12-24T02:21:18Z"
+        ],
+        "embeddedRelationshipId": [
+            "dsp_API.o",
+            "dsp_Init.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

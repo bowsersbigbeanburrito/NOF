@@ -1,0 +1,103 @@
+{
+    "libnn_init.fast.a": {
+        "modified": "2009-12-24 11:13:54",
+        "size": "401.84KB",
+        "md5": "2bd917d0ed33efbd4d39c46d930f2dea",
+        "sha256": "68f978980750f4c936190b84e5f3883440c85e688e5bc8b9369746f519ea70d4"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libnn_init.fast.a'",
+            "init_Alloc.o",
+            "init_StartUp.o"
+        ],
+        "Content-Length": [
+            "8939",
+            "321832",
+            "80520"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:13:51Z",
+            "2009-12-24T02:10:13Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:13:51Z",
+            "2009-12-24T02:10:13Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/init_Alloc.o",
+            "/init_StartUp.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:13:51Z",
+            "2009-12-24T02:10:13Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:13:51Z",
+            "2009-12-24T02:10:13Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:13:51Z",
+            "2009-12-24T02:10:13Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:13:51Z",
+            "2009-12-24T02:10:13Z"
+        ],
+        "embeddedRelationshipId": [
+            "init_Alloc.o",
+            "init_StartUp.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

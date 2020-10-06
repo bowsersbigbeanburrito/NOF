@@ -1,0 +1,163 @@
+{
+    "libnn_dspsnd.small.a": {
+        "modified": "2009-12-24 11:23:00",
+        "size": "1461.72KB",
+        "md5": "8a7f76c06e8c0a90ff47c1235f797111",
+        "sha256": "d1b878bd82c7eebb78e77605ab792abd6e60ffebbed8d6a3208c4692223be781"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_dspsnd.small.a'",
+            "dspsnd_Adpcm.o",
+            "dspsnd_OperateChannel.o",
+            "dspsnd_OperateMaster.o",
+            "dspsnd_System.o",
+            "dspsnd.a.o"
+        ],
+        "Content-Length": [
+            "23319",
+            "138820",
+            "242696",
+            "195144",
+            "412152",
+            "484194"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:22:56Z",
+            "2009-12-24T02:22:54Z",
+            "2009-12-24T02:22:55Z",
+            "2009-12-24T02:22:55Z",
+            "2009-12-24T02:22:53Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:22:56Z",
+            "2009-12-24T02:22:54Z",
+            "2009-12-24T02:22:55Z",
+            "2009-12-24T02:22:55Z",
+            "2009-12-24T02:22:53Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/dspsnd_Adpcm.o",
+            "/dspsnd_OperateChannel.o",
+            "/dspsnd_OperateMaster.o",
+            "/dspsnd_System.o",
+            "/dspsnd.a.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:22:56Z",
+            "2009-12-24T02:22:54Z",
+            "2009-12-24T02:22:55Z",
+            "2009-12-24T02:22:55Z",
+            "2009-12-24T02:22:53Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:22:56Z",
+            "2009-12-24T02:22:54Z",
+            "2009-12-24T02:22:55Z",
+            "2009-12-24T02:22:55Z",
+            "2009-12-24T02:22:53Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:22:56Z",
+            "2009-12-24T02:22:54Z",
+            "2009-12-24T02:22:55Z",
+            "2009-12-24T02:22:55Z",
+            "2009-12-24T02:22:53Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:22:56Z",
+            "2009-12-24T02:22:54Z",
+            "2009-12-24T02:22:55Z",
+            "2009-12-24T02:22:55Z",
+            "2009-12-24T02:22:53Z"
+        ],
+        "embeddedRelationshipId": [
+            "dspsnd_Adpcm.o",
+            "dspsnd_OperateChannel.o",
+            "dspsnd_OperateMaster.o",
+            "dspsnd_System.o",
+            "dspsnd.a.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "libnn_hidlow.small.a": {
+        "modified": "2011-09-30 14:26:00",
+        "size": "549.24KB",
+        "md5": "07e1f398b2b57d7145fe4613f6afca04",
+        "sha256": "5c38d0a67d065628b0f5b57b84cbf83cd3a2c947b3ce6b46dcca07bd1e806756"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_hidlow.small.a'",
+            "hidlow_AccelerometerLifoRing.o",
+            "hidlow_DebugPadLifoRing.o",
+            "hidlow_GyroscopeLowLifoRing.o",
+            "hidlow_PadLifoRing.o",
+            "hidlow_TouchPanelLifoRing.o",
+            "hidlow_Utils.o"
+        ],
+        "Content-Length": [
+            "5658",
+            "93756",
+            "111640",
+            "93776",
+            "108188",
+            "109212",
+            "39564"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/hidlow_AccelerometerLifoRing.o",
+            "/hidlow_DebugPadLifoRing.o",
+            "/hidlow_GyroscopeLowLifoRing.o",
+            "/hidlow_PadLifoRing.o",
+            "/hidlow_TouchPanelLifoRing.o",
+            "/hidlow_Utils.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z",
+            "2011-09-30T05:25:57Z"
+        ],
+        "embeddedRelationshipId": [
+            "hidlow_AccelerometerLifoRing.o",
+            "hidlow_DebugPadLifoRing.o",
+            "hidlow_GyroscopeLowLifoRing.o",
+            "hidlow_PadLifoRing.o",
+            "hidlow_TouchPanelLifoRing.o",
+            "hidlow_Utils.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

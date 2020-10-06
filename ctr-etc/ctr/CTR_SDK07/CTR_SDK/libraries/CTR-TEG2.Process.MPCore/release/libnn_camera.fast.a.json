@@ -1,0 +1,103 @@
+{
+    "libnn_camera.fast.a": {
+        "modified": "2009-12-24 11:23:04",
+        "size": "737.21KB",
+        "md5": "40d108c0174bf2d8c0405918dff1e24b",
+        "sha256": "1adf6f7ea2e0f95c3c90bcfbc49aa19a0d51768c6d772b297a66388e70a38bd2"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_camera.fast.a'",
+            "camera_Api.o",
+            "camera_Camera.o"
+        ],
+        "Content-Length": [
+            "5755",
+            "381284",
+            "367676"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:23:02Z",
+            "2009-12-24T02:23:01Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:23:02Z",
+            "2009-12-24T02:23:01Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/camera_Api.o",
+            "/camera_Camera.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:23:02Z",
+            "2009-12-24T02:23:01Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:23:02Z",
+            "2009-12-24T02:23:01Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:23:02Z",
+            "2009-12-24T02:23:01Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:23:02Z",
+            "2009-12-24T02:23:01Z"
+        ],
+        "embeddedRelationshipId": [
+            "camera_Api.o",
+            "camera_Camera.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

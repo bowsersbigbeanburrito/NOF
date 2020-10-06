@@ -1,0 +1,183 @@
+{
+    "libnn_driversSdmc.small.a": {
+        "modified": "2009-12-24 11:16:44",
+        "size": "1771.5KB",
+        "md5": "744fd3c5f51619e3523cfe4a63bcf252",
+        "sha256": "5831bee5c5bd8e83e9d8cb159d9116b67df92b0374954b892b1b06f33941f07d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libnn_driversSdmc.small.a'",
+            "sdmc_api.o",
+            "sdmc_cache.o",
+            "sdmc_intr.o",
+            "sdmc_rw.o",
+            "sdmc_sdif.o",
+            "sdmc_thread.o"
+        ],
+        "Content-Length": [
+            "5425",
+            "268288",
+            "213872",
+            "253740",
+            "249300",
+            "315716",
+            "507248"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:16:40Z",
+            "2009-12-24T02:03:27Z",
+            "2009-12-24T02:07:02Z",
+            "2009-12-24T02:02:52Z",
+            "2009-12-24T02:01:40Z",
+            "2009-12-24T02:11:05Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:16:40Z",
+            "2009-12-24T02:03:27Z",
+            "2009-12-24T02:07:02Z",
+            "2009-12-24T02:02:52Z",
+            "2009-12-24T02:01:40Z",
+            "2009-12-24T02:11:05Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/sdmc_api.o",
+            "/sdmc_cache.o",
+            "/sdmc_intr.o",
+            "/sdmc_rw.o",
+            "/sdmc_sdif.o",
+            "/sdmc_thread.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:16:40Z",
+            "2009-12-24T02:03:27Z",
+            "2009-12-24T02:07:02Z",
+            "2009-12-24T02:02:52Z",
+            "2009-12-24T02:01:40Z",
+            "2009-12-24T02:11:05Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:16:40Z",
+            "2009-12-24T02:03:27Z",
+            "2009-12-24T02:07:02Z",
+            "2009-12-24T02:02:52Z",
+            "2009-12-24T02:01:40Z",
+            "2009-12-24T02:11:05Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:16:40Z",
+            "2009-12-24T02:03:27Z",
+            "2009-12-24T02:07:02Z",
+            "2009-12-24T02:02:52Z",
+            "2009-12-24T02:01:40Z",
+            "2009-12-24T02:11:05Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:16:40Z",
+            "2009-12-24T02:03:27Z",
+            "2009-12-24T02:07:02Z",
+            "2009-12-24T02:02:52Z",
+            "2009-12-24T02:01:40Z",
+            "2009-12-24T02:11:05Z"
+        ],
+        "embeddedRelationshipId": [
+            "sdmc_api.o",
+            "sdmc_cache.o",
+            "sdmc_intr.o",
+            "sdmc_rw.o",
+            "sdmc_sdif.o",
+            "sdmc_thread.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

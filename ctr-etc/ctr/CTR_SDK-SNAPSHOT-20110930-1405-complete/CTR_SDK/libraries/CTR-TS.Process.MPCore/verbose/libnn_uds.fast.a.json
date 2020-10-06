@@ -1,0 +1,143 @@
+{
+    "libnn_uds.fast.a": {
+        "modified": "2011-09-30 14:23:36",
+        "size": "535.28KB",
+        "md5": "937609ea3a5e756df22f3aa4b506fa25",
+        "sha256": "0046584a2551be949845b5314741cab4ca16fb38df5f1bbd2058a0974ff2e63a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_uds.fast.a'",
+            "uds_Api.o",
+            "uds_Client.o",
+            "uds_NetworkDescription.o",
+            "uds_ScanResultReader.o"
+        ],
+        "Content-Length": [
+            "8964",
+            "261676",
+            "140176",
+            "25928",
+            "110968"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:18:16Z",
+            "2011-09-30T05:17:33Z",
+            "2011-09-30T05:20:05Z",
+            "2011-09-30T05:23:29Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:18:16Z",
+            "2011-09-30T05:17:33Z",
+            "2011-09-30T05:20:05Z",
+            "2011-09-30T05:23:29Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/uds_Api.o",
+            "/uds_Client.o",
+            "/uds_NetworkDescription.o",
+            "/uds_ScanResultReader.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:18:16Z",
+            "2011-09-30T05:17:33Z",
+            "2011-09-30T05:20:05Z",
+            "2011-09-30T05:23:29Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:18:16Z",
+            "2011-09-30T05:17:33Z",
+            "2011-09-30T05:20:05Z",
+            "2011-09-30T05:23:29Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:18:16Z",
+            "2011-09-30T05:17:33Z",
+            "2011-09-30T05:20:05Z",
+            "2011-09-30T05:23:29Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:18:16Z",
+            "2011-09-30T05:17:33Z",
+            "2011-09-30T05:20:05Z",
+            "2011-09-30T05:23:29Z"
+        ],
+        "embeddedRelationshipId": [
+            "uds_Api.o",
+            "uds_Client.o",
+            "uds_NetworkDescription.o",
+            "uds_ScanResultReader.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

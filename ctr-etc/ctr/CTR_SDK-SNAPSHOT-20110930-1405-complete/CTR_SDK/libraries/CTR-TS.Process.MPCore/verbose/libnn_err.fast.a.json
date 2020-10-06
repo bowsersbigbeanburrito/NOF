@@ -1,0 +1,163 @@
+{
+    "libnn_err.fast.a": {
+        "modified": "2011-09-30 14:25:32",
+        "size": "234.13KB",
+        "md5": "b6b2e2bc5b1aa14ce0609d7732984d7f",
+        "sha256": "dc8c8cd33ac4d69e9864ab6f0d9b1c076a09ca3a3e2df2ce24d4ad0e5369b188"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_err.fast.a'",
+            "err_Api.o",
+            "err_ExceptionHandler.o",
+            "err_FatalErrClient.o",
+            "err_ResultHandler.o",
+            "err_Exception.o"
+        ],
+        "Content-Length": [
+            "1084",
+            "77368",
+            "39488",
+            "29560",
+            "49948",
+            "41804"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:19:39Z",
+            "2011-09-30T05:19:52Z",
+            "2011-09-30T05:25:30Z",
+            "2011-09-30T05:24:36Z",
+            "2011-09-30T05:17:43Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:19:39Z",
+            "2011-09-30T05:19:52Z",
+            "2011-09-30T05:25:30Z",
+            "2011-09-30T05:24:36Z",
+            "2011-09-30T05:17:43Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/err_Api.o",
+            "/err_ExceptionHandler.o",
+            "/err_FatalErrClient.o",
+            "/err_ResultHandler.o",
+            "/err_Exception.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:19:39Z",
+            "2011-09-30T05:19:52Z",
+            "2011-09-30T05:25:30Z",
+            "2011-09-30T05:24:36Z",
+            "2011-09-30T05:17:43Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:19:39Z",
+            "2011-09-30T05:19:52Z",
+            "2011-09-30T05:25:30Z",
+            "2011-09-30T05:24:36Z",
+            "2011-09-30T05:17:43Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:19:39Z",
+            "2011-09-30T05:19:52Z",
+            "2011-09-30T05:25:30Z",
+            "2011-09-30T05:24:36Z",
+            "2011-09-30T05:17:43Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:19:39Z",
+            "2011-09-30T05:19:52Z",
+            "2011-09-30T05:25:30Z",
+            "2011-09-30T05:24:36Z",
+            "2011-09-30T05:17:43Z"
+        ],
+        "embeddedRelationshipId": [
+            "err_Api.o",
+            "err_ExceptionHandler.o",
+            "err_FatalErrClient.o",
+            "err_ResultHandler.o",
+            "err_Exception.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

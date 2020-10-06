@@ -1,0 +1,143 @@
+{
+    "libnn_am.fast.a": {
+        "modified": "2010-08-20 03:54:10",
+        "size": "610.38KB",
+        "md5": "e34b47ffa75b797de8b73a6378a7d014",
+        "sha256": "9a891ca8f7f846d40490b6d1e8eb6eec95c025f64e8b2637ecdce5ac25500388"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_am.fast.a'",
+            "am_Api.o",
+            "am_LocalImportControl.o",
+            "am_NetworkImportControl.o",
+            "am_PrintResultImpl.o"
+        ],
+        "Content-Length": [
+            "11868",
+            "327040",
+            "92960",
+            "184568",
+            "8152"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2010-08-19T18:45:27Z",
+            "2010-08-19T18:54:03Z",
+            "2010-08-19T18:24:54Z",
+            "2010-08-19T18:20:47Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2010-08-19T18:45:27Z",
+            "2010-08-19T18:54:03Z",
+            "2010-08-19T18:24:54Z",
+            "2010-08-19T18:20:47Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/am_Api.o",
+            "/am_LocalImportControl.o",
+            "/am_NetworkImportControl.o",
+            "/am_PrintResultImpl.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2010-08-19T18:45:27Z",
+            "2010-08-19T18:54:03Z",
+            "2010-08-19T18:24:54Z",
+            "2010-08-19T18:20:47Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2010-08-19T18:45:27Z",
+            "2010-08-19T18:54:03Z",
+            "2010-08-19T18:24:54Z",
+            "2010-08-19T18:20:47Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2010-08-19T18:45:27Z",
+            "2010-08-19T18:54:03Z",
+            "2010-08-19T18:24:54Z",
+            "2010-08-19T18:20:47Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2010-08-19T18:45:27Z",
+            "2010-08-19T18:54:03Z",
+            "2010-08-19T18:24:54Z",
+            "2010-08-19T18:20:47Z"
+        ],
+        "embeddedRelationshipId": [
+            "am_Api.o",
+            "am_LocalImportControl.o",
+            "am_NetworkImportControl.o",
+            "am_PrintResultImpl.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

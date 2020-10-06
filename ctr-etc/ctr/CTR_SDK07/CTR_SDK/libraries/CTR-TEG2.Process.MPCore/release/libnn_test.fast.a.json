@@ -1,0 +1,183 @@
+{
+    "libnn_test.fast.a": {
+        "modified": "2009-12-24 11:23:10",
+        "size": "1285.32KB",
+        "md5": "c49ea173fdcb181dec528a6e38265680",
+        "sha256": "bad6385a19b27f8badf6dddd64bc4a73682550aeb65fd0c0fcd5dcb1717bccc6"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_test.fast.a'",
+            "test_New.o",
+            "test_String.o",
+            "test_Suite.o",
+            "test_TextOutput.o",
+            "test_Util.o",
+            "test_XmlOutput.o"
+        ],
+        "Content-Length": [
+            "27089",
+            "292724",
+            "38940",
+            "334968",
+            "234120",
+            "49284",
+            "338520"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:23:06Z",
+            "2009-12-24T02:23:05Z",
+            "2009-12-24T02:23:03Z",
+            "2009-12-24T02:23:07Z",
+            "2009-12-24T02:23:05Z",
+            "2009-12-24T02:23:07Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:23:06Z",
+            "2009-12-24T02:23:05Z",
+            "2009-12-24T02:23:03Z",
+            "2009-12-24T02:23:07Z",
+            "2009-12-24T02:23:05Z",
+            "2009-12-24T02:23:07Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/test_New.o",
+            "/test_String.o",
+            "/test_Suite.o",
+            "/test_TextOutput.o",
+            "/test_Util.o",
+            "/test_XmlOutput.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:23:06Z",
+            "2009-12-24T02:23:05Z",
+            "2009-12-24T02:23:03Z",
+            "2009-12-24T02:23:07Z",
+            "2009-12-24T02:23:05Z",
+            "2009-12-24T02:23:07Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:23:06Z",
+            "2009-12-24T02:23:05Z",
+            "2009-12-24T02:23:03Z",
+            "2009-12-24T02:23:07Z",
+            "2009-12-24T02:23:05Z",
+            "2009-12-24T02:23:07Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:23:06Z",
+            "2009-12-24T02:23:05Z",
+            "2009-12-24T02:23:03Z",
+            "2009-12-24T02:23:07Z",
+            "2009-12-24T02:23:05Z",
+            "2009-12-24T02:23:07Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:23:06Z",
+            "2009-12-24T02:23:05Z",
+            "2009-12-24T02:23:03Z",
+            "2009-12-24T02:23:07Z",
+            "2009-12-24T02:23:05Z",
+            "2009-12-24T02:23:07Z"
+        ],
+        "embeddedRelationshipId": [
+            "test_New.o",
+            "test_String.o",
+            "test_Suite.o",
+            "test_TextOutput.o",
+            "test_Util.o",
+            "test_XmlOutput.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

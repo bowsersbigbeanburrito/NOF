@@ -1,0 +1,123 @@
+{
+    "libnn_pmlow.fast.a": {
+        "modified": "2009-12-24 11:12:14",
+        "size": "1191.84KB",
+        "md5": "f79df76e524baf01113a1ce00cb7b5b7",
+        "sha256": "925505679b0f877d14f8d15aef6ca9f2d60839a582b2e7e00a127ba99cc6a68d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_pmlow.fast.a'",
+            "pmlow_ProcessManager9Impl.o",
+            "pmlow_ProcessManager9Server.o",
+            "pmlow_Program.o"
+        ],
+        "Content-Length": [
+            "7902",
+            "610964",
+            "527284",
+            "73928"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:43Z",
+            "2009-12-24T02:12:10Z",
+            "2009-12-24T02:01:58Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:43Z",
+            "2009-12-24T02:12:10Z",
+            "2009-12-24T02:01:58Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/pmlow_ProcessManager9Impl.o",
+            "/pmlow_ProcessManager9Server.o",
+            "/pmlow_Program.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:43Z",
+            "2009-12-24T02:12:10Z",
+            "2009-12-24T02:01:58Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:43Z",
+            "2009-12-24T02:12:10Z",
+            "2009-12-24T02:01:58Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:43Z",
+            "2009-12-24T02:12:10Z",
+            "2009-12-24T02:01:58Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:06:43Z",
+            "2009-12-24T02:12:10Z",
+            "2009-12-24T02:01:58Z"
+        ],
+        "embeddedRelationshipId": [
+            "pmlow_ProcessManager9Impl.o",
+            "pmlow_ProcessManager9Server.o",
+            "pmlow_Program.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "libnn_y2r.small.a": {
+        "modified": "2009-12-24 11:22:54",
+        "size": "893.9KB",
+        "md5": "4a4d47cb03afe50e195b0aaade47b394",
+        "sha256": "a50bd0edbadf164ad82505d53ae6c66f52ae36bd1b689c7b189dfa33a5f40c52"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_y2r.small.a'",
+            "y2r_Api.o",
+            "y2r_Y2r.o"
+        ],
+        "Content-Length": [
+            "12512",
+            "462384",
+            "440268"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:22:53Z",
+            "2009-12-24T02:22:51Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:22:53Z",
+            "2009-12-24T02:22:51Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/y2r_Api.o",
+            "/y2r_Y2r.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:22:53Z",
+            "2009-12-24T02:22:51Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:22:53Z",
+            "2009-12-24T02:22:51Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:22:53Z",
+            "2009-12-24T02:22:51Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:22:53Z",
+            "2009-12-24T02:22:51Z"
+        ],
+        "embeddedRelationshipId": [
+            "y2r_Api.o",
+            "y2r_Y2r.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

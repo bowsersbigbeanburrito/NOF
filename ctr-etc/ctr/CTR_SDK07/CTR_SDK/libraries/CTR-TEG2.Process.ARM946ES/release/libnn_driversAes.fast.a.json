@@ -1,0 +1,103 @@
+{
+    "libnn_driversAes.fast.a": {
+        "modified": "2009-12-24 11:18:20",
+        "size": "601.75KB",
+        "md5": "c2c6b1b06f0635eb2d0b9cd365d353e5",
+        "sha256": "f304bad6ef690d4dd3fa44df84f7154977eef4d337d3c8e2d13d751bcdd6b9fd"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_driversAes.fast.a'",
+            "aes.o",
+            "aes_util.o"
+        ],
+        "Content-Length": [
+            "380",
+            "430764",
+            "184864"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:18:17Z",
+            "2009-12-24T02:07:27Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:18:17Z",
+            "2009-12-24T02:07:27Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/aes.o",
+            "/aes_util.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:18:17Z",
+            "2009-12-24T02:07:27Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:18:17Z",
+            "2009-12-24T02:07:27Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:18:17Z",
+            "2009-12-24T02:07:27Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:18:17Z",
+            "2009-12-24T02:07:27Z"
+        ],
+        "embeddedRelationshipId": [
+            "aes.o",
+            "aes_util.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

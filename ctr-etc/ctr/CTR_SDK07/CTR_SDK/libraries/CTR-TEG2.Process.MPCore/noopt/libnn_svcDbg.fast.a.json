@@ -1,0 +1,103 @@
+{
+    "libnn_svcDbg.fast.a": {
+        "modified": "2009-12-24 11:18:56",
+        "size": "121.48KB",
+        "md5": "c9f4c80deff33b02a087f5ea3b01de2f",
+        "sha256": "415de3e02052881479bb36481e7dfec673e963bb593293f8cb0690bee240e254"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_svcDbg.fast.a'",
+            "svc_StubBreak.o",
+            "svc_StubOutputDebugString.o"
+        ],
+        "Content-Length": [
+            "140",
+            "61848",
+            "62132"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:49Z",
+            "2009-12-24T02:16:54Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:49Z",
+            "2009-12-24T02:16:54Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/svc_StubBreak.o",
+            "/svc_StubOutputDebugString.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:49Z",
+            "2009-12-24T02:16:54Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:49Z",
+            "2009-12-24T02:16:54Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:49Z",
+            "2009-12-24T02:16:54Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:03:49Z",
+            "2009-12-24T02:16:54Z"
+        ],
+        "embeddedRelationshipId": [
+            "svc_StubBreak.o",
+            "svc_StubOutputDebugString.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

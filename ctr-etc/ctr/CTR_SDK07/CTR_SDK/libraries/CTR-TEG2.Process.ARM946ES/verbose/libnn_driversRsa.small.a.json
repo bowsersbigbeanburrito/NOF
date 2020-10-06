@@ -1,0 +1,123 @@
+{
+    "libnn_driversRsa.small.a": {
+        "modified": "2009-12-24 11:16:46",
+        "size": "845.79KB",
+        "md5": "8a8abda2d265d3cd390593df29d74626",
+        "sha256": "60fab6ec45b4e4ba5bbd964896f29d5190e6dc1c676c92d9d49310952e1b8c31"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libnn_driversRsa.small.a'",
+            "der.o",
+            "pkcs1.o",
+            "rsa.o"
+        ],
+        "Content-Length": [
+            "2864",
+            "197488",
+            "188664",
+            "476824"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:16:42Z",
+            "2009-12-24T02:02:50Z",
+            "2009-12-24T02:03:55Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:16:42Z",
+            "2009-12-24T02:02:50Z",
+            "2009-12-24T02:03:55Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/der.o",
+            "/pkcs1.o",
+            "/rsa.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:16:42Z",
+            "2009-12-24T02:02:50Z",
+            "2009-12-24T02:03:55Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:16:42Z",
+            "2009-12-24T02:02:50Z",
+            "2009-12-24T02:03:55Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:16:42Z",
+            "2009-12-24T02:02:50Z",
+            "2009-12-24T02:03:55Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:16:42Z",
+            "2009-12-24T02:02:50Z",
+            "2009-12-24T02:03:55Z"
+        ],
+        "embeddedRelationshipId": [
+            "der.o",
+            "pkcs1.o",
+            "rsa.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

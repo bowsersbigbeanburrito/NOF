@@ -1,0 +1,143 @@
+{
+    "libnn_crypto.fast.a": {
+        "modified": "2009-12-24 11:09:28",
+        "size": "358.31KB",
+        "md5": "f054fc999dc413f200e1538e39a2a6b0",
+        "sha256": "235b2502e1959713fd78f6bb2d61cf928e0b5aea2c34b2b801844f4d0ed733b0"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libnn_crypto.fast.a'",
+            "crypto_Hmac.o",
+            "crypto_Sha1.o",
+            "crypto_Sha256.o",
+            "crypto_ShaBlock512BitContext.o"
+        ],
+        "Content-Length": [
+            "10568",
+            "215796",
+            "46728",
+            "48104",
+            "45312"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:05:02Z",
+            "2009-12-24T02:09:24Z",
+            "2009-12-24T02:06:53Z",
+            "2009-12-24T02:07:43Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:05:02Z",
+            "2009-12-24T02:09:24Z",
+            "2009-12-24T02:06:53Z",
+            "2009-12-24T02:07:43Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/crypto_Hmac.o",
+            "/crypto_Sha1.o",
+            "/crypto_Sha256.o",
+            "/crypto_ShaBlock512BitContext.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:05:02Z",
+            "2009-12-24T02:09:24Z",
+            "2009-12-24T02:06:53Z",
+            "2009-12-24T02:07:43Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:05:02Z",
+            "2009-12-24T02:09:24Z",
+            "2009-12-24T02:06:53Z",
+            "2009-12-24T02:07:43Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:05:02Z",
+            "2009-12-24T02:09:24Z",
+            "2009-12-24T02:06:53Z",
+            "2009-12-24T02:07:43Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:05:02Z",
+            "2009-12-24T02:09:24Z",
+            "2009-12-24T02:06:53Z",
+            "2009-12-24T02:07:43Z"
+        ],
+        "embeddedRelationshipId": [
+            "crypto_Hmac.o",
+            "crypto_Sha1.o",
+            "crypto_Sha256.o",
+            "crypto_ShaBlock512BitContext.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "libnn_iopdev.small.a": {
+        "modified": "2011-09-29 22:49:42.742697",
+        "size": "1275.45KB",
+        "md5": "a8c7cfd2c205dde1e269103e0c7a6bb1",
+        "sha256": "a8ba10d6c4896b6e19e107226a5f7caef3a7e46cda37bbf79072641b26d5b62d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libnn_iopdev.small.a'",
+            "p9_Main.o",
+            "p9_Memory.o",
+            "p9_Reboot.o",
+            "rsa2048_0.der.pubbin.o"
+        ],
+        "Content-Length": [
+            "47530",
+            "304732",
+            "533608",
+            "419168",
+            "632"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:49:39Z",
+            "2011-09-30T05:49:40Z",
+            "2011-09-30T05:49:41Z",
+            "2011-09-30T05:49:41Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:49:39Z",
+            "2011-09-30T05:49:40Z",
+            "2011-09-30T05:49:41Z",
+            "2011-09-30T05:49:41Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/p9_Main.o",
+            "/p9_Memory.o",
+            "/p9_Reboot.o",
+            "/rsa2048_0.der.pubbin.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:49:39Z",
+            "2011-09-30T05:49:40Z",
+            "2011-09-30T05:49:41Z",
+            "2011-09-30T05:49:41Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:49:39Z",
+            "2011-09-30T05:49:40Z",
+            "2011-09-30T05:49:41Z",
+            "2011-09-30T05:49:41Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:49:39Z",
+            "2011-09-30T05:49:40Z",
+            "2011-09-30T05:49:41Z",
+            "2011-09-30T05:49:41Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2011-09-30T05:49:39Z",
+            "2011-09-30T05:49:40Z",
+            "2011-09-30T05:49:41Z",
+            "2011-09-30T05:49:41Z"
+        ],
+        "embeddedRelationshipId": [
+            "p9_Main.o",
+            "p9_Memory.o",
+            "p9_Reboot.o",
+            "rsa2048_0.der.pubbin.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

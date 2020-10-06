@@ -1,0 +1,123 @@
+{
+    "libnn_srv.small.a": {
+        "modified": "2009-12-24 11:19:26",
+        "size": "399.18KB",
+        "md5": "78a8bd229b48f27ab489423dddc6efad",
+        "sha256": "e1f481bb244fcdb51ae00f9f2b511ef5a06648401f2acfe6f2c8d61df24de4a4"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libnn_srv.small.a'",
+            "srv_API.o",
+            "srv_PrintResultImpl.o",
+            "srv_Service.o"
+        ],
+        "Content-Length": [
+            "11152",
+            "234816",
+            "32436",
+            "130028"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:04:03Z",
+            "2009-12-24T02:12:43Z",
+            "2009-12-24T02:12:01Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:04:03Z",
+            "2009-12-24T02:12:43Z",
+            "2009-12-24T02:12:01Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/srv_API.o",
+            "/srv_PrintResultImpl.o",
+            "/srv_Service.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:04:03Z",
+            "2009-12-24T02:12:43Z",
+            "2009-12-24T02:12:01Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:04:03Z",
+            "2009-12-24T02:12:43Z",
+            "2009-12-24T02:12:01Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:04:03Z",
+            "2009-12-24T02:12:43Z",
+            "2009-12-24T02:12:01Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2009-12-24T02:04:03Z",
+            "2009-12-24T02:12:43Z",
+            "2009-12-24T02:12:01Z"
+        ],
+        "embeddedRelationshipId": [
+            "srv_API.o",
+            "srv_PrintResultImpl.o",
+            "srv_Service.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}
