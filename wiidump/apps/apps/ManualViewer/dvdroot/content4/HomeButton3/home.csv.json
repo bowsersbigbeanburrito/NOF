@@ -1,0 +1,21 @@
+{
+    "home.csv": {
+        "modified": "2012-04-26 22:43:08",
+        "size": "4.42KB",
+        "md5": "f366ec18ef99e71cbfe3a99f271098d4",
+        "sha256": "670d37a7857c66f677580793bf561a6c42e1fe52c7577847a24d49e648d9a664"
+    },
+    "Metadata": {
+        "Content-Encoding": "UTF-16BE",
+        "Content-Type": "text/tsv; charset=UTF-16BE; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'home.csv'"
+    }
+}

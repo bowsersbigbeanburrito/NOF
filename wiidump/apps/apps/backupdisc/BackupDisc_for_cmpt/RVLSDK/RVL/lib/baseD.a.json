@@ -1,0 +1,103 @@
+{
+    "baseD.a": {
+        "modified": "2012-12-20 01:21:13",
+        "size": "35.5KB",
+        "md5": "b298b0378bb7eb9f8511b023b7e8164c",
+        "sha256": "9dfef7d0206be884da75d554d2c3332eb835418a4a7474ae5279cc4b4ab26d57"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'baseD.a'",
+            "PPCArch.o",
+            "PPCPm.o"
+        ],
+        "Content-Length": [
+            "6403",
+            "24408",
+            "5352"
+        ],
+        "Last-Modified": [
+            "2012-05-28T10:11:28Z",
+            "2012-05-28T10:11:27Z",
+            "2012-05-28T10:11:28Z"
+        ],
+        "Last-Save-Date": [
+            "2012-05-28T10:11:28Z",
+            "2012-05-28T10:11:27Z",
+            "2012-05-28T10:11:28Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/PPCArch.o",
+            "/PPCPm.o"
+        ],
+        "date": [
+            "2012-05-28T10:11:28Z",
+            "2012-05-28T10:11:27Z",
+            "2012-05-28T10:11:28Z"
+        ],
+        "dcterms:modified": [
+            "2012-05-28T10:11:28Z",
+            "2012-05-28T10:11:27Z",
+            "2012-05-28T10:11:28Z"
+        ],
+        "meta:save-date": [
+            "2012-05-28T10:11:28Z",
+            "2012-05-28T10:11:27Z",
+            "2012-05-28T10:11:28Z"
+        ],
+        "modified": [
+            "2012-05-28T10:11:28Z",
+            "2012-05-28T10:11:27Z",
+            "2012-05-28T10:11:28Z"
+        ],
+        "embeddedRelationshipId": [
+            "PPCArch.o",
+            "PPCPm.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ]
+    }
+}

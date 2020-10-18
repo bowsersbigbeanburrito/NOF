@@ -1,0 +1,103 @@
+{
+    "mixD.a": {
+        "modified": "2013-01-15 21:35:02",
+        "size": "101.35KB",
+        "md5": "d1587454fc2f4d12606e0d9e43c3ac17",
+        "sha256": "5997a40f575d2ba9e7bf30bdf508dc5c0966c7eb29da50d0db0a31168cdf6f60"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "8",
+            "0",
+            "7",
+            "0"
+        ],
+        "resourceName": [
+            "b'mixD.a'",
+            "mix.o",
+            "remote.o"
+        ],
+        "Content-Length": [
+            "9139",
+            "66944",
+            "27512"
+        ],
+        "Last-Modified": [
+            "2012-05-28T10:24:16Z",
+            "2012-05-28T10:24:15Z",
+            "2012-05-28T10:24:15Z"
+        ],
+        "Last-Save-Date": [
+            "2012-05-28T10:24:16Z",
+            "2012-05-28T10:24:15Z",
+            "2012-05-28T10:24:15Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/mix.o",
+            "/remote.o"
+        ],
+        "date": [
+            "2012-05-28T10:24:16Z",
+            "2012-05-28T10:24:15Z",
+            "2012-05-28T10:24:15Z"
+        ],
+        "dcterms:modified": [
+            "2012-05-28T10:24:16Z",
+            "2012-05-28T10:24:15Z",
+            "2012-05-28T10:24:15Z"
+        ],
+        "meta:save-date": [
+            "2012-05-28T10:24:16Z",
+            "2012-05-28T10:24:15Z",
+            "2012-05-28T10:24:15Z"
+        ],
+        "modified": [
+            "2012-05-28T10:24:16Z",
+            "2012-05-28T10:24:15Z",
+            "2012-05-28T10:24:15Z"
+        ],
+        "embeddedRelationshipId": [
+            "mix.o",
+            "remote.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ]
+    }
+}

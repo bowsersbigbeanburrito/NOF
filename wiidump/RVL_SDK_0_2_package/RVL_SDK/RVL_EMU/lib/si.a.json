@@ -1,0 +1,163 @@
+{
+    "si.a": {
+        "modified": "2006-01-18 20:52:28",
+        "size": "25.22KB",
+        "md5": "4c34bf9aa7168be559415751f3549567",
+        "sha256": "c1ef0d19364397b8553112a93ab767f44f24c23703f9dd80676c052889a97c19"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'si.a'",
+            "SIBios.o",
+            "SISamplingRate.o",
+            "SISteering.o",
+            "SISteeringXfer.o",
+            "SISteeringAuto.o"
+        ],
+        "Content-Length": [
+            "763",
+            "14192",
+            "1600",
+            "3304",
+            "2512",
+            "2968"
+        ],
+        "Last-Modified": [
+            "2006-01-18T20:52:27Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:27Z",
+            "2006-01-18T20:52:27Z"
+        ],
+        "Last-Save-Date": [
+            "2006-01-18T20:52:27Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:27Z",
+            "2006-01-18T20:52:27Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/SIBios.o",
+            "/SISamplingRate.o",
+            "/SISteering.o",
+            "/SISteeringXfer.o",
+            "/SISteeringAuto.o"
+        ],
+        "date": [
+            "2006-01-18T20:52:27Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:27Z",
+            "2006-01-18T20:52:27Z"
+        ],
+        "dcterms:modified": [
+            "2006-01-18T20:52:27Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:27Z",
+            "2006-01-18T20:52:27Z"
+        ],
+        "meta:save-date": [
+            "2006-01-18T20:52:27Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:27Z",
+            "2006-01-18T20:52:27Z"
+        ],
+        "modified": [
+            "2006-01-18T20:52:27Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:26Z",
+            "2006-01-18T20:52:27Z",
+            "2006-01-18T20:52:27Z"
+        ],
+        "embeddedRelationshipId": [
+            "SIBios.o",
+            "SISamplingRate.o",
+            "SISteering.o",
+            "SISteeringXfer.o",
+            "SISteeringAuto.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

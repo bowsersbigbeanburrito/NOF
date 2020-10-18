@@ -1,0 +1,123 @@
+{
+    "thpD.a": {
+        "modified": "2012-12-20 01:21:14",
+        "size": "24.73KB",
+        "md5": "420a35c8827a2d313d43ee66af75226b",
+        "sha256": "bf51c25994251da1a193d79b97260a29e40972a5a994fd019848f4d3378dc972"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'thpD.a'",
+            "THPDec.o",
+            "THPStats.o",
+            "THPAudio.o"
+        ],
+        "Content-Length": [
+            "144",
+            "21480",
+            "1408",
+            "2048"
+        ],
+        "Last-Modified": [
+            "2012-05-28T10:24:49Z",
+            "2012-05-28T10:24:47Z",
+            "2012-05-28T10:24:48Z",
+            "2012-05-28T10:24:49Z"
+        ],
+        "Last-Save-Date": [
+            "2012-05-28T10:24:49Z",
+            "2012-05-28T10:24:47Z",
+            "2012-05-28T10:24:48Z",
+            "2012-05-28T10:24:49Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/THPDec.o",
+            "/THPStats.o",
+            "/THPAudio.o"
+        ],
+        "date": [
+            "2012-05-28T10:24:49Z",
+            "2012-05-28T10:24:47Z",
+            "2012-05-28T10:24:48Z",
+            "2012-05-28T10:24:49Z"
+        ],
+        "dcterms:modified": [
+            "2012-05-28T10:24:49Z",
+            "2012-05-28T10:24:47Z",
+            "2012-05-28T10:24:48Z",
+            "2012-05-28T10:24:49Z"
+        ],
+        "meta:save-date": [
+            "2012-05-28T10:24:49Z",
+            "2012-05-28T10:24:47Z",
+            "2012-05-28T10:24:48Z",
+            "2012-05-28T10:24:49Z"
+        ],
+        "modified": [
+            "2012-05-28T10:24:49Z",
+            "2012-05-28T10:24:47Z",
+            "2012-05-28T10:24:48Z",
+            "2012-05-28T10:24:49Z"
+        ],
+        "embeddedRelationshipId": [
+            "THPDec.o",
+            "THPStats.o",
+            "THPAudio.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

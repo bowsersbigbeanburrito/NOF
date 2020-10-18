@@ -1,0 +1,106 @@
+{
+    "checkInvalidDisc.zip": {
+        "modified": "2013-01-15 03:25:40",
+        "size": "3.5KB",
+        "md5": "8ea684710cd7d595f49807e60b317122",
+        "sha256": "ef257c68646d117256088fef184a01dd9014cfaff6dfc68d4f81f2066f623d77"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/x-csrc; charset=Shift_JIS",
+            "text/x-chdr; charset=windows-1252",
+            "text/x-csrc; charset=Shift_JIS"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'checkInvalidDisc.zip'",
+            "checkInvalidDisc/checkInvalidDisc.c",
+            "checkInvalidDisc/checkInvalidDisc.h",
+            "checkInvalidDisc/main.c"
+        ],
+        "Content-Encoding": [
+            "Shift_JIS",
+            "windows-1252",
+            "Shift_JIS"
+        ],
+        "Content-Length": [
+            "2115",
+            "386",
+            "7435"
+        ],
+        "Last-Modified": [
+            "2009-09-09T21:32:34Z",
+            "2009-09-09T21:37:14Z",
+            "2009-09-09T21:39:50Z"
+        ],
+        "Last-Save-Date": [
+            "2009-09-09T21:32:34Z",
+            "2009-09-09T21:37:14Z",
+            "2009-09-09T21:39:50Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/checkInvalidDisc.c",
+            "/checkInvalidDisc.h",
+            "/main.c"
+        ],
+        "date": [
+            "2009-09-09T21:32:34Z",
+            "2009-09-09T21:37:14Z",
+            "2009-09-09T21:39:50Z"
+        ],
+        "dcterms:modified": [
+            "2009-09-09T21:32:34Z",
+            "2009-09-09T21:37:14Z",
+            "2009-09-09T21:39:50Z"
+        ],
+        "embeddedRelationshipId": [
+            "checkInvalidDisc/checkInvalidDisc.c",
+            "checkInvalidDisc/checkInvalidDisc.h",
+            "checkInvalidDisc/main.c"
+        ],
+        "meta:save-date": [
+            "2009-09-09T21:32:34Z",
+            "2009-09-09T21:37:14Z",
+            "2009-09-09T21:39:50Z"
+        ],
+        "modified": [
+            "2009-09-09T21:32:34Z",
+            "2009-09-09T21:37:14Z",
+            "2009-09-09T21:39:50Z"
+        ]
+    }
+}

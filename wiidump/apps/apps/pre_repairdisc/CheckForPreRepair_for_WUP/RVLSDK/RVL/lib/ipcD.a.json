@@ -1,0 +1,143 @@
+{
+    "ipcD.a": {
+        "modified": "2013-01-15 21:35:02",
+        "size": "104.55KB",
+        "md5": "aa009a96d853987e9b9f492e7699f0a2",
+        "sha256": "dfe1bec40798d12c440f5e5a248b3484be5db0b3644c56c0a9bc271108007282"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ipcD.a'",
+            "ipcMain.o",
+            "ipcclt.o",
+            "memory.o",
+            "ipcProfile.o"
+        ],
+        "Content-Length": [
+            "7338",
+            "9840",
+            "58376",
+            "13432",
+            "17768"
+        ],
+        "Last-Modified": [
+            "2012-05-28T10:25:18Z",
+            "2012-05-28T10:25:15Z",
+            "2012-05-28T10:25:16Z",
+            "2012-05-28T10:25:17Z",
+            "2012-05-28T10:25:18Z"
+        ],
+        "Last-Save-Date": [
+            "2012-05-28T10:25:18Z",
+            "2012-05-28T10:25:15Z",
+            "2012-05-28T10:25:16Z",
+            "2012-05-28T10:25:17Z",
+            "2012-05-28T10:25:18Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ipcMain.o",
+            "/ipcclt.o",
+            "/memory.o",
+            "/ipcProfile.o"
+        ],
+        "date": [
+            "2012-05-28T10:25:18Z",
+            "2012-05-28T10:25:15Z",
+            "2012-05-28T10:25:16Z",
+            "2012-05-28T10:25:17Z",
+            "2012-05-28T10:25:18Z"
+        ],
+        "dcterms:modified": [
+            "2012-05-28T10:25:18Z",
+            "2012-05-28T10:25:15Z",
+            "2012-05-28T10:25:16Z",
+            "2012-05-28T10:25:17Z",
+            "2012-05-28T10:25:18Z"
+        ],
+        "meta:save-date": [
+            "2012-05-28T10:25:18Z",
+            "2012-05-28T10:25:15Z",
+            "2012-05-28T10:25:16Z",
+            "2012-05-28T10:25:17Z",
+            "2012-05-28T10:25:18Z"
+        ],
+        "modified": [
+            "2012-05-28T10:25:18Z",
+            "2012-05-28T10:25:15Z",
+            "2012-05-28T10:25:16Z",
+            "2012-05-28T10:25:17Z",
+            "2012-05-28T10:25:18Z"
+        ],
+        "embeddedRelationshipId": [
+            "ipcMain.o",
+            "ipcclt.o",
+            "memory.o",
+            "ipcProfile.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

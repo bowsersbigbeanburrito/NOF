@@ -1,0 +1,78 @@
+{
+    "�Ŀ;�������ġ��륽���������ɳ���.doc": {
+        "modified": "2008-06-10 01:02:30",
+        "size": "64.0KB",
+        "md5": "aa52f96d1e278149386379b67514a729",
+        "sha256": "2d4d0c5b06781b23e3f473909ba0b1ef97edfce7385a5ff6f63edb70c49248ff"
+    },
+    "Metadata": {
+        "Application-Name": "Microsoft Office Word",
+        "Author": "鈴木忍",
+        "Character Count": "1928",
+        "Comments": "",
+        "Company": "Nintendo",
+        "Content-Type": [
+            "application/msword",
+            "image/unknown"
+        ],
+        "Creation-Date": "2006-07-27T06:20:00Z",
+        "Edit-Time": "2725800000000",
+        "Keywords": "",
+        "Last-Author": "鈴木忍",
+        "Last-Modified": "2008-06-10T07:50:00Z",
+        "Last-Printed": "2006-11-28T05:48:00Z",
+        "Last-Save-Date": "2008-06-10T07:50:00Z",
+        "Page-Count": "1",
+        "Revision-Number": "472",
+        "Template": "NintendoWareマニュアル雛形.dot",
+        "Word-Count": "338",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "69",
+            "0"
+        ],
+        "comment": "",
+        "cp:revision": "472",
+        "cp:subject": "",
+        "creator": "鈴木忍",
+        "date": "2008-06-10T07:50:00Z",
+        "dc:creator": "鈴木忍",
+        "dc:subject": "",
+        "dc:title": "個人情報設定ツールソースコード概要",
+        "dcterms:created": "2006-07-27T06:20:00Z",
+        "dcterms:modified": "2008-06-10T07:50:00Z",
+        "extended-properties:Application": "Microsoft Office Word",
+        "extended-properties:Company": "Nintendo",
+        "extended-properties:Template": "NintendoWareマニュアル雛形.dot",
+        "meta:author": "鈴木忍",
+        "meta:character-count": "1928",
+        "meta:creation-date": "2006-07-27T06:20:00Z",
+        "meta:keyword": "",
+        "meta:last-author": "鈴木忍",
+        "meta:page-count": "1",
+        "meta:print-date": "2006-11-28T05:48:00Z",
+        "meta:save-date": "2008-06-10T07:50:00Z",
+        "meta:word-count": "338",
+        "modified": "2008-06-10T07:50:00Z",
+        "resourceName": [
+            "b'\\xef\\xbf\\xbd\\xc4\\xbf\\xcd\\xbe\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xc4\\xa1\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xeb\\xa5\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xc9\\xb3\\xef\\xbf\\xbd\\xef\\xbf\\xbd\\xef\\xbf\\xbd.doc'",
+            "image1"
+        ],
+        "subject": "",
+        "title": "個人情報設定ツールソースコード概要",
+        "w:comments": "",
+        "xmpTPg:NPages": "1",
+        "X-TIKA:EXCEPTION:embedded_exception": "org.apache.tika.exception.ZeroByteFileException: InputStream must have > 0 bytes\r\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:122)\r\n\tat org.apache.tika.parser.ParserDecorator.parse(ParserDecorator.java:188)\r\n\tat org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator.parse(RecursiveParserWrapper.java:387)\r\n\tat org.apache.tika.parser.DelegatingParser.parse(DelegatingParser.java:72)\r\n\tat org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor.parseEmbedded(ParsingEmbeddedDocumentExtractor.java:104)\r\n\tat org.apache.tika.extractor.EmbeddedDocumentUtil.parseEmbedded(EmbeddedDocumentUtil.java:220)\r\n\tat org.apache.tika.parser.microsoft.AbstractPOIFSExtractor.handleEmbeddedResource(AbstractPOIFSExtractor.java:133)\r\n\tat org.apache.tika.parser.microsoft.AbstractPOIFSExtractor.handleEmbeddedResource(AbstractPOIFSExtractor.java:107)\r\n\tat org.apache.tika.parser.microsoft.AbstractPOIFSExtractor.handleEmbeddedResource(AbstractPOIFSExtractor.java:100)\r\n\tat org.apache.tika.parser.microsoft.WordExtractor.handlePictureCharacterRun(WordExtractor.java:561)\r\n\tat org.apache.tika.parser.microsoft.WordExtractor.handleSpecialCharacterRuns(WordExtractor.java:479)\r\n\tat org.apache.tika.parser.microsoft.WordExtractor.handleParagraph(WordExtractor.java:357)\r\n\tat org.apache.tika.parser.microsoft.WordExtractor.parse(WordExtractor.java:187)\r\n\tat org.apache.tika.parser.microsoft.OfficeParser.parse(OfficeParser.java:175)\r\n\tat org.apache.tika.parser.microsoft.OfficeParser.parse(OfficeParser.java:131)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\r\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\r\n\tat org.apache.tika.parser.RecursiveParserWrapper.parse(RecursiveParserWrapper.java:233)\r\n\tat org.apache.tika.server.resource.TikaResource.parse(TikaResource.java:409)\r\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.parseMetadata(RecursiveMetadataResource.java:147)\r\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.getMetadata(RecursiveMetadataResource.java:123)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)\r\n\tat org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)\r\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)\r\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)\r\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)\r\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)\r\n\tat org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)\r\n\tat org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)\r\n\tat org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)\r\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPDestination.doService(JettyHTTPDestination.java:247)\r\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPHandler.handle(JettyHTTPHandler.java:79)\r\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\r\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235)\r\n\tat org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1297)\r\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:190)\r\n\tat org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1212)\r\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)\r\n\tat org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:221)\r\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\r\n\tat org.eclipse.jetty.server.Server.handle(Server.java:500)\r\n\tat org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383)\r\n\tat org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:547)\r\n\tat org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375)\r\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:270)\r\n\tat org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)\r\n\tat org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)\r\n\tat org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:117)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)\r\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129)\r\n\tat org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:388)\r\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806)\r\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938)\r\n\tat java.lang.Thread.run(Unknown Source)\r\n",
+        "X-TIKA:EXCEPTION:embedded_parser": "org.apache.tika.parser.AutoDetectParser",
+        "X-TIKA:embedded_resource_path": "/image1",
+        "tika.mime.file": "image1"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "test.elf": {
+        "modified": "2006-01-18 20:44:30",
+        "size": "141.74KB",
+        "md5": "ef855735786262fcf29594f9b4d837fe",
+        "sha256": "b45b35421a3c548671482b2ea671c5f982d008e1ce51c1e64fd4c2fa20197d3e"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC",
+        "resourceName": "b'test.elf'"
+    }
+}

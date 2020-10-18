@@ -1,0 +1,103 @@
+{
+    "kmplsD.a": {
+        "modified": "2012-12-20 01:21:14",
+        "size": "130.02KB",
+        "md5": "255f5e75b885557c1346ac92e250f956",
+        "sha256": "22a42062abb2aec67bf54263fde9d8413cef2691db07c7d3ee5f2d646b90993f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'kmplsD.a'",
+            "KMPLS.o",
+            "KZMplsTestSub.o"
+        ],
+        "Content-Length": [
+            "12145",
+            "105536",
+            "15272"
+        ],
+        "Last-Modified": [
+            "2012-05-28T10:21:57Z",
+            "2012-05-28T10:21:56Z",
+            "2012-05-28T10:21:56Z"
+        ],
+        "Last-Save-Date": [
+            "2012-05-28T10:21:57Z",
+            "2012-05-28T10:21:56Z",
+            "2012-05-28T10:21:56Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/KMPLS.o",
+            "/KZMplsTestSub.o"
+        ],
+        "date": [
+            "2012-05-28T10:21:57Z",
+            "2012-05-28T10:21:56Z",
+            "2012-05-28T10:21:56Z"
+        ],
+        "dcterms:modified": [
+            "2012-05-28T10:21:57Z",
+            "2012-05-28T10:21:56Z",
+            "2012-05-28T10:21:56Z"
+        ],
+        "meta:save-date": [
+            "2012-05-28T10:21:57Z",
+            "2012-05-28T10:21:56Z",
+            "2012-05-28T10:21:56Z"
+        ],
+        "modified": [
+            "2012-05-28T10:21:57Z",
+            "2012-05-28T10:21:56Z",
+            "2012-05-28T10:21:56Z"
+        ],
+        "embeddedRelationshipId": [
+            "KMPLS.o",
+            "KZMplsTestSub.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ]
+    }
+}

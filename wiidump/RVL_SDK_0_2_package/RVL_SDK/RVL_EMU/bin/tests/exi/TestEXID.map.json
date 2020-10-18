@@ -1,0 +1,21 @@
+{
+    "TestEXID.map": {
+        "modified": "2006-01-18 20:48:52",
+        "size": "343.1KB",
+        "md5": "fe471f7ac0f3abc5643444b94a427431",
+        "sha256": "a9f025fe90e1c68364be4375ed4d38fd0109a87c133127067a4e44f4afad975b"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/tsv; charset=windows-1252; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "8",
+        "csv:delimiter": "tab",
+        "resourceName": "b'TestEXID.map'"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "perfD.a": {
+        "modified": "2013-01-15 21:35:03",
+        "size": "98.07KB",
+        "md5": "85016beaf8f541a833834184170bb3f1",
+        "sha256": "6f6f2e2f8ea32f2208487f4124a5d9a6164e70c8c9ac75fd7c300de1ee93732b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'perfD.a'",
+            "perf.o",
+            "perfdraw.o"
+        ],
+        "Content-Length": [
+            "6143",
+            "38032",
+            "56064"
+        ],
+        "Last-Modified": [
+            "2012-05-28T10:24:21Z",
+            "2012-05-28T10:24:20Z",
+            "2012-05-28T10:24:21Z"
+        ],
+        "Last-Save-Date": [
+            "2012-05-28T10:24:21Z",
+            "2012-05-28T10:24:20Z",
+            "2012-05-28T10:24:21Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/perf.o",
+            "/perfdraw.o"
+        ],
+        "date": [
+            "2012-05-28T10:24:21Z",
+            "2012-05-28T10:24:20Z",
+            "2012-05-28T10:24:21Z"
+        ],
+        "dcterms:modified": [
+            "2012-05-28T10:24:21Z",
+            "2012-05-28T10:24:20Z",
+            "2012-05-28T10:24:21Z"
+        ],
+        "meta:save-date": [
+            "2012-05-28T10:24:21Z",
+            "2012-05-28T10:24:20Z",
+            "2012-05-28T10:24:21Z"
+        ],
+        "modified": [
+            "2012-05-28T10:24:21Z",
+            "2012-05-28T10:24:20Z",
+            "2012-05-28T10:24:21Z"
+        ],
+        "embeddedRelationshipId": [
+            "perf.o",
+            "perfdraw.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ]
+    }
+}

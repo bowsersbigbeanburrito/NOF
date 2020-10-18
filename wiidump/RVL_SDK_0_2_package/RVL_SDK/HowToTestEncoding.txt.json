@@ -1,0 +1,20 @@
+{
+    "HowToTestEncoding.txt": {
+        "modified": "2006-01-05 13:16:00",
+        "size": "3.11KB",
+        "md5": "00d783f0afc42523831cde1b2b0ba3ce",
+        "sha256": "c069e8f1592163188ee94f1312e0944a2e804a8117b6d3c94055a7e7ad1e873d"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/plain; charset=windows-1252",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "41",
+        "resourceName": "b'HowToTestEncoding.txt'"
+    }
+}

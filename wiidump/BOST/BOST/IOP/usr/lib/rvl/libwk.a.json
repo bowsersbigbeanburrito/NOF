@@ -1,0 +1,107 @@
+{
+    "libwk.a": {
+        "modified": "2008-07-07 17:41:27",
+        "size": "4.74KB",
+        "md5": "0179cea532a877c456f2c81de5b71abe",
+        "sha256": "fddaac04edee10f3a2a69aade797e19ff12f0c8abdd9e0c69c29456327063f26"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libwk.a'",
+            "dprintf.o",
+            "wkreport.o"
+        ],
+        "Content-Length": [
+            "146",
+            "2152",
+            "2368"
+        ],
+        "Last-Modified": [
+            "2008-05-30T04:55:02Z",
+            "2008-05-30T04:55:01Z",
+            "2008-05-30T04:55:02Z"
+        ],
+        "Last-Save-Date": [
+            "2008-05-30T04:55:02Z",
+            "2008-05-30T04:55:01Z",
+            "2008-05-30T04:55:02Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/dprintf.o",
+            "/wkreport.o"
+        ],
+        "date": [
+            "2008-05-30T04:55:02Z",
+            "2008-05-30T04:55:01Z",
+            "2008-05-30T04:55:02Z"
+        ],
+        "dcterms:modified": [
+            "2008-05-30T04:55:02Z",
+            "2008-05-30T04:55:01Z",
+            "2008-05-30T04:55:02Z"
+        ],
+        "meta:save-date": [
+            "2008-05-30T04:55:02Z",
+            "2008-05-30T04:55:01Z",
+            "2008-05-30T04:55:02Z"
+        ],
+        "modified": [
+            "2008-05-30T04:55:02Z",
+            "2008-05-30T04:55:01Z",
+            "2008-05-30T04:55:02Z"
+        ],
+        "embeddedRelationshipId": [
+            "dprintf.o",
+            "wkreport.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

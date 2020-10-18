@@ -1,0 +1,183 @@
+{
+    "axfx.a": {
+        "modified": "2006-01-18 20:52:42",
+        "size": "31.7KB",
+        "md5": "94ddebd604ede8b530de6217eb5f872a",
+        "sha256": "7b10a864fb26d764b83ae5563d598a2ab4bb1476ba0293251ad97aa5061396b9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'axfx.a'",
+            "reverb_hi.o",
+            "reverb_std.o",
+            "chorus.o",
+            "delay.o",
+            "axfx.o",
+            "reverb_hi_4ch.o"
+        ],
+        "Content-Length": [
+            "532",
+            "8560",
+            "6192",
+            "5840",
+            "2360",
+            "1088",
+            "7464"
+        ],
+        "Last-Modified": [
+            "2006-01-18T20:52:41Z",
+            "2006-01-18T20:52:38Z",
+            "2006-01-18T20:52:39Z",
+            "2006-01-18T20:52:39Z",
+            "2006-01-18T20:52:40Z",
+            "2006-01-18T20:52:40Z",
+            "2006-01-18T20:52:41Z"
+        ],
+        "Last-Save-Date": [
+            "2006-01-18T20:52:41Z",
+            "2006-01-18T20:52:38Z",
+            "2006-01-18T20:52:39Z",
+            "2006-01-18T20:52:39Z",
+            "2006-01-18T20:52:40Z",
+            "2006-01-18T20:52:40Z",
+            "2006-01-18T20:52:41Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/reverb_hi.o",
+            "/reverb_std.o",
+            "/chorus.o",
+            "/delay.o",
+            "/axfx.o",
+            "/reverb_hi_4ch.o"
+        ],
+        "date": [
+            "2006-01-18T20:52:41Z",
+            "2006-01-18T20:52:38Z",
+            "2006-01-18T20:52:39Z",
+            "2006-01-18T20:52:39Z",
+            "2006-01-18T20:52:40Z",
+            "2006-01-18T20:52:40Z",
+            "2006-01-18T20:52:41Z"
+        ],
+        "dcterms:modified": [
+            "2006-01-18T20:52:41Z",
+            "2006-01-18T20:52:38Z",
+            "2006-01-18T20:52:39Z",
+            "2006-01-18T20:52:39Z",
+            "2006-01-18T20:52:40Z",
+            "2006-01-18T20:52:40Z",
+            "2006-01-18T20:52:41Z"
+        ],
+        "meta:save-date": [
+            "2006-01-18T20:52:41Z",
+            "2006-01-18T20:52:38Z",
+            "2006-01-18T20:52:39Z",
+            "2006-01-18T20:52:39Z",
+            "2006-01-18T20:52:40Z",
+            "2006-01-18T20:52:40Z",
+            "2006-01-18T20:52:41Z"
+        ],
+        "modified": [
+            "2006-01-18T20:52:41Z",
+            "2006-01-18T20:52:38Z",
+            "2006-01-18T20:52:39Z",
+            "2006-01-18T20:52:39Z",
+            "2006-01-18T20:52:40Z",
+            "2006-01-18T20:52:40Z",
+            "2006-01-18T20:52:41Z"
+        ],
+        "embeddedRelationshipId": [
+            "reverb_hi.o",
+            "reverb_std.o",
+            "chorus.o",
+            "delay.o",
+            "axfx.o",
+            "reverb_hi_4ch.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

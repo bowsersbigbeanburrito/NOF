@@ -1,0 +1,103 @@
+{
+    "dvdvideoD.a": {
+        "modified": "2012-12-20 01:21:13",
+        "size": "213.65KB",
+        "md5": "825645548fdb5d4709856939a9b909a7",
+        "sha256": "f915e5c84fe4c81ad8eb3211f1273a539b2e2df7f625184ede6e47ed8f220f7d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'dvdvideoD.a'",
+            "dvdvideo.o",
+            "dvd.o"
+        ],
+        "Content-Length": [
+            "13476",
+            "38280",
+            "166832"
+        ],
+        "Last-Modified": [
+            "2012-05-28T10:25:43Z",
+            "2012-05-28T10:25:42Z",
+            "2012-05-28T10:25:43Z"
+        ],
+        "Last-Save-Date": [
+            "2012-05-28T10:25:43Z",
+            "2012-05-28T10:25:42Z",
+            "2012-05-28T10:25:43Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/dvdvideo.o",
+            "/dvd.o"
+        ],
+        "date": [
+            "2012-05-28T10:25:43Z",
+            "2012-05-28T10:25:42Z",
+            "2012-05-28T10:25:43Z"
+        ],
+        "dcterms:modified": [
+            "2012-05-28T10:25:43Z",
+            "2012-05-28T10:25:42Z",
+            "2012-05-28T10:25:43Z"
+        ],
+        "meta:save-date": [
+            "2012-05-28T10:25:43Z",
+            "2012-05-28T10:25:42Z",
+            "2012-05-28T10:25:43Z"
+        ],
+        "modified": [
+            "2012-05-28T10:25:43Z",
+            "2012-05-28T10:25:42Z",
+            "2012-05-28T10:25:43Z"
+        ],
+        "embeddedRelationshipId": [
+            "dvdvideo.o",
+            "dvd.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ]
+    }
+}

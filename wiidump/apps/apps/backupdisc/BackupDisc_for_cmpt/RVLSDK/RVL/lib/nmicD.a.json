@@ -1,0 +1,103 @@
+{
+    "nmicD.a": {
+        "modified": "2012-12-20 01:21:14",
+        "size": "209.18KB",
+        "md5": "d9a839ec663172381555c965d75d0a1e",
+        "sha256": "637614e1bb43baa2227b01c4929993dc98c51aad38ad2bb0dcdba5a6fcc71664"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'nmicD.a'",
+            "nmic.o",
+            "hudsonmic.o"
+        ],
+        "Content-Length": [
+            "7455",
+            "172768",
+            "33792"
+        ],
+        "Last-Modified": [
+            "2012-05-28T10:29:10Z",
+            "2012-05-28T10:29:09Z",
+            "2012-05-28T10:29:10Z"
+        ],
+        "Last-Save-Date": [
+            "2012-05-28T10:29:10Z",
+            "2012-05-28T10:29:09Z",
+            "2012-05-28T10:29:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/nmic.o",
+            "/hudsonmic.o"
+        ],
+        "date": [
+            "2012-05-28T10:29:10Z",
+            "2012-05-28T10:29:09Z",
+            "2012-05-28T10:29:10Z"
+        ],
+        "dcterms:modified": [
+            "2012-05-28T10:29:10Z",
+            "2012-05-28T10:29:09Z",
+            "2012-05-28T10:29:10Z"
+        ],
+        "meta:save-date": [
+            "2012-05-28T10:29:10Z",
+            "2012-05-28T10:29:09Z",
+            "2012-05-28T10:29:10Z"
+        ],
+        "modified": [
+            "2012-05-28T10:29:10Z",
+            "2012-05-28T10:29:09Z",
+            "2012-05-28T10:29:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "nmic.o",
+            "hudsonmic.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ]
+    }
+}

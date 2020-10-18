@@ -1,0 +1,183 @@
+{
+    "kbdD.a": {
+        "modified": "2012-12-20 01:21:14",
+        "size": "51.31KB",
+        "md5": "3967e797dbb0641789468b83cbdcb6bd",
+        "sha256": "9596081bf41c77fd73c5575e6655b8a68d9700cfbafdec5abfc10da12ceb0c8b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'kbdD.a'",
+            "kbd_lib.o",
+            "kbd_lib_led.o",
+            "kbd_lib_init.o",
+            "kbd_lib_maps_us.o",
+            "kbd_lib_maps_jp.o",
+            "kbd_lib_maps_eu.o"
+        ],
+        "Content-Length": [
+            "764",
+            "24248",
+            "2912",
+            "3096",
+            "4784",
+            "2952",
+            "13240"
+        ],
+        "Last-Modified": [
+            "2012-06-04T02:06:46Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:45Z",
+            "2012-06-04T02:06:45Z",
+            "2012-06-04T02:06:46Z"
+        ],
+        "Last-Save-Date": [
+            "2012-06-04T02:06:46Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:45Z",
+            "2012-06-04T02:06:45Z",
+            "2012-06-04T02:06:46Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/kbd_lib.o",
+            "/kbd_lib_led.o",
+            "/kbd_lib_init.o",
+            "/kbd_lib_maps_us.o",
+            "/kbd_lib_maps_jp.o",
+            "/kbd_lib_maps_eu.o"
+        ],
+        "date": [
+            "2012-06-04T02:06:46Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:45Z",
+            "2012-06-04T02:06:45Z",
+            "2012-06-04T02:06:46Z"
+        ],
+        "dcterms:modified": [
+            "2012-06-04T02:06:46Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:45Z",
+            "2012-06-04T02:06:45Z",
+            "2012-06-04T02:06:46Z"
+        ],
+        "meta:save-date": [
+            "2012-06-04T02:06:46Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:45Z",
+            "2012-06-04T02:06:45Z",
+            "2012-06-04T02:06:46Z"
+        ],
+        "modified": [
+            "2012-06-04T02:06:46Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:44Z",
+            "2012-06-04T02:06:45Z",
+            "2012-06-04T02:06:45Z",
+            "2012-06-04T02:06:46Z"
+        ],
+        "embeddedRelationshipId": [
+            "kbd_lib.o",
+            "kbd_lib_led.o",
+            "kbd_lib_init.o",
+            "kbd_lib_maps_us.o",
+            "kbd_lib_maps_jp.o",
+            "kbd_lib_maps_eu.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}
