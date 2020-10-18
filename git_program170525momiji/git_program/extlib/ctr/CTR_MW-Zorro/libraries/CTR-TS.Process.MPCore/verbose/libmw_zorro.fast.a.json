@@ -1,0 +1,103 @@
+{
+    "libmw_zorro.fast.a": {
+        "modified": "2017-05-31 21:51:50.800269",
+        "size": "112.91KB",
+        "md5": "af6ee6d24e10560a3dc78cd262910f19",
+        "sha256": "5eaa582c888a6dff0fb14a92aad867d335d59a96b91df85ad0aaf4fb870d50af"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "1",
+            "2"
+        ],
+        "resourceName": [
+            "b'libmw_zorro.fast.a'",
+            "zorro_cmc.o",
+            "zorro_opssr.o"
+        ],
+        "Content-Length": [
+            "2127",
+            "26928",
+            "86376"
+        ],
+        "Last-Modified": [
+            "1970-01-01T00:00:00Z",
+            "2015-09-09T01:34:25Z",
+            "2016-01-22T16:17:31Z"
+        ],
+        "Last-Save-Date": [
+            "1970-01-01T00:00:00Z",
+            "2015-09-09T01:34:25Z",
+            "2016-01-22T16:17:31Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/zorro_cmc.o",
+            "/zorro_opssr.o"
+        ],
+        "date": [
+            "1970-01-01T00:00:00Z",
+            "2015-09-09T01:34:25Z",
+            "2016-01-22T16:17:31Z"
+        ],
+        "dcterms:modified": [
+            "1970-01-01T00:00:00Z",
+            "2015-09-09T01:34:25Z",
+            "2016-01-22T16:17:31Z"
+        ],
+        "meta:save-date": [
+            "1970-01-01T00:00:00Z",
+            "2015-09-09T01:34:25Z",
+            "2016-01-22T16:17:31Z"
+        ],
+        "modified": [
+            "1970-01-01T00:00:00Z",
+            "2015-09-09T01:34:25Z",
+            "2016-01-22T16:17:31Z"
+        ],
+        "embeddedRelationshipId": [
+            "zorro_cmc.o",
+            "zorro_opssr.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

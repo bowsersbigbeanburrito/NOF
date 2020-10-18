@@ -1,0 +1,109 @@
+{
+    "niji_source.zip": {
+        "modified": "2017-05-31 21:54:41.673355",
+        "size": "2.24KB",
+        "md5": "d38d5a1ef0341f9c3d07b7ce5bce23ed",
+        "sha256": "e4d2c9cfab898f5a71ce5c9c44cc3972d1a125738699da8a129edb2ab70ffca3"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/plain; charset=UTF-8",
+            "text/x-c++src",
+            "image/vnd.microsoft.icon"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.code.SourceCodeParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "180",
+            "1",
+            "174",
+            "1"
+        ],
+        "resourceName": [
+            "b'niji_source.zip'",
+            "MyTemplate.vstemplate",
+            "niji_source.cpp",
+            "__TemplateIcon.ico"
+        ],
+        "Content-Encoding": [
+            "UTF-8",
+            "UTF-8"
+        ],
+        "Content-Length": [
+            "605",
+            "1380",
+            "10134"
+        ],
+        "Last-Modified": [
+            "2015-06-10T01:31:26Z",
+            "2015-06-30T21:26:18Z",
+            "2015-06-10T01:31:26Z"
+        ],
+        "Last-Save-Date": [
+            "2015-06-10T01:31:26Z",
+            "2015-06-30T21:26:18Z",
+            "2015-06-10T01:31:26Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/MyTemplate.vstemplate",
+            "/niji_source.cpp",
+            "/__TemplateIcon.ico"
+        ],
+        "date": [
+            "2015-06-10T01:31:26Z",
+            "2015-06-30T21:26:18Z",
+            "2015-06-10T01:31:26Z"
+        ],
+        "dcterms:modified": [
+            "2015-06-10T01:31:26Z",
+            "2015-06-30T21:26:18Z",
+            "2015-06-10T01:31:26Z"
+        ],
+        "embeddedRelationshipId": [
+            "MyTemplate.vstemplate",
+            "niji_source.cpp",
+            "__TemplateIcon.ico"
+        ],
+        "meta:save-date": [
+            "2015-06-10T01:31:26Z",
+            "2015-06-30T21:26:18Z",
+            "2015-06-10T01:31:26Z"
+        ],
+        "modified": [
+            "2015-06-10T01:31:26Z",
+            "2015-06-30T21:26:18Z",
+            "2015-06-10T01:31:26Z"
+        ],
+        "Author": "$username$",
+        "LoC": "66",
+        "creator": "$username$",
+        "dc:creator": "$username$",
+        "meta:author": "$username$"
+    }
+}

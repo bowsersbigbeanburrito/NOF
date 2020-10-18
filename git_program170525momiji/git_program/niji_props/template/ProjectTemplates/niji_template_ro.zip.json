@@ -1,0 +1,160 @@
+{
+    "niji_template_ro.zip": {
+        "modified": "2017-05-31 23:56:45.798713",
+        "size": "4.33KB",
+        "md5": "fa5b53cbfaae8b6505d6f79f6c5546ee",
+        "sha256": "5bb181eeb5c366eb1b59c56e81e90805dd5d7a49be1ddf915b7f81d805783519"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/x-chdr; charset=windows-1252",
+            "text/plain; charset=UTF-8",
+            "application/xml",
+            "application/xml",
+            "text/x-c++src",
+            "image/vnd.microsoft.icon"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.xml.DcXMLParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.code.SourceCodeParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.image.ImageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "16",
+            "1",
+            "1",
+            "2",
+            "6",
+            "3",
+            "1"
+        ],
+        "resourceName": [
+            "b'niji_template_ro.zip'",
+            "INCLUDE/NijiTemplateRo.h",
+            "MyTemplate.vstemplate",
+            "niji_template_ro.vcxproj",
+            "niji_template_ro.vcxproj.filters",
+            "SOURCE/NijiTemplateRo.cpp",
+            "__TemplateIcon.ico"
+        ],
+        "Content-Encoding": [
+            "windows-1252",
+            "UTF-8",
+            "windows-1252"
+        ],
+        "Content-Length": [
+            "295",
+            "1221",
+            "14199",
+            "728",
+            "563",
+            "10134"
+        ],
+        "Last-Modified": [
+            "2015-05-29T02:15:24Z",
+            "2015-05-29T02:15:24Z",
+            "2016-08-29T19:49:20Z",
+            "2016-08-29T19:48:52Z",
+            "2015-05-29T02:15:24Z",
+            "2015-05-29T02:15:24Z"
+        ],
+        "Last-Save-Date": [
+            "2015-05-29T02:15:24Z",
+            "2015-05-29T02:15:24Z",
+            "2016-08-29T19:49:20Z",
+            "2016-08-29T19:48:52Z",
+            "2015-05-29T02:15:24Z",
+            "2015-05-29T02:15:24Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/NijiTemplateRo.h",
+            "/MyTemplate.vstemplate",
+            "/niji_template_ro.vcxproj",
+            "/niji_template_ro.vcxproj.filters",
+            "/NijiTemplateRo.cpp",
+            "/__TemplateIcon.ico"
+        ],
+        "date": [
+            "2015-05-29T02:15:24Z",
+            "2015-05-29T02:15:24Z",
+            "2016-08-29T19:49:20Z",
+            "2016-08-29T19:48:52Z",
+            "2015-05-29T02:15:24Z",
+            "2015-05-29T02:15:24Z"
+        ],
+        "dcterms:modified": [
+            "2015-05-29T02:15:24Z",
+            "2015-05-29T02:15:24Z",
+            "2016-08-29T19:49:20Z",
+            "2016-08-29T19:48:52Z",
+            "2015-05-29T02:15:24Z",
+            "2015-05-29T02:15:24Z"
+        ],
+        "embeddedRelationshipId": [
+            "INCLUDE/NijiTemplateRo.h",
+            "MyTemplate.vstemplate",
+            "niji_template_ro.vcxproj",
+            "niji_template_ro.vcxproj.filters",
+            "SOURCE/NijiTemplateRo.cpp",
+            "__TemplateIcon.ico"
+        ],
+        "meta:save-date": [
+            "2015-05-29T02:15:24Z",
+            "2015-05-29T02:15:24Z",
+            "2016-08-29T19:49:20Z",
+            "2016-08-29T19:48:52Z",
+            "2015-05-29T02:15:24Z",
+            "2015-05-29T02:15:24Z"
+        ],
+        "modified": [
+            "2015-05-29T02:15:24Z",
+            "2015-05-29T02:15:24Z",
+            "2016-08-29T19:49:20Z",
+            "2016-08-29T19:48:52Z",
+            "2015-05-29T02:15:24Z",
+            "2015-05-29T02:15:24Z"
+        ],
+        "LoC": "39"
+    }
+}

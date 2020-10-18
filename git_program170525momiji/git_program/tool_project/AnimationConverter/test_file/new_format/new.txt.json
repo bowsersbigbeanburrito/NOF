@@ -1,0 +1,21 @@
+{
+    "new.txt": {
+        "modified": "2017-05-31 21:54:45.841772",
+        "size": "77.13KB",
+        "md5": "f83bb0b0329436b782d0f5f7974f2b45",
+        "sha256": "fa17e6a5f4c9c5101035ff626e432a85ee63d10a814fb71632c7de66e41d8149"
+    },
+    "Metadata": {
+        "Content-Encoding": "windows-1252",
+        "Content-Type": "text/csv; charset=windows-1252; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "8",
+        "csv:delimiter": "comma",
+        "resourceName": "b'new.txt'"
+    }
+}
