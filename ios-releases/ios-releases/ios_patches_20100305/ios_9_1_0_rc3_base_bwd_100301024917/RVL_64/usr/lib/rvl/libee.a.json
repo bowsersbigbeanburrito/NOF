@@ -1,0 +1,107 @@
+{
+    "libee.a": {
+        "modified": "2010-03-01 02:53:44",
+        "size": "5.53KB",
+        "md5": "3c0c7ed182fe230d58815367226f160a",
+        "sha256": "98157bef337749009d900e0aa57b302c1b69fc97df091532808e271985bd76ae"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libee.a'",
+            "ee_basic.o",
+            "ee_api.o"
+        ],
+        "Content-Length": [
+            "342",
+            "2424",
+            "2712"
+        ],
+        "Last-Modified": [
+            "2010-03-01T10:53:43Z",
+            "2010-03-01T10:53:43Z",
+            "2010-03-01T10:53:43Z"
+        ],
+        "Last-Save-Date": [
+            "2010-03-01T10:53:43Z",
+            "2010-03-01T10:53:43Z",
+            "2010-03-01T10:53:43Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ee_basic.o",
+            "/ee_api.o"
+        ],
+        "date": [
+            "2010-03-01T10:53:43Z",
+            "2010-03-01T10:53:43Z",
+            "2010-03-01T10:53:43Z"
+        ],
+        "dcterms:modified": [
+            "2010-03-01T10:53:43Z",
+            "2010-03-01T10:53:43Z",
+            "2010-03-01T10:53:43Z"
+        ],
+        "meta:save-date": [
+            "2010-03-01T10:53:43Z",
+            "2010-03-01T10:53:43Z",
+            "2010-03-01T10:53:43Z"
+        ],
+        "modified": [
+            "2010-03-01T10:53:43Z",
+            "2010-03-01T10:53:43Z",
+            "2010-03-01T10:53:43Z"
+        ],
+        "embeddedRelationshipId": [
+            "ee_basic.o",
+            "ee_api.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

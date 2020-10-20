@@ -1,0 +1,22 @@
+{
+    "boot0_rom_version.o": {
+        "modified": "2006-04-18 17:56:52",
+        "size": "0.62KB",
+        "md5": "5ccdbd37a6b9bd04fb4118a225e30aa1",
+        "sha256": "b5f50b76f6a8334ba58aa0839a861c13c37658022ac84b5abce18a87e771d9b5"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'boot0_rom_version.o'"
+    }
+}

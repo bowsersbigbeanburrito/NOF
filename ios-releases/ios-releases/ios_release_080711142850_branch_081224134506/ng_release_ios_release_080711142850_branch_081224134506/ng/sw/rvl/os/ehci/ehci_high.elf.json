@@ -1,0 +1,22 @@
+{
+    "ehci_high.elf": {
+        "modified": "2008-12-24 13:51:28",
+        "size": "95.9KB",
+        "md5": "676903631812f2a874e00a28f3209f57",
+        "sha256": "09918c7297a5bb3f87ecb16a76e791990195fe4a8d9a9d54ee684a95dc4efe5f"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'ehci_high.elf'"
+    }
+}

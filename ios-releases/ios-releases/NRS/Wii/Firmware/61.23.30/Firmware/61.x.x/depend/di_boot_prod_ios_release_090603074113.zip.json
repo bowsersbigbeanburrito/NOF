@@ -1,0 +1,95 @@
+{
+    "di_boot_prod_ios_release_090603074113.zip": {
+        "modified": "2011-09-29 19:05:24",
+        "size": "53.14KB",
+        "md5": "3f900a9e25f2361e54ada95920364f28",
+        "sha256": "1b31c9b40edbfe3f28b90f793a4e40f734361f73c1d9653954034b8aa8f4a7b9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'di_boot_prod_ios_release_090603074113.zip'",
+            "rvl-128/di_boot_prod.elf",
+            "rvl-64/di_boot_prod.elf"
+        ],
+        "Content-Length": [
+            "96971",
+            "96971"
+        ],
+        "Last-Modified": [
+            "2009-06-08T09:24:22Z",
+            "2009-06-08T08:46:18Z"
+        ],
+        "Last-Save-Date": [
+            "2009-06-08T09:24:22Z",
+            "2009-06-08T08:46:18Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/di_boot_prod.elf",
+            "/di_boot_prod.elf"
+        ],
+        "date": [
+            "2009-06-08T09:24:22Z",
+            "2009-06-08T08:46:18Z"
+        ],
+        "dcterms:modified": [
+            "2009-06-08T09:24:22Z",
+            "2009-06-08T08:46:18Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-128/di_boot_prod.elf",
+            "rvl-64/di_boot_prod.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2009-06-08T09:24:22Z",
+            "2009-06-08T08:46:18Z"
+        ],
+        "modified": [
+            "2009-06-08T09:24:22Z",
+            "2009-06-08T08:46:18Z"
+        ]
+    }
+}

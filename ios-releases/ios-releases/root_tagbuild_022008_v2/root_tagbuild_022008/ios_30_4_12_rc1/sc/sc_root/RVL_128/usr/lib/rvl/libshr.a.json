@@ -1,0 +1,191 @@
+{
+    "libshr.a": {
+        "modified": "2008-02-20 13:54:26",
+        "size": "23.19KB",
+        "md5": "6c1369ee6622a993693af5e476b2f8a3",
+        "sha256": "b1dc1293d6636d2cd90afe9de1324df98b34326c27fde47115789b0b6cba90da"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libshr.a'",
+            "shr_getopt.o",
+            "shr_mem.o",
+            "shr_mem_wii.o",
+            "shr_plat_wii.o",
+            "shr_th_wii.o",
+            "shr_trace.o"
+        ],
+        "Content-Length": [
+            "976",
+            "3112",
+            "4244",
+            "574",
+            "948",
+            "5936",
+            "7524"
+        ],
+        "Last-Modified": [
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:24Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z"
+        ],
+        "Last-Save-Date": [
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:24Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/shr_getopt.o",
+            "/shr_mem.o",
+            "/shr_mem_wii.o",
+            "/shr_plat_wii.o",
+            "/shr_th_wii.o",
+            "/shr_trace.o"
+        ],
+        "date": [
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:24Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z"
+        ],
+        "dcterms:modified": [
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:24Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z"
+        ],
+        "meta:save-date": [
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:24Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z"
+        ],
+        "modified": [
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:24Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z",
+            "2008-02-20T21:54:25Z"
+        ],
+        "embeddedRelationshipId": [
+            "shr_getopt.o",
+            "shr_mem.o",
+            "shr_mem_wii.o",
+            "shr_plat_wii.o",
+            "shr_th_wii.o",
+            "shr_trace.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "usbeth_2007-08-09.zip": {
+        "modified": "2011-09-30 14:58:30",
+        "size": "40.28KB",
+        "md5": "50e77b8ffd443c32fa4d5cf0bd984d56",
+        "sha256": "fad158d9c2bcf685752c9a96113c621de3e478970c5a3c50ad837fa14b0062cf"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'usbeth_2007-08-09.zip'",
+            "rvl-64/usbeth.elf",
+            "rvl-128/usbeth.elf"
+        ],
+        "Content-Length": [
+            "84105",
+            "84105"
+        ],
+        "Last-Modified": [
+            "2007-08-09T15:21:43Z",
+            "2007-08-09T15:21:30Z"
+        ],
+        "Last-Save-Date": [
+            "2007-08-09T15:21:43Z",
+            "2007-08-09T15:21:30Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/usbeth.elf",
+            "/usbeth.elf"
+        ],
+        "date": [
+            "2007-08-09T15:21:43Z",
+            "2007-08-09T15:21:30Z"
+        ],
+        "dcterms:modified": [
+            "2007-08-09T15:21:43Z",
+            "2007-08-09T15:21:30Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-64/usbeth.elf",
+            "rvl-128/usbeth.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2007-08-09T15:21:43Z",
+            "2007-08-09T15:21:30Z"
+        ],
+        "modified": [
+            "2007-08-09T15:21:43Z",
+            "2007-08-09T15:21:30Z"
+        ]
+    }
+}

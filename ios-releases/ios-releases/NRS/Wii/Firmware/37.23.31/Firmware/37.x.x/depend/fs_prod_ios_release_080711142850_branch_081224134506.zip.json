@@ -1,0 +1,95 @@
+{
+    "fs_prod_ios_release_080711142850_branch_081224134506.zip": {
+        "modified": "2011-09-30 15:02:22",
+        "size": "51.07KB",
+        "md5": "2c3a8d874be2e4675e07fd693ab27ad0",
+        "sha256": "3d42e003516d7137e2781f63456ca671e4db1957cce54acbcd6a1ab1f03ddbe8"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'fs_prod_ios_release_080711142850_branch_081224134506.zip'",
+            "rvl-128/fs_prod.elf",
+            "rvl-64/fs_prod.elf"
+        ],
+        "Content-Length": [
+            "87672",
+            "87672"
+        ],
+        "Last-Modified": [
+            "2009-01-16T22:30:44Z",
+            "2009-01-16T23:33:13Z"
+        ],
+        "Last-Save-Date": [
+            "2009-01-16T22:30:44Z",
+            "2009-01-16T23:33:13Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/fs_prod.elf",
+            "/fs_prod.elf"
+        ],
+        "date": [
+            "2009-01-16T22:30:44Z",
+            "2009-01-16T23:33:13Z"
+        ],
+        "dcterms:modified": [
+            "2009-01-16T22:30:44Z",
+            "2009-01-16T23:33:13Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-128/fs_prod.elf",
+            "rvl-64/fs_prod.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2009-01-16T22:30:44Z",
+            "2009-01-16T23:33:13Z"
+        ],
+        "modified": [
+            "2009-01-16T22:30:44Z",
+            "2009-01-16T23:33:13Z"
+        ]
+    }
+}

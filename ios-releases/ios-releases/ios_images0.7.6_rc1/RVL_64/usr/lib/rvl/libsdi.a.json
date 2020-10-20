@@ -1,0 +1,76 @@
+{
+    "libsdi.a": {
+        "modified": "2006-06-02 15:16:14",
+        "size": "14.75KB",
+        "md5": "a00ac3cfff44410f8c602e3697f60bca",
+        "sha256": "159c07d42ea46d5856a32ea0a228b6acde58e6e0c777296decae94c90c630c5e"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libsdi.a'",
+            "sdi_api.o"
+        ],
+        "Content-Length": [
+            "868",
+            "14112"
+        ],
+        "Last-Modified": [
+            "2006-06-02T22:16:14Z",
+            "2006-06-02T22:16:14Z"
+        ],
+        "Last-Save-Date": [
+            "2006-06-02T22:16:14Z",
+            "2006-06-02T22:16:14Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/sdi_api.o"
+        ],
+        "date": [
+            "2006-06-02T22:16:14Z",
+            "2006-06-02T22:16:14Z"
+        ],
+        "dcterms:modified": [
+            "2006-06-02T22:16:14Z",
+            "2006-06-02T22:16:14Z"
+        ],
+        "meta:save-date": [
+            "2006-06-02T22:16:14Z",
+            "2006-06-02T22:16:14Z"
+        ],
+        "modified": [
+            "2006-06-02T22:16:14Z",
+            "2006-06-02T22:16:14Z"
+        ],
+        "embeddedRelationshipId": "sdi_api.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

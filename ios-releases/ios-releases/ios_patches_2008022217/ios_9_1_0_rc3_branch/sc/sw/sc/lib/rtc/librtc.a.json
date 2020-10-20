@@ -1,0 +1,76 @@
+{
+    "librtc.a": {
+        "modified": "2008-02-19 14:33:41",
+        "size": "3.46KB",
+        "md5": "544dac57f9295e76ffe247944706a401",
+        "sha256": "925cfe2b76d28a4397483eb2f13da53bd38d30fa44068483fd9d3fb14ea32468"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'librtc.a'",
+            "rtc.o"
+        ],
+        "Content-Length": [
+            "266",
+            "3148"
+        ],
+        "Last-Modified": [
+            "2008-02-19T22:33:41Z",
+            "2008-02-19T22:33:41Z"
+        ],
+        "Last-Save-Date": [
+            "2008-02-19T22:33:41Z",
+            "2008-02-19T22:33:41Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/rtc.o"
+        ],
+        "date": [
+            "2008-02-19T22:33:41Z",
+            "2008-02-19T22:33:41Z"
+        ],
+        "dcterms:modified": [
+            "2008-02-19T22:33:41Z",
+            "2008-02-19T22:33:41Z"
+        ],
+        "meta:save-date": [
+            "2008-02-19T22:33:41Z",
+            "2008-02-19T22:33:41Z"
+        ],
+        "modified": [
+            "2008-02-19T22:33:41Z",
+            "2008-02-19T22:33:41Z"
+        ],
+        "embeddedRelationshipId": "rtc.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

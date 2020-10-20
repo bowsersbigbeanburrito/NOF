@@ -1,0 +1,107 @@
+{
+    "libee.a": {
+        "modified": "2006-07-20 11:15:24",
+        "size": "5.22KB",
+        "md5": "31477d535c0c5515b95b12fc84a5b413",
+        "sha256": "d8316a89fc6de7399ed802858ce125b254103a196c5dd8e16ebbf6cd8f590293"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libee.a'",
+            "ee_basic.o",
+            "ee_api.o"
+        ],
+        "Content-Length": [
+            "304",
+            "2424",
+            "2428"
+        ],
+        "Last-Modified": [
+            "2006-07-20T18:15:24Z",
+            "2006-07-20T18:15:24Z",
+            "2006-07-20T18:15:24Z"
+        ],
+        "Last-Save-Date": [
+            "2006-07-20T18:15:24Z",
+            "2006-07-20T18:15:24Z",
+            "2006-07-20T18:15:24Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ee_basic.o",
+            "/ee_api.o"
+        ],
+        "date": [
+            "2006-07-20T18:15:24Z",
+            "2006-07-20T18:15:24Z",
+            "2006-07-20T18:15:24Z"
+        ],
+        "dcterms:modified": [
+            "2006-07-20T18:15:24Z",
+            "2006-07-20T18:15:24Z",
+            "2006-07-20T18:15:24Z"
+        ],
+        "meta:save-date": [
+            "2006-07-20T18:15:24Z",
+            "2006-07-20T18:15:24Z",
+            "2006-07-20T18:15:24Z"
+        ],
+        "modified": [
+            "2006-07-20T18:15:24Z",
+            "2006-07-20T18:15:24Z",
+            "2006-07-20T18:15:24Z"
+        ],
+        "embeddedRelationshipId": [
+            "ee_basic.o",
+            "ee_api.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "ehci_bms_write_gt64K.elf": {
+        "modified": "2008-06-05 00:11:27",
+        "size": "96.62KB",
+        "md5": "2fac66ebd88c6142ca1e6c5f92f6f7fe",
+        "sha256": "60da431819c7397288de54ec56376628302186e0f69d15725f2f858ab31e4a13"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'ehci_bms_write_gt64K.elf'"
+    }
+}

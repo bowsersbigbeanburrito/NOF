@@ -1,0 +1,22 @@
+{
+    "ehci_cam.elf": {
+        "modified": "2009-12-04 17:21:18",
+        "size": "96.38KB",
+        "md5": "d6bda224c01935eeb38bfa203909889d",
+        "sha256": "1f1f74c7d28d543e9fa588a4081c074307c0bff4ba2de93ee17285e704288a9c"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'ehci_cam.elf'"
+    }
+}

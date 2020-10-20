@@ -1,0 +1,95 @@
+{
+    "usb_hub_2010-08-25-19-10-WFS_004.zip": {
+        "modified": "2011-09-29 19:06:18",
+        "size": "17.33KB",
+        "md5": "e7b89d3b1ac7502a92a489105baa523e",
+        "sha256": "ffd49cb016c125c82ec8b6b9ab919feb5360dd96ab6393dfcbe1c669c93fb631"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'usb_hub_2010-08-25-19-10-WFS_004.zip'",
+            "rvl-128/usb_hub.elf",
+            "rvl-64/usb_hub.elf"
+        ],
+        "Content-Length": [
+            "39022",
+            "39022"
+        ],
+        "Last-Modified": [
+            "2010-08-25T10:33:45Z",
+            "2010-08-25T10:34:59Z"
+        ],
+        "Last-Save-Date": [
+            "2010-08-25T10:33:45Z",
+            "2010-08-25T10:34:59Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/usb_hub.elf",
+            "/usb_hub.elf"
+        ],
+        "date": [
+            "2010-08-25T10:33:45Z",
+            "2010-08-25T10:34:59Z"
+        ],
+        "dcterms:modified": [
+            "2010-08-25T10:33:45Z",
+            "2010-08-25T10:34:59Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-128/usb_hub.elf",
+            "rvl-64/usb_hub.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2010-08-25T10:33:45Z",
+            "2010-08-25T10:34:59Z"
+        ],
+        "modified": [
+            "2010-08-25T10:33:45Z",
+            "2010-08-25T10:34:59Z"
+        ]
+    }
+}

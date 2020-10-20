@@ -1,0 +1,22 @@
+{
+    "bootx.elf": {
+        "modified": "2008-12-24 13:47:07",
+        "size": "1.35KB",
+        "md5": "116ba3e9ab8128a0792bd8ad6a751804",
+        "sha256": "78d505eaf57c0811aab27b59c60d849edaad0379e9d50ba78dd3e4ede3fd21ec"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'bootx.elf'"
+    }
+}

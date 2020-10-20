@@ -1,0 +1,76 @@
+{
+    "libisfs.a": {
+        "modified": "2008-02-20 12:13:00",
+        "size": "5.29KB",
+        "md5": "2661de1381b0a16e17435bf595c9b477",
+        "sha256": "b3daf0c88155226cd69a22abf632898c10a796225d75ffffb167355b6ec62167"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libisfs.a'",
+            "fs.o"
+        ],
+        "Content-Length": [
+            "336",
+            "4952"
+        ],
+        "Last-Modified": [
+            "2008-02-20T20:12:59Z",
+            "2008-02-20T20:12:59Z"
+        ],
+        "Last-Save-Date": [
+            "2008-02-20T20:12:59Z",
+            "2008-02-20T20:12:59Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/fs.o"
+        ],
+        "date": [
+            "2008-02-20T20:12:59Z",
+            "2008-02-20T20:12:59Z"
+        ],
+        "dcterms:modified": [
+            "2008-02-20T20:12:59Z",
+            "2008-02-20T20:12:59Z"
+        ],
+        "meta:save-date": [
+            "2008-02-20T20:12:59Z",
+            "2008-02-20T20:12:59Z"
+        ],
+        "modified": [
+            "2008-02-20T20:12:59Z",
+            "2008-02-20T20:12:59Z"
+        ],
+        "embeddedRelationshipId": "fs.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "hello.c": {
+        "modified": "2009-05-05 11:09:14",
+        "size": "0.4KB",
+        "md5": "89cd42c0622ee0a059c0dd5c56b0f536",
+        "sha256": "8197926e34db03ea152db676417ef88b15e420ce6a0588b787732808e644ecca"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/x-csrc; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "resourceName": "b'hello.c'"
+    }
+}

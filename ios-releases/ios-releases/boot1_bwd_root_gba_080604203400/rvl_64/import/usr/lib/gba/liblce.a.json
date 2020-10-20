@@ -1,0 +1,76 @@
+{
+    "liblce.a": {
+        "modified": "2007-04-25 05:38:02",
+        "size": "3.32KB",
+        "md5": "fb5e7561b4f111535a4fcaa1f9c42be6",
+        "sha256": "6a376034297a0413ef07897485e956e514105d33c53899fd91b3beb5ae1601c5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'liblce.a'",
+            "lce-gba.o"
+        ],
+        "Content-Length": [
+            "210",
+            "3060"
+        ],
+        "Last-Modified": [
+            "2007-04-25T12:38:01Z",
+            "2007-04-25T12:38:01Z"
+        ],
+        "Last-Save-Date": [
+            "2007-04-25T12:38:01Z",
+            "2007-04-25T12:38:01Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/lce-gba.o"
+        ],
+        "date": [
+            "2007-04-25T12:38:01Z",
+            "2007-04-25T12:38:01Z"
+        ],
+        "dcterms:modified": [
+            "2007-04-25T12:38:01Z",
+            "2007-04-25T12:38:01Z"
+        ],
+        "meta:save-date": [
+            "2007-04-25T12:38:01Z",
+            "2007-04-25T12:38:01Z"
+        ],
+        "modified": [
+            "2007-04-25T12:38:01Z",
+            "2007-04-25T12:38:01Z"
+        ],
+        "embeddedRelationshipId": "lce-gba.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

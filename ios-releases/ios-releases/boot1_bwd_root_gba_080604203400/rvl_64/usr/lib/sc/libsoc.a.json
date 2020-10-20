@@ -1,0 +1,76 @@
+{
+    "libsoc.a": {
+        "modified": "2008-06-04 23:44:27",
+        "size": "9.89KB",
+        "md5": "0e3fcdc68058f37779658c1a49574199",
+        "sha256": "195d9d4e65d4cf3a33ac15c91aa0eb0bcaaaffa5b3c7c4340f557fa96a8c4f64"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libsoc.a'",
+            "soc.o"
+        ],
+        "Content-Length": [
+            "364",
+            "9640"
+        ],
+        "Last-Modified": [
+            "2008-06-05T06:44:26Z",
+            "2008-06-05T06:44:26Z"
+        ],
+        "Last-Save-Date": [
+            "2008-06-05T06:44:26Z",
+            "2008-06-05T06:44:26Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/soc.o"
+        ],
+        "date": [
+            "2008-06-05T06:44:26Z",
+            "2008-06-05T06:44:26Z"
+        ],
+        "dcterms:modified": [
+            "2008-06-05T06:44:26Z",
+            "2008-06-05T06:44:26Z"
+        ],
+        "meta:save-date": [
+            "2008-06-05T06:44:26Z",
+            "2008-06-05T06:44:26Z"
+        ],
+        "modified": [
+            "2008-06-05T06:44:26Z",
+            "2008-06-05T06:44:26Z"
+        ],
+        "embeddedRelationshipId": "soc.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

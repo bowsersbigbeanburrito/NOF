@@ -1,0 +1,95 @@
+{
+    "ohci1_2007-06-08.zip.svn-base": {
+        "modified": "2008-04-21 22:42:24",
+        "size": "31.06KB",
+        "md5": "791ea3de7661aaf212477995f8ed45f5",
+        "sha256": "8363d06e8d91e1659f804c67e6f734571cc32915515c26b12a9ed17c33bc588a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ohci1_2007-06-08.zip.svn-base'",
+            "rvl-64/ohci1.elf",
+            "rvl-128/ohci1.elf"
+        ],
+        "Content-Length": [
+            "67255",
+            "67255"
+        ],
+        "Last-Modified": [
+            "2007-06-09T01:34:19Z",
+            "2007-06-09T01:34:14Z"
+        ],
+        "Last-Save-Date": [
+            "2007-06-09T01:34:19Z",
+            "2007-06-09T01:34:14Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/ohci1.elf",
+            "/ohci1.elf"
+        ],
+        "date": [
+            "2007-06-09T01:34:19Z",
+            "2007-06-09T01:34:14Z"
+        ],
+        "dcterms:modified": [
+            "2007-06-09T01:34:19Z",
+            "2007-06-09T01:34:14Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-64/ohci1.elf",
+            "rvl-128/ohci1.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2007-06-09T01:34:19Z",
+            "2007-06-09T01:34:14Z"
+        ],
+        "modified": [
+            "2007-06-09T01:34:19Z",
+            "2007-06-09T01:34:14Z"
+        ]
+    }
+}

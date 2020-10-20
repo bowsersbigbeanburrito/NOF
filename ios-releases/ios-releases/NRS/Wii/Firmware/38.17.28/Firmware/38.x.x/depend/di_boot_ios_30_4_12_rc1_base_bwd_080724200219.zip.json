@@ -1,0 +1,95 @@
+{
+    "di_boot_ios_30_4_12_rc1_base_bwd_080724200219.zip": {
+        "modified": "2011-09-30 13:55:30",
+        "size": "52.01KB",
+        "md5": "86341a4c3a46bdf96ff5638fb8dcd5ce",
+        "sha256": "c5abe59b11572e53c5b1599f275ba508d3e89ad35cd8452ec519f8115c1dc300"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'di_boot_ios_30_4_12_rc1_base_bwd_080724200219.zip'",
+            "rvl-128/di_boot.elf",
+            "rvl-64/di_boot.elf"
+        ],
+        "Content-Length": [
+            "96132",
+            "96132"
+        ],
+        "Last-Modified": [
+            "2008-07-25T19:09:03Z",
+            "2008-07-25T18:39:34Z"
+        ],
+        "Last-Save-Date": [
+            "2008-07-25T19:09:03Z",
+            "2008-07-25T18:39:34Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/di_boot.elf",
+            "/di_boot.elf"
+        ],
+        "date": [
+            "2008-07-25T19:09:03Z",
+            "2008-07-25T18:39:34Z"
+        ],
+        "dcterms:modified": [
+            "2008-07-25T19:09:03Z",
+            "2008-07-25T18:39:34Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-128/di_boot.elf",
+            "rvl-64/di_boot.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2008-07-25T19:09:03Z",
+            "2008-07-25T18:39:34Z"
+        ],
+        "modified": [
+            "2008-07-25T19:09:03Z",
+            "2008-07-25T18:39:34Z"
+        ]
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "libagbir.a": {
+        "modified": "2005-07-16 01:43:19",
+        "size": "86.62KB",
+        "md5": "d20437972ffd686d351dc8abf2fbac0f",
+        "sha256": "2e7b481060958ff6193b8a0c6fcfd2f035c198435db7b923dec4c82b7e4b35dc"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "1",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libagbir.a'",
+            "irlib.o",
+            "irCommon.o",
+            "irThumblib.o",
+            "irArmCoreCopier.o",
+            "irArmlib.o"
+        ],
+        "Content-Length": [
+            "448",
+            "20884",
+            "17028",
+            "17076",
+            "14756",
+            "18064"
+        ],
+        "Last-Modified": [
+            "2001-03-29T09:30:39Z",
+            "2001-03-29T09:30:40Z",
+            "2001-03-29T09:30:28Z",
+            "2001-03-07T08:48:56Z",
+            "2001-03-07T08:49:20Z",
+            "2001-03-07T08:49:48Z"
+        ],
+        "Last-Save-Date": [
+            "2001-03-29T09:30:39Z",
+            "2001-03-29T09:30:40Z",
+            "2001-03-29T09:30:28Z",
+            "2001-03-07T08:48:56Z",
+            "2001-03-07T08:49:20Z",
+            "2001-03-07T08:49:48Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/irlib.o",
+            "/irCommon.o",
+            "/irThumblib.o",
+            "/irArmCoreCopier.o",
+            "/irArmlib.o"
+        ],
+        "date": [
+            "2001-03-29T09:30:39Z",
+            "2001-03-29T09:30:40Z",
+            "2001-03-29T09:30:28Z",
+            "2001-03-07T08:48:56Z",
+            "2001-03-07T08:49:20Z",
+            "2001-03-07T08:49:48Z"
+        ],
+        "dcterms:modified": [
+            "2001-03-29T09:30:39Z",
+            "2001-03-29T09:30:40Z",
+            "2001-03-29T09:30:28Z",
+            "2001-03-07T08:48:56Z",
+            "2001-03-07T08:49:20Z",
+            "2001-03-07T08:49:48Z"
+        ],
+        "meta:save-date": [
+            "2001-03-29T09:30:39Z",
+            "2001-03-29T09:30:40Z",
+            "2001-03-29T09:30:28Z",
+            "2001-03-07T08:48:56Z",
+            "2001-03-07T08:49:20Z",
+            "2001-03-07T08:49:48Z"
+        ],
+        "modified": [
+            "2001-03-29T09:30:39Z",
+            "2001-03-29T09:30:40Z",
+            "2001-03-29T09:30:28Z",
+            "2001-03-07T08:48:56Z",
+            "2001-03-07T08:49:20Z",
+            "2001-03-07T08:49:48Z"
+        ],
+        "embeddedRelationshipId": [
+            "irlib.o",
+            "irCommon.o",
+            "irThumblib.o",
+            "irArmCoreCopier.o",
+            "irArmlib.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

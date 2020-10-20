@@ -1,0 +1,22 @@
+{
+    "hashtest.elf": {
+        "modified": "2008-03-14 11:11:19",
+        "size": "75.75KB",
+        "md5": "2a4ddcf4720189242a77eabd1de74b3d",
+        "sha256": "6871ed9db1a022514d75652f257cefc017afedfd1f02808d8198de1f068d1435"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'hashtest.elf'"
+    }
+}

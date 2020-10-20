@@ -1,0 +1,22 @@
+{
+    "ehci_suspendresume.elf": {
+        "modified": "2009-05-05 11:12:41",
+        "size": "96.0KB",
+        "md5": "3920b6a77bd70d112c25ea5d4dd45ba7",
+        "sha256": "00ff6b9262fc1598c69c44461f48a3ee190949eea017908aae7f1c26a7aaa0e6"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'ehci_suspendresume.elf'"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "libtestutils.a": {
+        "modified": "2009-05-05 11:09:57",
+        "size": "1.85KB",
+        "md5": "0fb580d2581ae07db5d9e617a1de3e96",
+        "sha256": "05369baf68f97d92c05140f561a88f3dd2f24473c564bf2045cb8564902f451e"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libtestutils.a'",
+            "utils.o"
+        ],
+        "Content-Length": [
+            "66",
+            "1704"
+        ],
+        "Last-Modified": [
+            "2009-05-05T18:09:57Z",
+            "2009-05-05T18:09:57Z"
+        ],
+        "Last-Save-Date": [
+            "2009-05-05T18:09:57Z",
+            "2009-05-05T18:09:57Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/utils.o"
+        ],
+        "date": [
+            "2009-05-05T18:09:57Z",
+            "2009-05-05T18:09:57Z"
+        ],
+        "dcterms:modified": [
+            "2009-05-05T18:09:57Z",
+            "2009-05-05T18:09:57Z"
+        ],
+        "meta:save-date": [
+            "2009-05-05T18:09:57Z",
+            "2009-05-05T18:09:57Z"
+        ],
+        "modified": [
+            "2009-05-05T18:09:57Z",
+            "2009-05-05T18:09:57Z"
+        ],
+        "embeddedRelationshipId": "utils.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32"
+    }
+}

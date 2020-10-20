@@ -1,0 +1,22 @@
+{
+    "iob_tests.elf": {
+        "modified": "2010-03-03 10:42:00",
+        "size": "56.04KB",
+        "md5": "78d7ccf195515d3629189f14abacedcd",
+        "sha256": "d16f6b0ce63b0aa96dc915b6db3d7b9ee16fd9e2ab2255fcb4ab64da4cf321cb"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'iob_tests.elf'"
+    }
+}

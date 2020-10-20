@@ -1,0 +1,21 @@
+{
+    "size.txt": {
+        "modified": "2008-07-08 14:55:06",
+        "size": "0.61KB",
+        "md5": "b4376fbfd0c35b0c36e16ec4ddcd9f27",
+        "sha256": "455edc95c9bb6facb12659e047fbdae0ab76e9de062cdf27d97b6e9f63d075b4"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'size.txt'"
+    }
+}

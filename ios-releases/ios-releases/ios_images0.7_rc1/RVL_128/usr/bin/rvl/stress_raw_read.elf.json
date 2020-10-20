@@ -1,0 +1,22 @@
+{
+    "stress_raw_read.elf": {
+        "modified": "2006-05-07 13:47:34",
+        "size": "63.95KB",
+        "md5": "ac9399ffa8c1f205db33981146d10baa",
+        "sha256": "3e19f3e277cda768599be736440014b2bc4e539a526a7994ae23ffe3a2f161ff"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'stress_raw_read.elf'"
+    }
+}

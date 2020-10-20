@@ -1,0 +1,22 @@
+{
+    "boot1_sram1.o": {
+        "modified": "2008-12-24 13:51:54",
+        "size": "0.9KB",
+        "md5": "6a6ede2acf99a4fa0b31d5f00f70d7bd",
+        "sha256": "f083c6b7f0dcd4cd141fa3b90f51b8ad687ed2a115bb2949394c8f1796095aa4"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'boot1_sram1.o'"
+    }
+}

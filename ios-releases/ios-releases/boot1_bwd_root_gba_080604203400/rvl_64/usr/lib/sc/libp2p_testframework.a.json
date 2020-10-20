@@ -1,0 +1,149 @@
+{
+    "libp2p_testframework.a": {
+        "modified": "2008-03-06 16:24:21",
+        "size": "17.71KB",
+        "md5": "ae0fc7f55eecfc746da376407052ee85",
+        "sha256": "c4c2aab0acfcae3a577c502c2a89e48443ebf033c66dce86428472ec48935e52"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libp2p_testframework.a'",
+            "p2p_test_setup.o",
+            "p2p_test_invariant.o",
+            "p2p_test_environment.o",
+            "p2p_test_print.o"
+        ],
+        "Content-Length": [
+            "756",
+            "4880",
+            "3556",
+            "1540",
+            "6956"
+        ],
+        "Last-Modified": [
+            "2008-03-07T00:24:21Z",
+            "2008-03-07T00:24:20Z",
+            "2008-03-07T00:24:20Z",
+            "2008-03-07T00:15:25Z",
+            "2008-03-07T00:24:21Z"
+        ],
+        "Last-Save-Date": [
+            "2008-03-07T00:24:21Z",
+            "2008-03-07T00:24:20Z",
+            "2008-03-07T00:24:20Z",
+            "2008-03-07T00:15:25Z",
+            "2008-03-07T00:24:21Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/p2p_test_setup.o",
+            "/p2p_test_invariant.o",
+            "/p2p_test_environment.o",
+            "/p2p_test_print.o"
+        ],
+        "date": [
+            "2008-03-07T00:24:21Z",
+            "2008-03-07T00:24:20Z",
+            "2008-03-07T00:24:20Z",
+            "2008-03-07T00:15:25Z",
+            "2008-03-07T00:24:21Z"
+        ],
+        "dcterms:modified": [
+            "2008-03-07T00:24:21Z",
+            "2008-03-07T00:24:20Z",
+            "2008-03-07T00:24:20Z",
+            "2008-03-07T00:15:25Z",
+            "2008-03-07T00:24:21Z"
+        ],
+        "meta:save-date": [
+            "2008-03-07T00:24:21Z",
+            "2008-03-07T00:24:20Z",
+            "2008-03-07T00:24:20Z",
+            "2008-03-07T00:15:25Z",
+            "2008-03-07T00:24:21Z"
+        ],
+        "modified": [
+            "2008-03-07T00:24:21Z",
+            "2008-03-07T00:24:20Z",
+            "2008-03-07T00:24:20Z",
+            "2008-03-07T00:15:25Z",
+            "2008-03-07T00:24:21Z"
+        ],
+        "embeddedRelationshipId": [
+            "p2p_test_setup.o",
+            "p2p_test_invariant.o",
+            "p2p_test_environment.o",
+            "p2p_test_print.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

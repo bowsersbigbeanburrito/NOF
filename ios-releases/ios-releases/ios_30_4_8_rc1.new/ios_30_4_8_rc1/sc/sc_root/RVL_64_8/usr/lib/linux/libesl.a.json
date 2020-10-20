@@ -1,0 +1,123 @@
+{
+    "libesl.a": {
+        "modified": "2008-02-20 19:19:35",
+        "size": "13.13KB",
+        "md5": "2c31abefba0b323cbcb4217f35941ae3",
+        "sha256": "697b9d4a7a06b8adcfcd2e44945f1a9d83b6ac12d7d295f9473086120e8a7c9d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libesl.a'",
+            "cert.o",
+            "tmd.o",
+            "ticket.o"
+        ],
+        "Content-Length": [
+            "670",
+            "4516",
+            "5520",
+            "2488"
+        ],
+        "Last-Modified": [
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z"
+        ],
+        "Last-Save-Date": [
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/cert.o",
+            "/tmd.o",
+            "/ticket.o"
+        ],
+        "date": [
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z"
+        ],
+        "dcterms:modified": [
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z"
+        ],
+        "meta:save-date": [
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z"
+        ],
+        "modified": [
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z",
+            "2008-02-21T03:19:35Z"
+        ],
+        "embeddedRelationshipId": [
+            "cert.o",
+            "tmd.o",
+            "ticket.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

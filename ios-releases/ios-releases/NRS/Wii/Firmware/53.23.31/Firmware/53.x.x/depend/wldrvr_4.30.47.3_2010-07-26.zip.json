@@ -1,0 +1,95 @@
+{
+    "wldrvr_4.30.47.3_2010-07-26.zip": {
+        "modified": "2011-09-30 14:58:30",
+        "size": "513.92KB",
+        "md5": "cf79d63f024c617e0063dcdedca54b26",
+        "sha256": "324ea601a733117a9a99319175a58d99c26b5907aa8bec431162b577254bb876"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'wldrvr_4.30.47.3_2010-07-26.zip'",
+            "rvl-128/wldrvr.elf",
+            "rvl-64/wldrvr.elf"
+        ],
+        "Content-Length": [
+            "551710",
+            "551710"
+        ],
+        "Last-Modified": [
+            "2010-07-26T18:33:00Z",
+            "2010-07-26T18:34:14Z"
+        ],
+        "Last-Save-Date": [
+            "2010-07-26T18:33:00Z",
+            "2010-07-26T18:34:14Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/wldrvr.elf",
+            "/wldrvr.elf"
+        ],
+        "date": [
+            "2010-07-26T18:33:00Z",
+            "2010-07-26T18:34:14Z"
+        ],
+        "dcterms:modified": [
+            "2010-07-26T18:33:00Z",
+            "2010-07-26T18:34:14Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-128/wldrvr.elf",
+            "rvl-64/wldrvr.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2010-07-26T18:33:00Z",
+            "2010-07-26T18:34:14Z"
+        ],
+        "modified": [
+            "2010-07-26T18:33:00Z",
+            "2010-07-26T18:34:14Z"
+        ]
+    }
+}

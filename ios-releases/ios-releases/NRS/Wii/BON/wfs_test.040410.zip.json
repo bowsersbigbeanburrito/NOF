@@ -1,0 +1,352 @@
+{
+    "wfs_test.040410.zip": {
+        "modified": "2010-05-06 17:56:28",
+        "size": "10047.84KB",
+        "md5": "5b245e1614fae1f215a9d8e4e241e3a9",
+        "sha256": "c8966ce5069b0392875d0087d5141dc0d2f99c5bbabaa884baaeace4542979c3"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/plain; charset=ISO-8859-1",
+            "text/x-csrc; charset=windows-1252",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-csrc; charset=ISO-8859-1",
+            "text/x-csrc; charset=windows-1252",
+            "text/plain; charset=ISO-8859-1",
+            "text/x-sed; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "application/x-executable",
+            "application/x-executable",
+            "application/x-executable",
+            "application/x-doom",
+            "application/x-doom",
+            "application/x-doom"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "44",
+            "1",
+            "1",
+            "1",
+            "8",
+            "13",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'wfs_test.040410.zip'",
+            "Makefile.wfs",
+            "wfs_test.c",
+            "es_stream.c",
+            "es_stream_data.c",
+            "es_stream_wfs_data.c",
+            "cert_data.c",
+            "usb_wfs_test.c",
+            "phys.link",
+            "phys.sed",
+            "ddr.link",
+            "usb_wfs_test.elf",
+            "wfs_test.elf",
+            "wfs_test2.elf",
+            "firmware.128.245.1.2.wfs_test.wad",
+            "firmware.128.245.1.2.wfs_test2.wad",
+            "firmware.128.245.1.2.wfs_test_usb.wad"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "windows-1252",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "windows-1252",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "1101",
+            "18834",
+            "48828",
+            "1743525",
+            "2546636",
+            "22791",
+            "516",
+            "182",
+            "190",
+            "467",
+            "44172",
+            "785038",
+            "785038",
+            "2724608",
+            "2724608",
+            "2724608"
+        ],
+        "Last-Modified": [
+            "2010-04-04T23:28:26Z",
+            "2010-04-04T23:27:42Z",
+            "2010-04-04T23:57:16Z",
+            "2010-04-04T00:49:03Z",
+            "2010-04-04T00:11:21Z",
+            "2010-04-04T00:10:58Z",
+            "2010-04-04T23:20:10Z",
+            "2010-03-03T17:07:21Z",
+            "2010-03-03T00:44:18Z",
+            "2010-04-04T23:29:25Z",
+            "2010-04-04T23:57:25Z",
+            "2010-04-04T23:57:24Z",
+            "2010-04-04T23:57:24Z",
+            "2010-04-05T00:45:07Z",
+            "2010-04-05T00:45:07Z",
+            "2010-04-05T00:45:07Z"
+        ],
+        "Last-Save-Date": [
+            "2010-04-04T23:28:26Z",
+            "2010-04-04T23:27:42Z",
+            "2010-04-04T23:57:16Z",
+            "2010-04-04T00:49:03Z",
+            "2010-04-04T00:11:21Z",
+            "2010-04-04T00:10:58Z",
+            "2010-04-04T23:20:10Z",
+            "2010-03-03T17:07:21Z",
+            "2010-03-03T00:44:18Z",
+            "2010-04-04T23:29:25Z",
+            "2010-04-04T23:57:25Z",
+            "2010-04-04T23:57:24Z",
+            "2010-04-04T23:57:24Z",
+            "2010-04-05T00:45:07Z",
+            "2010-04-05T00:45:07Z",
+            "2010-04-05T00:45:07Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/Makefile.wfs",
+            "/wfs_test.c",
+            "/es_stream.c",
+            "/es_stream_data.c",
+            "/es_stream_wfs_data.c",
+            "/cert_data.c",
+            "/usb_wfs_test.c",
+            "/phys.link",
+            "/phys.sed",
+            "/ddr.link",
+            "/usb_wfs_test.elf",
+            "/wfs_test.elf",
+            "/wfs_test2.elf",
+            "/firmware.128.245.1.2.wfs_test.wad",
+            "/firmware.128.245.1.2.wfs_test2.wad",
+            "/firmware.128.245.1.2.wfs_test_usb.wad"
+        ],
+        "date": [
+            "2010-04-04T23:28:26Z",
+            "2010-04-04T23:27:42Z",
+            "2010-04-04T23:57:16Z",
+            "2010-04-04T00:49:03Z",
+            "2010-04-04T00:11:21Z",
+            "2010-04-04T00:10:58Z",
+            "2010-04-04T23:20:10Z",
+            "2010-03-03T17:07:21Z",
+            "2010-03-03T00:44:18Z",
+            "2010-04-04T23:29:25Z",
+            "2010-04-04T23:57:25Z",
+            "2010-04-04T23:57:24Z",
+            "2010-04-04T23:57:24Z",
+            "2010-04-05T00:45:07Z",
+            "2010-04-05T00:45:07Z",
+            "2010-04-05T00:45:07Z"
+        ],
+        "dcterms:modified": [
+            "2010-04-04T23:28:26Z",
+            "2010-04-04T23:27:42Z",
+            "2010-04-04T23:57:16Z",
+            "2010-04-04T00:49:03Z",
+            "2010-04-04T00:11:21Z",
+            "2010-04-04T00:10:58Z",
+            "2010-04-04T23:20:10Z",
+            "2010-03-03T17:07:21Z",
+            "2010-03-03T00:44:18Z",
+            "2010-04-04T23:29:25Z",
+            "2010-04-04T23:57:25Z",
+            "2010-04-04T23:57:24Z",
+            "2010-04-04T23:57:24Z",
+            "2010-04-05T00:45:07Z",
+            "2010-04-05T00:45:07Z",
+            "2010-04-05T00:45:07Z"
+        ],
+        "embeddedRelationshipId": [
+            "Makefile.wfs",
+            "wfs_test.c",
+            "es_stream.c",
+            "es_stream_data.c",
+            "es_stream_wfs_data.c",
+            "cert_data.c",
+            "usb_wfs_test.c",
+            "phys.link",
+            "phys.sed",
+            "ddr.link",
+            "usb_wfs_test.elf",
+            "wfs_test.elf",
+            "wfs_test2.elf",
+            "firmware.128.245.1.2.wfs_test.wad",
+            "firmware.128.245.1.2.wfs_test2.wad",
+            "firmware.128.245.1.2.wfs_test_usb.wad"
+        ],
+        "meta:save-date": [
+            "2010-04-04T23:28:26Z",
+            "2010-04-04T23:27:42Z",
+            "2010-04-04T23:57:16Z",
+            "2010-04-04T00:49:03Z",
+            "2010-04-04T00:11:21Z",
+            "2010-04-04T00:10:58Z",
+            "2010-04-04T23:20:10Z",
+            "2010-03-03T17:07:21Z",
+            "2010-03-03T00:44:18Z",
+            "2010-04-04T23:29:25Z",
+            "2010-04-04T23:57:25Z",
+            "2010-04-04T23:57:24Z",
+            "2010-04-04T23:57:24Z",
+            "2010-04-05T00:45:07Z",
+            "2010-04-05T00:45:07Z",
+            "2010-04-05T00:45:07Z"
+        ],
+        "modified": [
+            "2010-04-04T23:28:26Z",
+            "2010-04-04T23:27:42Z",
+            "2010-04-04T23:57:16Z",
+            "2010-04-04T00:49:03Z",
+            "2010-04-04T00:11:21Z",
+            "2010-04-04T00:10:58Z",
+            "2010-04-04T23:20:10Z",
+            "2010-03-03T17:07:21Z",
+            "2010-03-03T00:44:18Z",
+            "2010-04-04T23:29:25Z",
+            "2010-04-04T23:57:25Z",
+            "2010-04-04T23:57:24Z",
+            "2010-04-04T23:57:24Z",
+            "2010-04-05T00:45:07Z",
+            "2010-04-05T00:45:07Z",
+            "2010-04-05T00:45:07Z"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

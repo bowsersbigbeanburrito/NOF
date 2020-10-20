@@ -1,0 +1,95 @@
+{
+    "kd_2007-11-15.zip": {
+        "modified": "2011-09-30 13:55:30",
+        "size": "555.72KB",
+        "md5": "0e7295e5c974d3573beaf0b4048cd26e",
+        "sha256": "4f0082e99e1266395ce1825b1cd817994b76e807772321ba3f071b54ba23ad24"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'kd_2007-11-15.zip'",
+            "rvl-64/kd.elf",
+            "rvl-128/kd.elf"
+        ],
+        "Content-Length": [
+            "581456",
+            "581456"
+        ],
+        "Last-Modified": [
+            "2007-11-20T05:32:53Z",
+            "2007-11-20T05:32:53Z"
+        ],
+        "Last-Save-Date": [
+            "2007-11-20T05:32:53Z",
+            "2007-11-20T05:32:53Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/kd.elf",
+            "/kd.elf"
+        ],
+        "date": [
+            "2007-11-20T05:32:53Z",
+            "2007-11-20T05:32:53Z"
+        ],
+        "dcterms:modified": [
+            "2007-11-20T05:32:53Z",
+            "2007-11-20T05:32:53Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-64/kd.elf",
+            "rvl-128/kd.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2007-11-20T05:32:53Z",
+            "2007-11-20T05:32:53Z"
+        ],
+        "modified": [
+            "2007-11-20T05:32:53Z",
+            "2007-11-20T05:32:53Z"
+        ]
+    }
+}

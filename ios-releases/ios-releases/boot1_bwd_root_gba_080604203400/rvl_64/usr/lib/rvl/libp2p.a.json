@@ -1,0 +1,128 @@
+{
+    "libp2p.a": {
+        "modified": "2008-06-04 23:46:36",
+        "size": "20.82KB",
+        "md5": "0d92daa5e854add16b063fbe6254785d",
+        "sha256": "38422e1404657f73e110e090fd05d4a8042886b719d369801e7bf6dbba16ad85"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libp2p.a'",
+            "p2p_s.o",
+            "p2p.o",
+            "voice.o"
+        ],
+        "Content-Length": [
+            "1388",
+            "936",
+            "14944",
+            "3808"
+        ],
+        "Last-Modified": [
+            "2008-06-05T06:45:42Z",
+            "2008-06-05T06:45:41Z",
+            "2008-06-05T06:45:41Z",
+            "2008-06-05T06:45:42Z"
+        ],
+        "Last-Save-Date": [
+            "2008-06-05T06:45:42Z",
+            "2008-06-05T06:45:41Z",
+            "2008-06-05T06:45:41Z",
+            "2008-06-05T06:45:42Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/p2p_s.o",
+            "/p2p.o",
+            "/voice.o"
+        ],
+        "date": [
+            "2008-06-05T06:45:42Z",
+            "2008-06-05T06:45:41Z",
+            "2008-06-05T06:45:41Z",
+            "2008-06-05T06:45:42Z"
+        ],
+        "dcterms:modified": [
+            "2008-06-05T06:45:42Z",
+            "2008-06-05T06:45:41Z",
+            "2008-06-05T06:45:41Z",
+            "2008-06-05T06:45:42Z"
+        ],
+        "meta:save-date": [
+            "2008-06-05T06:45:42Z",
+            "2008-06-05T06:45:41Z",
+            "2008-06-05T06:45:41Z",
+            "2008-06-05T06:45:42Z"
+        ],
+        "modified": [
+            "2008-06-05T06:45:42Z",
+            "2008-06-05T06:45:41Z",
+            "2008-06-05T06:45:41Z",
+            "2008-06-05T06:45:42Z"
+        ],
+        "embeddedRelationshipId": [
+            "p2p_s.o",
+            "p2p.o",
+            "voice.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

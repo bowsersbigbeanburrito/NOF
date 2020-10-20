@@ -1,0 +1,22 @@
+{
+    "boot2_ios.elf": {
+        "modified": "2009-06-03 03:20:08",
+        "size": "190.21KB",
+        "md5": "3d5422f4a7c125fbe3d5e78d839240c5",
+        "sha256": "bd121a5728e2af04d8b25cc91de366fb6a809c787eb2a03b9d26e4ef501174a3"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'boot2_ios.elf'"
+    }
+}

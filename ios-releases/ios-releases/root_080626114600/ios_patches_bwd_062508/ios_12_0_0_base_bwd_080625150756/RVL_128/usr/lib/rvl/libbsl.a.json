@@ -1,0 +1,170 @@
+{
+    "libbsl.a": {
+        "modified": "2008-06-25 15:11:10",
+        "size": "20.87KB",
+        "md5": "dfc098a4b73a14534f219696bda8d033",
+        "sha256": "59c515e21972ddf3149a107505ef9ce30d1b51cbf5c97544270e9c9b50e3b762"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libbsl.a'",
+            "keystore.o",
+            "bslutils.o",
+            "bsl.o",
+            "prng.o",
+            "keyglobals.o"
+        ],
+        "Content-Length": [
+            "1024",
+            "4056",
+            "1444",
+            "10108",
+            "740",
+            "3630"
+        ],
+        "Last-Modified": [
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:08Z",
+            "2008-06-25T22:11:08Z",
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:09Z"
+        ],
+        "Last-Save-Date": [
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:08Z",
+            "2008-06-25T22:11:08Z",
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:09Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/keystore.o",
+            "/bslutils.o",
+            "/bsl.o",
+            "/prng.o",
+            "/keyglobals.o"
+        ],
+        "date": [
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:08Z",
+            "2008-06-25T22:11:08Z",
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:09Z"
+        ],
+        "dcterms:modified": [
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:08Z",
+            "2008-06-25T22:11:08Z",
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:09Z"
+        ],
+        "meta:save-date": [
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:08Z",
+            "2008-06-25T22:11:08Z",
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:09Z"
+        ],
+        "modified": [
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:08Z",
+            "2008-06-25T22:11:08Z",
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:09Z",
+            "2008-06-25T22:11:09Z"
+        ],
+        "embeddedRelationshipId": [
+            "keystore.o",
+            "bslutils.o",
+            "bsl.o",
+            "prng.o",
+            "keyglobals.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

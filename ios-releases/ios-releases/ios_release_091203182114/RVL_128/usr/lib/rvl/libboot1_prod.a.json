@@ -1,0 +1,76 @@
+{
+    "libboot1_prod.a": {
+        "modified": "2009-12-04 17:20:57",
+        "size": "3.66KB",
+        "md5": "591abaf594d3413925da6d246fb5dbf9",
+        "sha256": "1bbbbb82687bf5a7fa0921b356652a414492904b37d379ee4a17a6c379772ae6"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libboot1_prod.a'",
+            "boot1_verify_prod.o"
+        ],
+        "Content-Length": [
+            "22",
+            "3520"
+        ],
+        "Last-Modified": [
+            "2009-12-04T02:53:24Z",
+            "2009-12-04T02:53:24Z"
+        ],
+        "Last-Save-Date": [
+            "2009-12-04T02:53:24Z",
+            "2009-12-04T02:53:24Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/boot1_verify_prod.o"
+        ],
+        "date": [
+            "2009-12-04T02:53:24Z",
+            "2009-12-04T02:53:24Z"
+        ],
+        "dcterms:modified": [
+            "2009-12-04T02:53:24Z",
+            "2009-12-04T02:53:24Z"
+        ],
+        "meta:save-date": [
+            "2009-12-04T02:53:24Z",
+            "2009-12-04T02:53:24Z"
+        ],
+        "modified": [
+            "2009-12-04T02:53:24Z",
+            "2009-12-04T02:53:24Z"
+        ],
+        "embeddedRelationshipId": "boot1_verify_prod.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

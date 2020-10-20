@@ -1,0 +1,128 @@
+{
+    "libyosbgbmp.a": {
+        "modified": "2005-02-14 16:57:26",
+        "size": "90.28KB",
+        "md5": "a6e6d2bcbd8c5a1f63cec52e2c043c1e",
+        "sha256": "df9daec27883b25dbf136d2de81d4f8699a173ebe9cdb5f9698662206dacc883"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libyosbgbmp.a'",
+            "bg1.o",
+            "bg2.o",
+            "bg3.o"
+        ],
+        "Content-Length": [
+            "142",
+            "36792",
+            "31532",
+            "23728"
+        ],
+        "Last-Modified": [
+            "2000-06-15T01:33:31Z",
+            "2000-06-15T01:33:26Z",
+            "2000-06-15T01:33:30Z",
+            "2000-06-15T01:33:32Z"
+        ],
+        "Last-Save-Date": [
+            "2000-06-15T01:33:31Z",
+            "2000-06-15T01:33:26Z",
+            "2000-06-15T01:33:30Z",
+            "2000-06-15T01:33:32Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/bg1.o",
+            "/bg2.o",
+            "/bg3.o"
+        ],
+        "date": [
+            "2000-06-15T01:33:31Z",
+            "2000-06-15T01:33:26Z",
+            "2000-06-15T01:33:30Z",
+            "2000-06-15T01:33:32Z"
+        ],
+        "dcterms:modified": [
+            "2000-06-15T01:33:31Z",
+            "2000-06-15T01:33:26Z",
+            "2000-06-15T01:33:30Z",
+            "2000-06-15T01:33:32Z"
+        ],
+        "meta:save-date": [
+            "2000-06-15T01:33:31Z",
+            "2000-06-15T01:33:26Z",
+            "2000-06-15T01:33:30Z",
+            "2000-06-15T01:33:32Z"
+        ],
+        "modified": [
+            "2000-06-15T01:33:31Z",
+            "2000-06-15T01:33:26Z",
+            "2000-06-15T01:33:30Z",
+            "2000-06-15T01:33:32Z"
+        ],
+        "embeddedRelationshipId": [
+            "bg1.o",
+            "bg2.o",
+            "bg3.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

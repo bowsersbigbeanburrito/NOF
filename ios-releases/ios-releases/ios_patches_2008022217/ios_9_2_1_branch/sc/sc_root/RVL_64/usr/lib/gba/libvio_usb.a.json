@@ -1,0 +1,107 @@
+{
+    "libvio_usb.a": {
+        "modified": "2008-02-22 18:53:36",
+        "size": "6.11KB",
+        "md5": "b9e99c07ae61369b9e9a46944fbc4672",
+        "sha256": "16a882f03db8cb70e17a0f57435a4b1539be850f71f21fb60bd96c31ba2f442f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libvio_usb.a'",
+            "vio_usb.o",
+            "semihost_usb.o"
+        ],
+        "Content-Length": [
+            "306",
+            "1208",
+            "4552"
+        ],
+        "Last-Modified": [
+            "2008-02-23T02:53:36Z",
+            "2008-02-23T02:53:36Z",
+            "2008-02-23T02:53:36Z"
+        ],
+        "Last-Save-Date": [
+            "2008-02-23T02:53:36Z",
+            "2008-02-23T02:53:36Z",
+            "2008-02-23T02:53:36Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/vio_usb.o",
+            "/semihost_usb.o"
+        ],
+        "date": [
+            "2008-02-23T02:53:36Z",
+            "2008-02-23T02:53:36Z",
+            "2008-02-23T02:53:36Z"
+        ],
+        "dcterms:modified": [
+            "2008-02-23T02:53:36Z",
+            "2008-02-23T02:53:36Z",
+            "2008-02-23T02:53:36Z"
+        ],
+        "meta:save-date": [
+            "2008-02-23T02:53:36Z",
+            "2008-02-23T02:53:36Z",
+            "2008-02-23T02:53:36Z"
+        ],
+        "modified": [
+            "2008-02-23T02:53:36Z",
+            "2008-02-23T02:53:36Z",
+            "2008-02-23T02:53:36Z"
+        ],
+        "embeddedRelationshipId": [
+            "vio_usb.o",
+            "semihost_usb.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

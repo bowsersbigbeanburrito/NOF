@@ -1,0 +1,397 @@
+{
+    "SRR_20081126.zip": {
+        "modified": "2008-11-26 18:46:24",
+        "size": "141.62KB",
+        "md5": "cfea8dc8142056416fbe45f7d09ce23f",
+        "sha256": "c59288335e488f658296c9601a6ab93885896b4af1a34d4f1882cfb8795f95d8"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/msword",
+            "application/pdf",
+            "application/msword",
+            "application/msword",
+            "application/vnd.ms-excel"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.pdf.PDFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "665",
+            "21",
+            "548",
+            "63",
+            "16",
+            "11"
+        ],
+        "resourceName": [
+            "b'SRR_20081126.zip'",
+            "SDCard_API.doc",
+            "SRR_IOS_release_20081126.pdf",
+            "sffs.doc",
+            "WiiMenu4-Changes.doc",
+            "SDPeformance.xls"
+        ],
+        "Application-Name": [
+            "Microsoft Office Word",
+            "Microsoft Office Word",
+            "Microsoft Office Word",
+            "Microsoft Excel"
+        ],
+        "Author": [
+            "BroadOn Communications Corp.",
+            "cnguyen",
+            "Rob Wheeler",
+            "Sanjay Hortikar",
+            "Sanjay Hortikar"
+        ],
+        "Character Count": [
+            "11516",
+            "67607",
+            "17226"
+        ],
+        "Comments": [
+            "",
+            ""
+        ],
+        "Company": [
+            "Self",
+            "",
+            "",
+            ""
+        ],
+        "Content-Length": [
+            "79360",
+            "50273",
+            "258560",
+            "102912",
+            "23552"
+        ],
+        "Creation-Date": [
+            "2008-11-26T20:16:00Z",
+            "2008-11-27T02:12:04Z",
+            "2008-11-25T22:20:00Z",
+            "2008-11-26T19:53:00Z",
+            "2008-11-22T21:37:14Z"
+        ],
+        "Keywords": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Last-Author": [
+            "Sanjay Hortikar",
+            " ",
+            " ",
+            "Sanjay Hortikar"
+        ],
+        "Last-Modified": [
+            "2008-11-26T20:16:00Z",
+            "2008-11-26T18:12:04Z",
+            "2008-11-25T22:50:00Z",
+            "2008-11-27T02:22:00Z",
+            "2008-11-26T22:12:05Z"
+        ],
+        "Last-Printed": [
+            "2008-10-01T19:16:00Z",
+            "2005-08-03T21:29:00Z",
+            "2008-11-08T00:15:00Z"
+        ],
+        "Last-Save-Date": [
+            "2008-11-26T20:16:00Z",
+            "2008-11-26T18:12:04Z",
+            "2008-11-25T22:50:00Z",
+            "2008-11-27T02:22:00Z",
+            "2008-11-26T22:12:05Z"
+        ],
+        "Page-Count": [
+            "16",
+            "64",
+            "1"
+        ],
+        "Revision-Number": [
+            "2",
+            "9",
+            "9"
+        ],
+        "Template": [
+            "Normal",
+            "Manual",
+            "Normal.dot"
+        ],
+        "Word-Count": [
+            "2020",
+            "11860",
+            "3021"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/SDCard_API.doc",
+            "/SRR_IOS_release_20081126.pdf",
+            "/sffs.doc",
+            "/WiiMenu4-Changes.doc",
+            "/SDPeformance.xls"
+        ],
+        "comment": [
+            "",
+            ""
+        ],
+        "cp:revision": [
+            "2",
+            "9",
+            "9"
+        ],
+        "cp:subject": [
+            "IOP OS USB Core API",
+            "",
+            "",
+            ""
+        ],
+        "creator": [
+            "BroadOn Communications Corp.",
+            "cnguyen",
+            "Rob Wheeler",
+            "Sanjay Hortikar",
+            "Sanjay Hortikar"
+        ],
+        "date": [
+            "2008-11-26T20:16:00Z",
+            "2008-11-26T18:12:04Z",
+            "2008-11-25T22:50:00Z",
+            "2008-11-27T02:22:00Z",
+            "2008-11-26T22:12:05Z"
+        ],
+        "dc:creator": [
+            "BroadOn Communications Corp.",
+            "cnguyen",
+            "Rob Wheeler",
+            "Sanjay Hortikar",
+            "Sanjay Hortikar"
+        ],
+        "dc:subject": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "dc:title": [
+            "IOP OS USB Core API",
+            "http://intwww/wiki/index.php/IOS_release.20081126",
+            "Kernel Services",
+            "BroadOn Client Software"
+        ],
+        "dcterms:created": [
+            "2008-11-26T20:16:00Z",
+            "2008-11-27T02:12:04Z",
+            "2008-11-25T22:20:00Z",
+            "2008-11-26T19:53:00Z",
+            "2008-11-22T21:37:14Z"
+        ],
+        "dcterms:modified": [
+            "2008-11-26T20:16:00Z",
+            "2008-11-26T18:12:04Z",
+            "2008-11-25T22:50:00Z",
+            "2008-11-27T02:22:00Z",
+            "2008-11-26T22:12:05Z"
+        ],
+        "embeddedRelationshipId": [
+            "SDCard_API.doc",
+            "SRR_IOS_release_20081126.pdf",
+            "sffs.doc",
+            "WiiMenu4-Changes.doc",
+            "SDPeformance.xls"
+        ],
+        "extended-properties:Application": [
+            "Microsoft Office Word",
+            "Microsoft Office Word",
+            "Microsoft Office Word",
+            "Microsoft Excel"
+        ],
+        "extended-properties:Company": [
+            "Self",
+            "",
+            "",
+            ""
+        ],
+        "extended-properties:Template": [
+            "Normal",
+            "Manual",
+            "Normal.dot"
+        ],
+        "meta:author": [
+            "BroadOn Communications Corp.",
+            "cnguyen",
+            "Rob Wheeler",
+            "Sanjay Hortikar",
+            "Sanjay Hortikar"
+        ],
+        "meta:character-count": [
+            "11516",
+            "67607",
+            "17226"
+        ],
+        "meta:creation-date": [
+            "2008-11-26T20:16:00Z",
+            "2008-11-27T02:12:04Z",
+            "2008-11-25T22:20:00Z",
+            "2008-11-26T19:53:00Z",
+            "2008-11-22T21:37:14Z"
+        ],
+        "meta:keyword": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "meta:last-author": [
+            "Sanjay Hortikar",
+            " ",
+            " ",
+            "Sanjay Hortikar"
+        ],
+        "meta:page-count": [
+            "16",
+            "64",
+            "1"
+        ],
+        "meta:print-date": [
+            "2008-10-01T19:16:00Z",
+            "2005-08-03T21:29:00Z",
+            "2008-11-08T00:15:00Z"
+        ],
+        "meta:save-date": [
+            "2008-11-26T20:16:00Z",
+            "2008-11-26T18:12:04Z",
+            "2008-11-25T22:50:00Z",
+            "2008-11-27T02:22:00Z",
+            "2008-11-26T22:12:05Z"
+        ],
+        "meta:word-count": [
+            "2020",
+            "11860",
+            "3021"
+        ],
+        "modified": [
+            "2008-11-26T20:16:00Z",
+            "2008-11-26T18:12:04Z",
+            "2008-11-25T22:50:00Z",
+            "2008-11-27T02:22:00Z",
+            "2008-11-26T22:12:05Z"
+        ],
+        "subject": [
+            "IOP OS USB Core API",
+            "",
+            "",
+            ""
+        ],
+        "title": [
+            "IOP OS USB Core API",
+            "http://intwww/wiki/index.php/IOS_release.20081126",
+            "Kernel Services",
+            "BroadOn Client Software"
+        ],
+        "w:comments": [
+            "",
+            ""
+        ],
+        "xmpTPg:NPages": [
+            "16",
+            "9",
+            "64",
+            "1"
+        ],
+        "access_permission:assemble_document": "true",
+        "access_permission:can_modify": "true",
+        "access_permission:can_print": "true",
+        "access_permission:can_print_degraded": "true",
+        "access_permission:extract_content": "true",
+        "access_permission:extract_for_accessibility": "true",
+        "access_permission:fill_in_form": "true",
+        "access_permission:modify_annotations": "true",
+        "created": "2008-11-27T02:12:04Z",
+        "dc:format": "application/pdf; version=1.4",
+        "pdf:PDFVersion": "1.4",
+        "pdf:charsPerPage": [
+            "1612",
+            "2121",
+            "2356",
+            "2083",
+            "2382",
+            "2300",
+            "2045",
+            "1842",
+            "1495"
+        ],
+        "pdf:docinfo:created": "2008-11-27T02:12:04Z",
+        "pdf:docinfo:creator": "cnguyen",
+        "pdf:docinfo:creator_tool": "PDFCreator Version 0.9.3",
+        "pdf:docinfo:keywords": "",
+        "pdf:docinfo:modified": "2008-11-26T18:12:04Z",
+        "pdf:docinfo:producer": "GPL Ghostscript 8.54",
+        "pdf:docinfo:subject": "",
+        "pdf:docinfo:title": "http://intwww/wiki/index.php/IOS_release.20081126",
+        "pdf:encrypted": "false",
+        "pdf:hasMarkedContent": "false",
+        "pdf:hasXFA": "false",
+        "pdf:hasXMP": "true",
+        "pdf:unmappedUnicodeCharsPerPage": [
+            "22",
+            "28",
+            "35",
+            "38",
+            "32",
+            "30",
+            "39",
+            "31",
+            "22"
+        ],
+        "producer": "GPL Ghostscript 8.54",
+        "xmp:CreatorTool": "PDFCreator Version 0.9.3",
+        "xmpMM:DocumentID": "5605290f-be84-11dd-0000-97de0710afed",
+        "Edit-Time": [
+            "16800000000",
+            "18000000000"
+        ],
+        "custom:LCID": "1033",
+        "custom:UseDefaultLanguage": "true",
+        "custom:Version": "99022200"
+    }
+}

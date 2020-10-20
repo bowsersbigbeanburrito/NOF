@@ -1,0 +1,76 @@
+{
+    "libdi_prod.a": {
+        "modified": "2008-01-23 15:40:12",
+        "size": "16.2KB",
+        "md5": "022a3ddc70db7a8ac61a170b4f0bc8ba",
+        "sha256": "4350b0d24fac1a2fdbc04c7ae56ae54f161ce6077a9a7fe57c4a074821ea88ba"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libdi_prod.a'",
+            "dvd_low_rvl_prod.o"
+        ],
+        "Content-Length": [
+            "524",
+            "15852"
+        ],
+        "Last-Modified": [
+            "2008-01-23T23:36:04Z",
+            "2008-01-23T23:36:03Z"
+        ],
+        "Last-Save-Date": [
+            "2008-01-23T23:36:04Z",
+            "2008-01-23T23:36:03Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/dvd_low_rvl_prod.o"
+        ],
+        "date": [
+            "2008-01-23T23:36:04Z",
+            "2008-01-23T23:36:03Z"
+        ],
+        "dcterms:modified": [
+            "2008-01-23T23:36:04Z",
+            "2008-01-23T23:36:03Z"
+        ],
+        "meta:save-date": [
+            "2008-01-23T23:36:04Z",
+            "2008-01-23T23:36:03Z"
+        ],
+        "modified": [
+            "2008-01-23T23:36:04Z",
+            "2008-01-23T23:36:03Z"
+        ],
+        "embeddedRelationshipId": "dvd_low_rvl_prod.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

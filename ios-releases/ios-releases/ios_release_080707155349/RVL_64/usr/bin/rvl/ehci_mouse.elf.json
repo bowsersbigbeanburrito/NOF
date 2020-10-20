@@ -1,0 +1,22 @@
+{
+    "ehci_mouse.elf": {
+        "modified": "2008-07-07 16:01:00",
+        "size": "96.08KB",
+        "md5": "f7f558ff32815fe7f263ee7932732e31",
+        "sha256": "84ab80b76a101b831a4e3c1c69cef49a31d14d064e69f5e65f2db6d975f0b78a"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'ehci_mouse.elf'"
+    }
+}

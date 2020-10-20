@@ -1,0 +1,149 @@
+{
+    "libbsl.a": {
+        "modified": "2006-08-09 12:44:51",
+        "size": "17.96KB",
+        "md5": "9007396914d3bdd6c7044b7d34155d2c",
+        "sha256": "9e921a70243c04da51e1a7e397055ceef077854ca07e69c6e51e8ea04b04d3ab"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libbsl.a'",
+            "keystore.o",
+            "bslutils.o",
+            "bsl.o",
+            "prng.o"
+        ],
+        "Content-Length": [
+            "1118",
+            "3996",
+            "1668",
+            "10564",
+            "740"
+        ],
+        "Last-Modified": [
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z"
+        ],
+        "Last-Save-Date": [
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/keystore.o",
+            "/bslutils.o",
+            "/bsl.o",
+            "/prng.o"
+        ],
+        "date": [
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z"
+        ],
+        "dcterms:modified": [
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z"
+        ],
+        "meta:save-date": [
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z"
+        ],
+        "modified": [
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z",
+            "2006-08-09T19:44:51Z"
+        ],
+        "embeddedRelationshipId": [
+            "keystore.o",
+            "bslutils.o",
+            "bsl.o",
+            "prng.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

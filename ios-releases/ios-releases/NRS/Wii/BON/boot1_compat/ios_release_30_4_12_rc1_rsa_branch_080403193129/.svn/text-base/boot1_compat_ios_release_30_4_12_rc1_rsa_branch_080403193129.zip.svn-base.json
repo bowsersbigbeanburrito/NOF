@@ -1,0 +1,94 @@
+{
+    "boot1_compat_ios_release_30_4_12_rc1_rsa_branch_080403193129.zip.svn-base": {
+        "modified": "2008-04-21 22:38:38",
+        "size": "38.33KB",
+        "md5": "bd9d567c457f2df879c191616ecc33ae",
+        "sha256": "b8d9168947b80d2bcf7b49e7ad539a06217ae0e65852fc0ca3ed542c93e0d8ac"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/octet-stream",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'boot1_compat_ios_release_30_4_12_rc1_rsa_branch_080403193129.zip.svn-base'",
+            "rvl-128/boot1_compat.elf",
+            "rvl-128/boot1_compat.img",
+            "rvl-64/boot1_compat.img"
+        ],
+        "Content-Length": [
+            "60632",
+            "17808",
+            "17808"
+        ],
+        "Last-Modified": [
+            "2008-04-04T02:37:06Z",
+            "2008-04-04T02:37:06Z",
+            "2008-04-04T02:38:35Z"
+        ],
+        "Last-Save-Date": [
+            "2008-04-04T02:37:06Z",
+            "2008-04-04T02:37:06Z",
+            "2008-04-04T02:38:35Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/boot1_compat.elf",
+            "/boot1_compat.img",
+            "/boot1_compat.img"
+        ],
+        "date": [
+            "2008-04-04T02:37:06Z",
+            "2008-04-04T02:37:06Z",
+            "2008-04-04T02:38:35Z"
+        ],
+        "dcterms:modified": [
+            "2008-04-04T02:37:06Z",
+            "2008-04-04T02:37:06Z",
+            "2008-04-04T02:38:35Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-128/boot1_compat.elf",
+            "rvl-128/boot1_compat.img",
+            "rvl-64/boot1_compat.img"
+        ],
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "meta:save-date": [
+            "2008-04-04T02:37:06Z",
+            "2008-04-04T02:37:06Z",
+            "2008-04-04T02:38:35Z"
+        ],
+        "modified": [
+            "2008-04-04T02:37:06Z",
+            "2008-04-04T02:37:06Z",
+            "2008-04-04T02:38:35Z"
+        ]
+    }
+}

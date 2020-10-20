@@ -1,0 +1,22 @@
+{
+    "ehci_bms_rdwr_verify_4M.elf": {
+        "modified": "2008-06-26 14:46:24",
+        "size": "96.53KB",
+        "md5": "cc7b68e4d1587f4422a17d087d4b412b",
+        "sha256": "dac1a283029407de29abda049f3b9a74997332af5b701b9a4bedb9bd375f685f"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'ehci_bms_rdwr_verify_4M.elf'"
+    }
+}

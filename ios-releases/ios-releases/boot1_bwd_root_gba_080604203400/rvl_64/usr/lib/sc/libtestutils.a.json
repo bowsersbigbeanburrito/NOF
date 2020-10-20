@@ -1,0 +1,76 @@
+{
+    "libtestutils.a": {
+        "modified": "2008-06-04 23:44:28",
+        "size": "1.8KB",
+        "md5": "e977696bceb401a662cc8ce0dc32f88e",
+        "sha256": "c9b51c20d9e3cd43abe78d10397c837f778a7372962e7da60db1bf0b942780dd"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libtestutils.a'",
+            "utils.o"
+        ],
+        "Content-Length": [
+            "66",
+            "1652"
+        ],
+        "Last-Modified": [
+            "2008-06-05T06:44:28Z",
+            "2008-06-05T06:44:28Z"
+        ],
+        "Last-Save-Date": [
+            "2008-06-05T06:44:28Z",
+            "2008-06-05T06:44:28Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/utils.o"
+        ],
+        "date": [
+            "2008-06-05T06:44:28Z",
+            "2008-06-05T06:44:28Z"
+        ],
+        "dcterms:modified": [
+            "2008-06-05T06:44:28Z",
+            "2008-06-05T06:44:28Z"
+        ],
+        "meta:save-date": [
+            "2008-06-05T06:44:28Z",
+            "2008-06-05T06:44:28Z"
+        ],
+        "modified": [
+            "2008-06-05T06:44:28Z",
+            "2008-06-05T06:44:28Z"
+        ],
+        "embeddedRelationshipId": "utils.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "libshr.a": {
+        "modified": "2008-02-20 19:09:06",
+        "size": "23.06KB",
+        "md5": "f765d21f076a5b8c30b1a0f8d3c300f3",
+        "sha256": "f936b1d82955601f9d1070448b9ac3246db90c324ec49a3e9fff7fff6e1e84dd"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libshr.a'",
+            "shr_getopt.o",
+            "shr_mem.o",
+            "shr_plat_linux.o",
+            "shr_th_linux.o",
+            "shr_trace.o"
+        ],
+        "Content-Length": [
+            "866",
+            "3864",
+            "4552",
+            "658",
+            "3636",
+            "9588"
+        ],
+        "Last-Modified": [
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z"
+        ],
+        "Last-Save-Date": [
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/shr_getopt.o",
+            "/shr_mem.o",
+            "/shr_plat_linux.o",
+            "/shr_th_linux.o",
+            "/shr_trace.o"
+        ],
+        "date": [
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z"
+        ],
+        "dcterms:modified": [
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z"
+        ],
+        "meta:save-date": [
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z"
+        ],
+        "modified": [
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z",
+            "2008-02-21T03:09:05Z"
+        ],
+        "embeddedRelationshipId": [
+            "shr_getopt.o",
+            "shr_mem.o",
+            "shr_plat_linux.o",
+            "shr_th_linux.o",
+            "shr_trace.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

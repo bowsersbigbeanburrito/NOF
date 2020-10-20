@@ -1,0 +1,95 @@
+{
+    "fs_fast_2007-06-08.zip": {
+        "modified": "2008-04-01 15:42:30",
+        "size": "51.23KB",
+        "md5": "78fac5cb9b53f5edcbc7e8166c646351",
+        "sha256": "0bf48ff193d42d79c08cfc711406e21edc477acade249ef823f61ef0da71dc16"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'fs_fast_2007-06-08.zip'",
+            "rvl-64/fs_fast.elf",
+            "rvl-128/fs_fast.elf"
+        ],
+        "Content-Length": [
+            "87672",
+            "87672"
+        ],
+        "Last-Modified": [
+            "2007-06-09T01:38:00Z",
+            "2007-06-09T01:37:53Z"
+        ],
+        "Last-Save-Date": [
+            "2007-06-09T01:38:00Z",
+            "2007-06-09T01:37:53Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/fs_fast.elf",
+            "/fs_fast.elf"
+        ],
+        "date": [
+            "2007-06-09T01:38:00Z",
+            "2007-06-09T01:37:53Z"
+        ],
+        "dcterms:modified": [
+            "2007-06-09T01:38:00Z",
+            "2007-06-09T01:37:53Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-64/fs_fast.elf",
+            "rvl-128/fs_fast.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2007-06-09T01:38:00Z",
+            "2007-06-09T01:37:53Z"
+        ],
+        "modified": [
+            "2007-06-09T01:38:00Z",
+            "2007-06-09T01:37:53Z"
+        ]
+    }
+}

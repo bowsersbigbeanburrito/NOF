@@ -1,0 +1,149 @@
+{
+    "libp2pservicesmodules.a": {
+        "modified": "2008-06-04 23:46:36",
+        "size": "6.12KB",
+        "md5": "159021ff5728d68b26c99919c2590575",
+        "sha256": "4c37bc793ac1adbf1a10973f3180771d0a1b91cbe0109021aea3cdaeeb84d63a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libp2pservicesmodules.a'",
+            "p2p_matchmaking_fastgroup.o",
+            "p2p_matchmaking_whitepage.o",
+            "p2p_matchmaking_whitepage_vnid.o",
+            "p2p_matchmaking_random.o"
+        ],
+        "Content-Length": [
+            "354",
+            "900",
+            "1352",
+            "1356",
+            "1820"
+        ],
+        "Last-Modified": [
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:34Z",
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:35Z"
+        ],
+        "Last-Save-Date": [
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:34Z",
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:35Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/p2p_matchmaking_fastgroup.o",
+            "/p2p_matchmaking_whitepage.o",
+            "/p2p_matchmaking_whitepage_vnid.o",
+            "/p2p_matchmaking_random.o"
+        ],
+        "date": [
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:34Z",
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:35Z"
+        ],
+        "dcterms:modified": [
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:34Z",
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:35Z"
+        ],
+        "meta:save-date": [
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:34Z",
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:35Z"
+        ],
+        "modified": [
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:34Z",
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:35Z",
+            "2008-06-05T06:46:35Z"
+        ],
+        "embeddedRelationshipId": [
+            "p2p_matchmaking_fastgroup.o",
+            "p2p_matchmaking_whitepage.o",
+            "p2p_matchmaking_whitepage_vnid.o",
+            "p2p_matchmaking_random.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

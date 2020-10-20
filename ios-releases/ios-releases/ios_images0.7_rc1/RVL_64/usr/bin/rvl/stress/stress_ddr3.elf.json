@@ -1,0 +1,22 @@
+{
+    "stress_ddr3.elf": {
+        "modified": "2006-05-07 13:51:28",
+        "size": "82.38KB",
+        "md5": "d5f49f1af477d55e2f076627f8dacea2",
+        "sha256": "7c7b8e1f4bffb914330911d6bb2e1c74e080549b8d1341319bf3e5b4e4626304"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'stress_ddr3.elf'"
+    }
+}

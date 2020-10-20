@@ -1,0 +1,22 @@
+{
+    "sdi_test.elf": {
+        "modified": "2006-06-09 22:15:44",
+        "size": "61.76KB",
+        "md5": "0208c0226c8b234b274993af09fa4aba",
+        "sha256": "c466bf90fb682aef7249c642d4afc0d1e68f814ecaff27327ec5072219018b2d"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'sdi_test.elf'"
+    }
+}

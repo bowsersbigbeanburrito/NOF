@@ -1,0 +1,106 @@
+{
+    "es_fixes.zip": {
+        "modified": "2009-06-08 16:33:45",
+        "size": "1.51KB",
+        "md5": "c19e5c272ff3b6c933d1f98815b0ca36",
+        "sha256": "5ca1ba6be926195c35c56ef614e90473c910f4c65f7d960e1585b7de55211f81"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/x-diff; charset=ISO-8859-1",
+            "text/x-diff; charset=ISO-8859-1",
+            "text/x-diff; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'es_fixes.zip'",
+            "es_utils.c.diff",
+            "es_ticket.c.diff",
+            "es_title.c.diff"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "579",
+            "435",
+            "1717"
+        ],
+        "Last-Modified": [
+            "2009-06-08T23:33:10Z",
+            "2009-06-08T23:33:10Z",
+            "2009-06-08T23:33:10Z"
+        ],
+        "Last-Save-Date": [
+            "2009-06-08T23:33:10Z",
+            "2009-06-08T23:33:10Z",
+            "2009-06-08T23:33:10Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/es_utils.c.diff",
+            "/es_ticket.c.diff",
+            "/es_title.c.diff"
+        ],
+        "date": [
+            "2009-06-08T23:33:10Z",
+            "2009-06-08T23:33:10Z",
+            "2009-06-08T23:33:10Z"
+        ],
+        "dcterms:modified": [
+            "2009-06-08T23:33:10Z",
+            "2009-06-08T23:33:10Z",
+            "2009-06-08T23:33:10Z"
+        ],
+        "embeddedRelationshipId": [
+            "es_utils.c.diff",
+            "es_ticket.c.diff",
+            "es_title.c.diff"
+        ],
+        "meta:save-date": [
+            "2009-06-08T23:33:10Z",
+            "2009-06-08T23:33:10Z",
+            "2009-06-08T23:33:10Z"
+        ],
+        "modified": [
+            "2009-06-08T23:33:10Z",
+            "2009-06-08T23:33:10Z",
+            "2009-06-08T23:33:10Z"
+        ]
+    }
+}

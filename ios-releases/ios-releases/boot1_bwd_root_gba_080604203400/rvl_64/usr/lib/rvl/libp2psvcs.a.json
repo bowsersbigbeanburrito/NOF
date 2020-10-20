@@ -1,0 +1,170 @@
+{
+    "libp2psvcs.a": {
+        "modified": "2008-06-04 23:46:33",
+        "size": "35.49KB",
+        "md5": "e8374f7ddd3bdd1fc4376540d47f3b52",
+        "sha256": "36b562632e14c966e2419dd55229ce8eccc7fc7da3a220a6b836aac554168932"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "0",
+            "1",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libp2psvcs.a'",
+            "p2p_svcs_i.o",
+            "p2p_svcs_misc.o",
+            "p2p_gballoc.o",
+            "p2p_services_user.o",
+            "p2p_svcs_no_rm.o"
+        ],
+        "Content-Length": [
+            "2096",
+            "12428",
+            "5588",
+            "1048",
+            "9036",
+            "5676"
+        ],
+        "Last-Modified": [
+            "2008-06-05T06:46:33Z",
+            "2008-06-05T06:46:31Z",
+            "2008-06-05T06:46:31Z",
+            "2008-06-05T06:46:32Z",
+            "2008-06-05T06:46:32Z",
+            "2008-06-05T06:46:33Z"
+        ],
+        "Last-Save-Date": [
+            "2008-06-05T06:46:33Z",
+            "2008-06-05T06:46:31Z",
+            "2008-06-05T06:46:31Z",
+            "2008-06-05T06:46:32Z",
+            "2008-06-05T06:46:32Z",
+            "2008-06-05T06:46:33Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/p2p_svcs_i.o",
+            "/p2p_svcs_misc.o",
+            "/p2p_gballoc.o",
+            "/p2p_services_user.o",
+            "/p2p_svcs_no_rm.o"
+        ],
+        "date": [
+            "2008-06-05T06:46:33Z",
+            "2008-06-05T06:46:31Z",
+            "2008-06-05T06:46:31Z",
+            "2008-06-05T06:46:32Z",
+            "2008-06-05T06:46:32Z",
+            "2008-06-05T06:46:33Z"
+        ],
+        "dcterms:modified": [
+            "2008-06-05T06:46:33Z",
+            "2008-06-05T06:46:31Z",
+            "2008-06-05T06:46:31Z",
+            "2008-06-05T06:46:32Z",
+            "2008-06-05T06:46:32Z",
+            "2008-06-05T06:46:33Z"
+        ],
+        "meta:save-date": [
+            "2008-06-05T06:46:33Z",
+            "2008-06-05T06:46:31Z",
+            "2008-06-05T06:46:31Z",
+            "2008-06-05T06:46:32Z",
+            "2008-06-05T06:46:32Z",
+            "2008-06-05T06:46:33Z"
+        ],
+        "modified": [
+            "2008-06-05T06:46:33Z",
+            "2008-06-05T06:46:31Z",
+            "2008-06-05T06:46:31Z",
+            "2008-06-05T06:46:32Z",
+            "2008-06-05T06:46:32Z",
+            "2008-06-05T06:46:33Z"
+        ],
+        "embeddedRelationshipId": [
+            "p2p_svcs_i.o",
+            "p2p_svcs_misc.o",
+            "p2p_gballoc.o",
+            "p2p_services_user.o",
+            "p2p_svcs_no_rm.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

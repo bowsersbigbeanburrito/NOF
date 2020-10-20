@@ -1,0 +1,22 @@
+{
+    "di_boot.elf": {
+        "modified": "2008-02-26 16:03:36",
+        "size": "97.9KB",
+        "md5": "086c5e1ba1e94e0d39737d5d3196ce5a",
+        "sha256": "637bd9aee1c0c74fee586825391b123e876fbfd9728bf462edbfb5550a0526c9"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'di_boot.elf'"
+    }
+}

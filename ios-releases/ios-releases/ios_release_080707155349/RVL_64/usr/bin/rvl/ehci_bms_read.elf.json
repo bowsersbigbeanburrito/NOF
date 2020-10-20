@@ -1,0 +1,22 @@
+{
+    "ehci_bms_read.elf": {
+        "modified": "2008-07-07 16:01:00",
+        "size": "96.61KB",
+        "md5": "35525a39c79b576a97b1df20c2332b79",
+        "sha256": "915309fc8e8ffdf6c58d3a6534212bb2921ee1014d3d1bd4fe9300ccbd997ee4"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'ehci_bms_read.elf'"
+    }
+}

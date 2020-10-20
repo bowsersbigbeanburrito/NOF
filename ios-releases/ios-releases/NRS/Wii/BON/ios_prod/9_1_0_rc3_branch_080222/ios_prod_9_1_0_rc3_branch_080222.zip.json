@@ -1,0 +1,95 @@
+{
+    "ios_prod_9_1_0_rc3_branch_080222.zip": {
+        "modified": "2008-02-26 00:23:10",
+        "size": "110.28KB",
+        "md5": "f3a83abb65317754afd6595502fec2e4",
+        "sha256": "37b3511dda98ada3e5cb2d73b5d32ae7723bd8f625ee8af7fc113653eda0a8d1"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ios_prod_9_1_0_rc3_branch_080222.zip'",
+            "rvl-128/ios_prod.elf",
+            "rvl-64/ios_prod.elf"
+        ],
+        "Content-Length": [
+            "194571",
+            "194571"
+        ],
+        "Last-Modified": [
+            "2008-02-22T09:33:10Z",
+            "2008-02-22T09:35:28Z"
+        ],
+        "Last-Save-Date": [
+            "2008-02-22T09:33:10Z",
+            "2008-02-22T09:35:28Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/ios_prod.elf",
+            "/ios_prod.elf"
+        ],
+        "date": [
+            "2008-02-22T09:33:10Z",
+            "2008-02-22T09:35:28Z"
+        ],
+        "dcterms:modified": [
+            "2008-02-22T09:33:10Z",
+            "2008-02-22T09:35:28Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-128/ios_prod.elf",
+            "rvl-64/ios_prod.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2008-02-22T09:33:10Z",
+            "2008-02-22T09:35:28Z"
+        ],
+        "modified": [
+            "2008-02-22T09:33:10Z",
+            "2008-02-22T09:35:28Z"
+        ]
+    }
+}

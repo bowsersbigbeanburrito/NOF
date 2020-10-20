@@ -1,0 +1,22 @@
+{
+    "load_boot2_prod.o": {
+        "modified": "2008-02-19 14:19:25",
+        "size": "6.64KB",
+        "md5": "7aa41b8a3b63c45946f9812ee202c238",
+        "sha256": "a8999bb14334b1e4ba085411cda8f453eb5514b7cde0cf119e821dffff5b752e"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'load_boot2_prod.o'"
+    }
+}

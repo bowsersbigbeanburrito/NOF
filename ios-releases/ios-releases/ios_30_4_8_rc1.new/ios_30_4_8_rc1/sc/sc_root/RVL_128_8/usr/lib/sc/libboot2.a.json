@@ -1,0 +1,107 @@
+{
+    "libboot2.a": {
+        "modified": "2008-02-20 19:16:40",
+        "size": "13.37KB",
+        "md5": "c29174ad298233745b6becd3076c8e98",
+        "sha256": "c85cab39f432ed53be8ec34968b717564c7733aaaf9fb8ab1c442d3f6ec58d01"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libboot2.a'",
+            "fl_ops.o",
+            "boot2_ops.o"
+        ],
+        "Content-Length": [
+            "408",
+            "9324",
+            "3768"
+        ],
+        "Last-Modified": [
+            "2008-02-21T03:16:39Z",
+            "2008-02-21T03:16:39Z",
+            "2008-02-21T03:16:39Z"
+        ],
+        "Last-Save-Date": [
+            "2008-02-21T03:16:39Z",
+            "2008-02-21T03:16:39Z",
+            "2008-02-21T03:16:39Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/fl_ops.o",
+            "/boot2_ops.o"
+        ],
+        "date": [
+            "2008-02-21T03:16:39Z",
+            "2008-02-21T03:16:39Z",
+            "2008-02-21T03:16:39Z"
+        ],
+        "dcterms:modified": [
+            "2008-02-21T03:16:39Z",
+            "2008-02-21T03:16:39Z",
+            "2008-02-21T03:16:39Z"
+        ],
+        "meta:save-date": [
+            "2008-02-21T03:16:39Z",
+            "2008-02-21T03:16:39Z",
+            "2008-02-21T03:16:39Z"
+        ],
+        "modified": [
+            "2008-02-21T03:16:39Z",
+            "2008-02-21T03:16:39Z",
+            "2008-02-21T03:16:39Z"
+        ],
+        "embeddedRelationshipId": [
+            "fl_ops.o",
+            "boot2_ops.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

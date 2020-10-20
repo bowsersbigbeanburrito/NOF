@@ -1,0 +1,330 @@
+{
+    "IOS_SDK_Private_Patch_128_ios_release_091203182114.zip": {
+        "modified": "2009-12-03 19:13:48",
+        "size": "22.45KB",
+        "md5": "739dc3e09655a9ad782e6c21c55ff035",
+        "sha256": "21e6e97d73cecabb23ab1f2cdd1415e10db94d33093453cde6165e16926c0f92"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-sh; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "text/x-chdr; charset=ISO-8859-1",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-archive"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.pkg.PackageParser"
+            ],
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.pkg.PackageParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "2",
+            "2",
+            "1",
+            "2",
+            "2",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "7",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'IOS_SDK_Private_Patch_128_ios_release_091203182114.zip'",
+            "install.sh",
+            "usr/include/csltypes.h",
+            "usr/include/es.h",
+            "usr/include/estypes.h",
+            "usr/include/es_int.h",
+            "usr/include/flash.h",
+            "usr/include/fs.h",
+            "usr/include/iosccert.h",
+            "usr/include/sha1.h",
+            "es.o",
+            "usr/lib/rvl/libes.a",
+            "fs.o",
+            "usr/lib/rvl/libisfs.a"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "495",
+            "1779",
+            "9605",
+            "12964",
+            "7216",
+            "3450",
+            "6853",
+            "3722",
+            "1147",
+            "1324",
+            "13264",
+            "14716",
+            "358",
+            "5372",
+            "5858"
+        ],
+        "Last-Modified": [
+            "2009-12-04T02:59:48Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:37:45Z",
+            "2009-12-04T02:37:44Z",
+            "2009-12-04T02:37:45Z",
+            "2009-12-04T02:37:46Z",
+            "2009-12-04T02:37:46Z",
+            "2009-12-04T02:37:47Z"
+        ],
+        "Last-Save-Date": [
+            "2009-12-04T02:59:48Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:37:45Z",
+            "2009-12-04T02:37:44Z",
+            "2009-12-04T02:37:45Z",
+            "2009-12-04T02:37:46Z",
+            "2009-12-04T02:37:46Z",
+            "2009-12-04T02:37:47Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/install.sh",
+            "/csltypes.h",
+            "/es.h",
+            "/estypes.h",
+            "/es_int.h",
+            "/flash.h",
+            "/fs.h",
+            "/iosccert.h",
+            "/sha1.h",
+            "/libes.a/embedded-1",
+            "/libes.a/es.o",
+            "/libes.a",
+            "/libisfs.a/embedded-2",
+            "/libisfs.a/fs.o",
+            "/libisfs.a"
+        ],
+        "date": [
+            "2009-12-04T02:59:48Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:37:45Z",
+            "2009-12-04T02:37:44Z",
+            "2009-12-04T02:37:45Z",
+            "2009-12-04T02:37:46Z",
+            "2009-12-04T02:37:46Z",
+            "2009-12-04T02:37:47Z"
+        ],
+        "dcterms:modified": [
+            "2009-12-04T02:59:48Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:37:45Z",
+            "2009-12-04T02:37:44Z",
+            "2009-12-04T02:37:45Z",
+            "2009-12-04T02:37:46Z",
+            "2009-12-04T02:37:46Z",
+            "2009-12-04T02:37:47Z"
+        ],
+        "embeddedRelationshipId": [
+            "install.sh",
+            "usr/include/csltypes.h",
+            "usr/include/es.h",
+            "usr/include/estypes.h",
+            "usr/include/es_int.h",
+            "usr/include/flash.h",
+            "usr/include/fs.h",
+            "usr/include/iosccert.h",
+            "usr/include/sha1.h",
+            "es.o",
+            "usr/lib/rvl/libes.a",
+            "fs.o",
+            "usr/lib/rvl/libisfs.a"
+        ],
+        "meta:save-date": [
+            "2009-12-04T02:59:48Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:37:45Z",
+            "2009-12-04T02:37:44Z",
+            "2009-12-04T02:37:45Z",
+            "2009-12-04T02:37:46Z",
+            "2009-12-04T02:37:46Z",
+            "2009-12-04T02:37:47Z"
+        ],
+        "modified": [
+            "2009-12-04T02:59:48Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:40:12Z",
+            "2009-12-04T02:36:09Z",
+            "2009-12-04T02:37:45Z",
+            "2009-12-04T02:37:44Z",
+            "2009-12-04T02:37:45Z",
+            "2009-12-04T02:37:46Z",
+            "2009-12-04T02:37:46Z",
+            "2009-12-04T02:37:47Z"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

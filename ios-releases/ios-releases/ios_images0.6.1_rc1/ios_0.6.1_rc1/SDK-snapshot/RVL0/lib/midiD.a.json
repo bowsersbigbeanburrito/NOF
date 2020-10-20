@@ -1,0 +1,123 @@
+{
+    "midiD.a": {
+        "modified": "2006-04-21 11:58:44",
+        "size": "39.96KB",
+        "md5": "e7089dc6f481630ac2170cc6ca6980ae",
+        "sha256": "9d70cdf6dbfa7fbf7a0adeb0d53229d055dbd3532db988aa3764ac35da9ab5f5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'midiD.a'",
+            "MIDI.o",
+            "MIDIRead.o",
+            "MIDIXfer.o"
+        ],
+        "Content-Length": [
+            "1716",
+            "13880",
+            "10536",
+            "14536"
+        ],
+        "Last-Modified": [
+            "2006-04-20T18:34:33Z",
+            "2006-04-20T18:34:32Z",
+            "2006-04-20T18:34:32Z",
+            "2006-04-20T18:34:33Z"
+        ],
+        "Last-Save-Date": [
+            "2006-04-20T18:34:33Z",
+            "2006-04-20T18:34:32Z",
+            "2006-04-20T18:34:32Z",
+            "2006-04-20T18:34:33Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/MIDI.o",
+            "/MIDIRead.o",
+            "/MIDIXfer.o"
+        ],
+        "date": [
+            "2006-04-20T18:34:33Z",
+            "2006-04-20T18:34:32Z",
+            "2006-04-20T18:34:32Z",
+            "2006-04-20T18:34:33Z"
+        ],
+        "dcterms:modified": [
+            "2006-04-20T18:34:33Z",
+            "2006-04-20T18:34:32Z",
+            "2006-04-20T18:34:32Z",
+            "2006-04-20T18:34:33Z"
+        ],
+        "meta:save-date": [
+            "2006-04-20T18:34:33Z",
+            "2006-04-20T18:34:32Z",
+            "2006-04-20T18:34:32Z",
+            "2006-04-20T18:34:33Z"
+        ],
+        "modified": [
+            "2006-04-20T18:34:33Z",
+            "2006-04-20T18:34:32Z",
+            "2006-04-20T18:34:32Z",
+            "2006-04-20T18:34:33Z"
+        ],
+        "embeddedRelationshipId": [
+            "MIDI.o",
+            "MIDIRead.o",
+            "MIDIXfer.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

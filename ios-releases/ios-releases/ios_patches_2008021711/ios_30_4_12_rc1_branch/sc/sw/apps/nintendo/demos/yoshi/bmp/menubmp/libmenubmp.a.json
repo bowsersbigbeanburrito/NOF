@@ -1,0 +1,118 @@
+{
+    "libmenubmp.a": {
+        "modified": "2005-02-14 16:55:56",
+        "size": "6.89KB",
+        "md5": "da880a57f50a1730e4b011c2a32ec748",
+        "sha256": "814e7c6885e98e5d4199612d840cc2102e9a41a1326b221bb7c079393b52a9c4"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libmenubmp.a'",
+            "kumo.o",
+            "umi64.o",
+            "grade.o"
+        ],
+        "Content-Length": [
+            "244",
+            "1459",
+            "4534",
+            "566"
+        ],
+        "Last-Modified": [
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z"
+        ],
+        "Last-Save-Date": [
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/kumo.o",
+            "/umi64.o",
+            "/grade.o"
+        ],
+        "date": [
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z"
+        ],
+        "dcterms:modified": [
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z"
+        ],
+        "meta:save-date": [
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z"
+        ],
+        "modified": [
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z",
+            "2000-06-15T01:34:16Z"
+        ],
+        "embeddedRelationshipId": [
+            "kumo.o",
+            "umi64.o",
+            "grade.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ]
+    }
+}

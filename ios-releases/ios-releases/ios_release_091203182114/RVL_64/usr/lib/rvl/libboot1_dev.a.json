@@ -1,0 +1,76 @@
+{
+    "libboot1_dev.a": {
+        "modified": "2009-12-04 17:21:53",
+        "size": "3.58KB",
+        "md5": "b855d75a512fe14fe60216ef02476113",
+        "sha256": "1a57cd58da4cc671e47109d3abac261dfc4c799e854794761a6944a1dfceb177"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libboot1_dev.a'",
+            "boot1_verify.o"
+        ],
+        "Content-Length": [
+            "22",
+            "3512"
+        ],
+        "Last-Modified": [
+            "2009-12-04T03:06:18Z",
+            "2009-12-04T03:06:17Z"
+        ],
+        "Last-Save-Date": [
+            "2009-12-04T03:06:18Z",
+            "2009-12-04T03:06:17Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/boot1_verify.o"
+        ],
+        "date": [
+            "2009-12-04T03:06:18Z",
+            "2009-12-04T03:06:17Z"
+        ],
+        "dcterms:modified": [
+            "2009-12-04T03:06:18Z",
+            "2009-12-04T03:06:17Z"
+        ],
+        "meta:save-date": [
+            "2009-12-04T03:06:18Z",
+            "2009-12-04T03:06:17Z"
+        ],
+        "modified": [
+            "2009-12-04T03:06:18Z",
+            "2009-12-04T03:06:17Z"
+        ],
+        "embeddedRelationshipId": "boot1_verify.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

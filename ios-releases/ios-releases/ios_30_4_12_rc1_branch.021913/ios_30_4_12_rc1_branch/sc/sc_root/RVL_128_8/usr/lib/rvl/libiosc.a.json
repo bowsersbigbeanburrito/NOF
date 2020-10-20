@@ -1,0 +1,76 @@
+{
+    "libiosc.a": {
+        "modified": "2008-02-19 13:41:56",
+        "size": "3.31KB",
+        "md5": "f1a196944b0f2b2bd1df8dc8a9aee8fc",
+        "sha256": "7457a8c21e301755448cb758ff0b0551379fd51e7e2c8a747d80d513ca3b5b99"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libiosc.a'",
+            "iosc.o"
+        ],
+        "Content-Length": [
+            "672",
+            "2593"
+        ],
+        "Last-Modified": [
+            "2008-02-19T21:41:56Z",
+            "2008-02-19T21:41:56Z"
+        ],
+        "Last-Save-Date": [
+            "2008-02-19T21:41:56Z",
+            "2008-02-19T21:41:56Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/iosc.o"
+        ],
+        "date": [
+            "2008-02-19T21:41:56Z",
+            "2008-02-19T21:41:56Z"
+        ],
+        "dcterms:modified": [
+            "2008-02-19T21:41:56Z",
+            "2008-02-19T21:41:56Z"
+        ],
+        "meta:save-date": [
+            "2008-02-19T21:41:56Z",
+            "2008-02-19T21:41:56Z"
+        ],
+        "modified": [
+            "2008-02-19T21:41:56Z",
+            "2008-02-19T21:41:56Z"
+        ],
+        "embeddedRelationshipId": "iosc.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

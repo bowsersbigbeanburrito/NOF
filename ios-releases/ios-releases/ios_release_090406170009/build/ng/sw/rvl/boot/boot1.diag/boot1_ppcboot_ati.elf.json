@@ -1,0 +1,22 @@
+{
+    "boot1_ppcboot_ati.elf": {
+        "modified": "2009-04-06 17:11:03",
+        "size": "76.9KB",
+        "md5": "cfd4e43b810eba0bde0f92899705d21d",
+        "sha256": "d140d53f0196336bd4d3d9d8044bd5e9364a9c5c7d56694f6b6e8a0939bf363f"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'boot1_ppcboot_ati.elf'"
+    }
+}

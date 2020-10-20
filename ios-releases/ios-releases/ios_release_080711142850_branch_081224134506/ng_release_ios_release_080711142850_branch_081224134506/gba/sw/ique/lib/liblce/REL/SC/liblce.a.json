@@ -1,0 +1,170 @@
+{
+    "liblce.a": {
+        "modified": "2008-12-24 13:47:07",
+        "size": "20.11KB",
+        "md5": "3b5c4f109b8090517e8a28a13807fb54",
+        "sha256": "b53768cfb17757a8503f3bdf8980996f226669195825d9d2eedf9c52464a6e65"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'liblce.a'",
+            "lce.o",
+            "lce_rm.o",
+            "lce_rm_jt.o",
+            "main.o",
+            "lib_rm.o"
+        ],
+        "Content-Length": [
+            "802",
+            "9752",
+            "6064",
+            "1744",
+            "864",
+            "996"
+        ],
+        "Last-Modified": [
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:22Z",
+            "2006-10-17T17:50:22Z"
+        ],
+        "Last-Save-Date": [
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:22Z",
+            "2006-10-17T17:50:22Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/lce.o",
+            "/lce_rm.o",
+            "/lce_rm_jt.o",
+            "/main.o",
+            "/lib_rm.o"
+        ],
+        "date": [
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:22Z",
+            "2006-10-17T17:50:22Z"
+        ],
+        "dcterms:modified": [
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:22Z",
+            "2006-10-17T17:50:22Z"
+        ],
+        "meta:save-date": [
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:22Z",
+            "2006-10-17T17:50:22Z"
+        ],
+        "modified": [
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:20Z",
+            "2006-10-17T17:50:22Z",
+            "2006-10-17T17:50:22Z"
+        ],
+        "embeddedRelationshipId": [
+            "lce.o",
+            "lce_rm.o",
+            "lce_rm_jt.o",
+            "main.o",
+            "lib_rm.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

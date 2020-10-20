@@ -1,0 +1,123 @@
+{
+    "ipcD.a": {
+        "modified": "2006-04-21 11:58:44",
+        "size": "49.41KB",
+        "md5": "5eb6bf0d1ff1e2927e1c4f6490e01ef7",
+        "sha256": "6ba80bdfb665eb3c60bfe646247676f61a4c32b303fd75a25543e0f814bf16fa"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'ipcD.a'",
+            "ipcMain.o",
+            "ipcclt.o",
+            "memory.o"
+        ],
+        "Content-Length": [
+            "2083",
+            "5288",
+            "33704",
+            "9272"
+        ],
+        "Last-Modified": [
+            "2006-04-20T18:35:40Z",
+            "2006-04-20T18:35:39Z",
+            "2006-04-20T18:35:40Z",
+            "2006-04-20T18:35:40Z"
+        ],
+        "Last-Save-Date": [
+            "2006-04-20T18:35:40Z",
+            "2006-04-20T18:35:39Z",
+            "2006-04-20T18:35:40Z",
+            "2006-04-20T18:35:40Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ipcMain.o",
+            "/ipcclt.o",
+            "/memory.o"
+        ],
+        "date": [
+            "2006-04-20T18:35:40Z",
+            "2006-04-20T18:35:39Z",
+            "2006-04-20T18:35:40Z",
+            "2006-04-20T18:35:40Z"
+        ],
+        "dcterms:modified": [
+            "2006-04-20T18:35:40Z",
+            "2006-04-20T18:35:39Z",
+            "2006-04-20T18:35:40Z",
+            "2006-04-20T18:35:40Z"
+        ],
+        "meta:save-date": [
+            "2006-04-20T18:35:40Z",
+            "2006-04-20T18:35:39Z",
+            "2006-04-20T18:35:40Z",
+            "2006-04-20T18:35:40Z"
+        ],
+        "modified": [
+            "2006-04-20T18:35:40Z",
+            "2006-04-20T18:35:39Z",
+            "2006-04-20T18:35:40Z",
+            "2006-04-20T18:35:40Z"
+        ],
+        "embeddedRelationshipId": [
+            "ipcMain.o",
+            "ipcclt.o",
+            "memory.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

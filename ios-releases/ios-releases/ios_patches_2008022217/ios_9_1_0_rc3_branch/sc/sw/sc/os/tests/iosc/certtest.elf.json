@@ -1,0 +1,22 @@
+{
+    "certtest.elf": {
+        "modified": "2008-02-19 14:34:01",
+        "size": "76.41KB",
+        "md5": "0fb5a51d1001ff5ee7fd9307614c3f89",
+        "sha256": "e2b36cb0134e8e089e9e43c60d0e363c07637771d97076e84d664dc12514bfaa"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'certtest.elf'"
+    }
+}

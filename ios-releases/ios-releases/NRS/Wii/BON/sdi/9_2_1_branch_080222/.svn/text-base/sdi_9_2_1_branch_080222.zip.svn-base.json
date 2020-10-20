@@ -1,0 +1,95 @@
+{
+    "sdi_9_2_1_branch_080222.zip.svn-base": {
+        "modified": "2008-04-21 22:37:16",
+        "size": "22.06KB",
+        "md5": "a1dc25b46d7f8d6ae2642514a266f69d",
+        "sha256": "af86dbe795989924f6e90aa0f7ef64512d7230653c766b1d85267badb071480c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'sdi_9_2_1_branch_080222.zip.svn-base'",
+            "rvl-128/sdi.elf",
+            "rvl-64/sdi.elf"
+        ],
+        "Content-Length": [
+            "58870",
+            "58870"
+        ],
+        "Last-Modified": [
+            "2008-02-22T09:52:06Z",
+            "2008-02-22T09:54:34Z"
+        ],
+        "Last-Save-Date": [
+            "2008-02-22T09:52:06Z",
+            "2008-02-22T09:54:34Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/sdi.elf",
+            "/sdi.elf"
+        ],
+        "date": [
+            "2008-02-22T09:52:06Z",
+            "2008-02-22T09:54:34Z"
+        ],
+        "dcterms:modified": [
+            "2008-02-22T09:52:06Z",
+            "2008-02-22T09:54:34Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-128/sdi.elf",
+            "rvl-64/sdi.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2008-02-22T09:52:06Z",
+            "2008-02-22T09:54:34Z"
+        ],
+        "modified": [
+            "2008-02-22T09:52:06Z",
+            "2008-02-22T09:54:34Z"
+        ]
+    }
+}

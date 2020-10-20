@@ -1,0 +1,33 @@
+{
+    "s390-invalid-insn-format.patch": {
+        "modified": "2005-07-14 12:59:13",
+        "size": "1.43KB",
+        "md5": "58cb892cd979b9cec4d7a21891674dc2",
+        "sha256": "6c706fc30c818c2e6582d19d5ced77239a09b282d340d129087b060ab1b29a91"
+    },
+    "Metadata": {
+        "Author": "Michael Geiger <mcgege@gmx.de>",
+        "Content-Type": "message/rfc822",
+        "Creation-Date": "2004-08-31T13:45:41Z",
+        "Message-From": "Michael Geiger <mcgege@gmx.de>",
+        "Message-To": "dank@kegel.com",
+        "Message:From-Email": "mcgege@gmx.de",
+        "Message:From-Name": "Michael Geiger",
+        "Message:Raw-Header:Message-ID": "<000801c48f60$cec16630$9103a8c0@ULOC5012>",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "creator": "Michael Geiger <mcgege@gmx.de>",
+        "dc:creator": "Michael Geiger <mcgege@gmx.de>",
+        "dc:title": "Patch for cross compiling s/390 kernel on linux host",
+        "dcterms:created": "2004-08-31T13:45:41Z",
+        "meta:author": "Michael Geiger <mcgege@gmx.de>",
+        "meta:creation-date": "2004-08-31T13:45:41Z",
+        "resourceName": "b's390-invalid-insn-format.patch'",
+        "subject": "Patch for cross compiling s/390 kernel on linux host"
+    }
+}

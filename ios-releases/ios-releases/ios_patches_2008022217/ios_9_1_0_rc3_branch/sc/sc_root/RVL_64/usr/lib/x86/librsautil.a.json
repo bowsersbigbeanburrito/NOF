@@ -1,0 +1,75 @@
+{
+    "librsautil.a": {
+        "modified": "2008-02-22 18:34:02",
+        "size": "5.12KB",
+        "md5": "e3db46941edad105ef8e0fee20e6b5b0",
+        "sha256": "99d8773bf14c30618ae7368f7671bb46d1386074475cb6429c211e66787e67b5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'librsautil.a'",
+            "rsautil.o"
+        ],
+        "Content-Length": [
+            "214",
+            "4904"
+        ],
+        "Last-Modified": [
+            "2008-02-23T02:34:02Z",
+            "2008-02-23T02:34:02Z"
+        ],
+        "Last-Save-Date": [
+            "2008-02-23T02:34:02Z",
+            "2008-02-23T02:34:02Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/rsautil.o"
+        ],
+        "date": [
+            "2008-02-23T02:34:02Z",
+            "2008-02-23T02:34:02Z"
+        ],
+        "dcterms:modified": [
+            "2008-02-23T02:34:02Z",
+            "2008-02-23T02:34:02Z"
+        ],
+        "meta:save-date": [
+            "2008-02-23T02:34:02Z",
+            "2008-02-23T02:34:02Z"
+        ],
+        "modified": [
+            "2008-02-23T02:34:02Z",
+            "2008-02-23T02:34:02Z"
+        ],
+        "embeddedRelationshipId": "rsautil.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "x86-32"
+    }
+}

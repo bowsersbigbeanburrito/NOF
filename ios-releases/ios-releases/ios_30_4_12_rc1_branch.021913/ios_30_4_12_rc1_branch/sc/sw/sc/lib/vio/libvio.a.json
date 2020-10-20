@@ -1,0 +1,76 @@
+{
+    "libvio.a": {
+        "modified": "2008-02-19 13:45:14",
+        "size": "1.79KB",
+        "md5": "998dbe8158c930edd2f84c69a3589416",
+        "sha256": "280edab945e0c9baf17a2620fb2c90dadf9fe7fd3531136a85697854e32d24b2"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libvio.a'",
+            "vio.o"
+        ],
+        "Content-Length": [
+            "374",
+            "1335"
+        ],
+        "Last-Modified": [
+            "2008-02-19T21:45:14Z",
+            "2008-02-19T21:45:14Z"
+        ],
+        "Last-Save-Date": [
+            "2008-02-19T21:45:14Z",
+            "2008-02-19T21:45:14Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/vio.o"
+        ],
+        "date": [
+            "2008-02-19T21:45:14Z",
+            "2008-02-19T21:45:14Z"
+        ],
+        "dcterms:modified": [
+            "2008-02-19T21:45:14Z",
+            "2008-02-19T21:45:14Z"
+        ],
+        "meta:save-date": [
+            "2008-02-19T21:45:14Z",
+            "2008-02-19T21:45:14Z"
+        ],
+        "modified": [
+            "2008-02-19T21:45:14Z",
+            "2008-02-19T21:45:14Z"
+        ],
+        "embeddedRelationshipId": "vio.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

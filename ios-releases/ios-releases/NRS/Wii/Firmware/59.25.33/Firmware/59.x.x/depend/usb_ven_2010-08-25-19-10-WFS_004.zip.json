@@ -1,0 +1,95 @@
+{
+    "usb_ven_2010-08-25-19-10-WFS_004.zip": {
+        "modified": "2011-09-29 19:06:18",
+        "size": "21.53KB",
+        "md5": "94281d666f86825ed65092f2df9ecef0",
+        "sha256": "1263741a4790cb4714f7182f14bfbf325027edfe000144a93106c62bd4830cde"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'usb_ven_2010-08-25-19-10-WFS_004.zip'",
+            "rvl-128/usb_ven.elf",
+            "rvl-64/usb_ven.elf"
+        ],
+        "Content-Length": [
+            "45064",
+            "45064"
+        ],
+        "Last-Modified": [
+            "2010-08-25T10:33:59Z",
+            "2010-08-25T10:35:13Z"
+        ],
+        "Last-Save-Date": [
+            "2010-08-25T10:33:59Z",
+            "2010-08-25T10:35:13Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/usb_ven.elf",
+            "/usb_ven.elf"
+        ],
+        "date": [
+            "2010-08-25T10:33:59Z",
+            "2010-08-25T10:35:13Z"
+        ],
+        "dcterms:modified": [
+            "2010-08-25T10:33:59Z",
+            "2010-08-25T10:35:13Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-128/usb_ven.elf",
+            "rvl-64/usb_ven.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2010-08-25T10:33:59Z",
+            "2010-08-25T10:35:13Z"
+        ],
+        "modified": [
+            "2010-08-25T10:33:59Z",
+            "2010-08-25T10:35:13Z"
+        ]
+    }
+}

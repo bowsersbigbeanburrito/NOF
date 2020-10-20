@@ -1,0 +1,95 @@
+{
+    "kbd_drv_2008-08-13.zip": {
+        "modified": "2011-09-29 19:04:34",
+        "size": "48.62KB",
+        "md5": "31fa4325df78d07ac3a172788d1a1c34",
+        "sha256": "437ff447433e9cf05e87de2c5fabc92770b7a9e04ac32adf2df8154dfbbf7cc0"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'kbd_drv_2008-08-13.zip'",
+            "rvl-64/kbd_drv.elf",
+            "rvl-128/kbd_drv.elf"
+        ],
+        "Content-Length": [
+            "85402",
+            "85402"
+        ],
+        "Last-Modified": [
+            "2008-08-13T22:43:06Z",
+            "2008-08-13T22:42:39Z"
+        ],
+        "Last-Save-Date": [
+            "2008-08-13T22:43:06Z",
+            "2008-08-13T22:42:39Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/kbd_drv.elf",
+            "/kbd_drv.elf"
+        ],
+        "date": [
+            "2008-08-13T22:43:06Z",
+            "2008-08-13T22:42:39Z"
+        ],
+        "dcterms:modified": [
+            "2008-08-13T22:43:06Z",
+            "2008-08-13T22:42:39Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-64/kbd_drv.elf",
+            "rvl-128/kbd_drv.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2008-08-13T22:43:06Z",
+            "2008-08-13T22:42:39Z"
+        ],
+        "modified": [
+            "2008-08-13T22:43:06Z",
+            "2008-08-13T22:42:39Z"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "test.dis": {
+        "modified": "2006-07-06 11:00:35",
+        "size": "18.37KB",
+        "md5": "a170d3d8f03fd2cbead159918843bebd",
+        "sha256": "56ebcd7b804d8e957161e375a91d0c838c8325e388acc401ab63c41f32d6aa54"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'test.dis'"
+    }
+}

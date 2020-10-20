@@ -1,0 +1,95 @@
+{
+    "usbeth_2010-08-25-19-10-WFS_004.zip": {
+        "modified": "2011-09-29 19:06:18",
+        "size": "25.48KB",
+        "md5": "82c8c6752a54061dcf4650453ba538ce",
+        "sha256": "6fe9758ab72b5476c2f6be46ef971817b77879369459dc4452cbee53ca40bb27"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'usbeth_2010-08-25-19-10-WFS_004.zip'",
+            "rvl-128/usbeth.elf",
+            "rvl-64/usbeth.elf"
+        ],
+        "Content-Length": [
+            "62045",
+            "62045"
+        ],
+        "Last-Modified": [
+            "2010-08-25T10:33:29Z",
+            "2010-08-25T10:34:44Z"
+        ],
+        "Last-Save-Date": [
+            "2010-08-25T10:33:29Z",
+            "2010-08-25T10:34:44Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/usbeth.elf",
+            "/usbeth.elf"
+        ],
+        "date": [
+            "2010-08-25T10:33:29Z",
+            "2010-08-25T10:34:44Z"
+        ],
+        "dcterms:modified": [
+            "2010-08-25T10:33:29Z",
+            "2010-08-25T10:34:44Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-128/usbeth.elf",
+            "rvl-64/usbeth.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2010-08-25T10:33:29Z",
+            "2010-08-25T10:34:44Z"
+        ],
+        "modified": [
+            "2010-08-25T10:33:29Z",
+            "2010-08-25T10:34:44Z"
+        ]
+    }
+}

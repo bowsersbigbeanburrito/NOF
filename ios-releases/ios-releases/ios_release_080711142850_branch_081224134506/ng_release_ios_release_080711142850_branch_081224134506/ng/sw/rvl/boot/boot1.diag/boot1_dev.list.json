@@ -1,0 +1,21 @@
+{
+    "boot1_dev.list": {
+        "modified": "2008-12-24 13:51:59",
+        "size": "260.66KB",
+        "md5": "cb0cdd2e539f271e2c35d8131f3aa6a3",
+        "sha256": "e11a7cb54ec2909c5d67cd564ed2b909b1a563ee9267c368f8e58adc2112a09a"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "15",
+        "csv:delimiter": "tab",
+        "resourceName": "b'boot1_dev.list'"
+    }
+}

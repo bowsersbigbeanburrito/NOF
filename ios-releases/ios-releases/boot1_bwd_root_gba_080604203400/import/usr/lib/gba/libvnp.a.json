@@ -1,0 +1,128 @@
+{
+    "libvnp.a": {
+        "modified": "2007-05-17 05:37:51",
+        "size": "60.45KB",
+        "md5": "ed81ea7c7fbd97fd6feb11b103bf60fb",
+        "sha256": "b5d8107b3a272288dca4abd6443c4836c7388751702ef196aae501111d01976c"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libvnp.a'",
+            "vnp_rm_api.o",
+            "vnp_gballoc.o",
+            "shr_trace.o"
+        ],
+        "Content-Length": [
+            "1530",
+            "18552",
+            "33728",
+            "7840"
+        ],
+        "Last-Modified": [
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:49Z"
+        ],
+        "Last-Save-Date": [
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:49Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/vnp_rm_api.o",
+            "/vnp_gballoc.o",
+            "/shr_trace.o"
+        ],
+        "date": [
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:49Z"
+        ],
+        "dcterms:modified": [
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:49Z"
+        ],
+        "meta:save-date": [
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:49Z"
+        ],
+        "modified": [
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:49Z"
+        ],
+        "embeddedRelationshipId": [
+            "vnp_rm_api.o",
+            "vnp_gballoc.o",
+            "shr_trace.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

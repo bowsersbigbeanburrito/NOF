@@ -1,0 +1,22 @@
+{
+    "ppcboot.elf": {
+        "modified": "2006-07-08 16:35:06",
+        "size": "52.77KB",
+        "md5": "196a03e5b12d033924dbe8af7599402c",
+        "sha256": "0d6666df2da97f81d216610b646121a69c9a5e166c76528a50ab9a52160b6878"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'ppcboot.elf'"
+    }
+}

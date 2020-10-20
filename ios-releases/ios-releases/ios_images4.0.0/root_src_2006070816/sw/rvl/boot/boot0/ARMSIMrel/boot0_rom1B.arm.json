@@ -1,0 +1,22 @@
+{
+    "boot0_rom1B.arm": {
+        "modified": "2006-04-18 17:56:52",
+        "size": "42.09KB",
+        "md5": "35bfac706d9f0cffca361ab3b138c00c",
+        "sha256": "39783c0799a3bf6c3c370afe415b5ba460636f1e4d6fa14268b7762524c393de"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'boot0_rom1B.arm'"
+    }
+}

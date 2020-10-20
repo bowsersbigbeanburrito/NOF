@@ -1,0 +1,76 @@
+{
+    "libiossyscall.a": {
+        "modified": "2010-03-01 03:21:00",
+        "size": "8.88KB",
+        "md5": "bbfc47d8afb58f96e1024dd1273d9f3c",
+        "sha256": "f5b9f09c0612a2be26d84754eae1f210cd37cc384b62b2c6f95332a9cf854be2"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libiossyscall.a'",
+            "syscall.o"
+        ],
+        "Content-Length": [
+            "1882",
+            "7083"
+        ],
+        "Last-Modified": [
+            "2010-03-01T11:20:59Z",
+            "2010-03-01T11:20:59Z"
+        ],
+        "Last-Save-Date": [
+            "2010-03-01T11:20:59Z",
+            "2010-03-01T11:20:59Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/syscall.o"
+        ],
+        "date": [
+            "2010-03-01T11:20:59Z",
+            "2010-03-01T11:20:59Z"
+        ],
+        "dcterms:modified": [
+            "2010-03-01T11:20:59Z",
+            "2010-03-01T11:20:59Z"
+        ],
+        "meta:save-date": [
+            "2010-03-01T11:20:59Z",
+            "2010-03-01T11:20:59Z"
+        ],
+        "modified": [
+            "2010-03-01T11:20:59Z",
+            "2010-03-01T11:20:59Z"
+        ],
+        "embeddedRelationshipId": "syscall.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

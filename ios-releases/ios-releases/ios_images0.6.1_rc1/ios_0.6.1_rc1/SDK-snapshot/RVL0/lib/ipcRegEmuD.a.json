@@ -1,0 +1,75 @@
+{
+    "ipcRegEmuD.a": {
+        "modified": "2006-04-21 11:58:44",
+        "size": "11.8KB",
+        "md5": "9f45df312f5796eed97a9a31a1009310",
+        "sha256": "b717116d3de50c6020da9d3bc02699bef070e6234610ae178ae3c58ecedb2846"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ipcRegEmuD.a'",
+            "ipcRegEmu.o"
+        ],
+        "Content-Length": [
+            "385",
+            "11568"
+        ],
+        "Last-Modified": [
+            "2006-04-20T18:36:03Z",
+            "2006-04-20T18:36:03Z"
+        ],
+        "Last-Save-Date": [
+            "2006-04-20T18:36:03Z",
+            "2006-04-20T18:36:03Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ipcRegEmu.o"
+        ],
+        "date": [
+            "2006-04-20T18:36:03Z",
+            "2006-04-20T18:36:03Z"
+        ],
+        "dcterms:modified": [
+            "2006-04-20T18:36:03Z",
+            "2006-04-20T18:36:03Z"
+        ],
+        "meta:save-date": [
+            "2006-04-20T18:36:03Z",
+            "2006-04-20T18:36:03Z"
+        ],
+        "modified": [
+            "2006-04-20T18:36:03Z",
+            "2006-04-20T18:36:03Z"
+        ],
+        "embeddedRelationshipId": "ipcRegEmu.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "usb_hid_2010-08-25-19-10-WFS_004.zip": {
+        "modified": "2011-09-29 19:06:18",
+        "size": "23.24KB",
+        "md5": "4ae785a5a054875b82e7f65f6a6b954e",
+        "sha256": "da8972edf6eaaffae480289ae9b873d33676ef575f11626c2fab4a7b51e5ba03"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'usb_hid_2010-08-25-19-10-WFS_004.zip'",
+            "rvl-128/usb_hid.elf",
+            "rvl-64/usb_hid.elf"
+        ],
+        "Content-Length": [
+            "61869",
+            "61869"
+        ],
+        "Last-Modified": [
+            "2010-08-25T10:33:37Z",
+            "2010-08-25T10:34:52Z"
+        ],
+        "Last-Save-Date": [
+            "2010-08-25T10:33:37Z",
+            "2010-08-25T10:34:52Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/usb_hid.elf",
+            "/usb_hid.elf"
+        ],
+        "date": [
+            "2010-08-25T10:33:37Z",
+            "2010-08-25T10:34:52Z"
+        ],
+        "dcterms:modified": [
+            "2010-08-25T10:33:37Z",
+            "2010-08-25T10:34:52Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-128/usb_hid.elf",
+            "rvl-64/usb_hid.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2010-08-25T10:33:37Z",
+            "2010-08-25T10:34:52Z"
+        ],
+        "modified": [
+            "2010-08-25T10:33:37Z",
+            "2010-08-25T10:34:52Z"
+        ]
+    }
+}

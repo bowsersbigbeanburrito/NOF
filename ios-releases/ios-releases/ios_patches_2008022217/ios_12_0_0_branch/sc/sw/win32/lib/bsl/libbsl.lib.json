@@ -1,0 +1,125 @@
+{
+    "libbsl.lib": {
+        "modified": "2006-06-30 12:07:05",
+        "size": "68.4KB",
+        "md5": "dd5639126ce1705c5def7894e5fe4884",
+        "sha256": "7e9ec31a75a3c13a3f816d8423e46cff0d6e353d83b985198664a6e80fea1afa"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libbsl.lib'",
+            "./Release/prng.obj",
+            "./Release/keystore.obj",
+            "./Release/bslutils.obj",
+            "./Release/bsl.obj"
+        ],
+        "Content-Length": [
+            "1257",
+            "1163",
+            "1511",
+            "15666",
+            "7909",
+            "42017"
+        ],
+        "Last-Modified": [
+            "2006-06-30T18:40:13Z",
+            "2006-06-30T18:40:13Z",
+            "2006-06-30T18:35:28Z",
+            "2006-06-30T18:20:26Z",
+            "2006-06-30T18:20:26Z",
+            "2006-06-30T18:20:26Z"
+        ],
+        "Last-Save-Date": [
+            "2006-06-30T18:40:13Z",
+            "2006-06-30T18:40:13Z",
+            "2006-06-30T18:35:28Z",
+            "2006-06-30T18:20:26Z",
+            "2006-06-30T18:20:26Z",
+            "2006-06-30T18:20:26Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/embedded-2",
+            "/prng.obj",
+            "/keystore.obj",
+            "/bslutils.obj",
+            "/bsl.obj"
+        ],
+        "date": [
+            "2006-06-30T18:40:13Z",
+            "2006-06-30T18:40:13Z",
+            "2006-06-30T18:35:28Z",
+            "2006-06-30T18:20:26Z",
+            "2006-06-30T18:20:26Z",
+            "2006-06-30T18:20:26Z"
+        ],
+        "dcterms:modified": [
+            "2006-06-30T18:40:13Z",
+            "2006-06-30T18:40:13Z",
+            "2006-06-30T18:35:28Z",
+            "2006-06-30T18:20:26Z",
+            "2006-06-30T18:20:26Z",
+            "2006-06-30T18:20:26Z"
+        ],
+        "meta:save-date": [
+            "2006-06-30T18:40:13Z",
+            "2006-06-30T18:40:13Z",
+            "2006-06-30T18:35:28Z",
+            "2006-06-30T18:20:26Z",
+            "2006-06-30T18:20:26Z",
+            "2006-06-30T18:20:26Z"
+        ],
+        "modified": [
+            "2006-06-30T18:40:13Z",
+            "2006-06-30T18:40:13Z",
+            "2006-06-30T18:35:28Z",
+            "2006-06-30T18:20:26Z",
+            "2006-06-30T18:20:26Z",
+            "2006-06-30T18:20:26Z"
+        ],
+        "embeddedRelationshipId": [
+            "./Release/prng.obj",
+            "./Release/keystore.obj",
+            "./Release/bslutils.obj",
+            "./Release/bsl.obj"
+        ]
+    }
+}

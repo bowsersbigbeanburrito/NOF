@@ -1,0 +1,25 @@
+{
+    "fix-fixincl.patch": {
+        "modified": "2008-03-14 11:10:42",
+        "size": "3.34KB",
+        "md5": "15d208472412e226c8c447e23045181b",
+        "sha256": "4d351a6a654f0f99e7d426f34374a3c0582143ddb169b972df44a1f1e943975c"
+    },
+    "Metadata": {
+        "Author": "Dan Kegel",
+        "Content-Type": "message/rfc822",
+        "Message-From": "Dan Kegel",
+        "Message:From-Name": "Dan Kegel",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.mail.RFC822Parser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "creator": "Dan Kegel",
+        "dc:creator": "Dan Kegel",
+        "meta:author": "Dan Kegel",
+        "resourceName": "b'fix-fixincl.patch'"
+    }
+}

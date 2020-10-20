@@ -1,0 +1,107 @@
+{
+    "libvna.a": {
+        "modified": "2007-05-17 05:37:51",
+        "size": "18.09KB",
+        "md5": "a02102120ec740787a8faf83ce2c910b",
+        "sha256": "38ecdf32a67d1b28ecf247cecbba392ca9dce59a843c2eb2533a5c34c4e792ee"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'libvna.a'",
+            "vna_api.o",
+            "vna_errmsg.o"
+        ],
+        "Content-Length": [
+            "612",
+            "12900",
+            "4824"
+        ],
+        "Last-Modified": [
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z"
+        ],
+        "Last-Save-Date": [
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/vna_api.o",
+            "/vna_errmsg.o"
+        ],
+        "date": [
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z"
+        ],
+        "dcterms:modified": [
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z"
+        ],
+        "meta:save-date": [
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z"
+        ],
+        "modified": [
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z",
+            "2007-05-17T12:37:50Z"
+        ],
+        "embeddedRelationshipId": [
+            "vna_api.o",
+            "vna_errmsg.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

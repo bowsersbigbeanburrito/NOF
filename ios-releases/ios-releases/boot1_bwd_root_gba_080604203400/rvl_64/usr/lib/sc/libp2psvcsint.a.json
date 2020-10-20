@@ -1,0 +1,107 @@
+{
+    "libp2psvcsint.a": {
+        "modified": "2007-04-25 10:47:35",
+        "size": "8.07KB",
+        "md5": "68d57a27e32adbd75cd4c6995f19cfeb",
+        "sha256": "e87b5002a34a2dbae5cdaa4a4b079732b33e4c391d7fcaaeed32fad22ffd4dd9"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'libp2psvcsint.a'",
+            "p2p_svcs_i.o",
+            "p2p_svcs_misc.o"
+        ],
+        "Content-Length": [
+            "614",
+            "5168",
+            "2296"
+        ],
+        "Last-Modified": [
+            "2007-04-25T17:47:33Z",
+            "2007-04-25T17:47:33Z",
+            "2007-04-25T17:47:33Z"
+        ],
+        "Last-Save-Date": [
+            "2007-04-25T17:47:33Z",
+            "2007-04-25T17:47:33Z",
+            "2007-04-25T17:47:33Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/p2p_svcs_i.o",
+            "/p2p_svcs_misc.o"
+        ],
+        "date": [
+            "2007-04-25T17:47:33Z",
+            "2007-04-25T17:47:33Z",
+            "2007-04-25T17:47:33Z"
+        ],
+        "dcterms:modified": [
+            "2007-04-25T17:47:33Z",
+            "2007-04-25T17:47:33Z",
+            "2007-04-25T17:47:33Z"
+        ],
+        "meta:save-date": [
+            "2007-04-25T17:47:33Z",
+            "2007-04-25T17:47:33Z",
+            "2007-04-25T17:47:33Z"
+        ],
+        "modified": [
+            "2007-04-25T17:47:33Z",
+            "2007-04-25T17:47:33Z",
+            "2007-04-25T17:47:33Z"
+        ],
+        "embeddedRelationshipId": [
+            "p2p_svcs_i.o",
+            "p2p_svcs_misc.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

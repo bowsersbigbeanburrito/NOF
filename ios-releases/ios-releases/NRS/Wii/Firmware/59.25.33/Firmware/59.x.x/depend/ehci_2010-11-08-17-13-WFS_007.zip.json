@@ -1,0 +1,95 @@
+{
+    "ehci_2010-11-08-17-13-WFS_007.zip": {
+        "modified": "2011-09-29 19:06:18",
+        "size": "51.63KB",
+        "md5": "645679640e52d1df4e8c0089290b7d4d",
+        "sha256": "61a80c1b01f9e3b917df534b1c73864fda4ad550849cd776a9dea61b4d2bf72b"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'ehci_2010-11-08-17-13-WFS_007.zip'",
+            "rvl-128/ehci.elf",
+            "rvl-64/ehci.elf"
+        ],
+        "Content-Length": [
+            "88801",
+            "88801"
+        ],
+        "Last-Modified": [
+            "2010-11-08T08:29:33Z",
+            "2010-11-08T08:31:26Z"
+        ],
+        "Last-Save-Date": [
+            "2010-11-08T08:29:33Z",
+            "2010-11-08T08:31:26Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/ehci.elf",
+            "/ehci.elf"
+        ],
+        "date": [
+            "2010-11-08T08:29:33Z",
+            "2010-11-08T08:31:26Z"
+        ],
+        "dcterms:modified": [
+            "2010-11-08T08:29:33Z",
+            "2010-11-08T08:31:26Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-128/ehci.elf",
+            "rvl-64/ehci.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2010-11-08T08:29:33Z",
+            "2010-11-08T08:31:26Z"
+        ],
+        "modified": [
+            "2010-11-08T08:29:33Z",
+            "2010-11-08T08:31:26Z"
+        ]
+    }
+}

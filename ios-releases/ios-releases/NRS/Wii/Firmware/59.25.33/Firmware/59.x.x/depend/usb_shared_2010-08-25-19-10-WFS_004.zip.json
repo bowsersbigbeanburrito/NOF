@@ -1,0 +1,95 @@
+{
+    "usb_shared_2010-08-25-19-10-WFS_004.zip": {
+        "modified": "2011-09-29 19:06:18",
+        "size": "11.72KB",
+        "md5": "23c0eb7f523328938942302d56b2f11e",
+        "sha256": "161de9676cfcd66eddfa037689a8c18e00c76a112596b2017e74b3af5a1089d5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0"
+        ],
+        "resourceName": [
+            "b'usb_shared_2010-08-25-19-10-WFS_004.zip'",
+            "rvl-128/usb_shared.elf",
+            "rvl-64/usb_shared.elf"
+        ],
+        "Content-Length": [
+            "47556",
+            "47556"
+        ],
+        "Last-Modified": [
+            "2010-08-25T10:33:59Z",
+            "2010-08-25T10:35:07Z"
+        ],
+        "Last-Save-Date": [
+            "2010-08-25T10:33:59Z",
+            "2010-08-25T10:35:07Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/usb_shared.elf",
+            "/usb_shared.elf"
+        ],
+        "date": [
+            "2010-08-25T10:33:59Z",
+            "2010-08-25T10:35:07Z"
+        ],
+        "dcterms:modified": [
+            "2010-08-25T10:33:59Z",
+            "2010-08-25T10:35:07Z"
+        ],
+        "embeddedRelationshipId": [
+            "rvl-128/usb_shared.elf",
+            "rvl-64/usb_shared.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ],
+        "meta:save-date": [
+            "2010-08-25T10:33:59Z",
+            "2010-08-25T10:35:07Z"
+        ],
+        "modified": [
+            "2010-08-25T10:33:59Z",
+            "2010-08-25T10:35:07Z"
+        ]
+    }
+}

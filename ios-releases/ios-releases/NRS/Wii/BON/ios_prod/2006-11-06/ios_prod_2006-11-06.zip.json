@@ -1,0 +1,107 @@
+{
+    "ios_prod_2006-11-06.zip": {
+        "modified": "2008-04-02 14:11:04",
+        "size": "55.2KB",
+        "md5": "72a065ce3acbec9287d3ae19bef58ee8",
+        "sha256": "3b8ce120a460c821a3f387809afcbfbc55ff72d2f43560a63c4f5fd730c405ec"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'ios_prod_2006-11-06.zip'",
+            "WARNING_ios_prod.txt",
+            "rvl-128/ios_prod.elf",
+            "rvl-64/ios_prod.elf"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "31",
+            "1",
+            "191081"
+        ],
+        "Last-Modified": [
+            "2008-04-02T01:43:52Z",
+            "2008-04-02T01:43:51Z",
+            "2006-11-06T04:37:08Z"
+        ],
+        "Last-Save-Date": [
+            "2008-04-02T01:43:52Z",
+            "2008-04-02T01:43:51Z",
+            "2006-11-06T04:37:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/WARNING_ios_prod.txt",
+            "/ios_prod.elf",
+            "/ios_prod.elf"
+        ],
+        "date": [
+            "2008-04-02T01:43:52Z",
+            "2008-04-02T01:43:51Z",
+            "2006-11-06T04:37:08Z"
+        ],
+        "dcterms:modified": [
+            "2008-04-02T01:43:52Z",
+            "2008-04-02T01:43:51Z",
+            "2006-11-06T04:37:08Z"
+        ],
+        "embeddedRelationshipId": [
+            "WARNING_ios_prod.txt",
+            "rvl-128/ios_prod.elf",
+            "rvl-64/ios_prod.elf"
+        ],
+        "meta:save-date": [
+            "2008-04-02T01:43:52Z",
+            "2008-04-02T01:43:51Z",
+            "2006-11-06T04:37:08Z"
+        ],
+        "modified": [
+            "2008-04-02T01:43:52Z",
+            "2008-04-02T01:43:51Z",
+            "2006-11-06T04:37:08Z"
+        ],
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

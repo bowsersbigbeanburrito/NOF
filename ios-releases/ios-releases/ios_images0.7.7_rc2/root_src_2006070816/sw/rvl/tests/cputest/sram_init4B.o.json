@@ -1,0 +1,22 @@
+{
+    "sram_init4B.o": {
+        "modified": "2006-07-08 16:35:08",
+        "size": "0.58KB",
+        "md5": "e555e005646a99d47612d895586e7066",
+        "sha256": "2d10d7e17bdf36256964e78daa0efd2e249ba08b5bd7fba7730b0769174f59d8"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'sram_init4B.o'"
+    }
+}

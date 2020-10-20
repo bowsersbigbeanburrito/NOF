@@ -1,0 +1,22 @@
+{
+    "ehci_sdlog.elf": {
+        "modified": "2009-06-03 07:49:32",
+        "size": "96.96KB",
+        "md5": "303ac6bff77a1e55c722c154a1cefcb9",
+        "sha256": "e36e59fee2168bc4b1a34313fa9ab58712db3f61e2a31cf98c6aaa2e2c2cc213"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'ehci_sdlog.elf'"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "libintflash.a": {
+        "modified": "2007-06-08 18:03:02",
+        "size": "10.38KB",
+        "md5": "154e9fea3c54acd04437ca3f9c7d90f1",
+        "sha256": "1ac616af4160bdf30d8a982e89c23a493ffc7233a710a10169d12e2dd1a7d7e7"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libintflash.a'",
+            "fl_ops.o"
+        ],
+        "Content-Length": [
+            "296",
+            "10200"
+        ],
+        "Last-Modified": [
+            "2007-06-09T01:03:00Z",
+            "2007-06-09T01:03:00Z"
+        ],
+        "Last-Save-Date": [
+            "2007-06-09T01:03:00Z",
+            "2007-06-09T01:03:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/fl_ops.o"
+        ],
+        "date": [
+            "2007-06-09T01:03:00Z",
+            "2007-06-09T01:03:00Z"
+        ],
+        "dcterms:modified": [
+            "2007-06-09T01:03:00Z",
+            "2007-06-09T01:03:00Z"
+        ],
+        "meta:save-date": [
+            "2007-06-09T01:03:00Z",
+            "2007-06-09T01:03:00Z"
+        ],
+        "modified": [
+            "2007-06-09T01:03:00Z",
+            "2007-06-09T01:03:00Z"
+        ],
+        "embeddedRelationshipId": "fl_ops.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

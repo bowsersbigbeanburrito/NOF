@@ -1,0 +1,163 @@
+{
+    "boot0_nec_112905.zip": {
+        "modified": "2006-04-18 18:22:32",
+        "size": "3.62KB",
+        "md5": "d1c30743dc2092b707833059f00a29c7",
+        "sha256": "01db8370206e246fea298864cc8bac604c90e985a3f5b07a11ad37d0946b0be6"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'boot0_nec_112905.zip'",
+            "boot0_nec/boot0.md5sum",
+            "boot0_nec/boot0_rom1B.hex",
+            "boot0_nec/boot0_rom1B0.hex",
+            "boot0_nec/boot0_rom1B1.hex",
+            "boot0_nec/boot0_rom1B2.hex",
+            "boot0_nec/boot0_rom1B3.hex"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "254",
+            "18432",
+            "5120",
+            "5120",
+            "5120",
+            "5120"
+        ],
+        "Last-Modified": [
+            "2005-11-30T04:50:20Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z"
+        ],
+        "Last-Save-Date": [
+            "2005-11-30T04:50:20Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/boot0.md5sum",
+            "/boot0_rom1B.hex",
+            "/boot0_rom1B0.hex",
+            "/boot0_rom1B1.hex",
+            "/boot0_rom1B2.hex",
+            "/boot0_rom1B3.hex"
+        ],
+        "date": [
+            "2005-11-30T04:50:20Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z"
+        ],
+        "dcterms:modified": [
+            "2005-11-30T04:50:20Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z"
+        ],
+        "embeddedRelationshipId": [
+            "boot0_nec/boot0.md5sum",
+            "boot0_nec/boot0_rom1B.hex",
+            "boot0_nec/boot0_rom1B0.hex",
+            "boot0_nec/boot0_rom1B1.hex",
+            "boot0_nec/boot0_rom1B2.hex",
+            "boot0_nec/boot0_rom1B3.hex"
+        ],
+        "meta:save-date": [
+            "2005-11-30T04:50:20Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z"
+        ],
+        "modified": [
+            "2005-11-30T04:50:20Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z",
+            "2005-11-30T00:03:38Z"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "libdi.a": {
+        "modified": "2009-06-03 03:46:10",
+        "size": "16.45KB",
+        "md5": "3f3e1c15e3e2d4893d585251e6b2025d",
+        "sha256": "6bcc6efe179675c0811d34e3b7e261280c6bd05c3d7d95934fd6bdac4ba99b3a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libdi.a'",
+            "dvd_low_rvl.o"
+        ],
+        "Content-Length": [
+            "524",
+            "16192"
+        ],
+        "Last-Modified": [
+            "2009-06-03T10:46:09Z",
+            "2009-06-03T10:46:08Z"
+        ],
+        "Last-Save-Date": [
+            "2009-06-03T10:46:09Z",
+            "2009-06-03T10:46:08Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/dvd_low_rvl.o"
+        ],
+        "date": [
+            "2009-06-03T10:46:09Z",
+            "2009-06-03T10:46:08Z"
+        ],
+        "dcterms:modified": [
+            "2009-06-03T10:46:09Z",
+            "2009-06-03T10:46:08Z"
+        ],
+        "meta:save-date": [
+            "2009-06-03T10:46:09Z",
+            "2009-06-03T10:46:08Z"
+        ],
+        "modified": [
+            "2009-06-03T10:46:09Z",
+            "2009-06-03T10:46:08Z"
+        ],
+        "embeddedRelationshipId": "dvd_low_rvl.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

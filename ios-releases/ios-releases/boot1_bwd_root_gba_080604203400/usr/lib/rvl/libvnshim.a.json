@@ -1,0 +1,107 @@
+{
+    "libvnshim.a": {
+        "modified": "2008-06-04 21:39:20",
+        "size": "15.48KB",
+        "md5": "99af498dd367938d92fea5f609d54e4d",
+        "sha256": "e04e256e06fc1762e41c7e7ce67ef33c2fec3bce8c5382d151570a7710c47282"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libvnshim.a'",
+            "vnshim.o",
+            "vnapi_common.o"
+        ],
+        "Content-Length": [
+            "1154",
+            "12948",
+            "1564"
+        ],
+        "Last-Modified": [
+            "2008-06-05T04:39:20Z",
+            "2008-06-05T04:37:06Z",
+            "2008-06-05T04:39:04Z"
+        ],
+        "Last-Save-Date": [
+            "2008-06-05T04:39:20Z",
+            "2008-06-05T04:37:06Z",
+            "2008-06-05T04:39:04Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/vnshim.o",
+            "/vnapi_common.o"
+        ],
+        "date": [
+            "2008-06-05T04:39:20Z",
+            "2008-06-05T04:37:06Z",
+            "2008-06-05T04:39:04Z"
+        ],
+        "dcterms:modified": [
+            "2008-06-05T04:39:20Z",
+            "2008-06-05T04:37:06Z",
+            "2008-06-05T04:39:04Z"
+        ],
+        "meta:save-date": [
+            "2008-06-05T04:39:20Z",
+            "2008-06-05T04:37:06Z",
+            "2008-06-05T04:39:04Z"
+        ],
+        "modified": [
+            "2008-06-05T04:39:20Z",
+            "2008-06-05T04:37:06Z",
+            "2008-06-05T04:39:04Z"
+        ],
+        "embeddedRelationshipId": [
+            "vnshim.o",
+            "vnapi_common.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM"
+        ]
+    }
+}

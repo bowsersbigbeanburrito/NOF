@@ -1,0 +1,107 @@
+{
+    "di_boot_prod_2007-06-09-8M.zip": {
+        "modified": "2008-04-02 14:11:00",
+        "size": "27.06KB",
+        "md5": "8e18edd2acdeeded0912d9ac8d449eaf",
+        "sha256": "b1a0afa60d9c9927a0a8904cb15d0ece9c5eacc6c573fae44e83ec7d5b809e78"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "text/plain; charset=ISO-8859-1",
+            "text/plain; charset=ISO-8859-1",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'di_boot_prod_2007-06-09-8M.zip'",
+            "WARNING_di_boot_prod.txt",
+            "rvl-128/di_boot_prod.elf",
+            "rvl-64/di_boot_prod.elf"
+        ],
+        "Content-Encoding": [
+            "ISO-8859-1",
+            "ISO-8859-1"
+        ],
+        "Content-Length": [
+            "35",
+            "1",
+            "100252"
+        ],
+        "Last-Modified": [
+            "2008-04-02T00:00:47Z",
+            "2008-04-02T00:00:47Z",
+            "2007-06-09T01:38:00Z"
+        ],
+        "Last-Save-Date": [
+            "2008-04-02T00:00:47Z",
+            "2008-04-02T00:00:47Z",
+            "2007-06-09T01:38:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/WARNING_di_boot_prod.txt",
+            "/di_boot_prod.elf",
+            "/di_boot_prod.elf"
+        ],
+        "date": [
+            "2008-04-02T00:00:47Z",
+            "2008-04-02T00:00:47Z",
+            "2007-06-09T01:38:00Z"
+        ],
+        "dcterms:modified": [
+            "2008-04-02T00:00:47Z",
+            "2008-04-02T00:00:47Z",
+            "2007-06-09T01:38:00Z"
+        ],
+        "embeddedRelationshipId": [
+            "WARNING_di_boot_prod.txt",
+            "rvl-128/di_boot_prod.elf",
+            "rvl-64/di_boot_prod.elf"
+        ],
+        "meta:save-date": [
+            "2008-04-02T00:00:47Z",
+            "2008-04-02T00:00:47Z",
+            "2007-06-09T01:38:00Z"
+        ],
+        "modified": [
+            "2008-04-02T00:00:47Z",
+            "2008-04-02T00:00:47Z",
+            "2007-06-09T01:38:00Z"
+        ],
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "libec.a": {
+        "modified": "2007-09-10 19:32:23",
+        "size": "13.66KB",
+        "md5": "d125093b04790425e8c802304ce0f83a",
+        "sha256": "4b1672be63906510e230da7f50222e7a4c7182631f31180fea9abc0bdc75dcee"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libec.a'",
+            "ec_shim.o"
+        ],
+        "Content-Length": [
+            "1088",
+            "12776"
+        ],
+        "Last-Modified": [
+            "2007-10-01T20:32:23Z",
+            "2007-10-01T20:32:23Z"
+        ],
+        "Last-Save-Date": [
+            "2007-10-01T20:32:23Z",
+            "2007-10-01T20:32:23Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ec_shim.o"
+        ],
+        "date": [
+            "2007-10-01T20:32:23Z",
+            "2007-10-01T20:32:23Z"
+        ],
+        "dcterms:modified": [
+            "2007-10-01T20:32:23Z",
+            "2007-10-01T20:32:23Z"
+        ],
+        "meta:save-date": [
+            "2007-10-01T20:32:23Z",
+            "2007-10-01T20:32:23Z"
+        ],
+        "modified": [
+            "2007-10-01T20:32:23Z",
+            "2007-10-01T20:32:23Z"
+        ],
+        "embeddedRelationshipId": "ec_shim.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Little",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

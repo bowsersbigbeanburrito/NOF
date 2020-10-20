@@ -1,0 +1,22 @@
+{
+    "stress_std.elf": {
+        "modified": "2006-07-07 19:55:30",
+        "size": "126.85KB",
+        "md5": "85143d4be2a31a16d9dc009f4502f239",
+        "sha256": "1090af0b994257c770e84f9c2daafcf4d8c4ab528b404e670b43438eb8de2446"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'stress_std.elf'"
+    }
+}

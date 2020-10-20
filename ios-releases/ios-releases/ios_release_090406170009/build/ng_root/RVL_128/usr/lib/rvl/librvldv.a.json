@@ -1,0 +1,76 @@
+{
+    "librvldv.a": {
+        "modified": "2009-04-06 17:08:51",
+        "size": "1.04KB",
+        "md5": "39cba3d88ecd1caa36230780bd326729",
+        "sha256": "5589881abec76ce7f40f79d19a814cd036e9be2c98ebcb43cda31500b6925685"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'librvldv.a'",
+            "rvldv.o"
+        ],
+        "Content-Length": [
+            "28",
+            "912"
+        ],
+        "Last-Modified": [
+            "2009-04-07T00:08:51Z",
+            "2009-04-07T00:08:51Z"
+        ],
+        "Last-Save-Date": [
+            "2009-04-07T00:08:51Z",
+            "2009-04-07T00:08:51Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/rvldv.o"
+        ],
+        "date": [
+            "2009-04-07T00:08:51Z",
+            "2009-04-07T00:08:51Z"
+        ],
+        "dcterms:modified": [
+            "2009-04-07T00:08:51Z",
+            "2009-04-07T00:08:51Z"
+        ],
+        "meta:save-date": [
+            "2009-04-07T00:08:51Z",
+            "2009-04-07T00:08:51Z"
+        ],
+        "modified": [
+            "2009-04-07T00:08:51Z",
+            "2009-04-07T00:08:51Z"
+        ],
+        "embeddedRelationshipId": "rvldv.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM"
+    }
+}

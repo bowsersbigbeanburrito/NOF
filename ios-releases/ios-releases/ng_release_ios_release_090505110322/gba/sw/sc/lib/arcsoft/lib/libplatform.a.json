@@ -1,0 +1,191 @@
+{
+    "libplatform.a": {
+        "modified": "2009-05-05 11:09:06",
+        "size": "28.92KB",
+        "md5": "53a9fd2075ed8d326b17c34d5396b11e",
+        "sha256": "1edfe72ad20e4095c82d7d624e63d77b78698c3eebe608e10f4a62d87a29896a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'libplatform.a'",
+            "AMIni.o",
+            "ammem.o",
+            "AMMemStream.o",
+            "AMStrCommon.o",
+            "AMStream.o",
+            "amtimer.o"
+        ],
+        "Content-Length": [
+            "888",
+            "16316",
+            "1220",
+            "2252",
+            "2092",
+            "4268",
+            "2148"
+        ],
+        "Last-Modified": [
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:42:58Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z"
+        ],
+        "Last-Save-Date": [
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:42:58Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/AMIni.o",
+            "/ammem.o",
+            "/AMMemStream.o",
+            "/AMStrCommon.o",
+            "/AMStream.o",
+            "/amtimer.o"
+        ],
+        "date": [
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:42:58Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z"
+        ],
+        "dcterms:modified": [
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:42:58Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z"
+        ],
+        "meta:save-date": [
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:42:58Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z"
+        ],
+        "modified": [
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:42:58Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z",
+            "2005-11-01T08:43:00Z"
+        ],
+        "embeddedRelationshipId": [
+            "AMIni.o",
+            "ammem.o",
+            "AMMemStream.o",
+            "AMStrCommon.o",
+            "AMStream.o",
+            "amtimer.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ],
+        "machine:platform": [
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM",
+            "ARM"
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "diskusage.txt": {
+        "modified": "2008-05-01 13:23:24",
+        "size": "1.55KB",
+        "md5": "b0df52b9781eb908280cabd746a22976",
+        "sha256": "6b28e8d5deac703f4289a747fa4c7d5088022dea13e05547847c6136015eaae9"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "41",
+        "csv:delimiter": "tab",
+        "resourceName": "b'diskusage.txt'"
+    }
+}

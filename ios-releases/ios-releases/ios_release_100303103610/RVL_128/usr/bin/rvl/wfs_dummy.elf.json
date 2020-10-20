@@ -1,0 +1,22 @@
+{
+    "wfs_dummy.elf": {
+        "modified": "2010-03-03 10:42:06",
+        "size": "55.95KB",
+        "md5": "6f93aff95217adcbe22df6a47dddf1f7",
+        "sha256": "cffdc6b2e21ac25555dba7cd9f3492c5f267a76cc1baafa512db862ca469743f"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-executable",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "ARM",
+        "machine:platform": "ARM",
+        "resourceName": "b'wfs_dummy.elf'"
+    }
+}

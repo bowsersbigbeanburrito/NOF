@@ -1,0 +1,103 @@
+{
+    "libnvm.a": {
+        "modified": "2008-02-20 16:53:52",
+        "size": "16.55KB",
+        "md5": "11efc7b392a95a97d60d4f2ed8590ed7",
+        "sha256": "f399515ffaf5c56e7c984fb934112897f1c923ff41135038692f0abdb577e798"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'libnvm.a'",
+            "nvm.o",
+            "root.o"
+        ],
+        "Content-Length": [
+            "522",
+            "11876",
+            "4360"
+        ],
+        "Last-Modified": [
+            "2008-02-21T00:53:51Z",
+            "2008-02-21T00:53:51Z",
+            "2008-02-21T00:53:51Z"
+        ],
+        "Last-Save-Date": [
+            "2008-02-21T00:53:51Z",
+            "2008-02-21T00:53:51Z",
+            "2008-02-21T00:53:51Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/nvm.o",
+            "/root.o"
+        ],
+        "date": [
+            "2008-02-21T00:53:51Z",
+            "2008-02-21T00:53:51Z",
+            "2008-02-21T00:53:51Z"
+        ],
+        "dcterms:modified": [
+            "2008-02-21T00:53:51Z",
+            "2008-02-21T00:53:51Z",
+            "2008-02-21T00:53:51Z"
+        ],
+        "meta:save-date": [
+            "2008-02-21T00:53:51Z",
+            "2008-02-21T00:53:51Z",
+            "2008-02-21T00:53:51Z"
+        ],
+        "modified": [
+            "2008-02-21T00:53:51Z",
+            "2008-02-21T00:53:51Z",
+            "2008-02-21T00:53:51Z"
+        ],
+        "embeddedRelationshipId": [
+            "nvm.o",
+            "root.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Little",
+            "Little"
+        ],
+        "machine:machineType": [
+            "x86-32",
+            "x86-32"
+        ]
+    }
+}

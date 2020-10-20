@@ -1,0 +1,21 @@
+{
+    "boot1_prod_diag.list": {
+        "modified": "2009-04-06 17:11:02",
+        "size": "260.45KB",
+        "md5": "6ccaa37df11c12869acdb52e54e31378",
+        "sha256": "f36f328d62396b0ebe93e822e609c3624a6697a4ad0cb1cbb1072f741c479501"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "10",
+        "csv:delimiter": "tab",
+        "resourceName": "b'boot1_prod_diag.list'"
+    }
+}
