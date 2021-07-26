@@ -1,0 +1,20 @@
+{
+    "foo.txt,v": {
+        "modified": "2006-02-23 14:41:56",
+        "size": "1.49KB",
+        "md5": "7e6fcd97028e92186c876207fb2bb96d",
+        "sha256": "6cec6a2edc82f6649594c4f0336113252334c3ba7d32e03dcb356e3b529d03ff"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/html; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.html.HtmlParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'foo.txt,v'"
+    }
+}

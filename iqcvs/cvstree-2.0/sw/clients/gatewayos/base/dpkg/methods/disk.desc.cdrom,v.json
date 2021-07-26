@@ -1,0 +1,21 @@
+{
+    "disk.desc.cdrom,v": {
+        "modified": "2006-02-23 14:38:38",
+        "size": "1.72KB",
+        "md5": "6c7840fb8e89fb2ff19b84dfdc071844",
+        "sha256": "924d2b103d89575296b71c2f83f41533e358a857bbe28a78177059ac962966b9"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'disk.desc.cdrom,v'"
+    }
+}

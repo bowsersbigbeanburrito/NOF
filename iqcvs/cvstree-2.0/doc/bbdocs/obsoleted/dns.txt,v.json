@@ -1,0 +1,21 @@
+{
+    "dns.txt,v": {
+        "modified": "2003-08-29 15:00:40",
+        "size": "6.67KB",
+        "md5": "443633003e8a47bf9181c6b9f5acaf1d",
+        "sha256": "79a38041b531724e413c6837386663de461c6fc92684509252f609e381a61892"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "5",
+        "csv:delimiter": "tab",
+        "resourceName": "b'dns.txt,v'"
+    }
+}

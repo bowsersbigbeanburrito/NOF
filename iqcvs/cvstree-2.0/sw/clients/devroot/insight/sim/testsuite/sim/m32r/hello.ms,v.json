@@ -1,0 +1,20 @@
+{
+    "hello.ms,v": {
+        "modified": "2006-02-23 14:38:28",
+        "size": "1.0KB",
+        "md5": "3e1f73275dc084ad9ea3a0b601e35bf8",
+        "sha256": "334c19ba639db8e5b39fd452fe0f66460176015773352f5776a5127808f5b27b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'hello.ms,v'"
+    }
+}

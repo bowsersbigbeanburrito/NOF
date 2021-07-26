@@ -1,0 +1,21 @@
+{
+    "disk_diag,v": {
+        "modified": "2006-02-23 14:39:16",
+        "size": "1.55KB",
+        "md5": "3bbd4f191ed16f9f67bcecddfe2841df",
+        "sha256": "afd3d5a27e9c9a8e3baa1b44bef074a56d5787deb389fa08c375e16d7249d020"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'disk_diag,v'"
+    }
+}

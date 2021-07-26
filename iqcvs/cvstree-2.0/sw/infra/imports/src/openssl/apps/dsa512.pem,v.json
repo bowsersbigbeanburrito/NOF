@@ -1,0 +1,21 @@
+{
+    "dsa512.pem,v": {
+        "modified": "2006-02-23 14:41:39",
+        "size": "1.85KB",
+        "md5": "ccb8bf1c71b1d4d2e7c89d5130f5c6a5",
+        "sha256": "43836a75741509d2c5cc8600b44c34ff0eaa4bdc70d1b32bf4b91df9896d80ec"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'dsa512.pem,v'"
+    }
+}

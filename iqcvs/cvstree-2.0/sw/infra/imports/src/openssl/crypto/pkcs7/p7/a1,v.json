@@ -1,0 +1,21 @@
+{
+    "a1,v": {
+        "modified": "2006-02-23 14:41:42",
+        "size": "1.64KB",
+        "md5": "d4bfe3af6c2811380922feb1caf1cf56",
+        "sha256": "a45e51f84d231cdb98c95de87434a6dd5c4adcaa050be3c91ea44a8b044dfb4d"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-15",
+        "Content-Type": "text/tsv; charset=ISO-8859-15; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'a1,v'"
+    }
+}

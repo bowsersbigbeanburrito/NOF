@@ -1,0 +1,20 @@
+{
+    "testsmtp001.root.stderr.gold,v": {
+        "modified": "2006-02-23 14:40:18",
+        "size": "0.68KB",
+        "md5": "95965596db77a66cf20c69ad1b8de0ce",
+        "sha256": "0700aca292652a2d512a0c88e14289c7273a8cd2d4e176a27d62d7be1b02ae23"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'testsmtp001.root.stderr.gold,v'"
+    }
+}

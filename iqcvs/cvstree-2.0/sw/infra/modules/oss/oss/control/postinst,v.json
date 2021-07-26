@@ -1,0 +1,20 @@
+{
+    "postinst,v": {
+        "modified": "2006-05-09 19:00:22",
+        "size": "0.3KB",
+        "md5": "2d74cff15a5949c133477b7fd72ad623",
+        "sha256": "440dda1ec9e414b6eae097397d9ac780a4e084025d64a91ace3bc517299dcb7c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'postinst,v'"
+    }
+}

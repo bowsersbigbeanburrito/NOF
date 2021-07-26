@@ -1,0 +1,21 @@
+{
+    "subsubfile1,v": {
+        "modified": "2006-02-23 14:42:08",
+        "size": "1.18KB",
+        "md5": "0d65ba405e3a5ec73d9115fb692687dd",
+        "sha256": "29354eb9144708ef2a2061215974ce301ad2af6036036fb8b86aece325d56024"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'subsubfile1,v'"
+    }
+}

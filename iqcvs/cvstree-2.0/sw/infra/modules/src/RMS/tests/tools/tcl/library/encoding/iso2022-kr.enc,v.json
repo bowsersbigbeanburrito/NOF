@@ -1,0 +1,21 @@
+{
+    "iso2022-kr.enc,v": {
+        "modified": "2006-02-23 14:42:10",
+        "size": "1.26KB",
+        "md5": "a49b8ab192845458cfa3561e7f39546a",
+        "sha256": "dd9cc19e14e33738c5a87816328fbf5acf6512feba9ca8e7b5c318ddf0f27812"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "0",
+        "csv:delimiter": "tab",
+        "resourceName": "b'iso2022-kr.enc,v'"
+    }
+}

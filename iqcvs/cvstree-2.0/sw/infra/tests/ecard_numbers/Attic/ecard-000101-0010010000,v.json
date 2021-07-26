@@ -1,0 +1,21 @@
+{
+    "ecard-000101-0010010000,v": {
+        "modified": "2006-05-01 14:00:28",
+        "size": "351.88KB",
+        "md5": "861b099540b28d9ea56fbe7b9c0e36ca",
+        "sha256": "42071b00db3c33321bb6cbf83e98bbb3cc4101948b634fb858de56d0c43e3e3b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "16",
+        "csv:delimiter": "tab",
+        "resourceName": "b'ecard-000101-0010010000,v'"
+    }
+}

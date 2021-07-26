@@ -1,0 +1,21 @@
+{
+    "test_bad_certificate.out,v": {
+        "modified": "2006-02-23 14:42:07",
+        "size": "1.18KB",
+        "md5": "8800e9bb9f3dbecb6a46b2fedf7ffea5",
+        "sha256": "0b704e13c794aee8432742d992ac216adcbf5d6e60af36fe832276ba6c3b6eb9"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'test_bad_certificate.out,v'"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "test000.root.stderr.gold,v": {
+        "modified": "2006-02-23 14:40:18",
+        "size": "0.88KB",
+        "md5": "81cf07ddcb88086f9bfd889099ebff26",
+        "sha256": "1fd54a4d2e2d07cfaa468390e2aac4b58a347cf0f4c52987d5b525c8f865ffdb"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'test000.root.stderr.gold,v'"
+    }
+}

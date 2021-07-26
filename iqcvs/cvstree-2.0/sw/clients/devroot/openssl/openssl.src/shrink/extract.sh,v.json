@@ -1,0 +1,21 @@
+{
+    "extract.sh,v": {
+        "modified": "2006-02-23 14:38:33",
+        "size": "1.22KB",
+        "md5": "d4a5b38a0d12290fb56f84589001e82c",
+        "sha256": "1ba087449dea4cffaf844a458e45a0b5683323fe6c2174e2bcf09337239a54e5"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'extract.sh,v'"
+    }
+}

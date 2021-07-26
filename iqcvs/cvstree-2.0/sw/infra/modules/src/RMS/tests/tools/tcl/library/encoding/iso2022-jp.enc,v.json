@@ -1,0 +1,21 @@
+{
+    "iso2022-jp.enc,v": {
+        "modified": "2006-02-23 14:42:10",
+        "size": "1.34KB",
+        "md5": "f1b25b69ae73b1435c4d126d434a6ae9",
+        "sha256": "50b626d00ff8878d8e8e204bb8b4e9231cc01c6cde9c87ba1133bc9840dbb2ae"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'iso2022-jp.enc,v'"
+    }
+}

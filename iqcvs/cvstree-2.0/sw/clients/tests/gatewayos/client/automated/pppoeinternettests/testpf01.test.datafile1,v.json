@@ -1,0 +1,20 @@
+{
+    "testpf01.test.datafile1,v": {
+        "modified": "2006-02-23 14:39:57",
+        "size": "26.41KB",
+        "md5": "26ea888960c98734ed214ea5d0c9a2aa",
+        "sha256": "c2d98a8e4b688a287115fd60478df38dfc15cd8b85a81e15b5f1a7e17c43f08a"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "resourceName": "b'testpf01.test.datafile1,v'"
+    }
+}

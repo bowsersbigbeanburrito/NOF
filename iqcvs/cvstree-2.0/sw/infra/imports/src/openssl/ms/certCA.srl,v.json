@@ -1,0 +1,21 @@
+{
+    "certCA.srl,v": {
+        "modified": "2006-02-23 14:41:43",
+        "size": "1.58KB",
+        "md5": "bda75928d8d71e4a132cf3f767325955",
+        "sha256": "d304514b60e7c84bef2bcea872521dbf0369b986e056667e229e0b413320b952"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'certCA.srl,v'"
+    }
+}

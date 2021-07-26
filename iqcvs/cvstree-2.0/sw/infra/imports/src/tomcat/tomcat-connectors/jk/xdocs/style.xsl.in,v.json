@@ -1,0 +1,32 @@
+{
+    "style.xsl.in,v": {
+        "modified": "2006-02-23 14:41:52",
+        "size": "24.35KB",
+        "md5": "d14e64bb4c7a6449d5e26abc339e68e2",
+        "sha256": "9b93386355eb1ac185032c7dc5c1b94888b88a53cf15e34b97c497dc907fa635"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/html; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.html.HtmlParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "author": [
+            "{$name}",
+            "{text()}"
+        ],
+        "copyright": "1999-2002 The Apache Software Foundation",
+        "dc:title": "",
+        "email": [
+            "{$email}",
+            "{@@email}"
+        ],
+        "last-changed": "{$date}",
+        "resourceName": "b'style.xsl.in,v'",
+        "title": ""
+    }
+}

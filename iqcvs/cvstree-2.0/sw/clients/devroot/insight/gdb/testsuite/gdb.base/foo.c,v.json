@@ -1,0 +1,20 @@
+{
+    "foo.c,v": {
+        "modified": "2006-02-23 14:38:23",
+        "size": "0.89KB",
+        "md5": "810a494f690c521a556187e760857c54",
+        "sha256": "8640863ac0b0d2b7b4b6aaf1f04d9bca0756f4d610a9be7898b4894a829ddc8d"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/plain; charset=ISO-8859-1",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "resourceName": "b'foo.c,v'"
+    }
+}

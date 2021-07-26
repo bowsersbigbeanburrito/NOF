@@ -1,0 +1,21 @@
+{
+    "predict.def,v": {
+        "modified": "2006-02-23 14:37:21",
+        "size": "4.78KB",
+        "md5": "46d0488955539c94ff02e9fbd0eeea11",
+        "sha256": "e80975934cbf42f45aff0f7a18ea95695da02c86c698f33dc5de704597dae84c"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/csv; charset=ISO-8859-1; delimiter=comma",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "comma",
+        "resourceName": "b'predict.def,v'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "serial,v": {
+        "modified": "2006-02-23 14:41:41",
+        "size": "1.58KB",
+        "md5": "4e2c9edd60bb2af02d493b0083ce2b0a",
+        "sha256": "b21b8275e0ae357aa3ca87480c647e699cf80439f69db54c3492059ca12b5b1b"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'serial,v'"
+    }
+}

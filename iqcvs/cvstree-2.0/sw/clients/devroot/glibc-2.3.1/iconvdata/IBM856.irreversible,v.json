@@ -1,0 +1,21 @@
+{
+    "IBM856.irreversible,v": {
+        "modified": "2006-02-23 14:38:10",
+        "size": "1.14KB",
+        "md5": "2510541e0359a902ec55d22e41d99bcd",
+        "sha256": "0972705a9c4783dce1a14872233766ffc04ede9e9e75545c759e2d73288dfab3"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'IBM856.irreversible,v'"
+    }
+}

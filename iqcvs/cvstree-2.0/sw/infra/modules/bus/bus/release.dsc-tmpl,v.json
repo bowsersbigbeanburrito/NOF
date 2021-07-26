@@ -1,0 +1,21 @@
+{
+    "release.dsc-tmpl,v": {
+        "modified": "2006-02-23 14:41:57",
+        "size": "15.57KB",
+        "md5": "00b3e47d6d1fabbd9752ab9eb404a576",
+        "sha256": "4b671891aab23c7febac52d16325acc673d677ea300bf48f638a1f3c57bb3035"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "csv:delimiter": "tab",
+        "resourceName": "b'release.dsc-tmpl,v'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "crash.out,v": {
+        "modified": "2006-02-23 14:36:20",
+        "size": "21.57KB",
+        "md5": "8b253c25b3da2b2d9ded84e30b8801fc",
+        "sha256": "1510219614b5b8742b8ebdbee0c8efcb6f8a5dd660e0414fd12a8a2cfa1b4ebe"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "5",
+        "csv:delimiter": "tab",
+        "resourceName": "b'crash.out,v'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "labtest.txt,v": {
+        "modified": "2006-02-23 14:38:53",
+        "size": "1.62KB",
+        "md5": "7cb36339dd518d74e0bc8f9374ef9961",
+        "sha256": "56d8a3f34ae9db2f447abc884f1b951b83e7c8332305871f793b5ac61ab28a5e"
+    },
+    "Metadata": {
+        "Content-Encoding": "ISO-8859-1",
+        "Content-Type": "text/tsv; charset=ISO-8859-1; delimiter=tab",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.csv.TextAndCSVParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "csv:delimiter": "tab",
+        "resourceName": "b'labtest.txt,v'"
+    }
+}
