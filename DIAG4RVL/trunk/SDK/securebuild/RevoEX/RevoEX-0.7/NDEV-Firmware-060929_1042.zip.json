@@ -1,0 +1,154 @@
+{
+    "NDEV-Firmware-060929_1042.zip": {
+        "modified": "2018-05-12 20:53:26",
+        "size": "3305.35KB",
+        "md5": "0c349d4c6a218891767bdedfae42710d",
+        "sha256": "2e8b80895225cd47596530735e8b25a6b4ec194f8e307a39b403a0e73662ce3a"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/octet-stream",
+            "application/octet-stream",
+            "application/octet-stream",
+            "text/plain; charset=Shift_JIS",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "7",
+            "1",
+            "0",
+            "1",
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'NDEV-Firmware-060929_1042.zip'",
+            "NDEV-Firmware/after_update/rvl.076.nofw.bin",
+            "NDEV-Firmware/after_update/rvl.8.nofw.bin",
+            "NDEV-Firmware/after_update/rvl.nofw.bin",
+            "NDEV-Firmware/Readme-NDEV-Firmware_jp.txt",
+            "NDEV-Firmware/RVL/bin/tools/firmware.128.8.2.3.cobra.elf",
+            "NDEV-Firmware/RVL/bin/tools/showlist.elf"
+        ],
+        "Content-Length": [
+            "2097152",
+            "2097152",
+            "2097152",
+            "3715",
+            "1938624",
+            "368096"
+        ],
+        "Last-Modified": [
+            "2006-09-19T05:58:05Z",
+            "2006-09-19T05:58:05Z",
+            "2006-09-19T05:58:05Z",
+            "2006-09-29T02:20:48Z",
+            "2006-09-29T02:04:21Z",
+            "2006-09-29T02:06:15Z"
+        ],
+        "Last-Save-Date": [
+            "2006-09-19T05:58:05Z",
+            "2006-09-19T05:58:05Z",
+            "2006-09-19T05:58:05Z",
+            "2006-09-29T02:20:48Z",
+            "2006-09-29T02:04:21Z",
+            "2006-09-29T02:06:15Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/rvl.076.nofw.bin",
+            "/rvl.8.nofw.bin",
+            "/rvl.nofw.bin",
+            "/Readme-NDEV-Firmware_jp.txt",
+            "/firmware.128.8.2.3.cobra.elf",
+            "/showlist.elf"
+        ],
+        "date": [
+            "2006-09-19T05:58:05Z",
+            "2006-09-19T05:58:05Z",
+            "2006-09-19T05:58:05Z",
+            "2006-09-29T02:20:48Z",
+            "2006-09-29T02:04:21Z",
+            "2006-09-29T02:06:15Z"
+        ],
+        "dcterms:modified": [
+            "2006-09-19T05:58:05Z",
+            "2006-09-19T05:58:05Z",
+            "2006-09-19T05:58:05Z",
+            "2006-09-29T02:20:48Z",
+            "2006-09-29T02:04:21Z",
+            "2006-09-29T02:06:15Z"
+        ],
+        "embeddedRelationshipId": [
+            "NDEV-Firmware/after_update/rvl.076.nofw.bin",
+            "NDEV-Firmware/after_update/rvl.8.nofw.bin",
+            "NDEV-Firmware/after_update/rvl.nofw.bin",
+            "NDEV-Firmware/Readme-NDEV-Firmware_jp.txt",
+            "NDEV-Firmware/RVL/bin/tools/firmware.128.8.2.3.cobra.elf",
+            "NDEV-Firmware/RVL/bin/tools/showlist.elf"
+        ],
+        "meta:save-date": [
+            "2006-09-19T05:58:05Z",
+            "2006-09-19T05:58:05Z",
+            "2006-09-19T05:58:05Z",
+            "2006-09-29T02:20:48Z",
+            "2006-09-29T02:04:21Z",
+            "2006-09-29T02:06:15Z"
+        ],
+        "modified": [
+            "2006-09-19T05:58:05Z",
+            "2006-09-19T05:58:05Z",
+            "2006-09-19T05:58:05Z",
+            "2006-09-29T02:20:48Z",
+            "2006-09-29T02:04:21Z",
+            "2006-09-29T02:06:15Z"
+        ],
+        "Content-Encoding": "Shift_JIS",
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ]
+    }
+}

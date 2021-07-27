@@ -1,0 +1,40 @@
+{
+    "fb128.c.gz": {
+        "modified": "2018-05-12 20:50:46",
+        "size": "939.86KB",
+        "md5": "df85b219e4f98678827e28887bb7ebf0",
+        "sha256": "34f339be68728c8c6284e838bcf37758616d79492591119b5ec59fa31f319edd"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/x-csrc; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "22",
+            "20"
+        ],
+        "resourceName": [
+            "b'fb128.c.gz'",
+            "b'fb128.c.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'fb128.c.gz'"
+    }
+}

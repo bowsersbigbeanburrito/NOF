@@ -1,0 +1,40 @@
+{
+    "fb64.c.gz": {
+        "modified": "2018-05-12 20:50:46",
+        "size": "939.9KB",
+        "md5": "32e6d7b36111e174d19c236a1771b618",
+        "sha256": "c72aee7451547b85c1a0a08729480dac347f5fbf8785b03269cd8bf20fe94087"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/x-csrc; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "28",
+            "25"
+        ],
+        "resourceName": [
+            "b'fb64.c.gz'",
+            "b'fb64.c.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'fb64.c.gz'"
+    }
+}

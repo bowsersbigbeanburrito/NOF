@@ -1,0 +1,21 @@
+{
+    "hoge.o": {
+        "modified": "2018-05-12 20:51:34",
+        "size": "1.27KB",
+        "md5": "5a7d219dde964e342e8f7f818cfb84fb",
+        "sha256": "08a751e9230e74807500b6a73386dc4f6431436227efc0678580261e3999471f"
+    },
+    "Metadata": {
+        "Content-Type": "application/x-object",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.executable.ExecutableParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "1",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC",
+        "resourceName": "b'hoge.o'"
+    }
+}

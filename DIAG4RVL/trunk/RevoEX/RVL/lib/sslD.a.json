@@ -1,0 +1,143 @@
+{
+    "sslD.a": {
+        "modified": "2018-05-12 21:09:28",
+        "size": "53.28KB",
+        "md5": "dc7475fe28734808a68d1bcceb41c17b",
+        "sha256": "62af26f98923e42846ec99525e912950906943d267919468d7309de9ff46bbb5"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'sslD.a'",
+            "ssl_api.o",
+            "ssl_mutex.o",
+            "ssl_print.o",
+            "psclient.o"
+        ],
+        "Content-Length": [
+            "2577",
+            "38376",
+            "6288",
+            "4208",
+            "2800"
+        ],
+        "Last-Modified": [
+            "2007-11-06T23:10:07Z",
+            "2007-11-06T23:10:03Z",
+            "2007-11-06T23:10:04Z",
+            "2007-11-06T23:10:05Z",
+            "2007-11-06T23:10:06Z"
+        ],
+        "Last-Save-Date": [
+            "2007-11-06T23:10:07Z",
+            "2007-11-06T23:10:03Z",
+            "2007-11-06T23:10:04Z",
+            "2007-11-06T23:10:05Z",
+            "2007-11-06T23:10:06Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ssl_api.o",
+            "/ssl_mutex.o",
+            "/ssl_print.o",
+            "/psclient.o"
+        ],
+        "date": [
+            "2007-11-06T23:10:07Z",
+            "2007-11-06T23:10:03Z",
+            "2007-11-06T23:10:04Z",
+            "2007-11-06T23:10:05Z",
+            "2007-11-06T23:10:06Z"
+        ],
+        "dcterms:modified": [
+            "2007-11-06T23:10:07Z",
+            "2007-11-06T23:10:03Z",
+            "2007-11-06T23:10:04Z",
+            "2007-11-06T23:10:05Z",
+            "2007-11-06T23:10:06Z"
+        ],
+        "meta:save-date": [
+            "2007-11-06T23:10:07Z",
+            "2007-11-06T23:10:03Z",
+            "2007-11-06T23:10:04Z",
+            "2007-11-06T23:10:05Z",
+            "2007-11-06T23:10:06Z"
+        ],
+        "modified": [
+            "2007-11-06T23:10:07Z",
+            "2007-11-06T23:10:03Z",
+            "2007-11-06T23:10:04Z",
+            "2007-11-06T23:10:05Z",
+            "2007-11-06T23:10:06Z"
+        ],
+        "embeddedRelationshipId": [
+            "ssl_api.o",
+            "ssl_mutex.o",
+            "ssl_print.o",
+            "psclient.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

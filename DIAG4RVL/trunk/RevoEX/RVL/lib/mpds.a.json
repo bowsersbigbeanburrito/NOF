@@ -1,0 +1,75 @@
+{
+    "mpds.a": {
+        "modified": "2018-05-12 21:09:28",
+        "size": "5.7KB",
+        "md5": "b3081a8969aa79460ac598d04d6759a1",
+        "sha256": "a583f22553b9c76db82523f836ea7b586545ea9b1dc0c78ddb8d95ea648e724d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'mpds.a'",
+            "mpdssystem.o"
+        ],
+        "Content-Length": [
+            "125",
+            "5584"
+        ],
+        "Last-Modified": [
+            "2007-12-10T10:02:22Z",
+            "2007-12-10T10:02:22Z"
+        ],
+        "Last-Save-Date": [
+            "2007-12-10T10:02:22Z",
+            "2007-12-10T10:02:22Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/mpdssystem.o"
+        ],
+        "date": [
+            "2007-12-10T10:02:22Z",
+            "2007-12-10T10:02:22Z"
+        ],
+        "dcterms:modified": [
+            "2007-12-10T10:02:22Z",
+            "2007-12-10T10:02:22Z"
+        ],
+        "meta:save-date": [
+            "2007-12-10T10:02:22Z",
+            "2007-12-10T10:02:22Z"
+        ],
+        "modified": [
+            "2007-12-10T10:02:22Z",
+            "2007-12-10T10:02:22Z"
+        ],
+        "embeddedRelationshipId": "mpdssystem.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

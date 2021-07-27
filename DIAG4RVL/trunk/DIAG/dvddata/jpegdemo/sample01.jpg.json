@@ -1,0 +1,38 @@
+{
+    "sample01.jpg": {
+        "modified": "2018-05-12 21:08:22",
+        "size": "34.04KB",
+        "md5": "41ee9efc2c617172908f5c04435dd31a",
+        "sha256": "ea245dd13466fa8c91c00223bf31539ad7fb43ca702e2a19156be41c6aaf7508"
+    },
+    "Metadata": {
+        "Component 1": "Y component: Quantization table 0, Sampling factors 2 horiz/1 vert",
+        "Component 2": "Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+        "Component 3": "Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert",
+        "Compression Type": "Baseline",
+        "Content-Type": "image/jpeg",
+        "Data Precision": "8 bits",
+        "File Modified Date": "Tue. Jul. 27 06:42:49 -07:00 2021",
+        "File Name": "apache-tika-11152375642546567114.tmp",
+        "File Size": "34856 bytes",
+        "Image Height": "480 pixels",
+        "Image Width": "640 pixels",
+        "Number of Components": "3",
+        "Number of Tables": "4 Huffman tables",
+        "Resolution Units": "none",
+        "Thumbnail Height Pixels": "0",
+        "Thumbnail Width Pixels": "0",
+        "X Resolution": "1 dot",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.jpeg.JpegParser"
+        ],
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "3",
+        "Y Resolution": "1 dot",
+        "resourceName": "b'sample01.jpg'",
+        "tiff:BitsPerSample": "8",
+        "tiff:ImageLength": "480",
+        "tiff:ImageWidth": "640"
+    }
+}

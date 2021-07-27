@@ -1,0 +1,114 @@
+{
+    "NDEV-Firmware-nossl-061020_1649.zip": {
+        "modified": "2018-05-12 20:53:32",
+        "size": "2287.44KB",
+        "md5": "d4c547e0d2ef7ffab1aec96096388b39",
+        "sha256": "4ccaec30b8462a138f9f2d835739b02e9778bb21d9e097cb301a4ee3024bb955"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/octet-stream",
+            "text/plain; charset=ISO-8859-1",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ],
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "5",
+            "1",
+            "1",
+            "0",
+            "1"
+        ],
+        "resourceName": [
+            "b'NDEV-Firmware-nossl-061020_1649.zip'",
+            "NDEV-Firmware-nossl/RVL/bin/tools/firmware.128.8.3.0.cobra.nossl.elf",
+            "NDEV-Firmware-nossl/RVL/boot/apploader.8.3.0.img",
+            "NDEV-Firmware-nossl/RVL/boot/apploader.8.ddf",
+            "NDEV-Firmware-nossl/X86/bin/rvl.no.8.bin"
+        ],
+        "Content-Length": [
+            "2464512",
+            "207580",
+            "66",
+            "8388608"
+        ],
+        "Last-Modified": [
+            "2006-10-20T08:34:13Z",
+            "2006-10-20T08:28:21Z",
+            "2006-10-20T08:28:21Z",
+            "2006-10-20T08:28:23Z"
+        ],
+        "Last-Save-Date": [
+            "2006-10-20T08:34:13Z",
+            "2006-10-20T08:28:21Z",
+            "2006-10-20T08:28:21Z",
+            "2006-10-20T08:28:23Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/firmware.128.8.3.0.cobra.nossl.elf",
+            "/apploader.8.3.0.img",
+            "/apploader.8.ddf",
+            "/rvl.no.8.bin"
+        ],
+        "date": [
+            "2006-10-20T08:34:13Z",
+            "2006-10-20T08:28:21Z",
+            "2006-10-20T08:28:21Z",
+            "2006-10-20T08:28:23Z"
+        ],
+        "dcterms:modified": [
+            "2006-10-20T08:34:13Z",
+            "2006-10-20T08:28:21Z",
+            "2006-10-20T08:28:21Z",
+            "2006-10-20T08:28:23Z"
+        ],
+        "embeddedRelationshipId": [
+            "NDEV-Firmware-nossl/RVL/bin/tools/firmware.128.8.3.0.cobra.nossl.elf",
+            "NDEV-Firmware-nossl/RVL/boot/apploader.8.3.0.img",
+            "NDEV-Firmware-nossl/RVL/boot/apploader.8.ddf",
+            "NDEV-Firmware-nossl/X86/bin/rvl.no.8.bin"
+        ],
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC",
+        "meta:save-date": [
+            "2006-10-20T08:34:13Z",
+            "2006-10-20T08:28:21Z",
+            "2006-10-20T08:28:21Z",
+            "2006-10-20T08:28:23Z"
+        ],
+        "modified": [
+            "2006-10-20T08:34:13Z",
+            "2006-10-20T08:28:21Z",
+            "2006-10-20T08:28:21Z",
+            "2006-10-20T08:28:23Z"
+        ],
+        "Content-Encoding": "ISO-8859-1"
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "ncd.a": {
+        "modified": "2018-05-12 20:52:48",
+        "size": "14.94KB",
+        "md5": "8598bb032640a1fdb7045d5259d2acec",
+        "sha256": "33dcebb7cff016f545563e43569108595901b1a37eb0c7643cb61f48409c049f"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "3",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'ncd.a'",
+            "ncdsystem.o",
+            "ncdreport.o",
+            "ncdsleep.o"
+        ],
+        "Content-Length": [
+            "502",
+            "12528",
+            "400",
+            "1616"
+        ],
+        "Last-Modified": [
+            "2006-11-11T18:07:55Z",
+            "2006-11-11T18:07:54Z",
+            "2006-11-11T18:07:54Z",
+            "2006-11-11T18:07:55Z"
+        ],
+        "Last-Save-Date": [
+            "2006-11-11T18:07:55Z",
+            "2006-11-11T18:07:54Z",
+            "2006-11-11T18:07:54Z",
+            "2006-11-11T18:07:55Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/ncdsystem.o",
+            "/ncdreport.o",
+            "/ncdsleep.o"
+        ],
+        "date": [
+            "2006-11-11T18:07:55Z",
+            "2006-11-11T18:07:54Z",
+            "2006-11-11T18:07:54Z",
+            "2006-11-11T18:07:55Z"
+        ],
+        "dcterms:modified": [
+            "2006-11-11T18:07:55Z",
+            "2006-11-11T18:07:54Z",
+            "2006-11-11T18:07:54Z",
+            "2006-11-11T18:07:55Z"
+        ],
+        "meta:save-date": [
+            "2006-11-11T18:07:55Z",
+            "2006-11-11T18:07:54Z",
+            "2006-11-11T18:07:54Z",
+            "2006-11-11T18:07:55Z"
+        ],
+        "modified": [
+            "2006-11-11T18:07:55Z",
+            "2006-11-11T18:07:54Z",
+            "2006-11-11T18:07:54Z",
+            "2006-11-11T18:07:55Z"
+        ],
+        "embeddedRelationshipId": [
+            "ncdsystem.o",
+            "ncdreport.o",
+            "ncdsleep.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

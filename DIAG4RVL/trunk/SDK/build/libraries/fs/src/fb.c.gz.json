@@ -1,0 +1,40 @@
+{
+    "fb.c.gz": {
+        "modified": "2018-05-12 20:50:46",
+        "size": "940.3KB",
+        "md5": "c1bdea5819a06502b92dff5d45746874",
+        "sha256": "9b8020a61473961bbf456aacb64097ed263b3f0c1fe241811ac6f4ea76c50104"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/gzip",
+            "text/x-csrc; charset=ISO-8859-1"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.CompressorParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.csv.TextAndCSVParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "22",
+            "20"
+        ],
+        "resourceName": [
+            "b'fb.c.gz'",
+            "b'fb.c.gz'"
+        ],
+        "Content-Encoding": "ISO-8859-1",
+        "X-TIKA:embedded_resource_path": "/b'fb.c.gz'"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "gen_a-z.sh": {
+        "modified": "2018-05-12 20:54:40",
+        "size": "7.97KB",
+        "md5": "03c43ac7b1abc407274228ad5fa1eb13",
+        "sha256": "63b9a4b50942b908915dd391281131f85013e475aedfeee90e943a816f88ce9a"
+    },
+    "Metadata": {
+        "Content-Encoding": "Shift_JIS",
+        "Content-Type": "text/html; charset=Shift_JIS",
+        "Content-Type-Hint": "text/html; charset=Shift_JIS",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.html.HtmlParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": "0",
+        "X-TIKA:parse_time_millis": "2",
+        "dc:title": "informations.\n#\nLIST=`cat $TMPFILE2`\n    for ht in $LIST; do\n        awk '// \\\n             { gsub(//, \"\"); print }' $ht;\n        echo $ht;\n        echo\n    done > $TMPFILE1\n\n#-----------------------------------------------------------------------------\necho \"  Sorting all entries ...\"\n\n#\n# Rewrite field/record separator so that we can apply sort command.\n#\nawk 'BEGIN { FS=\"\\n\"; RS=\"\"; OFS=\":\"; ORS=\"\\n\" } \\\n           { print $1, $2 }' \\\n    $TMPFILE1 > $TMPFILE0\n\n#\n# Sort all lines and make anchor\n#\n\n/bin/sort -f -t : $TMPFILE0 | \\\n    awk -F : '{ gsub(\" \", \"%20\", $2); \\\n                gsub(\" \", \"\", $1); \\\n                gsub(\"&\", \"\", $2); \\\n                gsub(\"&\", \"\", $1); \\\n                print \"",
+        "resourceName": "b'gen_a-z.sh'",
+        "title": "informations.\n#\nLIST=`cat $TMPFILE2`\n    for ht in $LIST; do\n        awk '// \\\n             { gsub(//, \"\"); print }' $ht;\n        echo $ht;\n        echo\n    done > $TMPFILE1\n\n#-----------------------------------------------------------------------------\necho \"  Sorting all entries ...\"\n\n#\n# Rewrite field/record separator so that we can apply sort command.\n#\nawk 'BEGIN { FS=\"\\n\"; RS=\"\"; OFS=\":\"; ORS=\"\\n\" } \\\n           { print $1, $2 }' \\\n    $TMPFILE1 > $TMPFILE0\n\n#\n# Sort all lines and make anchor\n#\n\n/bin/sort -f -t : $TMPFILE0 | \\\n    awk -F : '{ gsub(\" \", \"%20\", $2); \\\n                gsub(\" \", \"\", $1); \\\n                gsub(\"&\", \"\", $2); \\\n                gsub(\"&\", \"\", $1); \\\n                print \""
+    }
+}

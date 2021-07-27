@@ -1,0 +1,75 @@
+{
+    "mpdsD.a": {
+        "modified": "2018-05-12 21:09:28",
+        "size": "45.36KB",
+        "md5": "aec99330a5441d743ecd9bfa2f82c7d9",
+        "sha256": "e0665f77a3a256fd55fb463b61ad5acdd0a65ce681bd2cd194d433d600acb5fb"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "2",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'mpdsD.a'",
+            "mpdssystem.o"
+        ],
+        "Content-Length": [
+            "1448",
+            "44872"
+        ],
+        "Last-Modified": [
+            "2007-12-10T09:55:36Z",
+            "2007-12-10T09:55:35Z"
+        ],
+        "Last-Save-Date": [
+            "2007-12-10T09:55:36Z",
+            "2007-12-10T09:55:35Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/mpdssystem.o"
+        ],
+        "date": [
+            "2007-12-10T09:55:36Z",
+            "2007-12-10T09:55:35Z"
+        ],
+        "dcterms:modified": [
+            "2007-12-10T09:55:36Z",
+            "2007-12-10T09:55:35Z"
+        ],
+        "meta:save-date": [
+            "2007-12-10T09:55:36Z",
+            "2007-12-10T09:55:35Z"
+        ],
+        "modified": [
+            "2007-12-10T09:55:36Z",
+            "2007-12-10T09:55:35Z"
+        ],
+        "embeddedRelationshipId": "mpdssystem.o",
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC"
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "usbmicD.a": {
+        "modified": "2018-05-12 20:47:16",
+        "size": "154.35KB",
+        "md5": "ccbff58bcb94b618a39e27f68bd581b5",
+        "sha256": "8f969c6718be3061438704ee97c88f943ac47cebefe6eaa58c4c672b757217a0"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/x-archive",
+            "application/octet-stream",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object",
+            "application/x-object"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            "org.apache.tika.parser.EmptyParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "11",
+            "2",
+            "2",
+            "2",
+            "1",
+            "1",
+            "1",
+            "0"
+        ],
+        "resourceName": [
+            "b'usbmicD.a'",
+            "usbmic.o",
+            "mic.o",
+            "ringbuffer.o",
+            "usbrequest.o",
+            "dpc.o",
+            "usbhelpers.o"
+        ],
+        "Content-Length": [
+            "11061",
+            "69624",
+            "30384",
+            "15016",
+            "15408",
+            "6128",
+            "10008"
+        ],
+        "Last-Modified": [
+            "2007-05-30T15:59:44Z",
+            "2007-05-30T15:59:43Z",
+            "2007-05-30T15:59:43Z",
+            "2007-05-30T15:59:44Z",
+            "2007-05-30T15:59:44Z",
+            "2007-05-25T17:58:55Z",
+            "2007-05-25T17:58:55Z"
+        ],
+        "Last-Save-Date": [
+            "2007-05-30T15:59:44Z",
+            "2007-05-30T15:59:43Z",
+            "2007-05-30T15:59:43Z",
+            "2007-05-30T15:59:44Z",
+            "2007-05-30T15:59:44Z",
+            "2007-05-25T17:58:55Z",
+            "2007-05-25T17:58:55Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/embedded-1",
+            "/usbmic.o",
+            "/mic.o",
+            "/ringbuffer.o",
+            "/usbrequest.o",
+            "/dpc.o",
+            "/usbhelpers.o"
+        ],
+        "date": [
+            "2007-05-30T15:59:44Z",
+            "2007-05-30T15:59:43Z",
+            "2007-05-30T15:59:43Z",
+            "2007-05-30T15:59:44Z",
+            "2007-05-30T15:59:44Z",
+            "2007-05-25T17:58:55Z",
+            "2007-05-25T17:58:55Z"
+        ],
+        "dcterms:modified": [
+            "2007-05-30T15:59:44Z",
+            "2007-05-30T15:59:43Z",
+            "2007-05-30T15:59:43Z",
+            "2007-05-30T15:59:44Z",
+            "2007-05-30T15:59:44Z",
+            "2007-05-25T17:58:55Z",
+            "2007-05-25T17:58:55Z"
+        ],
+        "meta:save-date": [
+            "2007-05-30T15:59:44Z",
+            "2007-05-30T15:59:43Z",
+            "2007-05-30T15:59:43Z",
+            "2007-05-30T15:59:44Z",
+            "2007-05-30T15:59:44Z",
+            "2007-05-25T17:58:55Z",
+            "2007-05-25T17:58:55Z"
+        ],
+        "modified": [
+            "2007-05-30T15:59:44Z",
+            "2007-05-30T15:59:43Z",
+            "2007-05-30T15:59:43Z",
+            "2007-05-30T15:59:44Z",
+            "2007-05-30T15:59:44Z",
+            "2007-05-25T17:58:55Z",
+            "2007-05-25T17:58:55Z"
+        ],
+        "embeddedRelationshipId": [
+            "usbmic.o",
+            "mic.o",
+            "ringbuffer.o",
+            "usbrequest.o",
+            "dpc.o",
+            "usbhelpers.o"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32",
+            "32",
+            "32",
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC",
+            "PPC"
+        ]
+    }
+}

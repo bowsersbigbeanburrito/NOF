@@ -1,0 +1,217 @@
+{
+    "SwitchingApplication_jp.doc": {
+        "modified": "2018-05-12 20:45:38",
+        "size": "191.0KB",
+        "md5": "b38522de87dc033b992b943df02986d9",
+        "sha256": "b5ce29196ff7c56c7070043c21c65bbc5f70917dd2936ab58ac745522b7435a2"
+    },
+    "Metadata": {
+        "Application-Name": "Microsoft Office Word",
+        "Author": [
+            "大泉敏貴",
+            "ohizumi",
+            "ohizumi"
+        ],
+        "Character Count": "2354",
+        "Company": [
+            "",
+            "",
+            ""
+        ],
+        "Content-Type": [
+            "application/msword",
+            "image/emf",
+            "image/emf",
+            "application/vnd.visio",
+            "application/vnd.visio"
+        ],
+        "Creation-Date": "2007-02-13T00:21:00Z",
+        "Edit-Time": "212400000000",
+        "Keywords": [
+            "",
+            "",
+            ""
+        ],
+        "Last-Author": "大泉敏貴",
+        "Last-Modified": "2007-02-16T00:46:00Z",
+        "Last-Save-Date": "2007-02-16T00:46:00Z",
+        "Page-Count": "11",
+        "Revision-Number": "20",
+        "Template": [
+            "Normal.dot",
+            "",
+            ""
+        ],
+        "Word-Count": "412",
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.microsoft.OfficeParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.EMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.EMFParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.microsoft.OfficeParser"
+            ]
+        ],
+        "X-TIKA:content_handler": [
+            "ToTextContentHandler",
+            "ToTextContentHandler",
+            "ToTextContentHandler"
+        ],
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "13",
+            "1",
+            "1",
+            "1",
+            "2"
+        ],
+        "cp:revision": "20",
+        "cp:subject": [
+            "",
+            "",
+            ""
+        ],
+        "creator": [
+            "大泉敏貴",
+            "ohizumi",
+            "ohizumi"
+        ],
+        "date": "2007-02-16T00:46:00Z",
+        "dc:creator": [
+            "大泉敏貴",
+            "ohizumi",
+            "ohizumi"
+        ],
+        "dc:subject": [
+            "",
+            "",
+            ""
+        ],
+        "dc:title": [
+            "ディスクアプリからのチャンネルアプリのインストール機能",
+            "",
+            ""
+        ],
+        "dcterms:created": "2007-02-13T00:21:00Z",
+        "dcterms:modified": "2007-02-16T00:46:00Z",
+        "extended-properties:Application": "Microsoft Office Word",
+        "extended-properties:Company": [
+            "",
+            "",
+            ""
+        ],
+        "extended-properties:Template": [
+            "Normal.dot",
+            "",
+            ""
+        ],
+        "meta:author": [
+            "大泉敏貴",
+            "ohizumi",
+            "ohizumi"
+        ],
+        "meta:character-count": "2354",
+        "meta:creation-date": "2007-02-13T00:21:00Z",
+        "meta:keyword": [
+            "",
+            "",
+            ""
+        ],
+        "meta:last-author": "大泉敏貴",
+        "meta:page-count": "11",
+        "meta:save-date": "2007-02-16T00:46:00Z",
+        "meta:word-count": "412",
+        "modified": "2007-02-16T00:46:00Z",
+        "resourceName": [
+            "b'SwitchingApplication_jp.doc'",
+            "image1.emf",
+            "image2.emf",
+            "_1232968954.vsd",
+            "_1232968983.vsd"
+        ],
+        "subject": [
+            "",
+            "",
+            ""
+        ],
+        "title": [
+            "ディスクアプリからのチャンネルアプリのインストール機能",
+            "",
+            ""
+        ],
+        "xmpTPg:NPages": "11",
+        "X-TIKA:embedded_resource_path": [
+            "/image1.emf",
+            "/image2.emf",
+            "/_1232968954.vsd",
+            "/_1232968983.vsd"
+        ],
+        "tika.mime.file": [
+            "image1.emf",
+            "image2.emf"
+        ],
+        "Category": [
+            "",
+            ""
+        ],
+        "Comments": [
+            "",
+            ""
+        ],
+        "Manager": [
+            "",
+            ""
+        ],
+        "X-TIKA:EXCEPTION:embedded_exception": [
+            "org.apache.tika.exception.TikaException: Unexpected RuntimeException from org.apache.tika.parser.microsoft.OfficeParser@2a8557fc\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:282)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.ParserDecorator.parse(ParserDecorator.java:188)\n\tat org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator.parse(RecursiveParserWrapper.java:387)\n\tat org.apache.tika.parser.DelegatingParser.parse(DelegatingParser.java:72)\n\tat org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor.parseEmbedded(ParsingEmbeddedDocumentExtractor.java:104)\n\tat org.apache.tika.extractor.EmbeddedDocumentUtil.parseEmbedded(EmbeddedDocumentUtil.java:220)\n\tat org.apache.tika.parser.microsoft.AbstractPOIFSExtractor.handleEmbeddedOfficeDoc(AbstractPOIFSExtractor.java:261)\n\tat org.apache.tika.parser.microsoft.AbstractPOIFSExtractor.handleEmbeddedOfficeDoc(AbstractPOIFSExtractor.java:146)\n\tat org.apache.tika.parser.microsoft.WordExtractor.parse(WordExtractor.java:229)\n\tat org.apache.tika.parser.microsoft.OfficeParser.parse(OfficeParser.java:175)\n\tat org.apache.tika.parser.microsoft.OfficeParser.parse(OfficeParser.java:131)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.RecursiveParserWrapper.parse(RecursiveParserWrapper.java:233)\n\tat org.apache.tika.server.resource.TikaResource.parse(TikaResource.java:409)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.parseMetadata(RecursiveMetadataResource.java:147)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.getMetadata(RecursiveMetadataResource.java:123)\n\tat jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:567)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)\n\tat org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)\n\tat org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)\n\tat org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPDestination.doService(JettyHTTPDestination.java:247)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPHandler.handle(JettyHTTPHandler.java:79)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1297)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:190)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1212)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)\n\tat org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:221)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.Server.handle(Server.java:500)\n\tat org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383)\n\tat org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:547)\n\tat org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375)\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:270)\n\tat org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)\n\tat org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)\n\tat org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:117)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129)\n\tat org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:388)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938)\n\tat java.base/java.lang.Thread.run(Thread.java:831)\nCaused by: java.lang.ArrayIndexOutOfBoundsException\n",
+            "org.apache.tika.exception.TikaException: Unexpected RuntimeException from org.apache.tika.parser.microsoft.OfficeParser@2a8557fc\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:282)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.ParserDecorator.parse(ParserDecorator.java:188)\n\tat org.apache.tika.parser.RecursiveParserWrapper$EmbeddedParserDecorator.parse(RecursiveParserWrapper.java:387)\n\tat org.apache.tika.parser.DelegatingParser.parse(DelegatingParser.java:72)\n\tat org.apache.tika.extractor.ParsingEmbeddedDocumentExtractor.parseEmbedded(ParsingEmbeddedDocumentExtractor.java:104)\n\tat org.apache.tika.extractor.EmbeddedDocumentUtil.parseEmbedded(EmbeddedDocumentUtil.java:220)\n\tat org.apache.tika.parser.microsoft.AbstractPOIFSExtractor.handleEmbeddedOfficeDoc(AbstractPOIFSExtractor.java:261)\n\tat org.apache.tika.parser.microsoft.AbstractPOIFSExtractor.handleEmbeddedOfficeDoc(AbstractPOIFSExtractor.java:146)\n\tat org.apache.tika.parser.microsoft.WordExtractor.parse(WordExtractor.java:229)\n\tat org.apache.tika.parser.microsoft.OfficeParser.parse(OfficeParser.java:175)\n\tat org.apache.tika.parser.microsoft.OfficeParser.parse(OfficeParser.java:131)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.CompositeParser.parse(CompositeParser.java:280)\n\tat org.apache.tika.parser.AutoDetectParser.parse(AutoDetectParser.java:143)\n\tat org.apache.tika.parser.RecursiveParserWrapper.parse(RecursiveParserWrapper.java:233)\n\tat org.apache.tika.server.resource.TikaResource.parse(TikaResource.java:409)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.parseMetadata(RecursiveMetadataResource.java:147)\n\tat org.apache.tika.server.resource.RecursiveMetadataResource.getMetadata(RecursiveMetadataResource.java:123)\n\tat jdk.internal.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:567)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:179)\n\tat org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:201)\n\tat org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:104)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)\n\tat org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)\n\tat org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)\n\tat org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)\n\tat org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:267)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPDestination.doService(JettyHTTPDestination.java:247)\n\tat org.apache.cxf.transport.http_jetty.JettyHTTPHandler.handle(JettyHTTPHandler.java:79)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:235)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1297)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:190)\n\tat org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1212)\n\tat org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)\n\tat org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:221)\n\tat org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)\n\tat org.eclipse.jetty.server.Server.handle(Server.java:500)\n\tat org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:383)\n\tat org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:547)\n\tat org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:375)\n\tat org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:270)\n\tat org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)\n\tat org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)\n\tat org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:117)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:336)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:313)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:171)\n\tat org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:129)\n\tat org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:388)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:806)\n\tat org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:938)\n\tat java.base/java.lang.Thread.run(Thread.java:831)\nCaused by: java.lang.ArrayIndexOutOfBoundsException\n"
+        ],
+        "X-TIKA:EXCEPTION:embedded_parser": [
+            "org.apache.tika.parser.AutoDetectParser",
+            "org.apache.tika.parser.AutoDetectParser"
+        ],
+        "comment": [
+            "",
+            ""
+        ],
+        "cp:category": [
+            "",
+            ""
+        ],
+        "custom:_VPID_ALTERNATENAMES\u0000\u001a\u0000": "",
+        "embeddedRelationshipId": [
+            "_1232968954",
+            "_1232968983"
+        ],
+        "embeddedStorageClassId": [
+            "{00021A13-0000-0000-C000-000000000046}",
+            "{00021A13-0000-0000-C000-000000000046}"
+        ],
+        "extended-properties:Manager": [
+            "",
+            ""
+        ],
+        "w:comments": [
+            "",
+            ""
+        ],
+        "custom:_VPID_ALTERNATENAMES\u0000\u0000�": ""
+    }
+}

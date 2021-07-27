@@ -1,0 +1,79 @@
+{
+    "RVTR-Firmware-nossl-061020_1649.zip": {
+        "modified": "2018-05-12 20:53:32",
+        "size": "2647.02KB",
+        "md5": "c5cab5bf2a738091db12ef934a9fcfa0",
+        "sha256": "dd38c1ecee64979867a2714674f71d180ab86894ed1ddc7a075f20550808e34d"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/octet-stream"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            "org.apache.tika.parser.EmptyParser"
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "4",
+            "1",
+            "1"
+        ],
+        "resourceName": [
+            "b'RVTR-Firmware-nossl-061020_1649.zip'",
+            "RVTR-Firmware-nossl/RVL/bin/tools/firmware.64.8.3.0.cobra.nossl.elf",
+            "RVTR-Firmware-nossl/X86/bin/dat/0000000100000008.no.bin"
+        ],
+        "Content-Length": [
+            "2464512",
+            "8388608"
+        ],
+        "Last-Modified": [
+            "2006-10-20T08:36:54Z",
+            "2006-10-20T08:28:22Z"
+        ],
+        "Last-Save-Date": [
+            "2006-10-20T08:36:54Z",
+            "2006-10-20T08:28:22Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/firmware.64.8.3.0.cobra.nossl.elf",
+            "/0000000100000008.no.bin"
+        ],
+        "date": [
+            "2006-10-20T08:36:54Z",
+            "2006-10-20T08:28:22Z"
+        ],
+        "dcterms:modified": [
+            "2006-10-20T08:36:54Z",
+            "2006-10-20T08:28:22Z"
+        ],
+        "embeddedRelationshipId": [
+            "RVTR-Firmware-nossl/RVL/bin/tools/firmware.64.8.3.0.cobra.nossl.elf",
+            "RVTR-Firmware-nossl/X86/bin/dat/0000000100000008.no.bin"
+        ],
+        "machine:architectureBits": "32",
+        "machine:endian": "Big",
+        "machine:machineType": "PPC",
+        "meta:save-date": [
+            "2006-10-20T08:36:54Z",
+            "2006-10-20T08:28:22Z"
+        ],
+        "modified": [
+            "2006-10-20T08:36:54Z",
+            "2006-10-20T08:28:22Z"
+        ]
+    }
+}

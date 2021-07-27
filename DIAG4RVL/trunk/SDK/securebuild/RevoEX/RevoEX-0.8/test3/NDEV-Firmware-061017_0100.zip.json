@@ -1,0 +1,91 @@
+{
+    "NDEV-Firmware-061017_0100.zip": {
+        "modified": "2018-05-12 20:53:28",
+        "size": "4035.02KB",
+        "md5": "f6dc78ed1b77fddafde0e86cbf52cabf",
+        "sha256": "bc06db1113f15fc1f13eaef9e33bc48d21468a7ab44df0964b5cfc0539065bb8"
+    },
+    "Metadata": {
+        "Content-Type": [
+            "application/zip",
+            "application/x-executable",
+            "application/x-executable"
+        ],
+        "X-Parsed-By": [
+            "org.apache.tika.parser.DefaultParser",
+            "org.apache.tika.parser.pkg.PackageParser",
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ],
+            [
+                "org.apache.tika.parser.DefaultParser",
+                "org.apache.tika.parser.executable.ExecutableParser"
+            ]
+        ],
+        "X-TIKA:content_handler": "ToTextContentHandler",
+        "X-TIKA:embedded_depth": [
+            "0",
+            "1",
+            "1"
+        ],
+        "X-TIKA:parse_time_millis": [
+            "8",
+            "1",
+            "3"
+        ],
+        "resourceName": [
+            "b'NDEV-Firmware-061017_0100.zip'",
+            "NDEV-Firmware-061017_0100/firmware.128.5.1.0.cobraD.elf",
+            "NDEV-Firmware-061017_0100/firmware.128.8.2.4.cobraD.elf"
+        ],
+        "Content-Length": [
+            "2464512",
+            "2464512"
+        ],
+        "Last-Modified": [
+            "2006-10-16T16:48:12Z",
+            "2006-10-16T16:48:16Z"
+        ],
+        "Last-Save-Date": [
+            "2006-10-16T16:48:12Z",
+            "2006-10-16T16:48:16Z"
+        ],
+        "X-TIKA:embedded_resource_path": [
+            "/firmware.128.5.1.0.cobraD.elf",
+            "/firmware.128.8.2.4.cobraD.elf"
+        ],
+        "date": [
+            "2006-10-16T16:48:12Z",
+            "2006-10-16T16:48:16Z"
+        ],
+        "dcterms:modified": [
+            "2006-10-16T16:48:12Z",
+            "2006-10-16T16:48:16Z"
+        ],
+        "embeddedRelationshipId": [
+            "NDEV-Firmware-061017_0100/firmware.128.5.1.0.cobraD.elf",
+            "NDEV-Firmware-061017_0100/firmware.128.8.2.4.cobraD.elf"
+        ],
+        "machine:architectureBits": [
+            "32",
+            "32"
+        ],
+        "machine:endian": [
+            "Big",
+            "Big"
+        ],
+        "machine:machineType": [
+            "PPC",
+            "PPC"
+        ],
+        "meta:save-date": [
+            "2006-10-16T16:48:12Z",
+            "2006-10-16T16:48:16Z"
+        ],
+        "modified": [
+            "2006-10-16T16:48:12Z",
+            "2006-10-16T16:48:16Z"
+        ]
+    }
+}
